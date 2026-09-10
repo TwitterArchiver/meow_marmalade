@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2064310257917313426",
+    "created_at": "2026-06-09T16:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064385892505235810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927386080252448768",
+          "start": 0,
+          "username": "NeroEvil2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064385892505235810",
+    "in_reply_to_user_id": "927386080252448768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064383570475626884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeroEvil2333 残念，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2064310257917313426",
+        "created_at": "2026-06-09T16:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064385892505235810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927386080252448768",
+              "start": 0,
+              "username": "NeroEvil2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064385892505235810",
+        "in_reply_to_user_id": "927386080252448768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064383570475626884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeroEvil2333 残念，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927386080252448768",
+        "conversation_id": "2064310257917313426",
+        "created_at": "2026-06-09T16:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064383570475626884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064383570475626884",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064373308309803157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 有点小了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38585,
+          "following_count": 99,
+          "like_count": 26666,
+          "listed_count": 149,
+          "media_count": 160,
+          "tweet_count": 4556
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-06T04:04:06.000Z",
+        "description": "一个拍图的道具佬。\n我也想要天降系一起玩。",
+        "id": "927386080252448768",
+        "location": "to the moon",
+        "name": "NeroEvil2333（等待天降系版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848719571106385920/x94zVlUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 721,
+          "like_count": 5623,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 985
+        },
+        "username": "NeroEvil2333",
+        "verified": false
+      }
+    ]
+  }
+}

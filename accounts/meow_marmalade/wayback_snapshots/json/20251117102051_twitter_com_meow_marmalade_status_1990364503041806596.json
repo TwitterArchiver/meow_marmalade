@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1990348795302015407",
+    "created_at": "2025-11-17T10:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990364503041806596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3282290773",
+          "start": 0,
+          "username": "KomuroTakashi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990364503041806596",
+    "in_reply_to_user_id": "3282290773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990359880939843618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomuroTakashi11 好暖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "16_1990359865295073280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G58twIobcAAqM5d.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G58twIobcAAqM5d.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1990348795302015407",
+        "created_at": "2025-11-17T10:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990364503041806596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3282290773",
+              "start": 0,
+              "username": "KomuroTakashi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990364503041806596",
+        "in_reply_to_user_id": "3282290773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990359880939843618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomuroTakashi11 好暖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1990359865295073280"
+          ]
+        },
+        "author_id": "3282290773",
+        "conversation_id": "1990348795302015407",
+        "created_at": "2025-11-17T10:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990359880939843618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OKcIzdaWn",
+              "end": 49,
+              "expanded_url": "https://x.com/KomuroTakashi11/status/1990359880939843618/photo/1",
+              "media_key": "16_1990359865295073280",
+              "start": 26,
+              "url": "https://t.co/9OKcIzdaWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990359880939843618",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990348795302015407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 該給你抱抱跟溫暖了 https://t.co/9OKcIzdaWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27478,
+          "following_count": 97,
+          "like_count": 18249,
+          "listed_count": 109,
+          "media_count": 202,
+          "tweet_count": 2823
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-17T08:48:29.000Z",
+        "description": "Vtuberを見るのが好きです\n私は音楽を聴くこともとても好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/KomuroTakashi1…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/KomuroTakashi11?edit=true",
+                "start": 0,
+                "url": "https://t.co/kNls3l4oL6"
+              }
+            ]
+          }
+        },
+        "id": "3282290773",
+        "location": "新北市, 台灣",
+        "name": "柊凜夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1047309624787914752/5F6eGVGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 673,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/kNls3l4oL6",
+        "username": "KomuroTakashi11",
+        "verified": false
+      }
+    ]
+  }
+}

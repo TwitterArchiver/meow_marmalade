@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2015037766586019978",
+    "created_at": "2026-01-25T13:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015417115885580787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1595382052286713856",
+          "start": 0,
+          "username": "m5Avt2e9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015417115885580787",
+    "in_reply_to_user_id": "1595382052286713856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015408734118576269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m5Avt2e9 是兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2015037766586019978",
+        "created_at": "2026-01-25T13:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015417115885580787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1595382052286713856",
+              "start": 0,
+              "username": "m5Avt2e9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015417115885580787",
+        "in_reply_to_user_id": "1595382052286713856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015408734118576269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m5Avt2e9 是兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595382052286713856",
+        "conversation_id": "2015037766586019978",
+        "created_at": "2026-01-25T12:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015408734118576269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015408734118576269",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015037766586019978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 男的女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35234,
+          "following_count": 95,
+          "like_count": 21233,
+          "listed_count": 142,
+          "media_count": 154,
+          "tweet_count": 3470
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T11:58:08.000Z",
+        "description": "Fuck you Elon Musk",
+        "id": "1595382052286713856",
+        "location": "Shaoxing, China",
+        "name": "m5Avt2e9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958031899353341952/Weh9SlKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 196,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 136
+        },
+        "username": "m5Avt2e9",
+        "verified": false
+      }
+    ]
+  }
+}

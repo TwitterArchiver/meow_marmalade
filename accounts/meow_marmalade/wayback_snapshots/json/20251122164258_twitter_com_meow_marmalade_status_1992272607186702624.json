@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1991811214599717305",
+    "created_at": "2025-11-22T16:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992272607186702624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "775992141952667648",
+          "start": 0,
+          "username": "kannarinre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992272607186702624",
+    "in_reply_to_user_id": "775992141952667648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992271053113221125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kannarinre 在努力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1991811214599717305",
+        "created_at": "2025-11-22T16:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992272607186702624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "775992141952667648",
+              "start": 0,
+              "username": "kannarinre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992272607186702624",
+        "in_reply_to_user_id": "775992141952667648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992271053113221125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kannarinre 在努力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "775992141952667648",
+        "conversation_id": "1991811214599717305",
+        "created_at": "2025-11-22T16:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992271053113221125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992271053113221125",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991811214599717305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 可以不用总是为了回应别人的期待，请试着自己取悦自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27517,
+          "following_count": 95,
+          "like_count": 18442,
+          "listed_count": 114,
+          "media_count": 206,
+          "tweet_count": 2869
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T09:38:38.000Z",
+        "description": "懒癌晚期",
+        "id": "775992141952667648",
+        "name": "佐佐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941863564601352192/wFXImLH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 166,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "kannarinre",
+        "verified": false
+      }
+    ]
+  }
+}

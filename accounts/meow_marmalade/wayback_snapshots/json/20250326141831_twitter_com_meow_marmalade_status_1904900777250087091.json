@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1904387691564941359",
+    "created_at": "2025-03-26T14:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T15:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904900777250087091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876225235957297152",
+          "start": 0,
+          "username": "Ri6KesRI1692808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904900777250087091",
+    "in_reply_to_user_id": "1876225235957297152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904900152684687452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ri6KesRI1692808 你在吃什么😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1904387691564941359",
+        "created_at": "2025-03-26T14:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904900777250087091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876225235957297152",
+              "start": 0,
+              "username": "Ri6KesRI1692808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904900777250087091",
+        "in_reply_to_user_id": "1876225235957297152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904900152684687452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ri6KesRI1692808 你在吃什么😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876225235957297152",
+        "conversation_id": "1904387691564941359",
+        "created_at": "2025-03-26T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904900152684687452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904900152684687452",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904387691564941359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我吃吃吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 95,
+          "like_count": 7242,
+          "listed_count": 11,
+          "media_count": 186,
+          "tweet_count": 715
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T11:12:52.000Z",
+        "description": "",
+        "id": "1876225235957297152",
+        "name": "1 1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880181020848488448/NfgrACoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 150,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 156
+        },
+        "username": "Ri6KesRI1692808",
+        "verified": false
+      }
+    ]
+  }
+}

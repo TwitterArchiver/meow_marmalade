@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956283022673895425"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1956283033817894942",
+    "created_at": "2025-08-15T09:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956283033817894942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IIMlqVBUSl",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1956283033817894942/photo/1",
+          "media_key": "3_1956283022673895425",
+          "start": 12,
+          "url": "https://t.co/IIMlqVBUSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956283033817894942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还敢诋毁主播没有胸吗😤 https://t.co/IIMlqVBUSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1956283022673895425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYdC1aa4AE3h7Q.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956283022673895425"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1956283033817894942",
+        "created_at": "2025-08-15T09:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956283033817894942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIMlqVBUSl",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1956283033817894942/photo/1",
+              "media_key": "3_1956283022673895425",
+              "start": 12,
+              "url": "https://t.co/IIMlqVBUSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956283033817894942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还敢诋毁主播没有胸吗😤 https://t.co/IIMlqVBUSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15278,
+          "following_count": 90,
+          "like_count": 14116,
+          "listed_count": 60,
+          "media_count": 327,
+          "tweet_count": 1905
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

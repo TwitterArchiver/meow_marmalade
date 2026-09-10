@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897626682506592257"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1897626800366530671",
+    "created_at": "2025-03-06T12:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T13:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897626800366530671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/468jwEfOxK",
+          "end": 46,
+          "expanded_url": "https://x.com/meow_marmalade/status/1897626800366530671/photo/1",
+          "media_key": "3_1897626682506592257",
+          "start": 23,
+          "url": "https://t.co/468jwEfOxK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897626800366530671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将反复复读这条千鸟格直到你们和我一样爱上它 https://t.co/468jwEfOxK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3579,
+        "media_key": "3_1897626682506592257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlW5aecbwAEXlDj.jpg",
+        "width": 2386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897626682506592257"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1897626800366530671",
+        "created_at": "2025-03-06T12:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897626800366530671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/468jwEfOxK",
+              "end": 46,
+              "expanded_url": "https://x.com/meow_marmalade/status/1897626800366530671/photo/1",
+              "media_key": "3_1897626682506592257",
+              "start": 23,
+              "url": "https://t.co/468jwEfOxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897626800366530671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将反复复读这条千鸟格直到你们和我一样爱上它 https://t.co/468jwEfOxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 92,
+          "like_count": 6158,
+          "listed_count": 11,
+          "media_count": 177,
+          "tweet_count": 632
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

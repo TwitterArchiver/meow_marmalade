@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1950526486869626911",
+    "created_at": "2025-07-30T13:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950549588320129209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788399520059170816",
+          "start": 0,
+          "username": "sen5366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950549588320129209",
+    "in_reply_to_user_id": "1788399520059170816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950549318676390362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sen5366 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1950526486869626911",
+        "created_at": "2025-07-30T13:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950549588320129209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788399520059170816",
+              "start": 0,
+              "username": "sen5366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950549588320129209",
+        "in_reply_to_user_id": "1788399520059170816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950549318676390362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sen5366 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788399520059170816",
+        "conversation_id": "1950526486869626911",
+        "created_at": "2025-07-30T13:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950549318676390362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950549318676390362",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950526486869626911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 勇敢点，让人与人之间的地位反过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14255,
+          "following_count": 90,
+          "like_count": 13530,
+          "listed_count": 56,
+          "media_count": 308,
+          "tweet_count": 1745
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T02:44:38.000Z",
+        "description": "不知道",
+        "id": "1788399520059170816",
+        "name": "Hautkleidung",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947940891831975936/gaWtIZK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "sen5366",
+        "verified": false
+      }
+    ]
+  }
+}

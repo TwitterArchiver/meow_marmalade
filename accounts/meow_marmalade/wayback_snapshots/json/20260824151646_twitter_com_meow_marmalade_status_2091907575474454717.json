@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2091896601434562657",
+    "created_at": "2026-08-24T15:16:46.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091907575474454717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "956787628463960064",
+          "start": 0,
+          "username": "re_ritsuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091907575474454717",
+    "in_reply_to_user_id": "956787628463960064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091896601434562657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@re_ritsuuu 欧欧欧宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091896589594091520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfo3WmbYAAiFr8.jpg",
+        "width": 1562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2091896601434562657",
+        "created_at": "2026-08-24T15:16:46.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091907575474454717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "956787628463960064",
+              "start": 0,
+              "username": "re_ritsuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091907575474454717",
+        "in_reply_to_user_id": "956787628463960064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091896601434562657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@re_ritsuuu 欧欧欧宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091896589594091520"
+          ]
+        },
+        "author_id": "956787628463960064",
+        "conversation_id": "2091896601434562657",
+        "created_at": "2026-08-24T14:33:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091896601434562657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SGW3g4UXa",
+              "end": 23,
+              "expanded_url": "https://x.com/re_ritsuuu/status/2091896601434562657/photo/1",
+              "media_key": "3_2091896589594091520",
+              "start": 0,
+              "url": "https://t.co/2SGW3g4UXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091896601434562657",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091896589594091520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 900,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2SGW3g4UXa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2091907575474454717",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40651,
+          "following_count": 103,
+          "like_count": 28538,
+          "listed_count": 166,
+          "media_count": 219,
+          "tweet_count": 5182
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-26T07:15:21.000Z",
+        "description": "业余",
+        "id": "956787628463960064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091896601434562657",
+        "name": "律☔",
+        "pinned_tweet_id": "2076755875415670926",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918593782125334530/HBRuRgxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132983,
+          "following_count": 971,
+          "like_count": 7677,
+          "listed_count": 344,
+          "media_count": 528,
+          "tweet_count": 2548
+        },
+        "url": "",
+        "username": "re_ritsuuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1923721671615316424",
+    "created_at": "2025-05-19T01:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T02:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924273407673405720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491940916093157377",
+          "start": 0,
+          "username": "CXKdaLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924273407673405720",
+    "in_reply_to_user_id": "1491940916093157377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924172309272912121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CXKdaLQ 就爱写痛的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1923721671615316424",
+        "created_at": "2025-05-19T01:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T02:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924273407673405720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491940916093157377",
+              "start": 0,
+              "username": "CXKdaLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924273407673405720",
+        "in_reply_to_user_id": "1491940916093157377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924172309272912121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CXKdaLQ 就爱写痛的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491940916093157377",
+        "conversation_id": "1923721671615316424",
+        "created_at": "2025-05-18T18:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T19:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924172309272912121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924172309272912121",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923721671615316424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好帅的文案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5262,
+          "following_count": 99,
+          "like_count": 10285,
+          "listed_count": 15,
+          "media_count": 231,
+          "tweet_count": 1044
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T01:03:44.000Z",
+        "description": "昨日已逝，明日可期，唯有今日挣扎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boochi83096",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boochi83096",
+                "start": 0,
+                "url": "https://t.co/qhVmF3D6kZ"
+              }
+            ]
+          }
+        },
+        "id": "1491940916093157377",
+        "location": "完熟芒果盒子",
+        "name": "波奇不想上班",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833236458012086272/4-lnylcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 153,
+          "like_count": 1913,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/qhVmF3D6kZ",
+        "username": "CXKdaLQ",
+        "verified": false
+      }
+    ]
+  }
+}

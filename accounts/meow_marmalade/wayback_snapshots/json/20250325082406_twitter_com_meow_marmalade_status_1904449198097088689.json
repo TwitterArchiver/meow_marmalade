@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1904073323870601694",
+    "created_at": "2025-03-25T08:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T09:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904449198097088689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821104613040517122",
+          "start": 0,
+          "username": "Karameru00Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904449198097088689",
+    "in_reply_to_user_id": "1821104613040517122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904073323870601694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karameru00Rei 玉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904073312956997632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmyglwUaYAAzfQN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1904073323870601694",
+        "created_at": "2025-03-25T08:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T09:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904449198097088689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821104613040517122",
+              "start": 0,
+              "username": "Karameru00Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904449198097088689",
+        "in_reply_to_user_id": "1821104613040517122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904073323870601694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karameru00Rei 玉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904073312956997632"
+          ]
+        },
+        "author_id": "1821104613040517122",
+        "conversation_id": "1904073323870601694",
+        "created_at": "2025-03-24T07:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T08:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904073323870601694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wnZK7egGb",
+              "end": 23,
+              "expanded_url": "https://x.com/Karameru00Rei/status/1904073323870601694/photo/1",
+              "media_key": "3_1904073312956997632",
+              "start": 0,
+              "url": "https://t.co/5wnZK7egGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904073323870601694",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2328,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5wnZK7egGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 95,
+          "like_count": 7171,
+          "listed_count": 11,
+          "media_count": 185,
+          "tweet_count": 701
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T08:42:40.000Z",
+        "description": "@Iprintemps1\nISFP 振り向き20.53cm\n情緒不安定な塊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Iprintemps1"
+              }
+            ]
+          }
+        },
+        "id": "1821104613040517122",
+        "name": "零度焦糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821246004861267973/5muGVGes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 2,
+          "like_count": 155,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "username": "Karameru00Rei",
+        "verified": false
+      }
+    ]
+  }
+}

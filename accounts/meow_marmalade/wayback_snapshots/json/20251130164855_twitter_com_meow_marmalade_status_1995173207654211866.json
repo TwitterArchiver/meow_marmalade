@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1995165956822520001",
+    "created_at": "2025-11-30T16:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995173207654211866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679448451732635648",
+          "start": 0,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995173207654211866",
+    "in_reply_to_user_id": "1679448451732635648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 54,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995165956822520001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisa0v01210 嚎耄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995165948698058752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BA3AgaYAAXsiW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1995165956822520001",
+        "created_at": "2025-11-30T16:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995173207654211866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995173207654211866",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995165956822520001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 嚎耄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995165948698058752"
+          ]
+        },
+        "author_id": "1679448451732635648",
+        "conversation_id": "1995165956822520001",
+        "created_at": "2025-11-30T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995165956822520001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IrVv2LYOh",
+              "end": 29,
+              "expanded_url": "https://x.com/Nagisa0v01210/status/1995165956822520001/photo/1",
+              "media_key": "3_1995165948698058752",
+              "start": 6,
+              "url": "https://t.co/7IrVv2LYOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995165956822520001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2261,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "豪猫纯纯的 https://t.co/7IrVv2LYOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27429,
+          "following_count": 95,
+          "like_count": 18698,
+          "listed_count": 114,
+          "media_count": 210,
+          "tweet_count": 2944
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "正在逃出地狱",
+        "id": "1679448451732635648",
+        "location": "Super Earth",
+        "name": "nagisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19561,
+          "following_count": 344,
+          "like_count": 7014,
+          "listed_count": 124,
+          "media_count": 179,
+          "tweet_count": 3486
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

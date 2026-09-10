@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1947262405144350795",
+    "created_at": "2025-07-21T19:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T20:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947378420268339653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796081087065812992",
+          "start": 0,
+          "username": "AshleyGibs99166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947378420268339653",
+    "in_reply_to_user_id": "1796081087065812992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947351457185075612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshleyGibs99166 不行了QAQ\n冷气拉满都开始出汗了救命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "16_1947351442878304256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GwZh0d2bEAAQvAC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GwZh0d2bEAAQvAC.mp4"
+          }
+        ],
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1947262405144350795",
+        "created_at": "2025-07-21T19:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T20:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947378420268339653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796081087065812992",
+              "start": 0,
+              "username": "AshleyGibs99166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947378420268339653",
+        "in_reply_to_user_id": "1796081087065812992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947351457185075612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshleyGibs99166 不行了QAQ\n冷气拉满都开始出汗了救命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1947351442878304256"
+          ]
+        },
+        "author_id": "1796081087065812992",
+        "conversation_id": "1947262405144350795",
+        "created_at": "2025-07-21T17:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T18:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947351457185075612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8SO3J2xwN",
+              "end": 59,
+              "expanded_url": "https://x.com/AshleyGibs99166/status/1947351457185075612/photo/1",
+              "media_key": "16_1947351442878304256",
+              "start": 36,
+              "url": "https://t.co/m8SO3J2xwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947351457185075612",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947262405144350795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你咋这么好看！快开空调穿更多好看的裙子 https://t.co/m8SO3J2xwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13365,
+          "following_count": 90,
+          "like_count": 13150,
+          "listed_count": 53,
+          "media_count": 299,
+          "tweet_count": 1656
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:29:56.000Z",
+        "description": "",
+        "id": "1796081087065812992",
+        "name": "寒夕哒哒哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810028258542661633/-HwyaWnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 721,
+          "like_count": 20026,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 5135
+        },
+        "username": "AshleyGibs99166",
+        "verified": false
+      }
+    ]
+  }
+}

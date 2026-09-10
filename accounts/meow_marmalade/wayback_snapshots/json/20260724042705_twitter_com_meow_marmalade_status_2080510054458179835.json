@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2079147758557262055",
+    "created_at": "2026-07-24T04:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080510054458179835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069881915216461825",
+          "start": 0,
+          "username": "Iprintemps1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080510054458179835",
+    "in_reply_to_user_id": "1069881915216461825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080509935457309133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iprintemps1 😊😊😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-24T04:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080510054458179835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069881915216461825",
+              "start": 0,
+              "username": "Iprintemps1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080510054458179835",
+        "in_reply_to_user_id": "1069881915216461825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080509935457309133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iprintemps1 😊😊😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069881915216461825",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-24T04:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080509935457309133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080509935457309133",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080509665834881518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你有点太博爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40333,
+          "following_count": 98,
+          "like_count": 27856,
+          "listed_count": 164,
+          "media_count": 201,
+          "tweet_count": 4995
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T09:11:40.000Z",
+        "description": "冬行性生物，赖床中🛏️💤  已有对象\n真实的我@Karameru00Rei\n憧れの人＠shimengxiaoqiy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Karameru00Rei"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "shimengxiaoqiy1"
+              }
+            ]
+          }
+        },
+        "id": "1069881915216461825",
+        "location": "盗我图的出门被大卡车亲亲❤️",
+        "name": "零度白糖",
+        "pinned_tweet_id": "1989955279593799760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899357343193702400/JhyYTOnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25705,
+          "following_count": 619,
+          "like_count": 13098,
+          "listed_count": 94,
+          "media_count": 188,
+          "tweet_count": 1590
+        },
+        "url": "",
+        "username": "Iprintemps1",
+        "verified": false
+      }
+    ]
+  }
+}

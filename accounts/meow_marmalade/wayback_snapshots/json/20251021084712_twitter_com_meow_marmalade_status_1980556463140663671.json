@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1980543277016445357",
+    "created_at": "2025-10-21T08:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T09:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980556463140663671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662304092851687424",
+          "start": 0,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980556463140663671",
+    "in_reply_to_user_id": "1662304092851687424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980543277016445357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekkkkko422 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15975,
+        "height": 1440,
+        "media_key": "7_1980543227506679808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980543227506679808/pu/img/Sdw56cS4CBc3zEyo.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980543227506679808/pu/vid/avc1/320x426/O_oFch45HMeR-6WS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980543227506679808/pu/vid/avc1/480x640/6h-98iCP5-JY1MDH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980543227506679808/pu/vid/avc1/720x960/RWTAcvPuq4uw9_Pb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980543227506679808/pu/pl/_edWdS7O7mm0kQTy.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1980543277016445357",
+        "created_at": "2025-10-21T08:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980556463140663671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980556463140663671",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980543277016445357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980543227506679808"
+          ]
+        },
+        "author_id": "1662304092851687424",
+        "conversation_id": "1980543277016445357",
+        "created_at": "2025-10-21T07:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980543277016445357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgTIEaCSOm",
+              "end": 60,
+              "expanded_url": "https://x.com/nekkkkko422/status/1980543277016445357/video/1",
+              "media_key": "7_1980543227506679808",
+              "start": 37,
+              "url": "https://t.co/tgTIEaCSOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980543277016445357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一万fo了没什么才艺，表演一个穿🧦吧，原视频下次发，先ooc致歉了🥹🥹🥹 https://t.co/tgTIEaCSOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21537,
+          "following_count": 94,
+          "like_count": 17005,
+          "listed_count": 86,
+          "media_count": 187,
+          "tweet_count": 2445
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "pinned_tweet_id": "1980210490073883080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10328,
+          "following_count": 394,
+          "like_count": 3246,
+          "listed_count": 64,
+          "media_count": 257,
+          "tweet_count": 2868
+        },
+        "username": "nekkkkko422",
+        "verified": true
+      }
+    ]
+  }
+}

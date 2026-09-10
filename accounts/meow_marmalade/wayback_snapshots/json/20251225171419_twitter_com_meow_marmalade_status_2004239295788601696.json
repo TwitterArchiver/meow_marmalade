@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004239212120563712"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2004239295788601696",
+    "created_at": "2025-12-25T17:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T18:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004239295788601696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QPYE9ctT5M",
+          "end": 59,
+          "expanded_url": "https://x.com/meow_marmalade/status/2004239295788601696/photo/1",
+          "media_key": "3_2004239212120563712",
+          "start": 36,
+          "url": "https://t.co/QPYE9ctT5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004239295788601696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "连以前的自己都共情不了\n为什么还要那么努力共情别人\n自私一点 放过自己 https://t.co/QPYE9ctT5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2419,
+        "media_key": "3_2004239212120563712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9B88cta4AA1dwy.jpg",
+        "width": 3225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004239212120563712"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2004239295788601696",
+        "created_at": "2025-12-25T17:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004239295788601696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPYE9ctT5M",
+              "end": 59,
+              "expanded_url": "https://x.com/meow_marmalade/status/2004239295788601696/photo/1",
+              "media_key": "3_2004239212120563712",
+              "start": 36,
+              "url": "https://t.co/QPYE9ctT5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004239295788601696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连以前的自己都共情不了\n为什么还要那么努力共情别人\n自私一点 放过自己 https://t.co/QPYE9ctT5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29264,
+          "following_count": 90,
+          "like_count": 20001,
+          "listed_count": 128,
+          "media_count": 174,
+          "tweet_count": 3183
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

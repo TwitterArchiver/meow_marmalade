@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1894096522696167601",
+    "created_at": "2025-02-25T14:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T15:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894394193696751632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653766049136009216",
+          "start": 0,
+          "username": "CBQ0ovhTvL44075"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894394193696751632",
+    "in_reply_to_user_id": "1653766049136009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894096522696167601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CBQ0ovhTvL44075 飞刻笑传之次次剥😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894096519651102720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkkuv9AbkAAJsHk.jpg",
+        "width": 1553
+      },
+      {
+        "height": 399,
+        "media_key": "3_1894096517826523136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkkuv2NasAAnoW_.jpg",
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1894096522696167601",
+        "created_at": "2025-02-25T14:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T15:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894394193696751632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653766049136009216",
+              "start": 0,
+              "username": "CBQ0ovhTvL44075"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894394193696751632",
+        "in_reply_to_user_id": "1653766049136009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894096522696167601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CBQ0ovhTvL44075 飞刻笑传之次次剥😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894096519651102720",
+            "3_1894096517826523136"
+          ]
+        },
+        "author_id": "1653766049136009216",
+        "conversation_id": "1894096522696167601",
+        "created_at": "2025-02-24T18:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T19:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894096522696167601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6nrUB7jDH",
+              "end": 81,
+              "expanded_url": "https://x.com/CBQ0ovhTvL44075/status/1894096522696167601/photo/1",
+              "media_key": "3_1894096519651102720",
+              "start": 58,
+              "url": "https://t.co/c6nrUB7jDH"
+            },
+            {
+              "display_url": "pic.x.com/c6nrUB7jDH",
+              "end": 81,
+              "expanded_url": "https://x.com/CBQ0ovhTvL44075/status/1894096522696167601/photo/1",
+              "media_key": "3_1894096517826523136",
+              "start": 58,
+              "url": "https://t.co/c6nrUB7jDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894096522696167601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4773,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "新头get✓！，再次警告⚠️！不是傻狗😡不是傻狗😡是我们最最最聪明最最最伟大的飞刻大人！再说一遍，不是傻狗！😡😡😡 https://t.co/c6nrUB7jDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 89,
+          "like_count": 5848,
+          "listed_count": 11,
+          "media_count": 173,
+          "tweet_count": 614
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T14:18:57.000Z",
+        "description": "萌新娃，事牌佬，叫我雨橙就行！希望能被扩和贴贴！",
+        "id": "1653766049136009216",
+        "location": "Super Earth",
+        "name": "稚名雨橙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858042562965286913/R2fjLzzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 637,
+          "like_count": 407,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 88
+        },
+        "username": "CBQ0ovhTvL44075",
+        "verified": false
+      }
+    ]
+  }
+}

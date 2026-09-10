@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988534916330443180",
+    "created_at": "2026-01-02T17:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T18:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007143081649545407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3079474523",
+          "start": 0,
+          "username": "medina_bexaida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007143081649545407",
+    "in_reply_to_user_id": "3079474523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007141787299917930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medina_bexaida 嗯呢 兔兔喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988534916330443180",
+        "created_at": "2026-01-02T17:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007143081649545407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3079474523",
+              "start": 0,
+              "username": "medina_bexaida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007143081649545407",
+        "in_reply_to_user_id": "3079474523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007141787299917930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medina_bexaida 嗯呢 兔兔喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3079474523",
+        "conversation_id": "1988534916330443180",
+        "created_at": "2026-01-02T17:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007141787299917930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007141787299917930",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988534916330443180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 阿米娅诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29763,
+          "following_count": 96,
+          "like_count": 20416,
+          "listed_count": 130,
+          "media_count": 173,
+          "tweet_count": 3256
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-08T15:04:19.000Z",
+        "description": "非单，不为性才聊天，愿意真诚害怕攻击。为什么来这儿？因为我生活中压根就没有人。我不是肥宅，也不是肥猪。我是个男生，长的不丑，我什么都不要，只求能安慰上你一句。",
+        "id": "3079474523",
+        "name": "bexaida medina",
+        "pinned_tweet_id": "2006203376116326557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006201721429929984/5NrSc5Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 218
+        },
+        "username": "medina_bexaida",
+        "verified": false
+      }
+    ]
+  }
+}

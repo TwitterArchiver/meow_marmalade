@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2088636486220705906",
+    "created_at": "2026-08-16T01:30:25.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088800516826657240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236419551291568129",
+          "start": 0,
+          "username": "David__Kidoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088800516826657240",
+    "in_reply_to_user_id": "1236419551291568129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088673749168222675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@David__Kidoo 谢谢喵☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2088636486220705906",
+        "created_at": "2026-08-16T01:30:25.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088800516826657240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236419551291568129",
+              "start": 0,
+              "username": "David__Kidoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088800516826657240",
+        "in_reply_to_user_id": "1236419551291568129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088673749168222675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@David__Kidoo 谢谢喵☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236419551291568129",
+        "conversation_id": "2088636486220705906",
+        "created_at": "2026-08-15T17:06:42.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088673749168222675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088673749168222675",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088636486220705906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好好看！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2088800516826657240",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40575,
+          "following_count": 100,
+          "like_count": 28331,
+          "listed_count": 164,
+          "media_count": 212,
+          "tweet_count": 5125
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T22:32:55.000Z",
+        "description": "喜欢游戏，电影，各种有趣的玩意！希望能和大家好好相处！ fan of games , movies and all funny memes and things! Looking forward to get along well with anyone!",
+        "id": "1236419551291568129",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088730477868032024",
+        "name": "Davidkiddo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522061665629474817/VO2vhVTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 945,
+          "like_count": 77674,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 13740
+        },
+        "url": "",
+        "username": "David__Kidoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

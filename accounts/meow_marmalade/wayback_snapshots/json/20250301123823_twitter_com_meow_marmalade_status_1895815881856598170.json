@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1895460834614427967",
+    "created_at": "2025-03-01T12:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895815881856598170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808604308163940352",
+          "start": 0,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895815881856598170",
+    "in_reply_to_user_id": "1808604308163940352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895460834614427967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cici20120712 这下捅南梁窝了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_1895460831858450432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4HlYCW4AAB74e.jpg",
+        "width": 304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1895460834614427967",
+        "created_at": "2025-03-01T12:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895815881856598170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895815881856598170",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895460834614427967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 这下捅南梁窝了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895460831858450432"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "conversation_id": "1895460834614427967",
+        "created_at": "2025-02-28T13:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895460834614427967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2yLfvCw8E",
+              "end": 37,
+              "expanded_url": "https://x.com/cici20120712/status/1895460834614427967/photo/1",
+              "media_key": "3_1895460831858450432",
+              "start": 14,
+              "url": "https://t.co/m2yLfvCw8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895460834614427967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 203480,
+          "like_count": 1579,
+          "quote_count": 1,
+          "reply_count": 133,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "来点可爱男娘推主推荐谢谢喵 https://t.co/m2yLfvCw8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 91,
+          "like_count": 6006,
+          "listed_count": 11,
+          "media_count": 175,
+          "tweet_count": 624
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "绝赞复活赛中\n门槛68喵",
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "1874320620915392925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50559,
+          "following_count": 65,
+          "like_count": 322,
+          "listed_count": 112,
+          "media_count": 372,
+          "tweet_count": 590
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001365400244883456"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2001365405475180997",
+    "created_at": "2025-12-17T18:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T19:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001365405475180997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q58zxy87oy",
+          "end": 39,
+          "expanded_url": "https://x.com/meow_marmalade/status/2001365405475180997/photo/1",
+          "media_key": "3_2001365400244883456",
+          "start": 16,
+          "url": "https://t.co/Q58zxy87oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001365405475180997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢！\n哈基蜜希望大家都开心😌 https://t.co/Q58zxy87oy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_2001365400244883456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ZHOlNakAAI7aw.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001365400244883456"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2001365405475180997",
+        "created_at": "2025-12-17T18:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T19:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001365405475180997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q58zxy87oy",
+              "end": 39,
+              "expanded_url": "https://x.com/meow_marmalade/status/2001365405475180997/photo/1",
+              "media_key": "3_2001365400244883456",
+              "start": 16,
+              "url": "https://t.co/Q58zxy87oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001365405475180997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢！\n哈基蜜希望大家都开心😌 https://t.co/Q58zxy87oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28225,
+          "following_count": 90,
+          "like_count": 19634,
+          "listed_count": 125,
+          "media_count": 218,
+          "tweet_count": 3140
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824481704045842433",
+        "3_1824481704058458112"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1824481713139093979",
+    "created_at": "2024-08-16T16:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T17:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824481713139093979"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "四爱"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sw7qf2plqo",
+          "end": 40,
+          "expanded_url": "https://twitter.com/meow_marmalade/status/1824481713139093979/photo/1",
+          "media_key": "3_1824481704045842433",
+          "start": 17,
+          "url": "https://t.co/sw7QF2Plqo"
+        },
+        {
+          "display_url": "pic.x.com/sw7qf2plqo",
+          "end": 40,
+          "expanded_url": "https://twitter.com/meow_marmalade/status/1824481713139093979/photo/1",
+          "media_key": "3_1824481704058458112",
+          "start": 17,
+          "url": "https://t.co/sw7QF2Plqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824481713139093979",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黑色还是白色呢🥺\n#四爱 #伪娘 https://t.co/sw7QF2Plqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2781,
+        "media_key": "3_1824481704045842433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVHccXzaEAEAMKV.jpg",
+        "width": 1854
+      },
+      {
+        "height": 2771,
+        "media_key": "3_1824481704058458112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVHccX2akAA0V-M.jpg",
+        "width": 1847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824481704045842433",
+            "3_1824481704058458112"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1824481713139093979",
+        "created_at": "2024-08-16T16:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824481713139093979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "四爱"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sw7qf2plqo",
+              "end": 40,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/1824481713139093979/photo/1",
+              "media_key": "3_1824481704045842433",
+              "start": 17,
+              "url": "https://t.co/sw7QF2Plqo"
+            },
+            {
+              "display_url": "pic.x.com/sw7qf2plqo",
+              "end": 40,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/1824481713139093979/photo/1",
+              "media_key": "3_1824481704058458112",
+              "start": 17,
+              "url": "https://t.co/sw7QF2Plqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824481713139093979",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑色还是白色呢🥺\n#四爱 #伪娘 https://t.co/sw7QF2Plqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 99,
+          "like_count": 1570,
+          "listed_count": 6,
+          "tweet_count": 347
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

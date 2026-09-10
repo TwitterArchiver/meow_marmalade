@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2096184648070238374",
+    "created_at": "2026-09-06T15:26:38.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096621100126056519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096621100126056519",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096615833443430869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayn_kitkia 啊...太贵了太闷了还真没考虑过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2096184648070238374",
+        "created_at": "2026-09-06T15:26:38.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096621100126056519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096621100126056519",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096615833443430869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayn_kitkia 啊...太贵了太闷了还真没考虑过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049186369361289216",
+        "conversation_id": "2096184648070238374",
+        "created_at": "2026-09-06T15:05:42.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096615833443430869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096615833443430869",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096184648070238374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老婆啥时候穿胶啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2096621100126056519",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41134,
+          "following_count": 106,
+          "like_count": 28881,
+          "listed_count": 164,
+          "media_count": 223,
+          "tweet_count": 5280
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "オス♂//aya避難所\n光学異性体💎@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "is_identity_verified": false,
+        "location": "Minato-ku, Tokyo",
+        "most_recent_tweet_id": "2096615996094382543",
+        "name": "Arya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049186369361289216/1780581084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475023599116288/vfxebGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 256,
+          "like_count": 7061,
+          "listed_count": 15,
+          "media_count": 95,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "Ayn_kitkia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

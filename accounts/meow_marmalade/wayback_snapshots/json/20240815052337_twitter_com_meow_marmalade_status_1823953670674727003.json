@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1823043441439510608",
+    "created_at": "2024-08-15T05:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T06:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823953670674727003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1811860894143643648",
+          "start": 0,
+          "username": "kk_uic"
+        },
+        {
+          "end": 18,
+          "id": "1782138878381752320",
+          "start": 8,
+          "username": "XuCi27524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823953670674727003",
+    "in_reply_to_user_id": "1811860894143643648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823945611395387722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk_uic @XuCi27524 做那一定是跟亲密的人的呀🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1823043441439510608",
+        "created_at": "2024-08-15T05:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T06:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823953670674727003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1811860894143643648",
+              "start": 0,
+              "username": "kk_uic"
+            },
+            {
+              "end": 18,
+              "id": "1782138878381752320",
+              "start": 8,
+              "username": "XuCi27524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823953670674727003",
+        "in_reply_to_user_id": "1811860894143643648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823945611395387722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk_uic @XuCi27524 做那一定是跟亲密的人的呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811860894143643648",
+        "conversation_id": "1823043441439510608",
+        "created_at": "2024-08-15T04:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T05:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823945611395387722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 26,
+              "id": "1782138878381752320",
+              "start": 16,
+              "username": "XuCi27524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823945611395387722",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823263937158430787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @XuCi27524 别说伪娘了。还有药娘攻，之前本来没有想那么多，结果Ta对我有想法了，我吓得都没敢在ta家留宿🥲就算真要做，这种事还是亲密的人做才好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 99,
+          "like_count": 1534,
+          "listed_count": 6,
+          "tweet_count": 346
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T20:31:29.000Z",
+        "description": "挺自闭一男的。梦想是成为摆脱种种刻板印象，身份桎梏的自由人。特殊性癖是真心相爱（双向的）。希望有人来找我做朋友，毕竟是个孤独自闭，拜托，求求了。🙏",
+        "id": "1811860894143643648",
+        "name": "菠萝吹雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811861219919138817/eSRqjW3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 247,
+          "listed_count": 1,
+          "tweet_count": 108
+        },
+        "username": "kk_uic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T20:06:55.000Z",
+        "description": "170/52 4i白瘦宝宝、男妈妈速速跟我贴贴，1i男滚！！！私信前先关注！带自我介绍➕照片 傻逼别来",
+        "id": "1782138878381752320",
+        "name": "念念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782139025081745409/6G4oBG1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 32,
+          "like_count": 38,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "username": "XuCi27524",
+        "verified": false
+      }
+    ]
+  }
+}

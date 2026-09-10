@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1942562135332250048",
+    "created_at": "2025-07-09T08:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T09:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942860635324440734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1164719335413170177",
+          "start": 0,
+          "username": "Salinoia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942860635324440734",
+    "in_reply_to_user_id": "1164719335413170177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942860027112612343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Salinoia 谢谢你owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1942562135332250048",
+        "created_at": "2025-07-09T08:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942860635324440734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1164719335413170177",
+              "start": 0,
+              "username": "Salinoia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942860635324440734",
+        "in_reply_to_user_id": "1164719335413170177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942860027112612343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Salinoia 谢谢你owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164719335413170177",
+        "conversation_id": "1942562135332250048",
+        "created_at": "2025-07-09T08:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942860027112612343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942860027112612343",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942562135332250048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好有氛围感的文案，主播你好会写qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11825,
+          "following_count": 100,
+          "like_count": 12555,
+          "listed_count": 48,
+          "media_count": 286,
+          "tweet_count": 1531
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T02:01:51.000Z",
+        "description": "不加生菜，少放酱",
+        "id": "1164719335413170177",
+        "location": "Nagasaki-ken, Japan",
+        "name": "御坂祥子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793556937684185088/JP1cFVKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 88,
+          "like_count": 2140,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 103
+        },
+        "username": "Salinoia",
+        "verified": false
+      }
+    ]
+  }
+}

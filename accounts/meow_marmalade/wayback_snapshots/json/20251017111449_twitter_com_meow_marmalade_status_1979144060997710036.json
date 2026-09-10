@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1979134985916559590",
+    "created_at": "2025-10-17T11:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979144060997710036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "764385193348083712",
+          "start": 0,
+          "username": "00IRIYA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979144060997710036",
+    "in_reply_to_user_id": "764385193348083712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979142043667763698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00IRIYA00 会尝试的hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1979134985916559590",
+        "created_at": "2025-10-17T11:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979144060997710036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "764385193348083712",
+              "start": 0,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979144060997710036",
+        "in_reply_to_user_id": "764385193348083712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979142043667763698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00IRIYA00 会尝试的hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764385193348083712",
+        "conversation_id": "1979134985916559590",
+        "created_at": "2025-10-17T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979142043667763698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979142043667763698",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979141795792474313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 太可惜了.這也沒辦法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20924,
+          "following_count": 95,
+          "like_count": 16831,
+          "listed_count": 85,
+          "media_count": 184,
+          "tweet_count": 2390
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T08:56:46.000Z",
+        "description": "",
+        "id": "764385193348083712",
+        "location": "台灣",
+        "name": "魂魄夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870067567177691136/2IMGRKKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 81,
+          "like_count": 143601,
+          "listed_count": 9,
+          "media_count": 694,
+          "tweet_count": 52541
+        },
+        "username": "00IRIYA00",
+        "verified": false
+      }
+    ]
+  }
+}

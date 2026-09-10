@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2048357638380093620",
+    "created_at": "2026-04-26T18:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048469966241104120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236419551291568129",
+          "start": 0,
+          "username": "David__Kidoo"
+        },
+        {
+          "end": 25,
+          "id": "1126756908193308672",
+          "start": 14,
+          "username": "Lingerie_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048469966241104120",
+    "in_reply_to_user_id": "1236419551291568129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048457584517279962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@David__Kidoo @Lingerie_0 我扎，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2048357638380093620",
+        "created_at": "2026-04-26T18:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048469966241104120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236419551291568129",
+              "start": 0,
+              "username": "David__Kidoo"
+            },
+            {
+              "end": 25,
+              "id": "1126756908193308672",
+              "start": 14,
+              "username": "Lingerie_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048469966241104120",
+        "in_reply_to_user_id": "1236419551291568129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048457584517279962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@David__Kidoo @Lingerie_0 我扎，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236419551291568129",
+        "conversation_id": "2048357638380093620",
+        "created_at": "2026-04-26T17:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048457584517279962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 27,
+              "id": "1126756908193308672",
+              "start": 16,
+              "username": "Lingerie_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048457584517279962",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048357638380093620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @Lingerie_0 我不要打针！😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37110,
+          "following_count": 97,
+          "like_count": 25156,
+          "listed_count": 146,
+          "media_count": 185,
+          "tweet_count": 4183
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T22:32:55.000Z",
+        "description": "喜欢游戏，电影，各种有趣的玩意！希望能和大家好好相处！ fan of games , movies and all funny memes and things! Looking forward to get along well with anyone!",
+        "id": "1236419551291568129",
+        "name": "Davidkiddo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522061665629474817/VO2vhVTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 753,
+          "like_count": 61905,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 10466
+        },
+        "username": "David__Kidoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T07:52:35.000Z",
+        "description": "「绫天生丝滑」品牌官方唯一账号 ▫️始于中国的东方性感美学品牌 ▪️ 「为亲密而生，为性感正名」📮商务合作：私信/info@ling-lingerie.com ▫️官方微博：绫天生丝滑-▫️官方渠道：淘宝/天猫搜索「绫天生丝滑 」▫️Website：https://t.co/wYO0XmKZg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Ling-lingerie.com",
+                "end": 148,
+                "expanded_url": "http://Ling-lingerie.com",
+                "start": 125,
+                "url": "https://t.co/wYO0XmKZg4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltssh.tmall.com",
+                "end": 23,
+                "expanded_url": "http://ltssh.tmall.com",
+                "start": 0,
+                "url": "https://t.co/j1mPIR4Zq9"
+              }
+            ]
+          }
+        },
+        "id": "1126756908193308672",
+        "location": "上海, 中华人民共和国",
+        "name": "绫LING官方",
+        "pinned_tweet_id": "1663152841312337922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609527802977751041/aqpajkGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344436,
+          "following_count": 52,
+          "like_count": 208,
+          "listed_count": 860,
+          "media_count": 1001,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/j1mPIR4Zq9",
+        "username": "Lingerie_0",
+        "verified": false
+      }
+    ]
+  }
+}

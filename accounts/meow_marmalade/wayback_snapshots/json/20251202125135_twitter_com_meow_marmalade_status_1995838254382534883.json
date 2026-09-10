@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1995791506876055869",
+    "created_at": "2025-12-02T12:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995838254382534883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682431068475891714",
+          "start": 0,
+          "username": "CascadingPallor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995838254382534883",
+    "in_reply_to_user_id": "1682431068475891714",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995803923249332343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CascadingPallor 😌😌😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1995791506876055869",
+        "created_at": "2025-12-02T12:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995838254382534883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682431068475891714",
+              "start": 0,
+              "username": "CascadingPallor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995838254382534883",
+        "in_reply_to_user_id": "1682431068475891714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995803923249332343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CascadingPallor 😌😌😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682431068475891714",
+        "conversation_id": "1995791506876055869",
+        "created_at": "2025-12-02T10:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995803923249332343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995803923249332343",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995791506876055869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 主人级别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27511,
+          "following_count": 90,
+          "like_count": 18783,
+          "listed_count": 114,
+          "media_count": 197,
+          "tweet_count": 2941
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:43:29.000Z",
+        "description": "rocknroll suicide",
+        "id": "1682431068475891714",
+        "name": "CascadingPallor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870054155784193/60Tn4j2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6889,
+          "following_count": 2136,
+          "like_count": 54271,
+          "listed_count": 32,
+          "media_count": 956,
+          "tweet_count": 7187
+        },
+        "username": "CascadingPallor",
+        "verified": false
+      }
+    ]
+  }
+}

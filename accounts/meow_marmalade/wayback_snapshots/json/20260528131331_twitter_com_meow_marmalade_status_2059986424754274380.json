@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2059938533062918299",
+    "created_at": "2026-05-28T13:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059986424754274380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921085895010381824",
+          "start": 0,
+          "username": "piiq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059986424754274380",
+    "in_reply_to_user_id": "1921085895010381824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059956968903831891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piiq114514 明明是好男孩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2059938533062918299",
+        "created_at": "2026-05-28T13:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059986424754274380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921085895010381824",
+              "start": 0,
+              "username": "piiq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059986424754274380",
+        "in_reply_to_user_id": "1921085895010381824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059956968903831891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piiq114514 明明是好男孩…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921085895010381824",
+        "conversation_id": "2059938533062918299",
+        "created_at": "2026-05-28T11:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059956968903831891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059956968903831891",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059938533062918299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你这娼年。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38095,
+          "following_count": 94,
+          "like_count": 26173,
+          "listed_count": 149,
+          "media_count": 154,
+          "tweet_count": 4403
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T06:12:32.000Z",
+        "description": "",
+        "id": "1921085895010381824",
+        "name": "piiq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921086097150369793/Aogfx8e8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 741,
+          "like_count": 37064,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 6753
+        },
+        "username": "piiq114514",
+        "verified": false
+      }
+    ]
+  }
+}

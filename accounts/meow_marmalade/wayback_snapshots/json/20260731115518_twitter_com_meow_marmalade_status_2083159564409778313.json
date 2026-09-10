@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2083147641068892372",
+    "created_at": "2026-07-31T11:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083159564409778313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767749178401415168",
+          "start": 0,
+          "username": "STILLING340907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083159564409778313",
+    "in_reply_to_user_id": "1767749178401415168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083147641068892372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STILLING340907 梦老师，我切到手了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2083147631652728832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjTu-dbcAAXLhC.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2083147641068892372",
+        "created_at": "2026-07-31T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083159564409778313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767749178401415168",
+              "start": 0,
+              "username": "STILLING340907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083159564409778313",
+        "in_reply_to_user_id": "1767749178401415168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083147641068892372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STILLING340907 梦老师，我切到手了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083147631652728832"
+          ]
+        },
+        "author_id": "1767749178401415168",
+        "conversation_id": "2083147641068892372",
+        "created_at": "2026-07-31T11:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083147641068892372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8A4Q6YD3sm",
+              "end": 70,
+              "expanded_url": "https://x.com/STILLING340907/status/2083147641068892372/photo/1",
+              "media_key": "3_2083147631652728832",
+              "start": 47,
+              "url": "https://t.co/8A4Q6YD3sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083147641068892372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 467,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我真是惯着你了，赶紧去厨房给我做饭，穿上围裙，外套不许穿内衣也不许穿，然后假装切到手喊我过去 https://t.co/8A4Q6YD3sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40468,
+          "following_count": 98,
+          "like_count": 28010,
+          "listed_count": 164,
+          "media_count": 203,
+          "tweet_count": 5036
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T03:07:09.000Z",
+        "description": "",
+        "id": "1767749178401415168",
+        "name": "海绵宝宝南梦芽",
+        "pinned_tweet_id": "2083147641068892372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800004991316594688/atWo2pGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6656,
+          "following_count": 818,
+          "like_count": 7996,
+          "listed_count": 39,
+          "media_count": 183,
+          "tweet_count": 2092
+        },
+        "url": "",
+        "username": "STILLING340907",
+        "verified": false
+      }
+    ]
+  }
+}

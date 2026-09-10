@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1976609423922749614",
+    "created_at": "2025-10-10T12:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976630568315138361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524477605038100481",
+          "start": 0,
+          "username": "AliceIntoAbyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976630568315138361",
+    "in_reply_to_user_id": "1524477605038100481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976622864628601265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceIntoAbyss 芙老师suki suki😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1976609423922749614",
+        "created_at": "2025-10-10T12:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976630568315138361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524477605038100481",
+              "start": 0,
+              "username": "AliceIntoAbyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976630568315138361",
+        "in_reply_to_user_id": "1524477605038100481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976622864628601265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceIntoAbyss 芙老师suki suki😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524477605038100481",
+        "conversation_id": "1976609423922749614",
+        "created_at": "2025-10-10T12:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976622864628601265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976622864628601265",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976609423922749614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20477,
+          "following_count": 94,
+          "like_count": 16535,
+          "listed_count": 82,
+          "media_count": 184,
+          "tweet_count": 2324
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T19:52:52.000Z",
+        "description": "拜赛博菩萨，修电子功德。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42410238",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42410238",
+                "start": 0,
+                "url": "https://t.co/Qzb6ARKnae"
+              }
+            ]
+          }
+        },
+        "id": "1524477605038100481",
+        "location": "喵喵星",
+        "name": "超绝赞摆烂芙（杂食型）",
+        "pinned_tweet_id": "1976628206636843092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710486230344118272/QhdxSPXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51369,
+          "following_count": 2070,
+          "like_count": 42968,
+          "listed_count": 280,
+          "media_count": 607,
+          "tweet_count": 56948
+        },
+        "url": "https://t.co/Qzb6ARKnae",
+        "username": "AliceIntoAbyss",
+        "verified": true
+      }
+    ]
+  }
+}

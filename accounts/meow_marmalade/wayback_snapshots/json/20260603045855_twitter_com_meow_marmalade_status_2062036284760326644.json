@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060936725883769199",
+    "created_at": "2026-06-03T04:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062036284760326644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1924076827125092352",
+          "start": 0,
+          "username": "Est_G_Ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062036284760326644",
+    "in_reply_to_user_id": "1924076827125092352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062027877236048000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Est_G_Ar 笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2062027874815836160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3LbVNaAAA7CXw.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060936725883769199",
+        "created_at": "2026-06-03T04:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062036284760326644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1924076827125092352",
+              "start": 0,
+              "username": "Est_G_Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062036284760326644",
+        "in_reply_to_user_id": "1924076827125092352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062027877236048000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Est_G_Ar 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062027874815836160"
+          ]
+        },
+        "author_id": "1924076827125092352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060936725883769199",
+        "created_at": "2026-06-03T04:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062027877236048000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4x7wTCULMz",
+              "end": 39,
+              "expanded_url": "https://x.com/Est_G_Ar/status/2062027877236048000/photo/1",
+              "media_key": "3_2062027874815836160",
+              "start": 16,
+              "url": "https://t.co/4x7wTCULMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062027877236048000",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060936725883769199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade https://t.co/4x7wTCULMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38127,
+          "following_count": 96,
+          "like_count": 26362,
+          "listed_count": 150,
+          "media_count": 156,
+          "tweet_count": 4456
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T12:17:31.000Z",
+        "description": "",
+        "id": "1924076827125092352",
+        "name": "藍原芽衣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941906932681281536/YrOxp1ID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 209
+        },
+        "username": "Est_G_Ar",
+        "verified": false
+      }
+    ]
+  }
+}

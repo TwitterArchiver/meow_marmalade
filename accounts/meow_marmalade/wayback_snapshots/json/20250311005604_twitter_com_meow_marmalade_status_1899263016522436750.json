@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1897814158609203594",
+    "created_at": "2025-03-11T00:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T01:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899263016522436750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679448451732635648",
+          "start": 0,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899263016522436750",
+    "in_reply_to_user_id": "1679448451732635648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899167160360149430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisa0v01210 可爱好听😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1897814158609203594",
+        "created_at": "2025-03-11T00:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T01:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899263016522436750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899263016522436750",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899167160360149430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 可爱好听😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679448451732635648",
+        "conversation_id": "1897814158609203594",
+        "created_at": "2025-03-10T18:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T19:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899167160360149430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899167160360149430",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897814158609203594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 喜欢我鸭嗓gn吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 94,
+          "like_count": 6401,
+          "listed_count": 11,
+          "media_count": 178,
+          "tweet_count": 651
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "男",
+        "id": "1679448451732635648",
+        "location": "艾卡西亚",
+        "name": "nagisa",
+        "pinned_tweet_id": "1874065520477299095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10334,
+          "following_count": 255,
+          "like_count": 4812,
+          "listed_count": 76,
+          "media_count": 189,
+          "tweet_count": 2605
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

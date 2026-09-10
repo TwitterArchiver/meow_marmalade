@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007778377315618817"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2007778624959815922",
+    "created_at": "2026-01-04T11:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007778624959815922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BD7N2dugaz",
+          "end": 41,
+          "expanded_url": "https://x.com/meow_marmalade/status/2007778624959815922/video/1",
+          "media_key": "13_2007778377315618817",
+          "start": 18,
+          "url": "https://t.co/BD7N2dugaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007778624959815922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近流量怪怪的\n算了...看看打枪 https://t.co/BD7N2dugaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20300,
+        "height": 1080,
+        "media_key": "13_2007778377315618817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007778377315618817/img/WXO9hi_w2rqt6wAa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007778377315618817/vid/avc1/320x320/DQediuLptBusMeIA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007778377315618817/vid/avc1/540x540/vNRXYLiNnmzibtMG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007778377315618817/vid/avc1/720x720/MwChItoX1F9bh2Tp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007778377315618817/pl/X5ZQbd4TyLCmoT0I.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007778377315618817"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2007778624959815922",
+        "created_at": "2026-01-04T11:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007778624959815922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BD7N2dugaz",
+              "end": 41,
+              "expanded_url": "https://x.com/meow_marmalade/status/2007778624959815922/video/1",
+              "media_key": "13_2007778377315618817",
+              "start": 18,
+              "url": "https://t.co/BD7N2dugaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007778624959815922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近流量怪怪的\n算了...看看打枪 https://t.co/BD7N2dugaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29768,
+          "following_count": 96,
+          "like_count": 20485,
+          "listed_count": 130,
+          "media_count": 173,
+          "tweet_count": 3270
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

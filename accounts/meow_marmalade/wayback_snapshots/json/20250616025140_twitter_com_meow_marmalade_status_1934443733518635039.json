@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1933855114915418461",
+    "created_at": "2025-06-16T02:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T03:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934443733518635039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860313176656740353",
+          "start": 0,
+          "username": "azatechart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934443733518635039",
+    "in_reply_to_user_id": "1860313176656740353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934442884381708529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azatechart 谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1933855114915418461",
+        "created_at": "2025-06-16T02:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T03:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934443733518635039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860313176656740353",
+              "start": 0,
+              "username": "azatechart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934443733518635039",
+        "in_reply_to_user_id": "1860313176656740353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934442884381708529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azatechart 谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860313176656740353",
+        "conversation_id": "1933855114915418461",
+        "created_at": "2025-06-16T02:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T03:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934442884381708529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934442884381708529",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933855114915418461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我超爱你的时尚品味！\n\nvery cute!~💞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8725,
+          "following_count": 96,
+          "like_count": 11532,
+          "listed_count": 26,
+          "media_count": 261,
+          "tweet_count": 1280
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T13:23:47.000Z",
+        "description": "男の娘🔞Femboy AI stuff~\n\nFull archive of works (free) on Mega/Civitai: https://t.co/2w90FbVCwt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/azatechart",
+                "end": 91,
+                "expanded_url": "https://linktr.ee/azatechart",
+                "start": 68,
+                "url": "https://t.co/2w90FbVCwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/azatech",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/azatech",
+                "start": 0,
+                "url": "https://t.co/5LqosB0ELe"
+              }
+            ]
+          }
+        },
+        "id": "1860313176656740353",
+        "name": "AzaTech🔞",
+        "pinned_tweet_id": "1926449950273028334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860328254693048320/HvuBye7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 198,
+          "like_count": 7016,
+          "listed_count": 34,
+          "media_count": 59,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/5LqosB0ELe",
+        "username": "azatechart",
+        "verified": false
+      }
+    ]
+  }
+}

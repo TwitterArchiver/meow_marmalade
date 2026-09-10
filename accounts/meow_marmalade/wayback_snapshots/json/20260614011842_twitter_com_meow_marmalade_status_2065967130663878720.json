@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2065766333082702117",
+    "created_at": "2026-06-14T01:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065967130663878720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873332639211655168",
+          "start": 0,
+          "username": "darthchan_eskii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065967130663878720",
+    "in_reply_to_user_id": "1873332639211655168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065872197407928600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darthchan_eskii 🫣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2065766333082702117",
+        "created_at": "2026-06-14T01:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065967130663878720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873332639211655168",
+              "start": 0,
+              "username": "darthchan_eskii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065967130663878720",
+        "in_reply_to_user_id": "1873332639211655168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065872197407928600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darthchan_eskii 🫣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873332639211655168",
+        "conversation_id": "2065766333082702117",
+        "created_at": "2026-06-13T19:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065872197407928600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065872197407928600",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065766333082702117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 剛關注勞斯時：好美的蕾蕾！\n刷到這則貼文時：cos也如此美而且更澀了。。木屐腳太美麗 好喜歡這個風格\n（我將認真忠心跪下給勞斯舔腳🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38727,
+          "following_count": 95,
+          "like_count": 26821,
+          "listed_count": 152,
+          "media_count": 165,
+          "tweet_count": 4606
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T11:38:49.000Z",
+        "description": "寄意寒星荃不察 我以我血薦軒轅\n人生得意須盡歡✨莫使金樽空對月\n世界一番星！二次元神明混血の神秘大小姐\n跨女＆拉子｜女音企/人文亞文化/威權反對主播｜覺醒系女子教主 ⛧ 極左自由主義魔丸藝術家｜りんく詠実情報站\n是大日本帝國(沖繩)的一名公民💙🇺🇸🇹🇼🇺🇦🇽🇰🇮🇱雷祈原達斯です～詭秘擴列合作大歡迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akiyama-mizuki-best-transgirl-ev.er",
+                "end": 23,
+                "expanded_url": "http://akiyama-mizuki-best-transgirl-ev.er",
+                "start": 0,
+                "url": "https://t.co/WmgdqswmcW"
+              }
+            ]
+          }
+        },
+        "id": "1873332639211655168",
+        "location": "陽葉民國風瑛",
+        "name": "雷祈原ダス_Official",
+        "pinned_tweet_id": "2058239244217528383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970254498443456512/zDGSwyml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 444,
+          "like_count": 17900,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3717
+        },
+        "url": "https://t.co/WmgdqswmcW",
+        "username": "darthchan_eskii",
+        "verified": false
+      }
+    ]
+  }
+}

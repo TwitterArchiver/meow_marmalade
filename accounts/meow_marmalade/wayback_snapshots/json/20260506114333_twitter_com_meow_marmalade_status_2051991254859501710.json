@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2051980323576303650",
+    "created_at": "2026-05-06T11:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051991254859501710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1473963793436737541",
+          "start": 0,
+          "username": "kokoAsk2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051991254859501710",
+    "in_reply_to_user_id": "1473963793436737541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051989413673206151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoAsk2077 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2051980323576303650",
+        "created_at": "2026-05-06T11:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051991254859501710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1473963793436737541",
+              "start": 0,
+              "username": "kokoAsk2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051991254859501710",
+        "in_reply_to_user_id": "1473963793436737541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051989413673206151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoAsk2077 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473963793436737541",
+        "conversation_id": "2051980323576303650",
+        "created_at": "2026-05-06T11:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051989413673206151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051989413673206151",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980323576303650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 提醒一下有些地雷女，養豬也是要餵食的別給豬餓死了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37612,
+          "following_count": 98,
+          "like_count": 25650,
+          "listed_count": 148,
+          "media_count": 196,
+          "tweet_count": 4284
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-23T10:29:01.000Z",
+        "description": "ずっど迷子、ずっど孤独、ZTMY。\n\n黛冬優子、浅倉透、斑鳩ルカ、贰元桐子幸国推し\n\n2077.10.23",
+        "id": "1473963793436737541",
+        "location": "Zion  YE7",
+        "name": "GFーココ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506565163264094208/S8aRzIFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 781,
+          "like_count": 12578,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 5276
+        },
+        "username": "kokoAsk2077",
+        "verified": false
+      }
+    ]
+  }
+}

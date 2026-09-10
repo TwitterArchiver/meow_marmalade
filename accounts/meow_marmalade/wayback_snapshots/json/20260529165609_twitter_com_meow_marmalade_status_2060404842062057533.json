@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2059606664526037130",
+    "created_at": "2026-05-29T16:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060404842062057533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799302267301961728",
+          "start": 0,
+          "username": "DrKzero5626"
+        },
+        {
+          "end": 43,
+          "id": "1419329503512301573",
+          "start": 36,
+          "username": "r_snsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060404842062057533",
+    "in_reply_to_user_id": "1799302267301961728",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060385688739008779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrKzero5626 here, Shinoshima Raise @r_snsm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2059606664526037130",
+        "created_at": "2026-05-29T16:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060404842062057533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799302267301961728",
+              "start": 0,
+              "username": "DrKzero5626"
+            },
+            {
+              "end": 43,
+              "id": "1419329503512301573",
+              "start": 36,
+              "username": "r_snsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060404842062057533",
+        "in_reply_to_user_id": "1799302267301961728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385688739008779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrKzero5626 here, Shinoshima Raise @r_snsm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799302267301961728",
+        "conversation_id": "2059606664526037130",
+        "created_at": "2026-05-29T15:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385688739008779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385688739008779",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059677310979387808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade Oh, and may I ask which one, if that's not a problem?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38111,
+          "following_count": 94,
+          "like_count": 26197,
+          "listed_count": 150,
+          "media_count": 155,
+          "tweet_count": 4416
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T04:47:59.000Z",
+        "description": "🔞",
+        "id": "1799302267301961728",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930286007540199424/BsvC58Ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1182,
+          "like_count": 2960,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "DrKzero5626",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T16:11:52.000Z",
+        "description": "He/Him　\nProduced by:池咲ミサ＠ikezakimisa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "ikezakimisa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dlsite.com/bl/work/=/prod…",
+                "end": 23,
+                "expanded_url": "https://www.dlsite.com/bl/work/=/product_id/RJ01161639.html",
+                "start": 0,
+                "url": "https://t.co/oh98WtrxvN"
+              }
+            ]
+          }
+        },
+        "id": "1419329503512301573",
+        "location": "娼年都市伝説",
+        "name": "肆ノ島 來世 Shinoshima Raise",
+        "pinned_tweet_id": "1548230020874719235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548228632371671040/ksKxWZ9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68167,
+          "following_count": 74,
+          "like_count": 2059,
+          "listed_count": 283,
+          "media_count": 205,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/oh98WtrxvN",
+        "username": "r_snsm",
+        "verified": true
+      }
+    ]
+  }
+}

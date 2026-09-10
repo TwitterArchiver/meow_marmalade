@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1943647278583128190",
+    "created_at": "2025-07-11T19:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T20:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943748592524832999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1357334460648292352",
+          "start": 0,
+          "username": "yezizhi060801"
+        },
+        {
+          "end": 25,
+          "id": "1159395282309619716",
+          "start": 15,
+          "username": "ChenYuuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943748592524832999",
+    "in_reply_to_user_id": "1357334460648292352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943745913622585599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezizhi060801 @ChenYuuko A吗，这种小众变态比赛到底是谁在看🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1943647278583128190",
+        "created_at": "2025-07-11T19:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T20:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943748592524832999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1357334460648292352",
+              "start": 0,
+              "username": "yezizhi060801"
+            },
+            {
+              "end": 25,
+              "id": "1159395282309619716",
+              "start": 15,
+              "username": "ChenYuuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943748592524832999",
+        "in_reply_to_user_id": "1357334460648292352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943745913622585599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezizhi060801 @ChenYuuko A吗，这种小众变态比赛到底是谁在看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357334460648292352",
+        "conversation_id": "1943647278583128190",
+        "created_at": "2025-07-11T18:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943745913622585599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 26,
+              "id": "1159395282309619716",
+              "start": 16,
+              "username": "ChenYuuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943745913622585599",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943652717911756860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @ChenYuuko A吗，这种小众变态比赛到底是谁在看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11907,
+          "following_count": 99,
+          "like_count": 12673,
+          "listed_count": 47,
+          "media_count": 288,
+          "tweet_count": 1544
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T14:25:51.000Z",
+        "description": "坐标：北京/石家庄 喜欢tksp 绳缚等等 xp很多样化\n是绳师 er s FPS小糕手\n人很好说话，是长发肌肉男？欢迎交流和实践等等（）",
+        "id": "1357334460648292352",
+        "location": "Beijing",
+        "name": "椰子汁🥥🥛（不吃香菜）",
+        "pinned_tweet_id": "1857473558097834322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901823878219063296/Psoyqyw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 701,
+          "like_count": 432,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 178
+        },
+        "username": "yezizhi060801",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-08T09:25:50.000Z",
+        "description": "",
+        "id": "1159395282309619716",
+        "location": "台灣",
+        "name": "Yuuko_Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159400769486872578/oumXz5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 244,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 121
+        },
+        "username": "ChenYuuko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-06T04:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986294257674858544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752607101505896448",
+          "start": 0,
+          "username": "hun_jun96477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986294257674858544",
+    "in_reply_to_user_id": "1752607101505896448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986293297921589319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hun_jun96477 没那么贴心🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T04:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986294257674858544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752607101505896448",
+              "start": 0,
+              "username": "hun_jun96477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986294257674858544",
+        "in_reply_to_user_id": "1752607101505896448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986293297921589319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hun_jun96477 没那么贴心🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752607101505896448",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T04:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986293297921589319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986293297921589319",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986035435702001673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 至少饭是有煮的，汤是有熬的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25866,
+          "following_count": 92,
+          "like_count": 17710,
+          "listed_count": 101,
+          "media_count": 191,
+          "tweet_count": 2652
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T08:18:10.000Z",
+        "description": "人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/91343319",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/91343319",
+                "start": 0,
+                "url": "https://t.co/vDDO8IOUhW"
+              }
+            ]
+          }
+        },
+        "id": "1752607101505896448",
+        "location": "璃月港 望舒客栈",
+        "name": "渾魚𧀅氺眞君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752607190169309184/3plElgyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 149,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/vDDO8IOUhW",
+        "username": "hun_jun96477",
+        "verified": false
+      }
+    ]
+  }
+}

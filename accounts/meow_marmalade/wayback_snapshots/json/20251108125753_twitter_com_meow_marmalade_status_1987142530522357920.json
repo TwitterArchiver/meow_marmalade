@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986728949603610649",
+    "created_at": "2025-11-08T12:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T13:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987142530522357920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1079173228554182656",
+          "start": 0,
+          "username": "V2ray_SSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987142530522357920",
+    "in_reply_to_user_id": "1079173228554182656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987139715460702578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V2ray_SSR 谢谢喵(=^・ω・^=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986728949603610649",
+        "created_at": "2025-11-08T12:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987142530522357920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1079173228554182656",
+              "start": 0,
+              "username": "V2ray_SSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987142530522357920",
+        "in_reply_to_user_id": "1079173228554182656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987139715460702578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V2ray_SSR 谢谢喵(=^・ω・^=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079173228554182656",
+        "conversation_id": "1986728949603610649",
+        "created_at": "2025-11-08T12:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987139715460702578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987139715460702578",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986728949603610649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好看爱看喵(=^▽^=)👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26247,
+          "following_count": 92,
+          "like_count": 17858,
+          "listed_count": 104,
+          "media_count": 193,
+          "tweet_count": 2694
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-30T00:32:02.000Z",
+        "description": "2024搬瓦工CN2 GIA-E高级网络2.5GB线路VPN翻墙机场;\n保证稳定在线，随时随刻与世界互联；VIP仅需69元/年；\n支持安卓、IOS、MAC、WIN等设备网址：https://t.co/VNySRnpc6d\n经验交流群组:https://t.co/1SnIac1D7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shidongli161.xyz",
+                "end": 110,
+                "expanded_url": "http://shidongli161.xyz",
+                "start": 87,
+                "url": "https://t.co/VNySRnpc6d"
+              },
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 141,
+                "expanded_url": "https://x.com/i/communities/1905883170022776941",
+                "start": 118,
+                "url": "https://t.co/1SnIac1D7x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sd210.xyz",
+                "end": 23,
+                "expanded_url": "https://www.sd210.xyz",
+                "start": 0,
+                "url": "https://t.co/Nb3PEvd6sm"
+              }
+            ]
+          }
+        },
+        "id": "1079173228554182656",
+        "name": "VPN翻墙sd210点xyz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881697132748607488/_LzYcFfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 4094,
+          "like_count": 5333,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 18915
+        },
+        "url": "https://t.co/Nb3PEvd6sm",
+        "username": "V2ray_SSR",
+        "verified": true
+      }
+    ]
+  }
+}

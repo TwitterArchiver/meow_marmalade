@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2076299476562829392",
+    "created_at": "2026-07-13T04:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076525773117407590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "910832239327420416",
+          "start": 0,
+          "username": "emmastertu"
+        },
+        {
+          "end": 25,
+          "id": "1352318841985011713",
+          "start": 12,
+          "username": "FoolishShiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076525773117407590",
+    "in_reply_to_user_id": "910832239327420416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076516494377468001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emmastertu @FoolishShiro 单纯我自己不想点炮（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2076299476562829392",
+        "created_at": "2026-07-13T04:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076525773117407590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "910832239327420416",
+              "start": 0,
+              "username": "emmastertu"
+            },
+            {
+              "end": 25,
+              "id": "1352318841985011713",
+              "start": 12,
+              "username": "FoolishShiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076525773117407590",
+        "in_reply_to_user_id": "910832239327420416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076516494377468001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emmastertu @FoolishShiro 单纯我自己不想点炮（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "910832239327420416",
+        "conversation_id": "2076299476562829392",
+        "created_at": "2026-07-13T03:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076516494377468001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 29,
+              "id": "1352318841985011713",
+              "start": 16,
+              "username": "FoolishShiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076516494377468001",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076515666031710534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @FoolishShiro hhh没有没有，没有指责的意思，我自己也很烦那种为了流水粉丝，空降个没有铺垫的角色的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39806,
+          "following_count": 97,
+          "like_count": 27585,
+          "listed_count": 161,
+          "media_count": 189,
+          "tweet_count": 4893
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T11:45:03.000Z",
+        "description": "我们终极都是无知之人，怀揣着憧憬和求知生存。",
+        "id": "910832239327420416",
+        "location": "Stockholm, Sweden",
+        "name": "Stoic guy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739045653055950848/m485_Idw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 2713,
+          "like_count": 7211,
+          "listed_count": 3,
+          "media_count": 423,
+          "tweet_count": 9900
+        },
+        "url": "",
+        "username": "emmastertu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T18:15:21.000Z",
+        "description": "无趣的人",
+        "id": "1352318841985011713",
+        "name": "「 」空白",
+        "pinned_tweet_id": "1972683751109824943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613430769766240256/NXIc-Gc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14412,
+          "following_count": 267,
+          "like_count": 2105,
+          "listed_count": 67,
+          "media_count": 906,
+          "tweet_count": 6502
+        },
+        "url": "",
+        "username": "FoolishShiro",
+        "verified": false
+      }
+    ]
+  }
+}

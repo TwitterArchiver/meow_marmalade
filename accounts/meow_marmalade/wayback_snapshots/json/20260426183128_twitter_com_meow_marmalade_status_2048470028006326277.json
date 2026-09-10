@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2048357638380093620",
+    "created_at": "2026-04-26T18:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048470028006326277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429378004187328520",
+          "start": 0,
+          "username": "wasdak88177353"
+        },
+        {
+          "end": 27,
+          "id": "1126756908193308672",
+          "start": 16,
+          "username": "Lingerie_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048470028006326277",
+    "in_reply_to_user_id": "1429378004187328520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048445100993167819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasdak88177353 @Lingerie_0 什么症状😷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2048357638380093620",
+        "created_at": "2026-04-26T18:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048470028006326277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429378004187328520",
+              "start": 0,
+              "username": "wasdak88177353"
+            },
+            {
+              "end": 27,
+              "id": "1126756908193308672",
+              "start": 16,
+              "username": "Lingerie_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048470028006326277",
+        "in_reply_to_user_id": "1429378004187328520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048445100993167819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasdak88177353 @Lingerie_0 什么症状😷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429378004187328520",
+        "conversation_id": "2048357638380093620",
+        "created_at": "2026-04-26T16:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048445100993167819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 27,
+              "id": "1126756908193308672",
+              "start": 16,
+              "username": "Lingerie_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048445100993167819",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048357638380093620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @Lingerie_0 护士，我的病情怎么越来越严重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37110,
+          "following_count": 97,
+          "like_count": 25156,
+          "listed_count": 146,
+          "media_count": 185,
+          "tweet_count": 4184
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T09:40:57.000Z",
+        "description": "wasd",
+        "id": "1429378004187328520",
+        "name": "wasdak",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 71,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 549
+        },
+        "username": "wasdak88177353",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T07:52:35.000Z",
+        "description": "「绫天生丝滑」品牌官方唯一账号 ▫️始于中国的东方性感美学品牌 ▪️ 「为亲密而生，为性感正名」📮商务合作：私信/info@ling-lingerie.com ▫️官方微博：绫天生丝滑-▫️官方渠道：淘宝/天猫搜索「绫天生丝滑 」▫️Website：https://t.co/wYO0XmKZg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Ling-lingerie.com",
+                "end": 148,
+                "expanded_url": "http://Ling-lingerie.com",
+                "start": 125,
+                "url": "https://t.co/wYO0XmKZg4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltssh.tmall.com",
+                "end": 23,
+                "expanded_url": "http://ltssh.tmall.com",
+                "start": 0,
+                "url": "https://t.co/j1mPIR4Zq9"
+              }
+            ]
+          }
+        },
+        "id": "1126756908193308672",
+        "location": "上海, 中华人民共和国",
+        "name": "绫LING官方",
+        "pinned_tweet_id": "1663152841312337922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609527802977751041/aqpajkGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344436,
+          "following_count": 52,
+          "like_count": 208,
+          "listed_count": 860,
+          "media_count": 1001,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/j1mPIR4Zq9",
+        "username": "Lingerie_0",
+        "verified": false
+      }
+    ]
+  }
+}

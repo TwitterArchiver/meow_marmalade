@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2064323408620638219",
+    "created_at": "2026-06-09T16:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064379860592783568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023225349883002880",
+          "start": 0,
+          "username": "TornPlushie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064379860592783568",
+    "in_reply_to_user_id": "2023225349883002880",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064323408620638219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TornPlushie thx！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2064323408620638219",
+        "created_at": "2026-06-09T16:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064379860592783568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023225349883002880",
+              "start": 0,
+              "username": "TornPlushie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064379860592783568",
+        "in_reply_to_user_id": "2023225349883002880",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064323408620638219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TornPlushie thx！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023225349883002880",
+        "conversation_id": "2064323408620638219",
+        "created_at": "2026-06-09T12:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064323408620638219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow_marmalade…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/2064310257917313426",
+              "start": 6,
+              "url": "https://t.co/UUccLkCv9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323408620638219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064310257917313426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cute! https://t.co/UUccLkCv9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38586,
+          "following_count": 99,
+          "like_count": 26660,
+          "listed_count": 149,
+          "media_count": 160,
+          "tweet_count": 4553
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T02:38:16.000Z",
+        "description": "♡ ∩_∩ \n  („• ֊ •„)♡\n|￣U U￣￣￣￣￣￣￣|\n|                Deaf                |\n|          Plushie girl          |\n|                  18                   |\n￣￣￣￣￣￣￣￣￣￣",
+        "id": "2023225349883002880",
+        "name": "TornPlushie",
+        "pinned_tweet_id": "2027343824666722482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023225790192656385/IsTj4kCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 81,
+          "like_count": 12897,
+          "listed_count": 2,
+          "media_count": 1370,
+          "tweet_count": 6662
+        },
+        "username": "TornPlushie",
+        "verified": false
+      }
+    ]
+  }
+}

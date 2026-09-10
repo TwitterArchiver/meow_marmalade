@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1984553401070600538",
+    "created_at": "2025-11-04T14:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T15:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985723575853367467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835947310255390720",
+          "start": 0,
+          "username": "skdbxjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985723575853367467",
+    "in_reply_to_user_id": "1835947310255390720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985719929166078062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skdbxjd 嗯是想做出音律的感觉的！找人做的娃衣，本来是普通的兔兔哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1984553401070600538",
+        "created_at": "2025-11-04T14:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985723575853367467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835947310255390720",
+              "start": 0,
+              "username": "skdbxjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985723575853367467",
+        "in_reply_to_user_id": "1835947310255390720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985719929166078062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skdbxjd 嗯是想做出音律的感觉的！找人做的娃衣，本来是普通的兔兔哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835947310255390720",
+        "conversation_id": "1984553401070600538",
+        "created_at": "2025-11-04T14:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985719929166078062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985719929166078062",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984553401070600538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 宝宝你的兔兔是音律的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25698,
+          "following_count": 100,
+          "like_count": 17638,
+          "listed_count": 102,
+          "media_count": 190,
+          "tweet_count": 2621
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T07:42:24.000Z",
+        "description": "ここで普段は「アークナイツ」「ブルーアーカイブ」といったものに関するコメントを行います。「アークナイツ」のプレイ時間は1年未満なので、あまり詳しくないです。お許（ゆる）しください。",
+        "id": "1835947310255390720",
+        "name": "Max Caritas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851321566103023617/Ygy7iPMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 2568,
+          "like_count": 21889,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 165
+        },
+        "username": "skdbxjd",
+        "verified": false
+      }
+    ]
+  }
+}

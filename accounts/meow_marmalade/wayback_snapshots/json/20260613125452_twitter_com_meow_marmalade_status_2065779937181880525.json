@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2065766333082702117",
+    "created_at": "2026-06-13T12:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065779937181880525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3979405700",
+          "start": 0,
+          "username": "KarinrinSusei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065779937181880525",
+    "in_reply_to_user_id": "3979405700",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065775741384687746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarinrinSusei 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2065766333082702117",
+        "created_at": "2026-06-13T12:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065779937181880525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3979405700",
+              "start": 0,
+              "username": "KarinrinSusei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065779937181880525",
+        "in_reply_to_user_id": "3979405700",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065775741384687746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarinrinSusei 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3979405700",
+        "conversation_id": "2065766333082702117",
+        "created_at": "2026-06-13T12:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065775741384687746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065775741384687746",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065766333082702117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade kami.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38689,
+          "following_count": 95,
+          "like_count": 26798,
+          "listed_count": 152,
+          "media_count": 165,
+          "tweet_count": 4597
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-22T11:00:35.000Z",
+        "description": "水星原住民✨//🐨飼養員小姐@Mdrchyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Mdrchyan"
+              }
+            ]
+          }
+        },
+        "id": "3979405700",
+        "location": "水星",
+        "name": "失眠魔女花凜凜.🌙",
+        "pinned_tweet_id": "1837781453834219795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579787100203126784/6NdgOFjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119776,
+          "following_count": 960,
+          "like_count": 50752,
+          "listed_count": 363,
+          "media_count": 122,
+          "tweet_count": 4441
+        },
+        "username": "KarinrinSusei",
+        "verified": true
+      }
+    ]
+  }
+}

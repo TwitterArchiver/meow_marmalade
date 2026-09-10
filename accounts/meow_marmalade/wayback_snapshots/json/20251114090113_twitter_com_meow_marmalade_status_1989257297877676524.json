@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988900464486744274",
+    "created_at": "2025-11-14T09:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989257297877676524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851904739681931266",
+          "start": 0,
+          "username": "yj7873275297103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989257297877676524",
+    "in_reply_to_user_id": "1851904739681931266",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989254834390995252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yj7873275297103 femboy😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-14T09:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989257297877676524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851904739681931266",
+              "start": 0,
+              "username": "yj7873275297103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989257297877676524",
+        "in_reply_to_user_id": "1851904739681931266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989254834390995252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yj7873275297103 femboy😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851904739681931266",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-14T08:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989254834390995252"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "tomboy",
+              "probability": 0.4631,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "femboy",
+              "probability": 0.4079,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989254834390995252",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988900464486744274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade tomboy or femboy（choose）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26916,
+          "following_count": 96,
+          "like_count": 18088,
+          "listed_count": 105,
+          "media_count": 198,
+          "tweet_count": 2792
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T08:31:18.000Z",
+        "description": "一个普通人\nnormal guy\n普通の人\nОбыкновенные люди",
+        "id": "1851904739681931266",
+        "location": "Tokyo-to, Japan",
+        "name": "clen ye yan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856740898417381376/N_j6TLRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 521,
+          "like_count": 11290,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1163
+        },
+        "username": "yj7873275297103",
+        "verified": false
+      }
+    ]
+  }
+}

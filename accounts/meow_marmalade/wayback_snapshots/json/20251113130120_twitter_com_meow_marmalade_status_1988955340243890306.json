@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988900464486744274",
+    "created_at": "2025-11-13T13:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988955340243890306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1924076827125092352",
+          "start": 0,
+          "username": "Est_G_Ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988955340243890306",
+    "in_reply_to_user_id": "1924076827125092352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988953369877385394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Est_G_Ar 😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-13T13:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988955340243890306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1924076827125092352",
+              "start": 0,
+              "username": "Est_G_Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988955340243890306",
+        "in_reply_to_user_id": "1924076827125092352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988953369877385394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Est_G_Ar 😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924076827125092352",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-13T12:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988953369877385394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988953369877385394",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988900464486744274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 帅姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26559,
+          "following_count": 95,
+          "like_count": 18055,
+          "listed_count": 107,
+          "media_count": 198,
+          "tweet_count": 2780
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T12:17:31.000Z",
+        "description": "",
+        "id": "1924076827125092352",
+        "name": "藍原芽衣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941906932681281536/YrOxp1ID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 132
+        },
+        "username": "Est_G_Ar",
+        "verified": false
+      }
+    ]
+  }
+}

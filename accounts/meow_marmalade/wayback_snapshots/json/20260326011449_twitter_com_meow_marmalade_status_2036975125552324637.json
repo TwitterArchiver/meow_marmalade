@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2036746392484676088",
+    "created_at": "2026-03-26T01:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036975125552324637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537665116027596800",
+          "start": 0,
+          "username": "charge_rif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036975125552324637",
+    "in_reply_to_user_id": "1537665116027596800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036895634989412658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charge_rif 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2036746392484676088",
+        "created_at": "2026-03-26T01:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036975125552324637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537665116027596800",
+              "start": 0,
+              "username": "charge_rif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036975125552324637",
+        "in_reply_to_user_id": "1537665116027596800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036895634989412658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charge_rif 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537665116027596800",
+        "conversation_id": "2036746392484676088",
+        "created_at": "2026-03-25T19:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036895634989412658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036895634989412658",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036746392484676088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好萌的玲奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "不配得感",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36219,
+          "following_count": 93,
+          "like_count": 23563,
+          "listed_count": 140,
+          "media_count": 193,
+          "tweet_count": 3990
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T05:15:20.000Z",
+        "description": "喜欢玩CS和塔科夫，要玩的可以加我🤓👍",
+        "id": "1537665116027596800",
+        "location": "Cybertron",
+        "name": "闪光向日葵",
+        "pinned_tweet_id": "1846865555913167229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870637091937234944/Ty3j9j04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 959,
+          "like_count": 4053,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1607
+        },
+        "username": "charge_rif",
+        "verified": false
+      }
+    ]
+  }
+}

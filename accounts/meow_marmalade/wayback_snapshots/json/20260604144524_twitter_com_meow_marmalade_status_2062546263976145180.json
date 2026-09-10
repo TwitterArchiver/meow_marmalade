@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2062497218847010820",
+    "created_at": "2026-06-04T14:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062546263976145180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046264636136398848",
+          "start": 0,
+          "username": "Parabbitttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062546263976145180",
+    "in_reply_to_user_id": "2046264636136398848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062519457260753120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Parabbitttt 超绝高P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2062497218847010820",
+        "created_at": "2026-06-04T14:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062546263976145180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046264636136398848",
+              "start": 0,
+              "username": "Parabbitttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062546263976145180",
+        "in_reply_to_user_id": "2046264636136398848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062519457260753120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Parabbitttt 超绝高P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046264636136398848",
+        "conversation_id": "2062497218847010820",
+        "created_at": "2026-06-04T12:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062519457260753120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062519457260753120",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062497218847010820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好伟大的一张脸😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38209,
+          "following_count": 97,
+          "like_count": 26445,
+          "listed_count": 148,
+          "media_count": 155,
+          "tweet_count": 4490
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T16:29:38.000Z",
+        "description": "新人COSER｜男♂｜游戏动画爱好者｜选择困难症+极度纠结｜COS搭子招募中｜同好扩列欢迎～",
+        "id": "2046264636136398848",
+        "location": "重庆",
+        "name": "兔角Parabbit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058960875684556800/VbUD__ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "Parabbitttt",
+        "verified": false
+      }
+    ]
+  }
+}

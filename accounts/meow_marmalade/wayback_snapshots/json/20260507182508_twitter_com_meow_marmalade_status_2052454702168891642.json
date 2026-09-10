@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2052050651736375344",
+    "created_at": "2026-05-07T18:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052454702168891642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991711672684421121",
+          "start": 0,
+          "username": "pearl0812lucky"
+        },
+        {
+          "end": 31,
+          "id": "1756654894428426240",
+          "start": 16,
+          "username": "bapanwanli0415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052454702168891642",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052050651736375344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearl0812lucky @bapanwanli0415 可能大家都有过 只是大家都忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2052050651736375344",
+        "created_at": "2026-05-07T18:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052454702168891642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            },
+            {
+              "end": 31,
+              "id": "1756654894428426240",
+              "start": 16,
+              "username": "bapanwanli0415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052454702168891642",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052050651736375344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky @bapanwanli0415 可能大家都有过 只是大家都忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2052050651736375344",
+        "created_at": "2026-05-06T15:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052050651736375344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052050651736375344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 107284,
+          "like_count": 3664,
+          "quote_count": 84,
+          "reply_count": 547,
+          "retweet_count": 553
+        },
+        "reply_settings": "everyone",
+        "text": "我特别想谈一段那种两个人都干净又纯粹着相爱的恋爱 没有人是坏种 没有博弈和算计没有什么聊骚出轨嫖娼的烂事 也不用去网上搜索学习情侣相处技巧 两个人认识 吸引 相爱 拉着手走过春夏秋冬 没事去草地上晒晒太阳 逛逛超市 傍晚在公园河边散散步睡觉前会捧着对方的脸认真地说你好可爱我很爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37686,
+          "following_count": 98,
+          "like_count": 25725,
+          "listed_count": 148,
+          "media_count": 197,
+          "tweet_count": 4311
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7026,
+          "following_count": 66,
+          "like_count": 6983,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 1676
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T12:23:06.000Z",
+        "description": "碎碎念用\n我想發啥就發啥不愛看就屏蔽我\n+v52 朋友圈只有臉照 消息想回才回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chenyi74111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chenyi74111",
+                "start": 0,
+                "url": "https://t.co/C9Fv0tPRl1"
+              }
+            ]
+          }
+        },
+        "id": "1756654894428426240",
+        "name": "唉",
+        "pinned_tweet_id": "1996246702316298579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030355204978450432/R__kARIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 165,
+          "like_count": 17125,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/C9Fv0tPRl1",
+        "username": "bapanwanli0415",
+        "verified": false
+      }
+    ]
+  }
+}

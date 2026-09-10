@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1932093849834525025",
+    "created_at": "2025-07-06T02:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T03:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941689901789106365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560887934089191426",
+          "start": 0,
+          "username": "ying33478609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941689901789106365",
+    "in_reply_to_user_id": "1560887934089191426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941676688167010686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying33478609 加速器救一救啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1932093849834525025",
+        "created_at": "2025-07-06T02:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T03:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941689901789106365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560887934089191426",
+              "start": 0,
+              "username": "ying33478609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941689901789106365",
+        "in_reply_to_user_id": "1560887934089191426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941676688167010686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying33478609 加速器救一救啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560887934089191426",
+        "conversation_id": "1932093849834525025",
+        "created_at": "2025-07-06T01:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941676688167010686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941676688167010686",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932093849834525025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 买了但是连不上那个byd服务器😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11325,
+          "following_count": 98,
+          "like_count": 12344,
+          "listed_count": 48,
+          "media_count": 282,
+          "tweet_count": 1480
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T07:14:34.000Z",
+        "description": "",
+        "id": "1560887934089191426",
+        "name": "ying",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941677178489536512/IdpVKX57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 338,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "ying33478609",
+        "verified": false
+      }
+    ]
+  }
+}

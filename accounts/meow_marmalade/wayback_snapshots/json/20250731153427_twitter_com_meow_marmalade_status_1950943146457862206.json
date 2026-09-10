@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1950941937093210120",
+    "created_at": "2025-07-31T15:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T16:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950943146457862206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1802142643457331200",
+          "start": 0,
+          "username": "kyr0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950943146457862206",
+    "in_reply_to_user_id": "1802142643457331200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950942645729259603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyr0715 世界冠军是键鼠 我们将加强键鼠（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1950941937093210120",
+        "created_at": "2025-07-31T15:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950943146457862206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1802142643457331200",
+              "start": 0,
+              "username": "kyr0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950943146457862206",
+        "in_reply_to_user_id": "1802142643457331200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950942645729259603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyr0715 世界冠军是键鼠 我们将加强键鼠（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802142643457331200",
+        "conversation_id": "1950941937093210120",
+        "created_at": "2025-07-31T15:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950942645729259603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950942645729259603",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950941937093210120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 0.3辅瞄和双烟加强确实是键鼠要王朝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14376,
+          "following_count": 91,
+          "like_count": 13580,
+          "listed_count": 57,
+          "media_count": 310,
+          "tweet_count": 1760
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T00:54:57.000Z",
+        "description": "",
+        "id": "1802142643457331200",
+        "name": "科圆润",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802583073013534720/0XC9gGm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 101,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "kyr0715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1959972937718538293",
+    "created_at": "2025-09-01T07:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T08:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962421646960271605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872697767149363200",
+          "start": 0,
+          "username": "Glanlia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962421646960271605",
+    "in_reply_to_user_id": "1872697767149363200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962418022569906444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glanlia 谢谢你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1959972937718538293",
+        "created_at": "2025-09-01T07:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962421646960271605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872697767149363200",
+              "start": 0,
+              "username": "Glanlia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962421646960271605",
+        "in_reply_to_user_id": "1872697767149363200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962418022569906444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glanlia 谢谢你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872697767149363200",
+        "conversation_id": "1959972937718538293",
+        "created_at": "2025-09-01T07:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962418022569906444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962418022569906444",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959972937718538293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好帅的侧颜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16962,
+          "following_count": 95,
+          "like_count": 14876,
+          "listed_count": 67,
+          "media_count": 346,
+          "tweet_count": 2150
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T17:35:30.000Z",
+        "description": "我愿沉溺于自己编织的幻梦😌/07/中文 Eng/双性向/精神不稳/二次元/PC gamer/摄影小白/偶尔写作/清水 无🚪/玩推纯粹哗众取宠 逃避现实/随缘互fo 欢迎关注",
+        "id": "1872697767149363200",
+        "location": "埋葬永恆的花海",
+        "name": "薇紛芳橙",
+        "pinned_tweet_id": "1933211137841246381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894715677925355520/cSxQ6Kch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 140,
+          "like_count": 9501,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2161
+        },
+        "username": "Glanlia",
+        "verified": false
+      }
+    ]
+  }
+}

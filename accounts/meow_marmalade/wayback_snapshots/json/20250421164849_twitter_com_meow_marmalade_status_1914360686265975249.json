@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1913813205111214303",
+    "created_at": "2025-04-21T16:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T17:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914360686265975249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1803483747381137408",
+          "start": 0,
+          "username": "Jiqn321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914360686265975249",
+    "in_reply_to_user_id": "1803483747381137408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914343448850911365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiqn321 算是吧🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1913813205111214303",
+        "created_at": "2025-04-21T16:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T17:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914360686265975249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1803483747381137408",
+              "start": 0,
+              "username": "Jiqn321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914360686265975249",
+        "in_reply_to_user_id": "1803483747381137408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914343448850911365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiqn321 算是吧🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803483747381137408",
+        "conversation_id": "1913813205111214303",
+        "created_at": "2025-04-21T15:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914343448850911365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914343448850911365",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913813205111214303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 地雷系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "喵喵叫的蜜柑🍊",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3531,
+          "following_count": 90,
+          "like_count": 8574,
+          "listed_count": 12,
+          "media_count": 208,
+          "tweet_count": 855
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T17:43:38.000Z",
+        "description": "喜欢女装；音游年龄: 4年 游戏史：九年 的高中生（？） 玩的游戏多，不精通",
+        "id": "1803483747381137408",
+        "location": "東京新宿",
+        "name": "Jiqn321",
+        "pinned_tweet_id": "1883927339962421455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803483958354538496/vKuf542U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 39,
+          "like_count": 1549,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1646
+        },
+        "username": "Jiqn321",
+        "verified": false
+      }
+    ]
+  }
+}

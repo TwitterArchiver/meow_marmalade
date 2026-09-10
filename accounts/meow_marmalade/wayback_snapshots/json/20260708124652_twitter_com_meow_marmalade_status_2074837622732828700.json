@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074837622732828700",
+    "created_at": "2026-07-08T12:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074837622732828700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meow_marmalade…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/meow_marmalade/status/2074792365358035163",
+          "start": 17,
+          "url": "https://t.co/d7vLEo8aUL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074837622732828700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074792365358035163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这尺度都算年龄限制吗哎呦喔我服了 https://t.co/d7vLEo8aUL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074792329874132992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMskoZzaUAAs3f2.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074837622732828700",
+        "created_at": "2026-07-08T12:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074837622732828700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow_marmalade…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/2074792365358035163",
+              "start": 17,
+              "url": "https://t.co/d7vLEo8aUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074837622732828700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792365358035163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这尺度都算年龄限制吗哎呦喔我服了 https://t.co/d7vLEo8aUL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074792329874132992"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074792365358035163",
+        "created_at": "2026-07-08T09:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074792365358035163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B0oe2isZm9",
+              "end": 36,
+              "expanded_url": "https://x.com/meow_marmalade/status/2074792365358035163/photo/1",
+              "media_key": "3_2074792329874132992",
+              "start": 13,
+              "url": "https://t.co/B0oe2isZm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792365358035163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1938,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "别碰我鞋别碰我鞋别碰我鞋 https://t.co/B0oe2isZm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39545,
+          "following_count": 96,
+          "like_count": 27474,
+          "listed_count": 156,
+          "media_count": 185,
+          "tweet_count": 4839
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2088229972922245521",
+    "created_at": "2026-08-14T15:02:24.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088280080858714256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1473963793436737541",
+          "start": 0,
+          "username": "kokoAsk2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088280080858714256",
+    "in_reply_to_user_id": "1473963793436737541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088272131876642937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoAsk2077 谢谢喜欢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2088229972922245521",
+        "created_at": "2026-08-14T15:02:24.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088280080858714256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1473963793436737541",
+              "start": 0,
+              "username": "kokoAsk2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088280080858714256",
+        "in_reply_to_user_id": "1473963793436737541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088272131876642937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoAsk2077 谢谢喜欢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473963793436737541",
+        "conversation_id": "2088229972922245521",
+        "created_at": "2026-08-14T14:30:49.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272131876642937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272131876642937",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088229972922245521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 非常好吃請多拍..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2088280080858714256",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40526,
+          "following_count": 100,
+          "like_count": 28283,
+          "listed_count": 164,
+          "media_count": 214,
+          "tweet_count": 5121
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-23T10:29:01.000Z",
+        "description": "ずっど迷子、ずっど孤独、ZTMY。\n\n黛冬優子、浅倉透、斑鳩ルカ、贰元桐子幸国推し\n\n2077.10.23",
+        "id": "1473963793436737541",
+        "is_identity_verified": false,
+        "location": "Zion  YE7",
+        "most_recent_tweet_id": "2088272131876642937",
+        "name": "GFーココ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1473963793436737541/1732740354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506565163264094208/S8aRzIFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 678,
+          "like_count": 15409,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 6275
+        },
+        "url": "",
+        "username": "kokoAsk2077",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

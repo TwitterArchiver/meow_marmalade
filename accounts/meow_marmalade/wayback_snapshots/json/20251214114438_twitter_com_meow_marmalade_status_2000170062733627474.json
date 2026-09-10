@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1999871487042535781",
+    "created_at": "2025-12-14T11:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000170062733627474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491832400661209088",
+          "start": 0,
+          "username": "Nomia755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000170062733627474",
+    "in_reply_to_user_id": "1491832400661209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999871487042535781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomia755 哥布林看不得这些😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999871483716493312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D4hMda4AAWSAZ.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1999871487042535781",
+        "created_at": "2025-12-14T11:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000170062733627474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491832400661209088",
+              "start": 0,
+              "username": "Nomia755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000170062733627474",
+        "in_reply_to_user_id": "1491832400661209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999871487042535781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomia755 哥布林看不得这些😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999871483716493312"
+          ]
+        },
+        "author_id": "1491832400661209088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999871487042535781",
+        "created_at": "2025-12-13T15:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999871487042535781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6bAaHCNF5",
+              "end": 43,
+              "expanded_url": "https://x.com/Nomia755/status/1999871487042535781/photo/1",
+              "media_key": "3_1999871483716493312",
+              "start": 20,
+              "url": "https://t.co/t6bAaHCNF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999871487042535781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 191213,
+          "like_count": 491,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我求放过啊，我靠不是哥们我吓得跳起来了 https://t.co/t6bAaHCNF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28132,
+          "following_count": 90,
+          "like_count": 19443,
+          "listed_count": 124,
+          "media_count": 210,
+          "tweet_count": 3080
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:52:26.000Z",
+        "description": "糯米鸭冰皮月饼（扩充互关中）@idtNothinglose 冷宝终极无敌单推人 ！！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "idtNothinglose"
+              }
+            ]
+          }
+        },
+        "id": "1491832400661209088",
+        "name": "糯米鸭🐣",
+        "pinned_tweet_id": "1974190803057848529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998079161936805888/A0SLSNRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3098,
+          "following_count": 1760,
+          "like_count": 37573,
+          "listed_count": 11,
+          "media_count": 74,
+          "tweet_count": 6701
+        },
+        "username": "Nomia755",
+        "verified": false
+      }
+    ]
+  }
+}

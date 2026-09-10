@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1920418836722966770",
+    "created_at": "2025-05-12T01:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T02:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921745576565330123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835946537995661312",
+          "start": 0,
+          "username": "rnfmabj10186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921745576565330123",
+    "in_reply_to_user_id": "1835946537995661312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921732277433729491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnfmabj10186 还真是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1920418836722966770",
+        "created_at": "2025-05-12T01:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921745576565330123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835946537995661312",
+              "start": 0,
+              "username": "rnfmabj10186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921745576565330123",
+        "in_reply_to_user_id": "1835946537995661312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921732277433729491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnfmabj10186 还真是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835946537995661312",
+        "conversation_id": "1920418836722966770",
+        "created_at": "2025-05-12T01:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T02:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921732277433729491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921732277433729491",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920418836722966770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我也经常这情况，莫名其妙的就破了，虽然不影响穿，但看着好膈应🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1920777113084260628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4866,
+          "following_count": 95,
+          "like_count": 9925,
+          "listed_count": 15,
+          "media_count": 224,
+          "tweet_count": 996
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T07:39:07.000Z",
+        "description": "",
+        "id": "1835946537995661312",
+        "name": "四时不顺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854717647411396608/YV1TDp5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 136,
+          "like_count": 5201,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "rnfmabj10186",
+        "verified": false
+      }
+    ]
+  }
+}

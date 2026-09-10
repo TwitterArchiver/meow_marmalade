@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074427330043527322",
+    "created_at": "2026-07-07T12:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074464699643797850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662304092851687424",
+          "start": 0,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074464699643797850",
+    "in_reply_to_user_id": "1662304092851687424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074464576205426692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekkkkko422 那你变呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074427330043527322",
+        "created_at": "2026-07-07T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074464699643797850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074464699643797850",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074464576205426692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 那你变呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662304092851687424",
+        "conversation_id": "2074427330043527322",
+        "created_at": "2026-07-07T12:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074464576205426692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074464576205426692",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074427330043527322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 对的对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39482,
+          "following_count": 96,
+          "like_count": 27445,
+          "listed_count": 155,
+          "media_count": 184,
+          "tweet_count": 4829
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422|❌没有b站小红书快手账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18969,
+          "following_count": 435,
+          "like_count": 3999,
+          "listed_count": 84,
+          "media_count": 182,
+          "tweet_count": 3237
+        },
+        "url": "",
+        "username": "nekkkkko422",
+        "verified": true
+      }
+    ]
+  }
+}

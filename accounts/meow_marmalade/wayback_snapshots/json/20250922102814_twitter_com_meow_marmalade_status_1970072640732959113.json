@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1970064795719397479",
+    "created_at": "2025-09-22T10:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T11:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970072640732959113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "729858901206695936",
+          "start": 0,
+          "username": "NMV_Banana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970072640732959113",
+    "in_reply_to_user_id": "729858901206695936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970070779107893609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMV_Banana 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1970064795719397479",
+        "created_at": "2025-09-22T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970072640732959113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "729858901206695936",
+              "start": 0,
+              "username": "NMV_Banana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970072640732959113",
+        "in_reply_to_user_id": "729858901206695936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970070779107893609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMV_Banana 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729858901206695936",
+        "conversation_id": "1970064795719397479",
+        "created_at": "2025-09-22T10:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970070779107893609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970070779107893609",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970064795719397479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 两种白丝的感觉都很不错啊，好看🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19188,
+          "following_count": 91,
+          "like_count": 15901,
+          "listed_count": 76,
+          "media_count": 295,
+          "tweet_count": 2351
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-10T02:21:36.000Z",
+        "description": "DD普通人，asmr听众，Arkinghts/Nikke，交流困难，只会机翻（",
+        "id": "729858901206695936",
+        "name": "蕉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729859429311516673/M-p7vgXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 6101,
+          "like_count": 141615,
+          "listed_count": 19,
+          "media_count": 341,
+          "tweet_count": 2719
+        },
+        "username": "NMV_Banana",
+        "verified": false
+      }
+    ]
+  }
+}

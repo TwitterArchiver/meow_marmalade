@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2056001107462422558",
+    "created_at": "2026-05-17T13:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056001107462422558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056001107462422558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真得权限一下评论区了\n这几天点机器人点麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2056001107462422558",
+        "created_at": "2026-05-17T13:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056001107462422558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056001107462422558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真得权限一下评论区了\n这几天点机器人点麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38018,
+          "following_count": 90,
+          "like_count": 25992,
+          "listed_count": 151,
+          "media_count": 206,
+          "tweet_count": 4399
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

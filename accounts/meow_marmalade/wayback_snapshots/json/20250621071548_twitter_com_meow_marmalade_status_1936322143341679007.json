@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1936027357363814522",
+    "created_at": "2025-06-21T07:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T08:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936322143341679007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1212281772454506496",
+          "start": 0,
+          "username": "Nekoneko_AzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936322143341679007",
+    "in_reply_to_user_id": "1212281772454506496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936280395517247507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekoneko_AzA 兄弟們 這是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1936027357363814522",
+        "created_at": "2025-06-21T07:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936322143341679007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1212281772454506496",
+              "start": 0,
+              "username": "Nekoneko_AzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936322143341679007",
+        "in_reply_to_user_id": "1212281772454506496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936280395517247507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekoneko_AzA 兄弟們 這是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212281772454506496",
+        "conversation_id": "1936027357363814522",
+        "created_at": "2025-06-21T04:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936280395517247507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936280395517247507",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936027357363814522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 兄弟們這是男的還是女的🥹 男的我就關注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9399,
+          "following_count": 98,
+          "like_count": 11759,
+          "listed_count": 30,
+          "media_count": 266,
+          "tweet_count": 1349
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-01T07:58:02.000Z",
+        "description": "男孩子 l 偶爾會穿一些出不了門の衣服 l 隨便吧無所謂",
+        "id": "1212281772454506496",
+        "name": "🐈‍⬛貓不睡覺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639110891319984128/PkMmU1zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9267,
+          "following_count": 369,
+          "like_count": 2281,
+          "listed_count": 46,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "Nekoneko_AzA",
+        "verified": false
+      }
+    ]
+  }
+}

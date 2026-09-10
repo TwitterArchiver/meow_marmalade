@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1950526486869626911",
+    "created_at": "2025-07-31T15:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T16:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950940714894004669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944625463630221312",
+          "start": 0,
+          "username": "yumiao03142007"
+        },
+        {
+          "end": 32,
+          "id": "1895451612136738816",
+          "start": 16,
+          "username": "realmoekasenpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950940714894004669",
+    "in_reply_to_user_id": "1944625463630221312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950939616153837713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumiao03142007 @realmoekasenpai 笑死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1950526486869626911",
+        "created_at": "2025-07-31T15:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950940714894004669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944625463630221312",
+              "start": 0,
+              "username": "yumiao03142007"
+            },
+            {
+              "end": 32,
+              "id": "1895451612136738816",
+              "start": 16,
+              "username": "realmoekasenpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950940714894004669",
+        "in_reply_to_user_id": "1944625463630221312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950939616153837713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumiao03142007 @realmoekasenpai 笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944625463630221312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1950526486869626911",
+        "created_at": "2025-07-31T15:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950939616153837713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895451612136738816",
+              "start": 0,
+              "username": "realmoekasenpai"
+            },
+            {
+              "end": 32,
+              "id": "1353996204422492160",
+              "start": 17,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950939616153837713",
+        "in_reply_to_user_id": "1895451612136738816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950547742176211023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realmoekasenpai @meow_marmalade 说真的 🤔我还是劝你玩 APEX 吧 🎯曾经有个教育家做了一个实验 🧪🧪🧪 把中国孩子和美国孩子从楼上扔下去 💀 中国孩子玩原神 🎴虽然用下落攻击规避⬇️但还是掉了很多血 🩸而美国孩子玩 APEX 直接无伤 🛡️从小培养玩 APEX 意识 🧠比任何教育都重要 🏆这就是玩 APEX 的好处 ✅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14375,
+          "following_count": 91,
+          "like_count": 13579,
+          "listed_count": 57,
+          "media_count": 309,
+          "tweet_count": 1755
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T05:10:22.000Z",
+        "description": "喵喵喵",
+        "id": "1944625463630221312",
+        "location": "Hong Kong",
+        "name": "、十四｜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945071010937552896/IKX_Qr00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 194,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "yumiao03142007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T12:31:09.000Z",
+        "description": "假的",
+        "id": "1895451612136738816",
+        "name": "萌娜丽香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895454674729263104/FTKQMdeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 146,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 356
+        },
+        "username": "realmoekasenpai",
+        "verified": false
+      }
+    ]
+  }
+}

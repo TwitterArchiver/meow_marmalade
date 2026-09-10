@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2048702829544804820",
+    "created_at": "2026-04-28T03:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048975033742295058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654741326922137600",
+          "start": 0,
+          "username": "TeddyDeerNoBeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048975033742295058",
+    "in_reply_to_user_id": "1654741326922137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048972481659359610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeddyDeerNoBeer 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2048702829544804820",
+        "created_at": "2026-04-28T03:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048975033742295058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654741326922137600",
+              "start": 0,
+              "username": "TeddyDeerNoBeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048975033742295058",
+        "in_reply_to_user_id": "1654741326922137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048972481659359610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeddyDeerNoBeer 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654741326922137600",
+        "conversation_id": "2048702829544804820",
+        "created_at": "2026-04-28T03:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048972481659359610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048972481659359610",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048702829544804820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这是男角色？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37449,
+          "following_count": 97,
+          "like_count": 25249,
+          "listed_count": 146,
+          "media_count": 187,
+          "tweet_count": 4199
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T06:54:33.000Z",
+        "description": "我相信有一个世界，和谐友好，向上向善，没有腐败压迫，没有迷信愚钝，所有人都可以共同生存，共同进步，无论年龄、性别、外貌、财富、权利、肤色、国籍与种族",
+        "id": "1654741326922137600",
+        "location": "Irvine, CA",
+        "name": "TeddyDeer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889769278641172480/r8amS8FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 717,
+          "like_count": 6078,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2832
+        },
+        "username": "TeddyDeerNoBeer",
+        "verified": false
+      }
+    ]
+  }
+}

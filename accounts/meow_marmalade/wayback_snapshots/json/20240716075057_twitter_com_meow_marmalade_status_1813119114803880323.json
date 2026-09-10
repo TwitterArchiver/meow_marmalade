@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1812753637275484610",
+    "created_at": "2024-07-16T07:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T08:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813119114803880323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069881915216461825",
+          "start": 0,
+          "username": "Iprintemps1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813119114803880323",
+    "in_reply_to_user_id": "1069881915216461825",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813118946670686617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iprintemps1 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1812753637275484610",
+        "created_at": "2024-07-16T07:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T08:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813119114803880323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069881915216461825",
+              "start": 0,
+              "username": "Iprintemps1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813119114803880323",
+        "in_reply_to_user_id": "1069881915216461825",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813118946670686617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iprintemps1 好"
+      },
+      {
+        "attachments": {},
+        "author_id": "1069881915216461825",
+        "conversation_id": "1812753637275484610",
+        "created_at": "2024-07-16T07:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T08:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813118946670686617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813118946670686617",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812858702107705615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 叫赫姆洛克吧，这样我爹就是我孩子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811379627048509440/TOJiTB6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 95,
+          "like_count": 1191,
+          "listed_count": 5,
+          "tweet_count": 319
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T09:11:40.000Z",
+        "description": "冬行性生物，夏眠中💤",
+        "id": "1069881915216461825",
+        "name": "Iprintemps",
+        "pinned_tweet_id": "1789585777988612292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758119089946652672/JLLUBMga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8626,
+          "following_count": 565,
+          "like_count": 5574,
+          "listed_count": 66,
+          "tweet_count": 981
+        },
+        "username": "Iprintemps1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2059938533062918299",
+    "created_at": "2026-06-03T07:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062069333602549810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011113457882710017",
+          "start": 0,
+          "username": "yiyezhifeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062069333602549810",
+    "in_reply_to_user_id": "2011113457882710017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062057679535985114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiyezhifeng 谢谢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2062057676956413952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3miC1asAAKH1R.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2059938533062918299",
+        "created_at": "2026-06-03T07:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062069333602549810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011113457882710017",
+              "start": 0,
+              "username": "yiyezhifeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062069333602549810",
+        "in_reply_to_user_id": "2011113457882710017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062057679535985114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiyezhifeng 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062057676956413952"
+          ]
+        },
+        "author_id": "2011113457882710017",
+        "conversation_id": "2059938533062918299",
+        "created_at": "2026-06-03T06:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062057679535985114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tl3wQBJSdy",
+              "end": 53,
+              "expanded_url": "https://x.com/yiyezhifeng/status/2062057679535985114/photo/1",
+              "media_key": "3_2062057676956413952",
+              "start": 30,
+              "url": "https://t.co/tl3wQBJSdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062057679535985114",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061973390806913112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 非常可爱捏，我会一直关注的 https://t.co/tl3wQBJSdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38135,
+          "following_count": 97,
+          "like_count": 26368,
+          "listed_count": 150,
+          "media_count": 156,
+          "tweet_count": 4459
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T16:30:01.000Z",
+        "description": "",
+        "id": "2011113457882710017",
+        "name": "12 YE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011113518901399552/EUR2oXoR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "yiyezhifeng",
+        "verified": false
+      }
+    ]
+  }
+}

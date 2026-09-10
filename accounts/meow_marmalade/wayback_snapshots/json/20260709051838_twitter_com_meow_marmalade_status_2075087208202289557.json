@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074837622732828700",
+    "created_at": "2026-07-09T05:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075087208202289557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075087208202289557",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075080245594730860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref 😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074837622732828700",
+        "created_at": "2026-07-09T05:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075087208202289557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075087208202289557",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075080245594730860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref 😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874735511031693312",
+        "conversation_id": "2074837622732828700",
+        "created_at": "2026-07-09T04:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075080245594730860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075080245594730860",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074837622732828700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 马老师小雏男受不了这个的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39593,
+          "following_count": 96,
+          "like_count": 27494,
+          "listed_count": 157,
+          "media_count": 185,
+          "tweet_count": 4848
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "location": "林地",
+        "name": "𝔢𝔠𝔩𝔦𝔭𝔰𝔢",
+        "pinned_tweet_id": "2072857474907193719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36131,
+          "following_count": 85,
+          "like_count": 6903,
+          "listed_count": 125,
+          "media_count": 258,
+          "tweet_count": 1697
+        },
+        "url": "",
+        "username": "bittersweet_ref",
+        "verified": true
+      }
+    ]
+  }
+}

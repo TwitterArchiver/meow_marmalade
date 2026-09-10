@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2075937145005699425",
+    "created_at": "2026-07-11T14:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075956300236877845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313016269923250176",
+          "start": 0,
+          "username": "skzahkas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075956300236877845",
+    "in_reply_to_user_id": "1313016269923250176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075950521865965833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skzahkas 对 这就是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2075950514194493440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9B_mnaMAAx7dX.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2075937145005699425",
+        "created_at": "2026-07-11T14:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075956300236877845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313016269923250176",
+              "start": 0,
+              "username": "skzahkas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075956300236877845",
+        "in_reply_to_user_id": "1313016269923250176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075950521865965833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skzahkas 对 这就是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075950514194493440"
+          ]
+        },
+        "author_id": "1313016269923250176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075937145005699425",
+        "created_at": "2026-07-11T14:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075950521865965833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdEhftgzec",
+              "end": 44,
+              "expanded_url": "https://x.com/skzahkas/status/2075950521865965833/photo/1",
+              "media_key": "3_2075950514194493440",
+              "start": 21,
+              "url": "https://t.co/LdEhftgzec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075950521865965833",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075937145005699425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 过两年： https://t.co/LdEhftgzec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39774,
+          "following_count": 96,
+          "like_count": 27557,
+          "listed_count": 157,
+          "media_count": 188,
+          "tweet_count": 4866
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T07:21:10.000Z",
+        "description": "艦これ",
+        "id": "1313016269923250176",
+        "name": "zzzzzzzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009115126654435328/cc6V90bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 1192,
+          "like_count": 13622,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 2622
+        },
+        "url": "",
+        "username": "skzahkas",
+        "verified": false
+      }
+    ]
+  }
+}

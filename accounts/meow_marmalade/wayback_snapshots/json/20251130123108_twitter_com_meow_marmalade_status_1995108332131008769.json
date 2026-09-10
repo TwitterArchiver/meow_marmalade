@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1995075811532275846",
+    "created_at": "2025-11-30T12:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995108332131008769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796081087065812992",
+          "start": 0,
+          "username": "AshleyGibs99166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995108332131008769",
+    "in_reply_to_user_id": "1796081087065812992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995107528611627147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshleyGibs99166 (,,・ω・,,)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1995075811532275846",
+        "created_at": "2025-11-30T12:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995108332131008769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796081087065812992",
+              "start": 0,
+              "username": "AshleyGibs99166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995108332131008769",
+        "in_reply_to_user_id": "1796081087065812992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995107528611627147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshleyGibs99166 (,,・ω・,,)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796081087065812992",
+        "conversation_id": "1995075811532275846",
+        "created_at": "2025-11-30T12:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995107528611627147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995107528611627147",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995075811532275846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你好会搭哦🥰喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27427,
+          "following_count": 95,
+          "like_count": 18693,
+          "listed_count": 113,
+          "media_count": 210,
+          "tweet_count": 2942
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:29:56.000Z",
+        "description": "",
+        "id": "1796081087065812992",
+        "name": "寒夕哒哒哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810028258542661633/-HwyaWnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1069,
+          "like_count": 32420,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 8455
+        },
+        "username": "AshleyGibs99166",
+        "verified": false
+      }
+    ]
+  }
+}

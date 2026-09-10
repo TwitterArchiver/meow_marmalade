@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980222306505895936"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1980222363393524029",
+    "created_at": "2025-10-20T10:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T11:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980222363393524029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pw4BDyLRT2",
+          "end": 39,
+          "expanded_url": "https://x.com/meow_marmalade/status/1980222363393524029/photo/1",
+          "media_key": "3_1980222306505895936",
+          "start": 16,
+          "url": "https://t.co/pw4BDyLRT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980222363393524029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以为把苦涩尝遍\n它们早晚会回甘 https://t.co/pw4BDyLRT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1980222306505895936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3spsjOWsAA3Did.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980222306505895936"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1980222363393524029",
+        "created_at": "2025-10-20T10:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980222363393524029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pw4BDyLRT2",
+              "end": 39,
+              "expanded_url": "https://x.com/meow_marmalade/status/1980222363393524029/photo/1",
+              "media_key": "3_1980222306505895936",
+              "start": 16,
+              "url": "https://t.co/pw4BDyLRT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980222363393524029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以为把苦涩尝遍\n它们早晚会回甘 https://t.co/pw4BDyLRT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21373,
+          "following_count": 94,
+          "like_count": 16969,
+          "listed_count": 86,
+          "media_count": 188,
+          "tweet_count": 2433
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

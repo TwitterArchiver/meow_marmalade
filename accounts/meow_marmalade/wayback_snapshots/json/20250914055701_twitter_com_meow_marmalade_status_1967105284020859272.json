@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1864955576545087995",
+    "created_at": "2025-09-14T05:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967105284020859272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662304092851687424",
+          "start": 0,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967105284020859272",
+    "in_reply_to_user_id": "1662304092851687424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864955576545087995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekkkkko422 你看你扫的😤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1864955550406184963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeGnMS_akAM5iFw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1864955576545087995",
+        "created_at": "2025-09-14T05:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967105284020859272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967105284020859272",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864955576545087995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 你看你扫的😤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864955550406184963"
+          ]
+        },
+        "author_id": "1662304092851687424",
+        "conversation_id": "1864955576545087995",
+        "created_at": "2024-12-06T08:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T09:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864955576545087995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8oQUqnH3q",
+              "end": 44,
+              "expanded_url": "https://x.com/nekkkkko422/status/1864955576545087995/photo/1",
+              "media_key": "3_1864955550406184963",
+              "start": 21,
+              "url": "https://t.co/L8oQUqnH3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864955576545087995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10123,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "洗不掉了😭买纹身贴千万不要买草本的！！！ https://t.co/L8oQUqnH3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18793,
+          "following_count": 91,
+          "like_count": 15563,
+          "listed_count": 76,
+          "media_count": 284,
+          "tweet_count": 2255
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9465,
+          "following_count": 386,
+          "like_count": 2977,
+          "listed_count": 64,
+          "media_count": 244,
+          "tweet_count": 2626
+        },
+        "username": "nekkkkko422",
+        "verified": true
+      }
+    ]
+  }
+}

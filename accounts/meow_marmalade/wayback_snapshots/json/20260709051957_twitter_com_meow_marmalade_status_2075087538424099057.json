@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074792365358035163",
+    "created_at": "2026-07-09T05:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075087538424099057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813197854414106624",
+          "start": 0,
+          "username": "buxiangxidaguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075087538424099057",
+    "in_reply_to_user_id": "1813197854414106624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074938650476077285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buxiangxidaguo 羞死了///w/// （棒读"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074792365358035163",
+        "created_at": "2026-07-09T05:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075087538424099057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813197854414106624",
+              "start": 0,
+              "username": "buxiangxidaguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075087538424099057",
+        "in_reply_to_user_id": "1813197854414106624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074938650476077285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buxiangxidaguo 羞死了///w/// （棒读"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813197854414106624",
+        "conversation_id": "2074792365358035163",
+        "created_at": "2026-07-08T19:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074938650476077285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074938650476077285",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792365358035163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 拜托拜托想听那个→“羞死了///w///”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39593,
+          "following_count": 96,
+          "like_count": 27497,
+          "listed_count": 157,
+          "media_count": 185,
+          "tweet_count": 4849
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T13:04:09.000Z",
+        "description": "",
+        "id": "1813197854414106624",
+        "name": "thxlin",
+        "pinned_tweet_id": "2065299364260806763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065299787453538304/qTxvaCdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "buxiangxidaguo",
+        "verified": false
+      }
+    ]
+  }
+}

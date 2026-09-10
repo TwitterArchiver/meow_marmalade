@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2069707032870203854",
+    "created_at": "2026-06-24T12:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069753603196330068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547949882912428043",
+          "start": 0,
+          "username": "mkmlg444555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069753603196330068",
+    "in_reply_to_user_id": "1547949882912428043",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069746952271794434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkmlg444555 glad u like em🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2069707032870203854",
+        "created_at": "2026-06-24T12:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069753603196330068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547949882912428043",
+              "start": 0,
+              "username": "mkmlg444555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069753603196330068",
+        "in_reply_to_user_id": "1547949882912428043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069746952271794434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkmlg444555 glad u like em🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547949882912428043",
+        "conversation_id": "2069707032870203854",
+        "created_at": "2026-06-24T11:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069746952271794434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069746952271794434",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069707032870203854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 仕事お疲れ様！可愛い写真もありがとう！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39103,
+          "following_count": 94,
+          "like_count": 27134,
+          "listed_count": 154,
+          "media_count": 176,
+          "tweet_count": 4732
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T14:23:14.000Z",
+        "description": "シャウエッセンが毎日ある暮らしが私の夢です",
+        "id": "1547949882912428043",
+        "name": "三屋",
+        "pinned_tweet_id": "1894719681476653522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947692790131134468/38a_G0mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 78,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "mkmlg444555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2073220290507919546",
+    "created_at": "2026-07-04T10:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073353350259867928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904521959070892032",
+          "start": 0,
+          "username": "ShounishiNano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073353350259867928",
+    "in_reply_to_user_id": "1904521959070892032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073220290507919546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShounishiNano 这一定是在邀请我，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A girl with cute anime-style bare feet with Kazusa swimsuit cosplay. 杏山 カズサ black cat in Blue Archive. 水着カズサ",
+        "height": 4032,
+        "media_key": "3_2073220271067320321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWO2iYbUAE_2uC.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2073220290507919546",
+        "created_at": "2026-07-04T10:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073353350259867928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904521959070892032",
+              "start": 0,
+              "username": "ShounishiNano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073353350259867928",
+        "in_reply_to_user_id": "1904521959070892032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073220290507919546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShounishiNano 这一定是在邀请我，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073220271067320321"
+          ]
+        },
+        "author_id": "1904521959070892032",
+        "conversation_id": "2073220290507919546",
+        "created_at": "2026-07-04T01:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073220290507919546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkT97xSYzi",
+              "end": 35,
+              "expanded_url": "https://x.com/ShounishiNano/status/2073220290507919546/photo/1",
+              "media_key": "3_2073220271067320321",
+              "start": 12,
+              "url": "https://t.co/ZkT97xSYzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073220290507919546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 4241,
+          "like_count": 646,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "水着カズサ~ 🩷🐈‍⬛ https://t.co/ZkT97xSYzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39269,
+          "following_count": 95,
+          "like_count": 27321,
+          "listed_count": 155,
+          "media_count": 180,
+          "tweet_count": 4799
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T13:13:25.000Z",
+        "description": "Cosplayer🐾Blue Archive🎮 Kazusa💜\n谢谢你找到我！\nFeel free to DM me if you have anything to say~✨🐾 \nENG | CN | JP",
+        "id": "1904521959070892032",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "柠栖 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056439320966557696/fEo8zE9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20706,
+          "following_count": 1224,
+          "like_count": 9813,
+          "listed_count": 70,
+          "media_count": 154,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "ShounishiNano",
+        "verified": true
+      }
+    ]
+  }
+}

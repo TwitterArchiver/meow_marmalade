@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1869669473562861611",
+    "created_at": "2024-12-19T10:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T11:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869689892604936450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069881915216461825",
+          "start": 0,
+          "username": "Iprintemps1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869689892604936450",
+    "in_reply_to_user_id": "1069881915216461825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869669473562861611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iprintemps1 让我抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1869669473562861611",
+        "created_at": "2024-12-19T10:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869689892604936450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069881915216461825",
+              "start": 0,
+              "username": "Iprintemps1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869689892604936450",
+        "in_reply_to_user_id": "1069881915216461825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869669473562861611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iprintemps1 让我抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869669465077829633"
+          ]
+        },
+        "author_id": "1069881915216461825",
+        "conversation_id": "1869669473562861611",
+        "created_at": "2024-12-19T09:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T10:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869669473562861611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVH3K1BLD6",
+              "end": 25,
+              "expanded_url": "https://x.com/Iprintemps1/status/1869669473562861611/photo/1",
+              "media_key": "3_1869669465077829633",
+              "start": 2,
+              "url": "https://t.co/fVH3K1BLD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869669473562861611",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1057,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🐱 https://t.co/fVH3K1BLD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 105,
+          "like_count": 3630,
+          "listed_count": 7,
+          "media_count": 149,
+          "tweet_count": 530
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T09:11:40.000Z",
+        "description": "冬行性生物，赖床中💤\n小号@Karameru00Rei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Karameru00Rei"
+              }
+            ]
+          }
+        },
+        "id": "1069881915216461825",
+        "location": "盗我图出门撞大卡车❤",
+        "name": "零度白糖",
+        "pinned_tweet_id": "1867802291585397049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845838653853188096/ZePIt7iE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18119,
+          "following_count": 612,
+          "like_count": 8751,
+          "listed_count": 85,
+          "media_count": 146,
+          "tweet_count": 1182
+        },
+        "username": "Iprintemps1",
+        "verified": false
+      }
+    ]
+  }
+}

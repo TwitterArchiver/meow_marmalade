@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2031709432275714158",
+    "created_at": "2026-03-11T13:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031721652103631152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1361278679767130113",
+          "start": 0,
+          "username": "ringenbon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031721652103631152",
+    "in_reply_to_user_id": "1361278679767130113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031712492284793323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringenbon 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2031709432275714158",
+        "created_at": "2026-03-11T13:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031721652103631152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1361278679767130113",
+              "start": 0,
+              "username": "ringenbon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031721652103631152",
+        "in_reply_to_user_id": "1361278679767130113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031712492284793323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringenbon 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361278679767130113",
+        "conversation_id": "2031709432275714158",
+        "created_at": "2026-03-11T12:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031712492284793323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031712492284793323",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031709432275714158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 嗯？选择游戏主角性别界面？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36435,
+          "following_count": 93,
+          "like_count": 22921,
+          "listed_count": 140,
+          "media_count": 183,
+          "tweet_count": 3858
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T11:38:41.000Z",
+        "description": "啊這 日本語を勉強中 英語が下手 たぶんね 世界平和 世界和平。",
+        "id": "1361278679767130113",
+        "location": "Hong Kong",
+        "name": "げんぼん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361278832959836161/ZYMSXREt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 2052,
+          "like_count": 3764,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 328
+        },
+        "username": "ringenbon",
+        "verified": false
+      }
+    ]
+  }
+}

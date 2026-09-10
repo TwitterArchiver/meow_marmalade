@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000132668051378176"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2000132733742555382",
+    "created_at": "2025-12-14T09:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T10:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000132733742555382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IVA7I6tWKk",
+          "end": 33,
+          "expanded_url": "https://x.com/meow_marmalade/status/2000132733742555382/video/1",
+          "media_key": "13_2000132668051378176",
+          "start": 10,
+          "url": "https://t.co/IVA7I6tWKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000132733742555382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "指甲长怎么打字…… https://t.co/IVA7I6tWKk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8428,
+        "height": 1280,
+        "media_key": "13_2000132668051378176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000132668051378176/img/xjjer1ANAuZETXHb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000132668051378176/vid/avc1/320x568/GjzUSXBtFyX1qz9N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000132668051378176/vid/avc1/480x852/0tLH29qdPizyYSLQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000132668051378176/vid/avc1/720x1280/99OAXntHLLTaFvft.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000132668051378176/pl/svwHeoigBg4Pz24h.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000132668051378176"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2000132733742555382",
+        "created_at": "2025-12-14T09:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000132733742555382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVA7I6tWKk",
+              "end": 33,
+              "expanded_url": "https://x.com/meow_marmalade/status/2000132733742555382/video/1",
+              "media_key": "13_2000132668051378176",
+              "start": 10,
+              "url": "https://t.co/IVA7I6tWKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000132733742555382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "指甲长怎么打字…… https://t.co/IVA7I6tWKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28127,
+          "following_count": 90,
+          "like_count": 19421,
+          "listed_count": 124,
+          "media_count": 208,
+          "tweet_count": 3072
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

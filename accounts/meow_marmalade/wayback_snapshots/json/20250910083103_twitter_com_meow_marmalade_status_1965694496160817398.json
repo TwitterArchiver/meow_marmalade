@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1965691043028033814",
+    "created_at": "2025-09-10T08:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T09:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965694496160817398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462409277042221070",
+          "start": 0,
+          "username": "Treiger5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965694496160817398",
+    "in_reply_to_user_id": "1462409277042221070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965691890222944504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Treiger5 牛魔的气死我了😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1965691043028033814",
+        "created_at": "2025-09-10T08:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965694496160817398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462409277042221070",
+              "start": 0,
+              "username": "Treiger5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965694496160817398",
+        "in_reply_to_user_id": "1462409277042221070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965691890222944504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Treiger5 牛魔的气死我了😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462409277042221070",
+        "conversation_id": "1965691043028033814",
+        "created_at": "2025-09-10T08:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965691890222944504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965691890222944504",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965691043028033814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 一去不复返了主播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18241,
+          "following_count": 90,
+          "like_count": 15386,
+          "listed_count": 72,
+          "media_count": 289,
+          "tweet_count": 2226
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:15:35.000Z",
+        "description": "于是我把一切丢进了电子的海洋。",
+        "id": "1462409277042221070",
+        "location": "Night city",
+        "name": "Achesx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964671365094805504/kSOs7dnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 933,
+          "like_count": 26598,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 618
+        },
+        "username": "Treiger5",
+        "verified": false
+      }
+    ]
+  }
+}

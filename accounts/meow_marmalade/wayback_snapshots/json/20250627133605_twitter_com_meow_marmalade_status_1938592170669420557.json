@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1938552226064343087",
+    "created_at": "2025-06-27T13:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938592170669420557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614515878737113090",
+          "start": 0,
+          "username": "Sakichan_desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938592170669420557",
+    "in_reply_to_user_id": "1614515878737113090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938576173891731932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakichan_desuwa 享受！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_1938576168149831680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guc0wQCb0AAAtUZ.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1938552226064343087",
+        "created_at": "2025-06-27T13:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938592170669420557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614515878737113090",
+              "start": 0,
+              "username": "Sakichan_desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938592170669420557",
+        "in_reply_to_user_id": "1614515878737113090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938576173891731932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakichan_desuwa 享受！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938576168149831680"
+          ]
+        },
+        "author_id": "1614515878737113090",
+        "conversation_id": "1938552226064343087",
+        "created_at": "2025-06-27T12:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938576173891731932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bi03bu44Np",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakichan_desuwa/status/1938576173891731932/photo/1",
+              "media_key": "3_1938576168149831680",
+              "start": 16,
+              "url": "https://t.co/Bi03bu44Np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938576173891731932",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938552226064343087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade https://t.co/Bi03bu44Np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9852,
+          "following_count": 99,
+          "like_count": 12005,
+          "listed_count": 33,
+          "media_count": 275,
+          "tweet_count": 1404
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T06:53:59.000Z",
+        "description": "Res quas amo.",
+        "id": "1614515878737113090",
+        "location": "Utopia",
+        "name": "伪人小祥desuwa",
+        "pinned_tweet_id": "1931292817017418065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929590920930095104/rRnZuYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1604,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1272
+        },
+        "username": "Sakichan_desuwa",
+        "verified": false
+      }
+    ]
+  }
+}

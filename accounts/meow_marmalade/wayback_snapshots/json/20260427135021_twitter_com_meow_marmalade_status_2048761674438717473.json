@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2048702829544804820",
+    "created_at": "2026-04-27T13:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048761674438717473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "970008291647545346",
+          "start": 0,
+          "username": "asdpopipa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048761674438717473",
+    "in_reply_to_user_id": "970008291647545346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048752355320217847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asdpopipa 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2048702829544804820",
+        "created_at": "2026-04-27T13:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048761674438717473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "970008291647545346",
+              "start": 0,
+              "username": "asdpopipa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048761674438717473",
+        "in_reply_to_user_id": "970008291647545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048752355320217847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asdpopipa 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "970008291647545346",
+        "conversation_id": "2048702829544804820",
+        "created_at": "2026-04-27T13:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048752355320217847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048752355320217847",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048702829544804820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 甜美松岗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37230,
+          "following_count": 97,
+          "like_count": 25208,
+          "listed_count": 146,
+          "media_count": 187,
+          "tweet_count": 4192
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-03T18:49:33.000Z",
+        "description": "好想找人聊聊天。。",
+        "id": "970008291647545346",
+        "location": "America",
+        "name": "月樹Marie🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894099975841484800/5xPIt5Ft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 314,
+          "like_count": 32529,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 2604
+        },
+        "username": "asdpopipa",
+        "verified": false
+      }
+    ]
+  }
+}

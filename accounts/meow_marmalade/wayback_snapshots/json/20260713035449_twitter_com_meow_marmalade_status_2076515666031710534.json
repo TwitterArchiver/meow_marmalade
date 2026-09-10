@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2076299476562829392",
+    "created_at": "2026-07-13T03:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076515666031710534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "910832239327420416",
+          "start": 0,
+          "username": "emmastertu"
+        },
+        {
+          "end": 25,
+          "id": "1352318841985011713",
+          "start": 12,
+          "username": "FoolishShiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076515666031710534",
+    "in_reply_to_user_id": "910832239327420416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076498390612087089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emmastertu @FoolishShiro 我没点名任何角色任何游戏🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2076299476562829392",
+        "created_at": "2026-07-13T03:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076515666031710534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "910832239327420416",
+              "start": 0,
+              "username": "emmastertu"
+            },
+            {
+              "end": 25,
+              "id": "1352318841985011713",
+              "start": 12,
+              "username": "FoolishShiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076515666031710534",
+        "in_reply_to_user_id": "910832239327420416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076498390612087089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emmastertu @FoolishShiro 我没点名任何角色任何游戏🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "910832239327420416",
+        "conversation_id": "2076299476562829392",
+        "created_at": "2026-07-13T02:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076498390612087089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1352318841985011713",
+              "start": 0,
+              "username": "FoolishShiro"
+            },
+            {
+              "end": 29,
+              "id": "1353996204422492160",
+              "start": 14,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076498390612087089",
+        "in_reply_to_user_id": "1352318841985011713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076324658291630153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoolishShiro @meow_marmalade 你在实名骂卡缪吗hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39804,
+          "following_count": 97,
+          "like_count": 27579,
+          "listed_count": 160,
+          "media_count": 189,
+          "tweet_count": 4887
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T11:45:03.000Z",
+        "description": "我们终极都是无知之人，怀揣着憧憬和求知生存。",
+        "id": "910832239327420416",
+        "location": "Stockholm, Sweden",
+        "name": "Stoic guy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739045653055950848/m485_Idw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 2713,
+          "like_count": 7209,
+          "listed_count": 3,
+          "media_count": 423,
+          "tweet_count": 9897
+        },
+        "url": "",
+        "username": "emmastertu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T18:15:21.000Z",
+        "description": "无趣的人",
+        "id": "1352318841985011713",
+        "name": "「 」空白",
+        "pinned_tweet_id": "1972683751109824943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613430769766240256/NXIc-Gc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14413,
+          "following_count": 267,
+          "like_count": 2104,
+          "listed_count": 68,
+          "media_count": 906,
+          "tweet_count": 6501
+        },
+        "url": "",
+        "username": "FoolishShiro",
+        "verified": false
+      }
+    ]
+  }
+}

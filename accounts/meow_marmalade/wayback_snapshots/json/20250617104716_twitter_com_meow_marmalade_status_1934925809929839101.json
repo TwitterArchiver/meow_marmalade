@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1934217198614331392",
+    "created_at": "2025-06-17T10:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T11:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934925809929839101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2515323144",
+          "start": 0,
+          "username": "sxx130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934925809929839101",
+    "in_reply_to_user_id": "2515323144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934913623278915816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxx130 我也不知道 回过神来自己已经在这么做了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1934217198614331392",
+        "created_at": "2025-06-17T10:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934925809929839101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2515323144",
+              "start": 0,
+              "username": "sxx130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934925809929839101",
+        "in_reply_to_user_id": "2515323144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934913623278915816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxx130 我也不知道 回过神来自己已经在这么做了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2515323144",
+        "conversation_id": "1934217198614331392",
+        "created_at": "2025-06-17T09:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934913623278915816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934913623278915816",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934217198614331392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 蜜柑大大对男生喜欢穿丝袜有什么看法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8906,
+          "following_count": 96,
+          "like_count": 11608,
+          "listed_count": 27,
+          "media_count": 262,
+          "tweet_count": 1293
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-22T12:33:18.000Z",
+        "description": "鍵っ子🔑声優たちが大好き！！！山根綺さん、鬼頭明里さんなどを応援📣\n 避難垢＠BxXQUxoYee78920",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "BxXQUxoYee78920"
+              }
+            ]
+          }
+        },
+        "id": "2515323144",
+        "name": "言愛黒雪",
+        "pinned_tweet_id": "1920130592513089988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459904621812453381/qj0HpkVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 0,
+          "like_count": 58,
+          "listed_count": 16,
+          "media_count": 248,
+          "tweet_count": 65836
+        },
+        "username": "sxx130",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1990423266175881306",
+    "created_at": "2025-11-17T15:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990443478481056241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666504399173107712",
+          "start": 0,
+          "username": "yuLianChengk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990443478481056241",
+    "in_reply_to_user_id": "1666504399173107712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990437410623152405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuLianChengk 不赖在快要四了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1990423266175881306",
+        "created_at": "2025-11-17T15:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990443478481056241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666504399173107712",
+              "start": 0,
+              "username": "yuLianChengk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990443478481056241",
+        "in_reply_to_user_id": "1666504399173107712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990437410623152405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuLianChengk 不赖在快要四了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666504399173107712",
+        "conversation_id": "1990423266175881306",
+        "created_at": "2025-11-17T15:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990437410623152405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990437410623152405",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990423266175881306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 不赖在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27481,
+          "following_count": 97,
+          "like_count": 18255,
+          "listed_count": 111,
+          "media_count": 201,
+          "tweet_count": 2826
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T17:56:39.000Z",
+        "description": "世界若是一团乱麻，吾辈理应化身快刀。",
+        "id": "1666504399173107712",
+        "name": "羽连城",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666509598382071809/x2z80nxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 498,
+          "like_count": 2565,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1417
+        },
+        "username": "yuLianChengk",
+        "verified": false
+      }
+    ]
+  }
+}

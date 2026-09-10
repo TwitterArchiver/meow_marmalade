@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1958115775732191552",
+    "created_at": "2025-08-21T16:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T17:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958573087701835877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455602309975588866",
+          "start": 0,
+          "username": "ba_ka2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958573087701835877",
+    "in_reply_to_user_id": "1455602309975588866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958565323516653578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ba_ka2022 那很神秘了orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1958115775732191552",
+        "created_at": "2025-08-21T16:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958573087701835877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455602309975588866",
+              "start": 0,
+              "username": "ba_ka2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958573087701835877",
+        "in_reply_to_user_id": "1455602309975588866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958565323516653578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ba_ka2022 那很神秘了orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455602309975588866",
+        "conversation_id": "1958115775732191552",
+        "created_at": "2025-08-21T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958565323516653578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958565323516653578",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958221893015941542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我推特除了一个太阳男娘的，其他都是画师。可能是他的缘故吧（但他没关注你）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15567,
+          "following_count": 94,
+          "like_count": 14437,
+          "listed_count": 59,
+          "media_count": 337,
+          "tweet_count": 2037
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T18:26:58.000Z",
+        "description": "（中国人，男子）一緒にチャットできる，話ができれば",
+        "id": "1455602309975588866",
+        "location": "中国，广东",
+        "name": "躺平怪_(:зゝ∠)_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536770156847693824/B8vhSXjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 73,
+          "like_count": 257,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1034
+        },
+        "username": "ba_ka2022",
+        "verified": false
+      }
+    ]
+  }
+}

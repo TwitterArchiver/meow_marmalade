@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2073236961817694610",
+    "created_at": "2026-07-04T10:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073353558288990705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        },
+        {
+          "end": 51,
+          "id": "1874735511031693312",
+          "start": 35,
+          "username": "bittersweet_ref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073353558288990705",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073236961817694610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref 比她好看的没她骚，比她骚的没她好看\n@bittersweet_ref"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1564,
+        "media_key": "3_2073236945048948737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWeBFzb0AEHrk3.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2073236961817694610",
+        "created_at": "2026-07-04T10:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073353558288990705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            },
+            {
+              "end": 51,
+              "id": "1874735511031693312",
+              "start": 35,
+              "username": "bittersweet_ref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073353558288990705",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073236961817694610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref 比她好看的没她骚，比她骚的没她好看\n@bittersweet_ref"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073236945048948737"
+          ]
+        },
+        "author_id": "1874735511031693312",
+        "conversation_id": "2073236961817694610",
+        "created_at": "2026-07-04T02:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073236961817694610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1874735511031693312",
+              "start": 17,
+              "username": "bittersweet_ref"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOKXS2K2lW",
+              "end": 57,
+              "expanded_url": "https://x.com/bittersweet_ref/status/2073236961817694610/photo/1",
+              "media_key": "3_2073236945048948737",
+              "start": 34,
+              "url": "https://t.co/vOKXS2K2lW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073236961817694610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6052,
+          "like_count": 439,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "比她好看的没她骚，比她骚的没她好看@bittersweet_ref https://t.co/vOKXS2K2lW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39269,
+          "following_count": 95,
+          "like_count": 27323,
+          "listed_count": 155,
+          "media_count": 180,
+          "tweet_count": 4800
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "location": "林地",
+        "name": "𝔢𝔠𝔩𝔦𝔭𝔰𝔢",
+        "pinned_tweet_id": "2072857474907193719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35849,
+          "following_count": 84,
+          "like_count": 6860,
+          "listed_count": 125,
+          "media_count": 256,
+          "tweet_count": 1679
+        },
+        "url": "",
+        "username": "bittersweet_ref",
+        "verified": true
+      }
+    ]
+  }
+}

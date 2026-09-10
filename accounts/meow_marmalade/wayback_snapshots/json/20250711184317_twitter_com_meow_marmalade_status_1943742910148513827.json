@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1943647278583128190",
+    "created_at": "2025-07-11T18:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T19:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943742910148513827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550157326924992513",
+          "start": 0,
+          "username": "CuteCat35078829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943742910148513827",
+    "in_reply_to_user_id": "1550157326924992513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943738450148040950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteCat35078829 谢谢你😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1943647278583128190",
+        "created_at": "2025-07-11T18:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943742910148513827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550157326924992513",
+              "start": 0,
+              "username": "CuteCat35078829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943742910148513827",
+        "in_reply_to_user_id": "1550157326924992513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943738450148040950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteCat35078829 谢谢你😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550157326924992513",
+        "conversation_id": "1943647278583128190",
+        "created_at": "2025-07-11T18:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943738450148040950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943738450148040950",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943647278583128190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 主播好可爱！\n (‵▽′)/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11903,
+          "following_count": 99,
+          "like_count": 12670,
+          "listed_count": 47,
+          "media_count": 288,
+          "tweet_count": 1543
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T16:34:55.000Z",
+        "description": "友好的中国网友一名，希望能在X上交到更多朋友owo",
+        "id": "1550157326924992513",
+        "name": "Cute Cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911392928095748097/HyKugT8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 107,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "CuteCat35078829",
+        "verified": false
+      }
+    ]
+  }
+}

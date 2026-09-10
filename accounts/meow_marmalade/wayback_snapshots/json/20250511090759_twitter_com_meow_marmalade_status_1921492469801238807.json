@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1921139769158852822",
+    "created_at": "2025-05-11T09:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T10:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921492469801238807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "980183892740239360",
+          "start": 0,
+          "username": "Hayate_FFXIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921492469801238807",
+    "in_reply_to_user_id": "980183892740239360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921455764540903890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hayate_FFXIV 其实穿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1921139769158852822",
+        "created_at": "2025-05-11T09:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921492469801238807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "980183892740239360",
+              "start": 0,
+              "username": "Hayate_FFXIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921492469801238807",
+        "in_reply_to_user_id": "980183892740239360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921455764540903890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayate_FFXIV 其实穿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "980183892740239360",
+        "conversation_id": "1921139769158852822",
+        "created_at": "2025-05-11T06:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T07:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921455764540903890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921455764540903890",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921139769158852822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 真梅川吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1920777113084260628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4841,
+          "following_count": 94,
+          "like_count": 9901,
+          "listed_count": 15,
+          "media_count": 223,
+          "tweet_count": 992
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-31T20:43:45.000Z",
+        "description": "May you ever walking through the light",
+        "id": "980183892740239360",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "Ate",
+        "pinned_tweet_id": "1889701857678790934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892241683229917184/8CSE3Bqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 586,
+          "like_count": 11479,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 2306
+        },
+        "username": "Hayate_FFXIV",
+        "verified": false
+      }
+    ]
+  }
+}

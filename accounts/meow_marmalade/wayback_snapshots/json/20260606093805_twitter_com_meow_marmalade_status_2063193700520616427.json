@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2063179335285268784",
+    "created_at": "2026-06-06T09:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063193700520616427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767749178401415168",
+          "start": 0,
+          "username": "STILLING340907"
+        },
+        {
+          "end": 25,
+          "id": "1812363069487742976",
+          "start": 16,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063193700520616427",
+    "in_reply_to_user_id": "1767749178401415168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063180416476147928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STILLING340907 @mingji_A 我受不了了笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2063179335285268784",
+        "created_at": "2026-06-06T09:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063193700520616427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767749178401415168",
+              "start": 0,
+              "username": "STILLING340907"
+            },
+            {
+              "end": 25,
+              "id": "1812363069487742976",
+              "start": 16,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063193700520616427",
+        "in_reply_to_user_id": "1767749178401415168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063180416476147928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STILLING340907 @mingji_A 我受不了了笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767749178401415168",
+        "conversation_id": "2063179335285268784",
+        "created_at": "2026-06-06T08:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063180416476147928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063180416476147928",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063179335285268784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 揭开他们的面纱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38344,
+          "following_count": 98,
+          "like_count": 26518,
+          "listed_count": 148,
+          "media_count": 156,
+          "tweet_count": 4508
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T03:07:09.000Z",
+        "description": "",
+        "id": "1767749178401415168",
+        "name": "海绵宝宝南梦芽",
+        "pinned_tweet_id": "2062863691171913750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800004991316594688/atWo2pGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6292,
+          "following_count": 771,
+          "like_count": 7722,
+          "listed_count": 36,
+          "media_count": 169,
+          "tweet_count": 1965
+        },
+        "username": "STILLING340907",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 2601,
+          "like_count": 94865,
+          "listed_count": 25,
+          "media_count": 218,
+          "tweet_count": 21675
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

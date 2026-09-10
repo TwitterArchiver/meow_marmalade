@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2087500140303298758",
+    "created_at": "2026-08-12T14:35:44.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087548596799566007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904521959070892032",
+          "start": 0,
+          "username": "ShounishiNano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087548596799566007",
+    "in_reply_to_user_id": "1904521959070892032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087500140303298758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShounishiNano 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Kazusa Blue Archive",
+        "height": 2048,
+        "media_key": "3_2087500123505086464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhKTWIa0AAzf4p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2087500140303298758",
+        "created_at": "2026-08-12T14:35:44.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087548596799566007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904521959070892032",
+              "start": 0,
+              "username": "ShounishiNano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548596799566007",
+        "in_reply_to_user_id": "1904521959070892032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087500140303298758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShounishiNano 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087500123505086464"
+          ]
+        },
+        "author_id": "1904521959070892032",
+        "conversation_id": "2087500140303298758",
+        "created_at": "2026-08-12T11:23:11.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087500140303298758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRQFk7FFVJ",
+              "end": 28,
+              "expanded_url": "https://x.com/ShounishiNano/status/2087500140303298758/photo/1",
+              "media_key": "3_2087500123505086464",
+              "start": 5,
+              "url": "https://t.co/xRQFk7FFVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087500140303298758",
+        "lang": "eu",
+        "media_metadata": [
+          {
+            "alt_text": "Kazusa Blue Archive",
+            "media_key": "3_2087500123505086464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 581,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Neko https://t.co/xRQFk7FFVJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2087548596799566007",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40525,
+          "following_count": 100,
+          "like_count": 28250,
+          "listed_count": 164,
+          "media_count": 211,
+          "tweet_count": 5106
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T13:13:25.000Z",
+        "description": "時間に囚われた人",
+        "id": "1904521959070892032",
+        "is_identity_verified": false,
+        "location": "Miaoli County, Taiwan",
+        "most_recent_tweet_id": "2087500140303298758",
+        "name": "柠栖 🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904521959070892032/1786075569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056439320966557696/fEo8zE9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20841,
+          "following_count": 1292,
+          "like_count": 10061,
+          "listed_count": 70,
+          "media_count": 31,
+          "tweet_count": 1594
+        },
+        "url": "",
+        "username": "ShounishiNano",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

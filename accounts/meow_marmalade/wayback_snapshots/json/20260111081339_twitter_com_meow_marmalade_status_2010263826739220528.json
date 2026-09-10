@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2009558995250602478",
+    "created_at": "2026-01-11T08:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T09:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010263826739220528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532628325255983104",
+          "start": 0,
+          "username": "kuA33744948"
+        },
+        {
+          "end": 22,
+          "id": "1585057262426783744",
+          "start": 13,
+          "username": "jima8011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010263826739220528",
+    "in_reply_to_user_id": "1532628325255983104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010166564574965838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuA33744948 @jima8011 笑死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2009558995250602478",
+        "created_at": "2026-01-11T08:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T09:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010263826739220528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532628325255983104",
+              "start": 0,
+              "username": "kuA33744948"
+            },
+            {
+              "end": 22,
+              "id": "1585057262426783744",
+              "start": 13,
+              "username": "jima8011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010263826739220528",
+        "in_reply_to_user_id": "1532628325255983104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010166564574965838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuA33744948 @jima8011 笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532628325255983104",
+        "conversation_id": "2009558995250602478",
+        "created_at": "2026-01-11T01:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T02:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010166564574965838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585057262426783744",
+              "start": 0,
+              "username": "jima8011"
+            },
+            {
+              "end": 25,
+              "id": "1353996204422492160",
+              "start": 10,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010166564574965838",
+        "in_reply_to_user_id": "1585057262426783744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009615212949729544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jima8011 @meow_marmalade 兄弟我打到一半看到这条，算了来都来了，打完吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30667,
+          "following_count": 93,
+          "like_count": 20761,
+          "listed_count": 130,
+          "media_count": 170,
+          "tweet_count": 3340
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T07:40:58.000Z",
+        "description": "",
+        "id": "1532628325255983104",
+        "name": "梅川内酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538703598585974785/Q3llGyt7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 116,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "kuA33744948",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T23:55:04.000Z",
+        "description": "",
+        "id": "1585057262426783744",
+        "name": "jack ma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585057385722580992/UMWsriT5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 307,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 414
+        },
+        "username": "jima8011",
+        "verified": false
+      }
+    ]
+  }
+}

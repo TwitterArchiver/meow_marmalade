@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1996869644595220802",
+    "created_at": "2025-12-05T10:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996885247590650204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1501964494955696145",
+          "start": 0,
+          "username": "AWei_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996885247590650204",
+    "in_reply_to_user_id": "1501964494955696145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996882665107284413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AWei_miao 嚯嚯嚯😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1996869644595220802",
+        "created_at": "2025-12-05T10:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996885247590650204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1501964494955696145",
+              "start": 0,
+              "username": "AWei_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996885247590650204",
+        "in_reply_to_user_id": "1501964494955696145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996882665107284413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AWei_miao 嚯嚯嚯😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501964494955696145",
+        "conversation_id": "1996869644595220802",
+        "created_at": "2025-12-05T10:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996882665107284413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996882665107284413",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996869644595220802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老婆老婆！床已经暖好了！快上来！今晚一决雌雄！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27669,
+          "following_count": 91,
+          "like_count": 18905,
+          "listed_count": 117,
+          "media_count": 199,
+          "tweet_count": 2962
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T16:53:43.000Z",
+        "description": "不知道该发些什么，偶尔上传点女装吧（我是超级大摆子！）",
+        "id": "1501964494955696145",
+        "location": "相剑的大灵峰",
+        "name": "tokimi时见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821128188589961217/WgaMooeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 230,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 260
+        },
+        "username": "AWei_miao",
+        "verified": false
+      }
+    ]
+  }
+}

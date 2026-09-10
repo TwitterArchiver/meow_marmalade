@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1979134985916559590",
+    "created_at": "2025-10-19T01:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979726526498459662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2173371077",
+          "start": 0,
+          "username": "nov810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979726526498459662",
+    "in_reply_to_user_id": "2173371077",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979725390580269089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nov810 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1979134985916559590",
+        "created_at": "2025-10-19T01:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979726526498459662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2173371077",
+              "start": 0,
+              "username": "nov810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979726526498459662",
+        "in_reply_to_user_id": "2173371077",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979725390580269089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nov810 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2173371077",
+        "conversation_id": "1979134985916559590",
+        "created_at": "2025-10-19T01:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979725390580269089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979725390580269089",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979134985916559590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这造型也太萌了吧！谁能不爱呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21199,
+          "following_count": 94,
+          "like_count": 16898,
+          "listed_count": 85,
+          "media_count": 185,
+          "tweet_count": 2409
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-08T13:42:33.000Z",
+        "description": "新手小男娘 🐧:323978990\n聊天随意 但是直接要图要视频的10r口令红包门槛 本来是无门槛的 但是跟乞丐一样上来直接要图发完图就不说话的太多了\n备用号:@LingXue10086",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "LingXue10086"
+              }
+            ]
+          }
+        },
+        "id": "2173371077",
+        "location": "南极",
+        "name": "雪凌",
+        "pinned_tweet_id": "1957563821117341930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952422874247294976/2_X0fNXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 50,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 198
+        },
+        "username": "nov810",
+        "verified": false
+      }
+    ]
+  }
+}

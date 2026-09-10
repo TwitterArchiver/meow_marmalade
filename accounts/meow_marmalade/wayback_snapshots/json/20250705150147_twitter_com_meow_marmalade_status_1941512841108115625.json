@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1941508139540676760",
+    "created_at": "2025-07-05T15:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T16:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941512841108115625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1198458175248195584",
+          "start": 0,
+          "username": "rkssky1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941512841108115625",
+    "in_reply_to_user_id": "1198458175248195584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941512038007943449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rkssky1 嘟嘟哒嘟嘟哒💀💀💀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1941512035633856513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGi6OsaAAEnV42.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1941508139540676760",
+        "created_at": "2025-07-05T15:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941512841108115625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1198458175248195584",
+              "start": 0,
+              "username": "rkssky1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941512841108115625",
+        "in_reply_to_user_id": "1198458175248195584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941512038007943449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rkssky1 嘟嘟哒嘟嘟哒💀💀💀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941512035633856513"
+          ]
+        },
+        "author_id": "1198458175248195584",
+        "conversation_id": "1941508139540676760",
+        "created_at": "2025-07-05T14:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941512038007943449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbwGmvb1mf",
+              "end": 45,
+              "expanded_url": "https://x.com/rkssky1/status/1941512038007943449/photo/1",
+              "media_key": "3_1941512035633856513",
+              "start": 22,
+              "url": "https://t.co/MbwGmvb1mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941512038007943449",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941508139540676760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你是真的瘦 https://t.co/MbwGmvb1mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11244,
+          "following_count": 98,
+          "like_count": 12329,
+          "listed_count": 46,
+          "media_count": 282,
+          "tweet_count": 1477
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-24T04:27:58.000Z",
+        "description": "二次元 练吉他 初中老师 爱打游戏的傻🐶一个",
+        "id": "1198458175248195584",
+        "location": "California, USA",
+        "name": "rkssky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342042558466121728/0oroVxeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 127
+        },
+        "username": "rkssky1",
+        "verified": false
+      }
+    ]
+  }
+}

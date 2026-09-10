@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2081713529552511204",
+    "created_at": "2026-07-27T14:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081745224934822259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        },
+        {
+          "end": 27,
+          "id": "1530592525492584448",
+          "start": 15,
+          "username": "Suki_kawai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081745224934822259",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081740650886901997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 @Suki_kawai_ dui"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2081713529552511204",
+        "created_at": "2026-07-27T14:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081745224934822259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            },
+            {
+              "end": 27,
+              "id": "1530592525492584448",
+              "start": 15,
+              "username": "Suki_kawai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081745224934822259",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081740650886901997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 @Suki_kawai_ dui"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775411944692051968",
+        "conversation_id": "2081713529552511204",
+        "created_at": "2026-07-27T13:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081740650886901997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 28,
+              "id": "1530592525492584448",
+              "start": 16,
+              "username": "Suki_kawai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081740650886901997",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081713529552511204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @Suki_kawai_ 还有半衰期"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40359,
+          "following_count": 98,
+          "like_count": 27927,
+          "listed_count": 162,
+          "media_count": 201,
+          "tweet_count": 5013
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\n主页：https://t.co/8FnOVBN7XY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 58,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 35,
+                "url": "https://t.co/8FnOVBN7XY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 0,
+                "url": "https://t.co/ToMyFG0Jda"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "location": "欧润吉",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2047376349418131948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5176,
+          "following_count": 2055,
+          "like_count": 13947,
+          "listed_count": 20,
+          "media_count": 270,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/ToMyFG0Jda",
+        "username": "MagicalHat999",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-28T16:51:20.000Z",
+        "description": "⚠️NO 18+/重音テト❤️/超级喜欢大家！！！/对男装cos推感兴趣可以关注@Suki_Seventeen_低频更新/偶尔掉落cos照/可以来找我聊天！／中文🉑日本語勉強中/社畜/日常生活推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "Suki_Seventeen_"
+              }
+            ]
+          }
+        },
+        "id": "1530592525492584448",
+        "location": "connect with your heart",
+        "name": "詩祈拾柒",
+        "pinned_tweet_id": "2081554811414286466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078589814270795776/Sp5z5n4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 686,
+          "like_count": 10852,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "Suki_kawai_",
+        "verified": false
+      }
+    ]
+  }
+}

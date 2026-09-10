@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1932054217923166475",
+    "created_at": "2025-06-09T18:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T19:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932142045977800792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1212753537085530112",
+          "start": 0,
+          "username": "WickedInformer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932142045977800792",
+    "in_reply_to_user_id": "1212753537085530112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932138144285200398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WickedInformer 哈哈哈喜欢就好😊😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1932054217923166475",
+        "created_at": "2025-06-09T18:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932142045977800792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1212753537085530112",
+              "start": 0,
+              "username": "WickedInformer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932142045977800792",
+        "in_reply_to_user_id": "1212753537085530112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932138144285200398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WickedInformer 哈哈哈喜欢就好😊😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212753537085530112",
+        "conversation_id": "1932054217923166475",
+        "created_at": "2025-06-09T18:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932138144285200398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932138144285200398",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932054217923166475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好喜歡這個 outfit! 🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 95,
+          "like_count": 11356,
+          "listed_count": 26,
+          "media_count": 255,
+          "tweet_count": 1237
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T15:13:28.000Z",
+        "description": "20s || MDNI 🔞 || 🇨🇦 Van || S",
+        "id": "1212753537085530112",
+        "location": "Canada",
+        "name": "ЯΣVΣЯΛ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930367046661091330/OR0ywn0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 681,
+          "like_count": 25086,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1301
+        },
+        "username": "WickedInformer",
+        "verified": false
+      }
+    ]
+  }
+}

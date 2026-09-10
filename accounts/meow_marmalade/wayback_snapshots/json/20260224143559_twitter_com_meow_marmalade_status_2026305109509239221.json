@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2025913274697740535",
+    "created_at": "2026-02-24T14:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026305109509239221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026305109509239221",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026303243723436259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2025913274697740535",
+        "created_at": "2026-02-24T14:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026305109509239221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026305109509239221",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026303243723436259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874735511031693312",
+        "conversation_id": "2025913274697740535",
+        "created_at": "2026-02-24T14:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026303243723436259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026303243723436259",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025913274697740535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade sad..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36097,
+          "following_count": 96,
+          "like_count": 22221,
+          "listed_count": 140,
+          "media_count": 169,
+          "tweet_count": 3702
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "location": "林地",
+        "name": "𝔭𝔯𝔦𝔢𝔰𝔱𝔢𝔰𝔰",
+        "pinned_tweet_id": "2024426339579912215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25375,
+          "following_count": 77,
+          "like_count": 5211,
+          "listed_count": 91,
+          "media_count": 192,
+          "tweet_count": 1395
+        },
+        "username": "bittersweet_ref",
+        "verified": false
+      }
+    ]
+  }
+}

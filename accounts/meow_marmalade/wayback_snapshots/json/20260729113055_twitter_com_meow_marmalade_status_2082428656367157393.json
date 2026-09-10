@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2082084159858889112",
+    "created_at": "2026-07-29T11:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082428656367157393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888818676306219008",
+          "start": 0,
+          "username": "shjix156912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082428656367157393",
+    "in_reply_to_user_id": "1888818676306219008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082406345404539218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shjix156912 ☹️☹️☹️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2082084159858889112",
+        "created_at": "2026-07-29T11:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428656367157393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888818676306219008",
+              "start": 0,
+              "username": "shjix156912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428656367157393",
+        "in_reply_to_user_id": "1888818676306219008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082406345404539218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shjix156912 ☹️☹️☹️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888818676306219008",
+        "conversation_id": "2082084159858889112",
+        "created_at": "2026-07-29T10:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082406345404539218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082406345404539218",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082084159858889112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 小心我让菲比拿烟头烫你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40430,
+          "following_count": 98,
+          "like_count": 27968,
+          "listed_count": 162,
+          "media_count": 200,
+          "tweet_count": 5023
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T05:14:17.000Z",
+        "description": "不喜欢鉴政，动保和搞男拳女拳的都是SB（指极端），我就是个臭打游戏的",
+        "id": "1888818676306219008",
+        "name": "726捏",
+        "pinned_tweet_id": "2064260088932819246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888818753523314688/l-wjtJtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 205,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "shjix156912",
+        "verified": false
+      }
+    ]
+  }
+}

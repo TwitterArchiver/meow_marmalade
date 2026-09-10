@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060686204593709478",
+    "created_at": "2026-05-30T12:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060694287185276960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706600551855656960",
+          "start": 0,
+          "username": "Jameswesore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060694287185276960",
+    "in_reply_to_user_id": "1706600551855656960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060688128051159407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Jameswesore 那就对了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T12:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060694287185276960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706600551855656960",
+              "start": 0,
+              "username": "Jameswesore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060694287185276960",
+        "in_reply_to_user_id": "1706600551855656960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060688128051159407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Jameswesore 那就对了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706600551855656960",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060688128051159407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060688128051159407",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060686204593709478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@meow_marmalade 🥵好美\n（不过为什么能看见鼔包确看不见那个）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38114,
+          "following_count": 94,
+          "like_count": 26230,
+          "listed_count": 150,
+          "media_count": 157,
+          "tweet_count": 4423
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T09:24:29.000Z",
+        "description": "👀时不时来视奸你们",
+        "id": "1706600551855656960",
+        "name": "サメ🦈",
+        "pinned_tweet_id": "2037834689873080420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036460154410188800/VxEcEp12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 3118,
+          "like_count": 26343,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 9549
+        },
+        "username": "Jameswesore",
+        "verified": false
+      }
+    ]
+  }
+}

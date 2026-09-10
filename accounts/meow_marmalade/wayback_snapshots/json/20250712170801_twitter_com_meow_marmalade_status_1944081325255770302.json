@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1943966938365145369",
+    "created_at": "2025-07-12T17:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T18:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944081325255770302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1788046203479035904",
+          "start": 0,
+          "username": "yang_rui24499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944081325255770302",
+    "in_reply_to_user_id": "1788046203479035904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944033520067952960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang_rui24499 不上（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1943966938365145369",
+        "created_at": "2025-07-12T17:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T18:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944081325255770302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1788046203479035904",
+              "start": 0,
+              "username": "yang_rui24499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944081325255770302",
+        "in_reply_to_user_id": "1788046203479035904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944033520067952960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang_rui24499 不上（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788046203479035904",
+        "conversation_id": "1943966938365145369",
+        "created_at": "2025-07-12T13:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944033520067952960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944033520067952960",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943966938365145369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 怎么上厕所呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12299,
+          "following_count": 99,
+          "like_count": 12706,
+          "listed_count": 49,
+          "media_count": 289,
+          "tweet_count": 1558
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T03:21:46.000Z",
+        "description": "回收二手母猪肉便器 私信",
+        "id": "1788046203479035904",
+        "name": "吃水淼脚的垃圾佬渴望遇到母猪便器",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789246162102284288/CeGbRZ7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 677,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1171
+        },
+        "username": "yang_rui24499",
+        "verified": false
+      }
+    ]
+  }
+}

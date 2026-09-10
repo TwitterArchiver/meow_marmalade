@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1904877474649170357",
+    "created_at": "2025-03-26T13:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T14:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904883224578564355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821104613040517122",
+          "start": 0,
+          "username": "Karameru00Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904883224578564355",
+    "in_reply_to_user_id": "1821104613040517122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904877474649170357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karameru00Rei 犯错了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904877459994271744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm979RebYAAIkmK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1904877474649170357",
+        "created_at": "2025-03-26T13:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904883224578564355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821104613040517122",
+              "start": 0,
+              "username": "Karameru00Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904883224578564355",
+        "in_reply_to_user_id": "1821104613040517122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904877474649170357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karameru00Rei 犯错了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904877459994271744"
+          ]
+        },
+        "author_id": "1821104613040517122",
+        "conversation_id": "1904877474649170357",
+        "created_at": "2025-03-26T12:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T13:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904877474649170357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD0cE0pqMO",
+              "end": 23,
+              "expanded_url": "https://x.com/Karameru00Rei/status/1904877474649170357/photo/1",
+              "media_key": "3_1904877459994271744",
+              "start": 0,
+              "url": "https://t.co/XD0cE0pqMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904877474649170357",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XD0cE0pqMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 95,
+          "like_count": 7237,
+          "listed_count": 11,
+          "media_count": 185,
+          "tweet_count": 711
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T08:42:40.000Z",
+        "description": "@Iprintemps1\nISFP 振り向き20.53cm\n情緒不安定な塊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Iprintemps1"
+              }
+            ]
+          }
+        },
+        "id": "1821104613040517122",
+        "name": "零度焦糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821246004861267973/5muGVGes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 2,
+          "like_count": 155,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "username": "Karameru00Rei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1886785137997963720",
+    "created_at": "2026-01-31T02:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T03:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017427039926816969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457318486196113424",
+          "start": 0,
+          "username": "2NE9LY4ynxQ0Q98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017427039926816969",
+    "in_reply_to_user_id": "1457318486196113424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017417794217017640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2NE9LY4ynxQ0Q98 那就玩点其他的☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1886785137997963720",
+        "created_at": "2026-01-31T02:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017427039926816969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457318486196113424",
+              "start": 0,
+              "username": "2NE9LY4ynxQ0Q98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017427039926816969",
+        "in_reply_to_user_id": "1457318486196113424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017417794217017640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2NE9LY4ynxQ0Q98 那就玩点其他的☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457318486196113424",
+        "conversation_id": "1886785137997963720",
+        "created_at": "2026-01-31T02:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017417794217017640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017417794217017640",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886785137997963720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我电脑配置，顶着30帧打了两年π，后面大伙都不玩了，加上经常大改游戏内容和大量脚本挂钩干扰游戏，最后也是坚持不下去了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35710,
+          "following_count": 96,
+          "like_count": 21336,
+          "listed_count": 142,
+          "media_count": 154,
+          "tweet_count": 3501
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T12:06:24.000Z",
+        "description": "☺️",
+        "id": "1457318486196113424",
+        "location": "中国",
+        "name": "乐",
+        "pinned_tweet_id": "1757467009942794528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569315487783260164/8pPPPJ08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 46
+        },
+        "username": "2NE9LY4ynxQ0Q98",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1907017175589921233",
+    "created_at": "2025-04-01T15:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T16:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907096217554932219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679448451732635648",
+          "start": 0,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907096217554932219",
+    "in_reply_to_user_id": "1679448451732635648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907093807830900928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisa0v01210 有的有的😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1907017175589921233",
+        "created_at": "2025-04-01T15:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907096217554932219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907096217554932219",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907093807830900928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 有的有的😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679448451732635648",
+        "conversation_id": "1907017175589921233",
+        "created_at": "2025-04-01T15:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907093807830900928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907093807830900928",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907017175589921233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 有我老吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3012,
+          "following_count": 99,
+          "like_count": 7515,
+          "listed_count": 11,
+          "media_count": 192,
+          "tweet_count": 741
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "绝对的自卑感",
+        "id": "1679448451732635648",
+        "location": "艾卡西亚",
+        "name": "nagisa",
+        "pinned_tweet_id": "1874065520477299095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10658,
+          "following_count": 265,
+          "like_count": 5114,
+          "listed_count": 77,
+          "media_count": 192,
+          "tweet_count": 2723
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

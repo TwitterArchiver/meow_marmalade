@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2095454904320225550",
+    "created_at": "2026-09-03T18:15:55.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095576538410545353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814909641731809282",
+          "start": 0,
+          "username": "Chestnut102510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095576538410545353",
+    "in_reply_to_user_id": "1814909641731809282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095553151365677274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chestnut102510 唔 就是光泽衣吧 不算是丝袜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2095454904320225550",
+        "created_at": "2026-09-03T18:15:55.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095576538410545353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814909641731809282",
+              "start": 0,
+              "username": "Chestnut102510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095576538410545353",
+        "in_reply_to_user_id": "1814909641731809282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095553151365677274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chestnut102510 唔 就是光泽衣吧 不算是丝袜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814909641731809282",
+        "conversation_id": "2095454904320225550",
+        "created_at": "2026-09-03T16:42:59.000Z",
+        "display_text_range": [
+          16,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095553151365677274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095553151365677274",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095454904320225550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老大好美ヾ(✿ﾟ▽ﾟ)ノ\n好奇腿上是胶衣还是丝袜诶（？）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2095576538410545353",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41066,
+          "following_count": 105,
+          "like_count": 28816,
+          "listed_count": 166,
+          "media_count": 220,
+          "tweet_count": 5253
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T06:26:44.000Z",
+        "description": "西安大学生一只，170cm-57kg。\n恋物（丝袜、胶衣）、喜欢拘束play；是男M awa",
+        "id": "1814909641731809282",
+        "is_identity_verified": false,
+        "location": "西安",
+        "most_recent_tweet_id": "2095556295235637420",
+        "name": "Chestnut",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815255334438789120/KsS3g_uJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 169,
+          "like_count": 21510,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 3864
+        },
+        "url": "",
+        "username": "Chestnut102510",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

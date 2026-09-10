@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074792365358035163",
+    "created_at": "2026-07-08T11:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074820091360010530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904521959070892032",
+          "start": 0,
+          "username": "ShounishiNano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074820091360010530",
+    "in_reply_to_user_id": "1904521959070892032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074795152355512341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShounishiNano 玛雅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2074795142524145664",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMsnMHvbkAAon-3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMsnMHvbkAAon-3.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074792365358035163",
+        "created_at": "2026-07-08T11:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074820091360010530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904521959070892032",
+              "start": 0,
+              "username": "ShounishiNano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074820091360010530",
+        "in_reply_to_user_id": "1904521959070892032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074795152355512341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShounishiNano 玛雅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074795142524145664"
+          ]
+        },
+        "author_id": "1904521959070892032",
+        "conversation_id": "2074792365358035163",
+        "created_at": "2026-07-08T09:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074795152355512341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0bCPqvpPC",
+              "end": 47,
+              "expanded_url": "https://x.com/ShounishiNano/status/2074795152355512341/photo/1",
+              "media_key": "16_2074795142524145664",
+              "start": 24,
+              "url": "https://t.co/V0bCPqvpPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074795152355512341",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792365358035163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 哦哟美食特写～ https://t.co/V0bCPqvpPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39543,
+          "following_count": 96,
+          "like_count": 27470,
+          "listed_count": 156,
+          "media_count": 185,
+          "tweet_count": 4837
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T13:13:25.000Z",
+        "description": "Cosplayer🐾Blue Archive🎮 Kazusa💜\n谢谢你找到我！\nFeel free to DM me if you have anything to say~✨🐾 \nENG | CN | JP",
+        "id": "1904521959070892032",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "柠栖 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056439320966557696/fEo8zE9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21000,
+          "following_count": 1277,
+          "like_count": 10138,
+          "listed_count": 71,
+          "media_count": 166,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "ShounishiNano",
+        "verified": true
+      }
+    ]
+  }
+}

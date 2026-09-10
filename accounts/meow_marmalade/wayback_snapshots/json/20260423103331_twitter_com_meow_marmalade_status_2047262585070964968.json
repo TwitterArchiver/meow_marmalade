@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2047259361840361477",
+    "created_at": "2026-04-23T10:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047262585070964968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "749923793737437188",
+          "start": 0,
+          "username": "Tio_0071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047262585070964968",
+    "in_reply_to_user_id": "749923793737437188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047259431055044893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tio_0071 出去也是玩回家也是玩（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2047259361840361477",
+        "created_at": "2026-04-23T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047262585070964968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "749923793737437188",
+              "start": 0,
+              "username": "Tio_0071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047262585070964968",
+        "in_reply_to_user_id": "749923793737437188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047259431055044893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tio_0071 出去也是玩回家也是玩（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "749923793737437188",
+        "conversation_id": "2047259361840361477",
+        "created_at": "2026-04-23T10:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047259431055044893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047259431055044893",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047259361840361477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老师有点贪玩了哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36423,
+          "following_count": 97,
+          "like_count": 25005,
+          "listed_count": 140,
+          "media_count": 183,
+          "tweet_count": 4155
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-04T11:12:20.000Z",
+        "description": "71号…75？无所谓啦。有什么需要帮助的吗？",
+        "id": "749923793737437188",
+        "name": "缇欧0075",
+        "pinned_tweet_id": "2011798302946443658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011796673580896256/JwPOebVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 407,
+          "like_count": 17395,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 1006
+        },
+        "username": "Tio_0071",
+        "verified": false
+      }
+    ]
+  }
+}

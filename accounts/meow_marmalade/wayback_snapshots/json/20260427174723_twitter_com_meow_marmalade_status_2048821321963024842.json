@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2048702829544804820",
+    "created_at": "2026-04-27T17:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048821321963024842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "900412254591434752",
+          "start": 0,
+          "username": "fantuanzi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048821321963024842",
+    "in_reply_to_user_id": "900412254591434752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048820418468004337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fantuanzi_ 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2048702829544804820",
+        "created_at": "2026-04-27T17:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048821321963024842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "900412254591434752",
+              "start": 0,
+              "username": "fantuanzi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048821321963024842",
+        "in_reply_to_user_id": "900412254591434752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048820418468004337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fantuanzi_ 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "900412254591434752",
+        "conversation_id": "2048702829544804820",
+        "created_at": "2026-04-27T17:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048820418468004337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048820418468004337",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048702829544804820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 宝宝可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37249,
+          "following_count": 97,
+          "like_count": 25240,
+          "listed_count": 146,
+          "media_count": 187,
+          "tweet_count": 4195
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-23T17:39:45.000Z",
+        "description": "暗い人生 fanbox:https://t.co/Rr8xEkFcGU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantuanzi.fanbox.cc",
+                "end": 35,
+                "expanded_url": "http://fantuanzi.fanbox.cc/",
+                "start": 12,
+                "url": "https://t.co/Rr8xEkFcGU"
+              }
+            ]
+          }
+        },
+        "id": "900412254591434752",
+        "location": "广州",
+        "name": "腐格子",
+        "pinned_tweet_id": "1928634327249625529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812641396106330114/ZaeIpnbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 754,
+          "like_count": 2575,
+          "listed_count": 22,
+          "media_count": 310,
+          "tweet_count": 2309
+        },
+        "username": "fantuanzi_",
+        "verified": false
+      }
+    ]
+  }
+}

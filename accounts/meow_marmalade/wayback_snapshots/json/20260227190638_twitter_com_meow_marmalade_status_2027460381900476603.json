@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2027295350156034163",
+    "created_at": "2026-02-27T19:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027460381900476603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1347463212082503680",
+          "start": 0,
+          "username": "zzz46584550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027460381900476603",
+    "in_reply_to_user_id": "1347463212082503680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027440668596179215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz46584550 那我替他们说\n谢谢你大笛客"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2027295350156034163",
+        "created_at": "2026-02-27T19:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027460381900476603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1347463212082503680",
+              "start": 0,
+              "username": "zzz46584550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027460381900476603",
+        "in_reply_to_user_id": "1347463212082503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027440668596179215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz46584550 那我替他们说\n谢谢你大笛客"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347463212082503680",
+        "conversation_id": "2027295350156034163",
+        "created_at": "2026-02-27T17:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027440668596179215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027440668596179215",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027295350156034163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 怎么我奶笛救援的时候没人谢谢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36177,
+          "following_count": 98,
+          "like_count": 22414,
+          "listed_count": 140,
+          "media_count": 171,
+          "tweet_count": 3740
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T08:40:46.000Z",
+        "description": "",
+        "id": "1347463212082503680",
+        "location": "日本",
+        "name": "zzz",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 79,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "zzz46584550",
+        "verified": false
+      }
+    ]
+  }
+}

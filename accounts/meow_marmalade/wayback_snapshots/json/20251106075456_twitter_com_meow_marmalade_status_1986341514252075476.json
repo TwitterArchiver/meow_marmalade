@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-06T07:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T08:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986341514252075476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "271457076",
+          "start": 0,
+          "username": "ds6872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986341514252075476",
+    "in_reply_to_user_id": "271457076",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986335376408256718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ds6872 😭👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T07:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986341514252075476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "271457076",
+              "start": 0,
+              "username": "ds6872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986341514252075476",
+        "in_reply_to_user_id": "271457076",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986335376408256718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ds6872 😭👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "271457076",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T07:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986335376408256718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986335376408256718",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986315902657438075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 压榨在哪？这还不明显吗，压榨身体呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25910,
+          "following_count": 92,
+          "like_count": 17732,
+          "listed_count": 100,
+          "media_count": 191,
+          "tweet_count": 2659
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-24T15:02:11.000Z",
+        "description": "主业打油诗，副业工程师，尬聊我最爱，吐槽我最痴。",
+        "id": "271457076",
+        "location": "日本愛知県名古屋市千種区",
+        "name": "别叫我阿强 🎮 🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000849823784/8cf24170c84ec10d5579aad95841dc8f_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 358,
+          "like_count": 29224,
+          "listed_count": 12,
+          "media_count": 699,
+          "tweet_count": 16952
+        },
+        "username": "ds6872",
+        "verified": false
+      }
+    ]
+  }
+}

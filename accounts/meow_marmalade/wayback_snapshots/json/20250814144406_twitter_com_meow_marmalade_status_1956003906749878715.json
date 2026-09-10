@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1956002455495295018",
+    "created_at": "2025-08-14T14:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T15:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956003906749878715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833490553595695104",
+          "start": 0,
+          "username": "AgN0_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956003906749878715",
+    "in_reply_to_user_id": "1833490553595695104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956003625966186700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgN0_3 最后热死了逃走了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1956002455495295018",
+        "created_at": "2025-08-14T14:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956003906749878715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833490553595695104",
+              "start": 0,
+              "username": "AgN0_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956003906749878715",
+        "in_reply_to_user_id": "1833490553595695104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956003625966186700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgN0_3 最后热死了逃走了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833490553595695104",
+        "conversation_id": "1956002455495295018",
+        "created_at": "2025-08-14T14:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956003625966186700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956003625966186700",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956002455495295018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 那很幸福了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15208,
+          "following_count": 90,
+          "like_count": 14074,
+          "listed_count": 60,
+          "media_count": 326,
+          "tweet_count": 1888
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T12:59:59.000Z",
+        "description": "我替你送晚秋去延安",
+        "id": "1833490553595695104",
+        "name": "秋月白",
+        "pinned_tweet_id": "1940596307225464973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950514395756511233/K-khNTaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 261,
+          "like_count": 4520,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 489
+        },
+        "username": "AgN0_3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1927331891490816465",
+    "created_at": "2025-05-28T12:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T13:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927698068939399658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926899079218450432",
+          "start": 0,
+          "username": "lin88311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927698068939399658",
+    "in_reply_to_user_id": "1926899079218450432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927651699747127323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin88311 谢谢呢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1927331891490816465",
+        "created_at": "2025-05-28T12:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927698068939399658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926899079218450432",
+              "start": 0,
+              "username": "lin88311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927698068939399658",
+        "in_reply_to_user_id": "1926899079218450432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927651699747127323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin88311 谢谢呢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926899079218450432",
+        "conversation_id": "1927331891490816465",
+        "created_at": "2025-05-28T09:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T10:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927651699747127323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927651699747127323",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927331891490816465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好棒的身材"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7350,
+          "following_count": 98,
+          "like_count": 10819,
+          "listed_count": 23,
+          "media_count": 241,
+          "tweet_count": 1124
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T07:12:04.000Z",
+        "description": "180男大，处",
+        "id": "1926899079218450432",
+        "name": "今夜的风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926900628447506432/I2xZs4eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 60,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "username": "lin88311",
+        "verified": false
+      }
+    ]
+  }
+}

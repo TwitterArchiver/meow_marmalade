@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1956673504235106411",
+    "created_at": "2025-08-16T15:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956736593806659798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796081087065812992",
+          "start": 0,
+          "username": "AshleyGibs99166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956736593806659798",
+    "in_reply_to_user_id": "1796081087065812992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956729268811288607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshleyGibs99166 蟹蟹泥！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1956729262259728384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyey5ZaacAAGKIb.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1956673504235106411",
+        "created_at": "2025-08-16T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956736593806659798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796081087065812992",
+              "start": 0,
+              "username": "AshleyGibs99166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956736593806659798",
+        "in_reply_to_user_id": "1796081087065812992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956729268811288607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshleyGibs99166 蟹蟹泥！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956729262259728384"
+          ]
+        },
+        "author_id": "1796081087065812992",
+        "conversation_id": "1956673504235106411",
+        "created_at": "2025-08-16T14:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956729268811288607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfSuGRSCrm",
+              "end": 43,
+              "expanded_url": "https://x.com/AshleyGibs99166/status/1956729268811288607/photo/1",
+              "media_key": "3_1956729262259728384",
+              "start": 20,
+              "url": "https://t.co/wfSuGRSCrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956729268811288607",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956673504235106411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 美人儿 https://t.co/wfSuGRSCrm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15415,
+          "following_count": 90,
+          "like_count": 14206,
+          "listed_count": 60,
+          "media_count": 329,
+          "tweet_count": 1939
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:29:56.000Z",
+        "description": "",
+        "id": "1796081087065812992",
+        "name": "寒夕哒哒哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810028258542661633/-HwyaWnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 822,
+          "like_count": 23615,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 6015
+        },
+        "username": "AshleyGibs99166",
+        "verified": false
+      }
+    ]
+  }
+}

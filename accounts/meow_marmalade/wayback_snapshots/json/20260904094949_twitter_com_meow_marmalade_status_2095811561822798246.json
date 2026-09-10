@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2095552511130386497",
+    "created_at": "2026-09-04T09:49:49.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T10:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095811561822798246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742062590900256768",
+          "start": 0,
+          "username": "Shounishi_Nano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095811561822798246",
+    "in_reply_to_user_id": "1742062590900256768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095749210578801081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shounishi_Nano 宝宝！=3="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2095552511130386497",
+        "created_at": "2026-09-04T09:49:49.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095811561822798246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742062590900256768",
+              "start": 0,
+              "username": "Shounishi_Nano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095811561822798246",
+        "in_reply_to_user_id": "1742062590900256768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095749210578801081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shounishi_Nano 宝宝！=3="
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742062590900256768",
+        "conversation_id": "2095552511130386497",
+        "created_at": "2026-09-04T05:42:03.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095749210578801081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095749210578801081",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095552511130386497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 美"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2095811561822798246",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41088,
+          "following_count": 106,
+          "like_count": 28837,
+          "listed_count": 165,
+          "media_count": 221,
+          "tweet_count": 5265
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-02T05:57:53.000Z",
+        "description": "叮叮，梳毛時間到",
+        "id": "1742062590900256768",
+        "is_identity_verified": false,
+        "location": "Miaoli County, Taiwan",
+        "most_recent_tweet_id": "2095749210578801081",
+        "name": "小西西西西",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742062590900256768/1733838052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898291943341424640/48nsYLxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 1316,
+          "like_count": 1102,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Shounishi_Nano",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2049442907518865761",
+    "created_at": "2026-04-29T12:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049464136980197859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1508622055658655748",
+          "start": 0,
+          "username": "AsanoSoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049464136980197859",
+    "in_reply_to_user_id": "1508622055658655748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049457120446419384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsanoSoye 麦克风递给这位嘉宾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2049442907518865761",
+        "created_at": "2026-04-29T12:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049464136980197859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1508622055658655748",
+              "start": 0,
+              "username": "AsanoSoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049464136980197859",
+        "in_reply_to_user_id": "1508622055658655748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049457120446419384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsanoSoye 麦克风递给这位嘉宾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508622055658655748",
+        "conversation_id": "2049442907518865761",
+        "created_at": "2026-04-29T11:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049457120446419384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049457120446419384",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049442907518865761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 恋人和凶手同时回到现场把我牛了怎么办😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37488,
+          "following_count": 97,
+          "like_count": 25330,
+          "listed_count": 146,
+          "media_count": 189,
+          "tweet_count": 4215
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-29T01:49:04.000Z",
+        "description": "发点自己喜欢的cos，不定期更新\n祝看到这里的你天天开心ᗜ` ^ ´ᗜ\nPS：无🚪无图包无其他平台，警惕受骗",
+        "id": "1508622055658655748",
+        "name": "星語🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989654778679603200/7ngzoKFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 117,
+          "like_count": 3002,
+          "listed_count": 10,
+          "media_count": 71,
+          "tweet_count": 267
+        },
+        "username": "AsanoSoye",
+        "verified": false
+      }
+    ]
+  }
+}

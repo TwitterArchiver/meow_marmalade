@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1978051715938283776",
+    "created_at": "2025-10-15T07:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978368047711752362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1566298506645553152",
+          "start": 0,
+          "username": "lionson39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978368047711752362",
+    "in_reply_to_user_id": "1566298506645553152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978365826295013873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lionson39 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1978051715938283776",
+        "created_at": "2025-10-15T07:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978368047711752362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1566298506645553152",
+              "start": 0,
+              "username": "lionson39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978368047711752362",
+        "in_reply_to_user_id": "1566298506645553152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978365826295013873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lionson39 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566298506645553152",
+        "conversation_id": "1978051715938283776",
+        "created_at": "2025-10-15T07:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978365826295013873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978365826295013873",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978051715938283776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 사키코! 사키코! 사키코!😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20771,
+          "following_count": 95,
+          "like_count": 16724,
+          "listed_count": 86,
+          "media_count": 182,
+          "tweet_count": 2363
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T05:34:41.000Z",
+        "description": "카운터사이드는 인생이다..! \n최애는 카운터사이드의 '갬블러' 입니다!\n서브컬쳐의 스토리 사랑꾼!\n\n(카사 중심 잡다한 덕후! 웬만한 서브 컬쳐 게임은 스토리 보려고 많이 다양하게 합니다.)",
+        "id": "1566298506645553152",
+        "name": "드래곤",
+        "pinned_tweet_id": "1971181489988706779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730448027817816064/8r7gQR4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 318,
+          "like_count": 18048,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 10779
+        },
+        "username": "lionson39",
+        "verified": false
+      }
+    ]
+  }
+}

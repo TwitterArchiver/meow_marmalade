@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1992786098775547981",
+    "created_at": "2025-11-24T13:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992949496683352151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778652016203505664",
+          "start": 0,
+          "username": "yun1995418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992949496683352151",
+    "in_reply_to_user_id": "1778652016203505664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992861179602223286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun1995418 那太坏了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1992786098775547981",
+        "created_at": "2025-11-24T13:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992949496683352151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778652016203505664",
+              "start": 0,
+              "username": "yun1995418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992949496683352151",
+        "in_reply_to_user_id": "1778652016203505664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992861179602223286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun1995418 那太坏了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778652016203505664",
+        "conversation_id": "1992786098775547981",
+        "created_at": "2025-11-24T07:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992861179602223286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992861179602223286",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992786098775547981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我买的十双鞋起码有五双会磨脚后跟，我恨死它们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27460,
+          "following_count": 95,
+          "like_count": 18483,
+          "listed_count": 112,
+          "media_count": 207,
+          "tweet_count": 2882
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T05:11:10.000Z",
+        "description": "中国🇨🇳女\n身高159体重✘\n性瘾和精神病的叠加态\n内容是色色or忧郁发癫\n没有🚪，随缘加人，投喂不定期开放，会将一部分投喂用于捐款，接受不了的请勿投喂\n随缘看私\n谢谢你来看我\nEI.Psy.Kongroo",
+        "id": "1778652016203505664",
+        "name": "芸yun",
+        "pinned_tweet_id": "1967819778246291527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979585403762900992/ox9TMe3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57329,
+          "following_count": 154,
+          "like_count": 717,
+          "listed_count": 90,
+          "media_count": 269,
+          "tweet_count": 1958
+        },
+        "username": "yun1995418",
+        "verified": false
+      }
+    ]
+  }
+}

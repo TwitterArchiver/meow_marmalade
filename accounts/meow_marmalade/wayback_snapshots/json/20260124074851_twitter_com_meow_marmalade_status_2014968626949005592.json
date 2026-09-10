@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2014735798093152320",
+    "created_at": "2026-01-24T07:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014968626949005592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "807537247197106176",
+          "start": 0,
+          "username": "Hoshino_Fox"
+        },
+        {
+          "end": 24,
+          "id": "1214879007709073409",
+          "start": 13,
+          "username": "An94_Bailu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014968626949005592",
+    "in_reply_to_user_id": "807537247197106176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014735798093152320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Fox @An94_Bailu 好可爱，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014735794121146371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XHh7zbAAMHvvf.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014735790149140480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XHhtAbAAAhwjI.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2014735798093152320",
+        "created_at": "2026-01-24T07:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014968626949005592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "807537247197106176",
+              "start": 0,
+              "username": "Hoshino_Fox"
+            },
+            {
+              "end": 24,
+              "id": "1214879007709073409",
+              "start": 13,
+              "username": "An94_Bailu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014968626949005592",
+        "in_reply_to_user_id": "807537247197106176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014735798093152320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Fox @An94_Bailu 好可爱，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014735794121146371",
+            "3_2014735790149140480"
+          ]
+        },
+        "author_id": "807537247197106176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014735798093152320",
+        "created_at": "2026-01-23T16:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014735798093152320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 63,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1214879007709073409",
+              "start": 50,
+              "username": "An94_Bailu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/49sYr64PjJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+              "media_key": "3_2014735794121146371",
+              "start": 73,
+              "url": "https://t.co/49sYr64PjJ"
+            },
+            {
+              "display_url": "pic.x.com/49sYr64PjJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Hoshino_Fox/status/2014735798093152320/photo/1",
+              "media_key": "3_2014735790149140480",
+              "start": 73,
+              "url": "https://t.co/49sYr64PjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014735798093152320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 16881,
+          "like_count": 796,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "嗨，管理员，又见面啦，叫我伊冯就好，希望我们合作愉快\nアークナイツ：エンドフィールド/イヴォンヌ\n📸@An94_Bailu \n#エンドフィールド https://t.co/49sYr64PjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33730,
+          "following_count": 95,
+          "like_count": 21175,
+          "listed_count": 142,
+          "media_count": 153,
+          "tweet_count": 3448
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-10T10:47:37.000Z",
+        "description": "特摄，动画，机甲和着ぐるみ喜爱者。角色绫波/自设/遥/闪燕/洛拉米亚，请多指教~欢迎同好扩列(￣ω￣)ノ",
+        "id": "807537247197106176",
+        "location": "深圳",
+        "name": "星野-( 'ω' ）",
+        "pinned_tweet_id": "1880608840250737048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544612692119367680/9wbv4lF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 1510,
+          "like_count": 19011,
+          "listed_count": 40,
+          "media_count": 46,
+          "tweet_count": 3521
+        },
+        "username": "Hoshino_Fox",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T11:58:38.000Z",
+        "description": "我叫阿露，会一点点摄影📷，会变一点点娃🎭，很期待与你相遇！",
+        "id": "1214879007709073409",
+        "name": "白露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996948306518593538/D-tmAzIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12122,
+          "following_count": 1133,
+          "like_count": 4155,
+          "listed_count": 61,
+          "media_count": 147,
+          "tweet_count": 544
+        },
+        "username": "An94_Bailu",
+        "verified": false
+      }
+    ]
+  }
+}

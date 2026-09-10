@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2004843210259247104"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2004843279062647137",
+    "created_at": "2025-12-27T09:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T10:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004843279062647137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ErlL9w0muE",
+          "end": 27,
+          "expanded_url": "https://x.com/meow_marmalade/status/2004843279062647137/video/1",
+          "media_key": "13_2004843210259247104",
+          "start": 4,
+          "url": "https://t.co/ErlL9w0muE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004843279062647137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唐唐的 https://t.co/ErlL9w0muE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21400,
+        "height": 1278,
+        "media_key": "13_2004843210259247104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004843210259247104/img/06Iiqf06REaW8Qc3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/vid/avc1/320x568/vEOWjQzdygBgR4Mb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/vid/avc1/480x852/jeQXkuxol0JigUma.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/vid/avc1/720x1278/Fix8D9mJKSi2nNIx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/pl/v0QOQekoVk_-s0vq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004843210259247104"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2004843279062647137",
+        "created_at": "2025-12-27T09:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004843279062647137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErlL9w0muE",
+              "end": 27,
+              "expanded_url": "https://x.com/meow_marmalade/status/2004843279062647137/video/1",
+              "media_key": "13_2004843210259247104",
+              "start": 4,
+              "url": "https://t.co/ErlL9w0muE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004843279062647137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐唐的 https://t.co/ErlL9w0muE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29487,
+          "following_count": 90,
+          "like_count": 20065,
+          "listed_count": 129,
+          "media_count": 177,
+          "tweet_count": 3192
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

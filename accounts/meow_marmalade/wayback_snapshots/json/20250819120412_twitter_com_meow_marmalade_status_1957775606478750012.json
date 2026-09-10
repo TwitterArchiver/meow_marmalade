@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1957742754240594276",
+    "created_at": "2025-08-19T12:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T13:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957775606478750012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069881915216461825",
+          "start": 0,
+          "username": "Iprintemps1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957775606478750012",
+    "in_reply_to_user_id": "1069881915216461825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957758709645615427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iprintemps1 扣1 复活大师梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1957742754240594276",
+        "created_at": "2025-08-19T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957775606478750012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069881915216461825",
+              "start": 0,
+              "username": "Iprintemps1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957775606478750012",
+        "in_reply_to_user_id": "1069881915216461825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957758709645615427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iprintemps1 扣1 复活大师梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069881915216461825",
+        "conversation_id": "1957742754240594276",
+        "created_at": "2025-08-19T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957758709645615427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957758709645615427",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957742754240594276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 就是飞不到世界边缘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15492,
+          "following_count": 92,
+          "like_count": 14329,
+          "listed_count": 59,
+          "media_count": 333,
+          "tweet_count": 1977
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T09:11:40.000Z",
+        "description": "冬行性生物，赖床中🛏️💤 已有对象 真实的我@Karameru00Rei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "Karameru00Rei"
+              }
+            ]
+          }
+        },
+        "id": "1069881915216461825",
+        "location": "盗我图的出门被大卡车亲亲❤️",
+        "name": "零度白糖",
+        "pinned_tweet_id": "1934109303788708071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899357343193702400/JhyYTOnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25083,
+          "following_count": 602,
+          "like_count": 11497,
+          "listed_count": 94,
+          "media_count": 164,
+          "tweet_count": 1389
+        },
+        "username": "Iprintemps1",
+        "verified": false
+      }
+    ]
+  }
+}

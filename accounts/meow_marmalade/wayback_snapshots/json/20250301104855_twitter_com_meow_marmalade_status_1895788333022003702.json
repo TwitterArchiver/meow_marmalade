@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895788325631639552"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1895788333022003702",
+    "created_at": "2025-03-01T10:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T11:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895788333022003702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MSRzeD3pro",
+          "end": 38,
+          "expanded_url": "https://x.com/meow_marmalade/status/1895788333022003702/photo/1",
+          "media_key": "3_1895788325631639552",
+          "start": 15,
+          "url": "https://t.co/MSRzeD3pro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895788333022003702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“不…不纯洁的关系非我所求” https://t.co/MSRzeD3pro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2415,
+        "media_key": "3_1895788325631639552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8xcBabQAAP4eg.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895788325631639552"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1895788333022003702",
+        "created_at": "2025-03-01T10:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T11:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895788333022003702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSRzeD3pro",
+              "end": 38,
+              "expanded_url": "https://x.com/meow_marmalade/status/1895788333022003702/photo/1",
+              "media_key": "3_1895788325631639552",
+              "start": 15,
+              "url": "https://t.co/MSRzeD3pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895788333022003702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不…不纯洁的关系非我所求” https://t.co/MSRzeD3pro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 91,
+          "like_count": 6005,
+          "listed_count": 11,
+          "media_count": 175,
+          "tweet_count": 623
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

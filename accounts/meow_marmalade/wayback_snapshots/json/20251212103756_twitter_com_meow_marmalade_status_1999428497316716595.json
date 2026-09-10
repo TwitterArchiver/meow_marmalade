@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1999424171009544432",
+    "created_at": "2025-12-12T10:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999428497316716595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767749178401415168",
+          "start": 0,
+          "username": "STILLING340907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999428497316716595",
+    "in_reply_to_user_id": "1767749178401415168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999425693856465385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STILLING340907 啵啵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1999424171009544432",
+        "created_at": "2025-12-12T10:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999428497316716595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767749178401415168",
+              "start": 0,
+              "username": "STILLING340907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999428497316716595",
+        "in_reply_to_user_id": "1767749178401415168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999425693856465385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STILLING340907 啵啵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767749178401415168",
+        "conversation_id": "1999424171009544432",
+        "created_at": "2025-12-12T10:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999425693856465385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999425693856465385",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999424171009544432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28052,
+          "following_count": 91,
+          "like_count": 19311,
+          "listed_count": 123,
+          "media_count": 206,
+          "tweet_count": 3046
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T03:07:09.000Z",
+        "description": "",
+        "id": "1767749178401415168",
+        "name": "海绵宝宝南梦芽",
+        "pinned_tweet_id": "1999426631526678978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800004991316594688/atWo2pGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 612,
+          "like_count": 6478,
+          "listed_count": 34,
+          "media_count": 135,
+          "tweet_count": 1462
+        },
+        "username": "STILLING340907",
+        "verified": false
+      }
+    ]
+  }
+}

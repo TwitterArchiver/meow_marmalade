@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2036046947887595599",
+    "created_at": "2026-03-24T09:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036378553487634689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1484064411031842818",
+          "start": 0,
+          "username": "Ara_XING1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036378553487634689",
+    "in_reply_to_user_id": "1484064411031842818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036376082371453115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ara_XING1 这就是我留过最长的了…\n其实是每个月自己修一下刘海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2036046947887595599",
+        "created_at": "2026-03-24T09:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036378553487634689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1484064411031842818",
+              "start": 0,
+              "username": "Ara_XING1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036378553487634689",
+        "in_reply_to_user_id": "1484064411031842818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036376082371453115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ara_XING1 这就是我留过最长的了…\n其实是每个月自己修一下刘海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484064411031842818",
+        "conversation_id": "2036046947887595599",
+        "created_at": "2026-03-24T09:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036376082371453115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036376082371453115",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036046947887595599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 长发不好看吗虽然打理起来确实麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "不配得感",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36260,
+          "following_count": 93,
+          "like_count": 23473,
+          "listed_count": 140,
+          "media_count": 192,
+          "tweet_count": 3972
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:25:19.000Z",
+        "description": "日本語わ勉強中  初心者ですよろしく",
+        "id": "1484064411031842818",
+        "name": "Ara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484064935034650634/lGuVIrZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 128
+        },
+        "username": "Ara_XING1",
+        "verified": false
+      }
+    ]
+  }
+}

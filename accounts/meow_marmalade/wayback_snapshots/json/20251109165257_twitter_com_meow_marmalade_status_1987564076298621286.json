@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1987458206646600159",
+    "created_at": "2025-11-09T16:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T17:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987564076298621286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236419551291568129",
+          "start": 0,
+          "username": "David__Kidoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987564076298621286",
+    "in_reply_to_user_id": "1236419551291568129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987557751049138294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@David__Kidoo 我也好爱🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1987458206646600159",
+        "created_at": "2025-11-09T16:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987564076298621286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236419551291568129",
+              "start": 0,
+              "username": "David__Kidoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987564076298621286",
+        "in_reply_to_user_id": "1236419551291568129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987557751049138294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@David__Kidoo 我也好爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236419551291568129",
+        "conversation_id": "1987458206646600159",
+        "created_at": "2025-11-09T16:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987557751049138294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987557751049138294",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987458206646600159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 最温柔的一集，美甲好看捏！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26352,
+          "following_count": 92,
+          "like_count": 17889,
+          "listed_count": 104,
+          "media_count": 194,
+          "tweet_count": 2713
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T22:32:55.000Z",
+        "description": "喜欢游戏，电影，各种有趣的玩意！希望能和大家好好相处！ fan of games , movies and all funny memes and things! Looking forward to get along well with anyone!",
+        "id": "1236419551291568129",
+        "name": "Davidkiddo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522061665629474817/VO2vhVTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 545,
+          "like_count": 40155,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 5856
+        },
+        "username": "David__Kidoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1956314809433285107",
+    "created_at": "2025-08-16T06:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T07:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956600071228915963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809594992958337025",
+          "start": 0,
+          "username": "cxk_c46045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956600071228915963",
+    "in_reply_to_user_id": "1809594992958337025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956599235823968394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxk_c46045 超大杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1956314809433285107",
+        "created_at": "2025-08-16T06:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956600071228915963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809594992958337025",
+              "start": 0,
+              "username": "cxk_c46045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956600071228915963",
+        "in_reply_to_user_id": "1809594992958337025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956599235823968394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxk_c46045 超大杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809594992958337025",
+        "conversation_id": "1956314809433285107",
+        "created_at": "2025-08-16T06:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956599235823968394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956599235823968394",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956598713163382817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 已经将主播精二90级专9，开一，二，特限模🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15389,
+          "following_count": 90,
+          "like_count": 14187,
+          "listed_count": 60,
+          "media_count": 328,
+          "tweet_count": 1930
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T14:27:42.000Z",
+        "description": "",
+        "id": "1809594992958337025",
+        "name": "阿米娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920658407826059264/HD9BeqMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "cxk_c46045",
+        "verified": false
+      }
+    ]
+  }
+}

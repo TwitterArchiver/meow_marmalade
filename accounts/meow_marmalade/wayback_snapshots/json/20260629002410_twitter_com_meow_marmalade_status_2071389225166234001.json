@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2071178902622597452",
+    "created_at": "2026-06-29T00:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T01:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071389225166234001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867872646131785728",
+          "start": 0,
+          "username": "go7891Zxgq666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071389225166234001",
+    "in_reply_to_user_id": "1867872646131785728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071283205559169124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@go7891Zxgq666 何意味.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2071178902622597452",
+        "created_at": "2026-06-29T00:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071389225166234001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867872646131785728",
+              "start": 0,
+              "username": "go7891Zxgq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071389225166234001",
+        "in_reply_to_user_id": "1867872646131785728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071283205559169124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@go7891Zxgq666 何意味.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867872646131785728",
+        "conversation_id": "2071178902622597452",
+        "created_at": "2026-06-28T17:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071283205559169124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071283205559169124",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071178902622597452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 摸摸，能不能绑架你的电脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39184,
+          "following_count": 96,
+          "like_count": 27228,
+          "listed_count": 156,
+          "media_count": 175,
+          "tweet_count": 4756
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T10:02:31.000Z",
+        "description": "不存在绝对的政治正确和道德正确",
+        "id": "1867872646131785728",
+        "location": "银河系",
+        "name": "明伦暗本樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064257546689363968/l4NXpJFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 1775,
+          "like_count": 6128,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "go7891Zxgq666",
+        "verified": false
+      }
+    ]
+  }
+}

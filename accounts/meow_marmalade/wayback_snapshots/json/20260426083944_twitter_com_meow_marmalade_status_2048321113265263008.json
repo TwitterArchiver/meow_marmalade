@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2048295495274316175",
+    "created_at": "2026-04-26T08:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048321113265263008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "915789286091350016",
+          "start": 0,
+          "username": "Nyatisss"
+        },
+        {
+          "end": 21,
+          "id": "1214215790821437441",
+          "start": 10,
+          "username": "Puffs_head"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048321113265263008",
+    "in_reply_to_user_id": "915789286091350016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048314902117499112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyatisss @Puffs_head 你做的好啊你做的好啊，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2048295495274316175",
+        "created_at": "2026-04-26T08:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048321113265263008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "915789286091350016",
+              "start": 0,
+              "username": "Nyatisss"
+            },
+            {
+              "end": 21,
+              "id": "1214215790821437441",
+              "start": 10,
+              "username": "Puffs_head"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048321113265263008",
+        "in_reply_to_user_id": "915789286091350016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048314902117499112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyatisss @Puffs_head 你做的好啊你做的好啊，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "915789286091350016",
+        "conversation_id": "2048295495274316175",
+        "created_at": "2026-04-26T08:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048314902117499112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1214215790821437441",
+              "start": 0,
+              "username": "Puffs_head"
+            },
+            {
+              "end": 41,
+              "id": "1353996204422492160",
+              "start": 26,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048314902117499112",
+        "in_reply_to_user_id": "1214215790821437441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048313429484814742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puffs_head 我承认这套一定程度上是来源于@meow_marmalade 老师的连体黑丝管的启发😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36985,
+          "following_count": 97,
+          "like_count": 25122,
+          "listed_count": 146,
+          "media_count": 183,
+          "tweet_count": 4173
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-05T04:02:35.000Z",
+        "description": "kig/胶/按快门/管理员&宜家鲨鱼爱好者  | \n发想发的东西  | \n社畜 常驻深圳  | \n你们有看到我的@moyumememe 吗？\n她很好，也没有丢，只是她太可爱了，想让你们都看看❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "moyumememe"
+              }
+            ]
+          }
+        },
+        "id": "915789286091350016",
+        "location": "墨鱼窝",
+        "name": "Nyatis",
+        "pinned_tweet_id": "1971897144526471581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744215049579982848/o9-o_qKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8814,
+          "following_count": 2589,
+          "like_count": 67747,
+          "listed_count": 49,
+          "media_count": 256,
+          "tweet_count": 14101
+        },
+        "username": "Nyatisss",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-06T16:04:24.000Z",
+        "description": "鲨鱼统治世界！",
+        "id": "1214215790821437441",
+        "location": "精致的烤盘",
+        "name": "泡芙头",
+        "pinned_tweet_id": "1862051489180688865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920118135413493760/XnHms0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 2239,
+          "like_count": 28530,
+          "listed_count": 24,
+          "media_count": 1134,
+          "tweet_count": 15535
+        },
+        "username": "Puffs_head",
+        "verified": false
+      }
+    ]
+  }
+}

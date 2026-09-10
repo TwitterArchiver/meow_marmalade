@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2005590047475773551",
+    "created_at": "2025-12-29T11:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T12:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005609566994944067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1361278679767130113",
+          "start": 0,
+          "username": "ringenbon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005609566994944067",
+    "in_reply_to_user_id": "1361278679767130113",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005594512585097317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringenbon ☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2005590047475773551",
+        "created_at": "2025-12-29T11:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005609566994944067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1361278679767130113",
+              "start": 0,
+              "username": "ringenbon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005609566994944067",
+        "in_reply_to_user_id": "1361278679767130113",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005594512585097317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringenbon ☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361278679767130113",
+        "conversation_id": "2005590047475773551",
+        "created_at": "2025-12-29T10:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005594512585097317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005594512585097317",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005590047475773551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 无口女友的感觉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29672,
+          "following_count": 93,
+          "like_count": 20177,
+          "listed_count": 130,
+          "media_count": 178,
+          "tweet_count": 3211
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T11:38:41.000Z",
+        "description": "啊這 日本語を勉強中 英語が下手 たぶんね 世界平和 世界和平。",
+        "id": "1361278679767130113",
+        "location": "Hong Kong",
+        "name": "げんぼん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361278832959836161/ZYMSXREt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1951,
+          "like_count": 2865,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 241
+        },
+        "username": "ringenbon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1966439883326607470",
+    "created_at": "2025-09-12T13:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T14:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966500570812022919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1198877244736671744",
+          "start": 0,
+          "username": "mnClearwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966500570812022919",
+    "in_reply_to_user_id": "1198877244736671744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966497512132362560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnClearwater 是叭哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1966439883326607470",
+        "created_at": "2025-09-12T13:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966500570812022919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1198877244736671744",
+              "start": 0,
+              "username": "mnClearwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966500570812022919",
+        "in_reply_to_user_id": "1198877244736671744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966497512132362560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnClearwater 是叭哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1198877244736671744",
+        "conversation_id": "1966439883326607470",
+        "created_at": "2025-09-12T13:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966497512132362560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966497512132362560",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966439883326607470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 三色杯草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18490,
+          "following_count": 90,
+          "like_count": 15496,
+          "listed_count": 73,
+          "media_count": 291,
+          "tweet_count": 2253
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T08:13:12.000Z",
+        "description": "rua∽",
+        "id": "1198877244736671744",
+        "location": "404 not found",
+        "name": "萌牛纯净水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934960373368856577/VojyXYuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1793,
+          "like_count": 80458,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 2557
+        },
+        "username": "mnClearwater",
+        "verified": false
+      }
+    ]
+  }
+}

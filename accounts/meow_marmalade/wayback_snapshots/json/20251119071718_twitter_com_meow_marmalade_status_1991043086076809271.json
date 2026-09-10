@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1990623054175875444",
+    "created_at": "2025-11-19T07:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991043086076809271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930661826896994304",
+          "start": 0,
+          "username": "QAQNeko422"
+        },
+        {
+          "end": 26,
+          "id": "1679448451732635648",
+          "start": 12,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991043086076809271",
+    "in_reply_to_user_id": "1930661826896994304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990652149605544240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQNeko422 @Nagisa0v01210 被我啃破的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1990623054175875444",
+        "created_at": "2025-11-19T07:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991043086076809271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930661826896994304",
+              "start": 0,
+              "username": "QAQNeko422"
+            },
+            {
+              "end": 26,
+              "id": "1679448451732635648",
+              "start": 12,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991043086076809271",
+        "in_reply_to_user_id": "1930661826896994304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990652149605544240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQNeko422 @Nagisa0v01210 被我啃破的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930661826896994304",
+        "conversation_id": "1990623054175875444",
+        "created_at": "2025-11-18T05:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990652149605544240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990652149605544240",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990623054175875444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 怎么还有战损版袜子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27450,
+          "following_count": 97,
+          "like_count": 18315,
+          "listed_count": 111,
+          "media_count": 202,
+          "tweet_count": 2839
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T16:23:53.000Z",
+        "description": "@nekkkkko422 二号机，用来发图和发癫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "nekkkkko422"
+              }
+            ]
+          }
+        },
+        "id": "1930661826896994304",
+        "name": "NekoQAQ",
+        "pinned_tweet_id": "1989645894141288701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930662561277792256/evEaDI6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14295,
+          "following_count": 5,
+          "like_count": 169,
+          "listed_count": 40,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "username": "QAQNeko422",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "正在逃出地狱",
+        "id": "1679448451732635648",
+        "location": "Super Earth",
+        "name": "nagisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18433,
+          "following_count": 342,
+          "like_count": 6983,
+          "listed_count": 111,
+          "media_count": 177,
+          "tweet_count": 3459
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

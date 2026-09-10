@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1958008486047998360",
+    "created_at": "2025-08-20T04:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T05:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958017291326746746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1370271730409693187",
+          "start": 0,
+          "username": "wmaly13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958017291326746746",
+    "in_reply_to_user_id": "1370271730409693187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958008486047998360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmaly13 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12080,
+        "height": 720,
+        "media_key": "7_1958008307358265345",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1958008307358265345/pu/img/XNbLEd5i12OkIXoy.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1958008307358265345/pu/vid/avc1/320x320/wO5IByjidPpuA93E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1958008307358265345/pu/vid/avc1/540x540/7itJMtzmsmoTJSZ0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1958008307358265345/pu/vid/avc1/720x720/L6AD-51scHG2_lu_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1958008307358265345/pu/pl/Fv5_pOjoq52KLKOf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1958008486047998360",
+        "created_at": "2025-08-20T04:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T05:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958017291326746746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1370271730409693187",
+              "start": 0,
+              "username": "wmaly13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958017291326746746",
+        "in_reply_to_user_id": "1370271730409693187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958008486047998360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmaly13 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1958008307358265345"
+          ]
+        },
+        "author_id": "1370271730409693187",
+        "conversation_id": "1958008486047998360",
+        "created_at": "2025-08-20T03:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T04:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958008486047998360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKVHNYbO9z",
+              "end": 34,
+              "expanded_url": "https://x.com/wmaly13/status/1958008486047998360/video/1",
+              "media_key": "7_1958008307358265345",
+              "start": 11,
+              "url": "https://t.co/QKVHNYbO9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958008486047998360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类早期驯服义肢记录 https://t.co/QKVHNYbO9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18，没聊骚",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15540,
+          "following_count": 94,
+          "like_count": 14373,
+          "listed_count": 59,
+          "media_count": 334,
+          "tweet_count": 2001
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T07:13:41.000Z",
+        "description": "链接是tg群 可来聊天  /  日常一般路过普通不起眼社畜气质男性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+7LpOwlpvwZ9lY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+7LpOwlpvwZ9lYWZl",
+                "start": 0,
+                "url": "https://t.co/KUimMLVm8c"
+              }
+            ]
+          }
+        },
+        "id": "1370271730409693187",
+        "location": "广州",
+        "name": "鹀雀",
+        "pinned_tweet_id": "1955479031052374514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904453729413369856/cM-WydF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24189,
+          "following_count": 523,
+          "like_count": 6129,
+          "listed_count": 61,
+          "media_count": 419,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/KUimMLVm8c",
+        "username": "wmaly13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1942195293761740886",
+    "created_at": "2025-07-08T07:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T08:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942485013926449152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782742299404816384",
+          "start": 0,
+          "username": "sangshen591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942485013926449152",
+    "in_reply_to_user_id": "1782742299404816384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942480526650278378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sangshen591 柿子老师我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1942195293761740886",
+        "created_at": "2025-07-08T07:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942485013926449152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782742299404816384",
+              "start": 0,
+              "username": "sangshen591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942485013926449152",
+        "in_reply_to_user_id": "1782742299404816384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942480526650278378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sangshen591 柿子老师我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782742299404816384",
+        "conversation_id": "1942195293761740886",
+        "created_at": "2025-07-08T07:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942480526650278378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942480526650278378",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942195293761740886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 艺术品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11655,
+          "following_count": 100,
+          "like_count": 12459,
+          "listed_count": 48,
+          "media_count": 284,
+          "tweet_count": 1511
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:04:23.000Z",
+        "description": "梦想是给大家带来快乐/欢迎可爱小男娘扩列/不约不线下",
+        "id": "1782742299404816384",
+        "name": "小小小柿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876815796300926976/G8PEkngR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 690,
+          "like_count": 2750,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 657
+        },
+        "username": "sangshen591",
+        "verified": false
+      }
+    ]
+  }
+}

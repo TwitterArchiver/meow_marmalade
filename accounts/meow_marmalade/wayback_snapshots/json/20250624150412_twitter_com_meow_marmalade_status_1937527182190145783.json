@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1937507773086114248",
+    "created_at": "2025-06-24T15:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T16:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937527182190145783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1432008132344098819",
+          "start": 0,
+          "username": "Luoyuuul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937527182190145783",
+    "in_reply_to_user_id": "1432008132344098819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937526956553117835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyuuul 谢谢捏😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1937507773086114248",
+        "created_at": "2025-06-24T15:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T16:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937527182190145783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1432008132344098819",
+              "start": 0,
+              "username": "Luoyuuul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937527182190145783",
+        "in_reply_to_user_id": "1432008132344098819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937526956553117835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyuuul 谢谢捏😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432008132344098819",
+        "conversation_id": "1937507773086114248",
+        "created_at": "2025-06-24T15:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T16:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937526956553117835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937526956553117835",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937507773086114248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 鞋子好看的唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9677,
+          "following_count": 95,
+          "like_count": 11873,
+          "listed_count": 32,
+          "media_count": 271,
+          "tweet_count": 1378
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T15:53:12.000Z",
+        "description": "随缘更新，不定时在线。私信会看，记得礼貌发言。各奔西东，莫问前程",
+        "id": "1432008132344098819",
+        "name": "洛羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934203509882372096/nuzq212h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6524,
+          "following_count": 332,
+          "like_count": 11295,
+          "listed_count": 37,
+          "media_count": 77,
+          "tweet_count": 1104
+        },
+        "username": "Luoyuuul",
+        "verified": false
+      }
+    ]
+  }
+}

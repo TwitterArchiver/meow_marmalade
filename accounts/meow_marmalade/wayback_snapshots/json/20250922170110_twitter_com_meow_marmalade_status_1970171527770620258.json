@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1969751397987131512",
+    "created_at": "2025-09-22T17:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970171527770620258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898209971009208323",
+          "start": 0,
+          "username": "bei_qing24412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970171527770620258",
+    "in_reply_to_user_id": "1898209971009208323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970170416863027332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_qing24412 那很有生活了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1969751397987131512",
+        "created_at": "2025-09-22T17:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970171527770620258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898209971009208323",
+              "start": 0,
+              "username": "bei_qing24412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970171527770620258",
+        "in_reply_to_user_id": "1898209971009208323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970170416863027332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_qing24412 那很有生活了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898209971009208323",
+        "conversation_id": "1969751397987131512",
+        "created_at": "2025-09-22T16:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970170416863027332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970170416863027332",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969751397987131512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 堵桥的时候刷上一段推特真是惬意啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19222,
+          "following_count": 91,
+          "like_count": 15922,
+          "listed_count": 76,
+          "media_count": 295,
+          "tweet_count": 2354
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T03:11:49.000Z",
+        "description": "在网上胡言乱语，请不要在意我",
+        "id": "1898209971009208323",
+        "location": "武汉",
+        "name": "笨蛋总会出头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905958234349060096/ieHZp_2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 6,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 500
+        },
+        "username": "bei_qing24412",
+        "verified": false
+      }
+    ]
+  }
+}

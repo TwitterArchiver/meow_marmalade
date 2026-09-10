@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1950941937093210120",
+    "created_at": "2025-07-31T15:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T16:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950941937093210120"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950941937093210120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新赛季我将摧毁手把 并回归更加权威的键鼠👆🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1950941937093210120",
+        "created_at": "2025-07-31T15:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950941937093210120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950941937093210120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新赛季我将摧毁手把 并回归更加权威的键鼠👆🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14375,
+          "following_count": 91,
+          "like_count": 13578,
+          "listed_count": 57,
+          "media_count": 310,
+          "tweet_count": 1758
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

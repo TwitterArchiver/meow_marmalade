@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2052273081276903532",
+    "created_at": "2026-05-07T14:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052391413929878008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052391413929878008",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052273081276903532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxiduo 玛雅笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052273071583883264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsjfDXbcAAg_Z4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2052273081276903532",
+        "created_at": "2026-05-07T14:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052391413929878008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052391413929878008",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052273081276903532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxiduo 玛雅笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052273071583883264"
+          ]
+        },
+        "author_id": "1666329123223121922",
+        "conversation_id": "2052273081276903532",
+        "created_at": "2026-05-07T06:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052273081276903532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNofVZwTDg",
+              "end": 23,
+              "expanded_url": "https://x.com/chuanxiduo/status/2052273081276903532/photo/1",
+              "media_key": "3_2052273071583883264",
+              "start": 0,
+              "url": "https://t.co/hNofVZwTDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052273081276903532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6490,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hNofVZwTDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37678,
+          "following_count": 98,
+          "like_count": 25710,
+          "listed_count": 149,
+          "media_count": 197,
+          "tweet_count": 4306
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n暗黑人格💌@duoxichuan\n谢谢关注我的小世界！祝您天天开心~~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "duoxichuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71lrLW"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "粉丝频道:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2048690531325329432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103266,
+          "following_count": 1618,
+          "like_count": 8248,
+          "listed_count": 320,
+          "media_count": 473,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/kXKI71lrLW",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

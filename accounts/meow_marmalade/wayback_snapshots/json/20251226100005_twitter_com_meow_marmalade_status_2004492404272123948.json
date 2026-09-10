@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2004480688817652051",
+    "created_at": "2025-12-26T10:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T11:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004492404272123948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2350093927",
+          "start": 0,
+          "username": "K_anonowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004492404272123948",
+    "in_reply_to_user_id": "2350093927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004487554348064834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K_anonowo 毛絨絨的...喜歡ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2004480688817652051",
+        "created_at": "2025-12-26T10:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T11:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004492404272123948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2350093927",
+              "start": 0,
+              "username": "K_anonowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004492404272123948",
+        "in_reply_to_user_id": "2350093927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004487554348064834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K_anonowo 毛絨絨的...喜歡ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2350093927",
+        "conversation_id": "2004480688817652051",
+        "created_at": "2025-12-26T09:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004487554348064834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004487554348064834",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004480688817652051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我喜歡妳的手機殼 好可愛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29288,
+          "following_count": 90,
+          "like_count": 20011,
+          "listed_count": 128,
+          "media_count": 175,
+          "tweet_count": 3186
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-18T13:04:25.000Z",
+        "description": "私は台湾人です",
+        "id": "2350093927",
+        "location": "Taiwan",
+        "name": "Kanon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/937251702587121664/PllWyYTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 2270,
+          "like_count": 11788,
+          "listed_count": 10,
+          "media_count": 8,
+          "tweet_count": 3980
+        },
+        "username": "K_anonowo",
+        "verified": false
+      }
+    ]
+  }
+}

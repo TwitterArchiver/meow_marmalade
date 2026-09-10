@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1960389899330445501",
+    "created_at": "2025-08-26T17:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960391049580568605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "826134161563869184",
+          "start": 0,
+          "username": "frl_bou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960391049580568605",
+    "in_reply_to_user_id": "826134161563869184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960390052648735057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frl_bou 露娜大人你带我走吧😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1960389899330445501",
+        "created_at": "2025-08-26T17:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960391049580568605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "826134161563869184",
+              "start": 0,
+              "username": "frl_bou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960391049580568605",
+        "in_reply_to_user_id": "826134161563869184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960390052648735057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frl_bou 露娜大人你带我走吧😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826134161563869184",
+        "conversation_id": "1960389899330445501",
+        "created_at": "2025-08-26T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960390052648735057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960390052648735057",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960389899330445501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 露娜癌来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16093,
+          "following_count": 95,
+          "like_count": 14607,
+          "listed_count": 68,
+          "media_count": 341,
+          "tweet_count": 2095
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-30T18:25:07.000Z",
+        "description": "普通の留学生です",
+        "id": "826134161563869184",
+        "name": "ボウボウマン",
+        "pinned_tweet_id": "1033703598092214274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516140416575610880/zzTxumMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 1252,
+          "like_count": 3997,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 471
+        },
+        "username": "frl_bou",
+        "verified": false
+      }
+    ]
+  }
+}

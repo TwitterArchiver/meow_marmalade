@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1996154068151202051",
+    "created_at": "2025-12-04T00:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996380879015596231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890489094557560833",
+          "start": 0,
+          "username": "baofeng_ca48225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996380879015596231",
+    "in_reply_to_user_id": "1890489094557560833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996270602227999035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baofeng_ca48225 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1996154068151202051",
+        "created_at": "2025-12-04T00:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996380879015596231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890489094557560833",
+              "start": 0,
+              "username": "baofeng_ca48225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996380879015596231",
+        "in_reply_to_user_id": "1890489094557560833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996270602227999035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baofeng_ca48225 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890489094557560833",
+        "conversation_id": "1996154068151202051",
+        "created_at": "2025-12-03T17:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996270602227999035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996270602227999035",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996154068151202051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 蜜柑取向是女生吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27537,
+          "following_count": 90,
+          "like_count": 18849,
+          "listed_count": 116,
+          "media_count": 198,
+          "tweet_count": 2952
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:51:58.000Z",
+        "description": "看涩图用的\n是摄影 可以约拍",
+        "id": "1890489094557560833",
+        "name": "第六天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890489464960741377/YBQsPie5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 898,
+          "like_count": 7428,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 132
+        },
+        "username": "baofeng_ca48225",
+        "verified": false
+      }
+    ]
+  }
+}

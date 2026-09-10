@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1951705960013349334",
+    "created_at": "2025-08-02T18:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T19:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951710445116727368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682431068475891714",
+          "start": 0,
+          "username": "CascadingPallor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951710445116727368",
+    "in_reply_to_user_id": "1682431068475891714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951705960013349334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CascadingPallor 叹什么气🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_1951705955131162624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxXaOcGbgAAYSf0.jpg",
+        "width": 404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1951705960013349334",
+        "created_at": "2025-08-02T18:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951710445116727368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682431068475891714",
+              "start": 0,
+              "username": "CascadingPallor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951710445116727368",
+        "in_reply_to_user_id": "1682431068475891714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951705960013349334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CascadingPallor 叹什么气🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951705955131162624"
+          ]
+        },
+        "author_id": "1682431068475891714",
+        "conversation_id": "1951705960013349334",
+        "created_at": "2025-08-02T18:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951705960013349334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YCOXHjhmf",
+              "end": 25,
+              "expanded_url": "https://x.com/CascadingPallor/status/1951705960013349334/photo/1",
+              "media_key": "3_1951705955131162624",
+              "start": 2,
+              "url": "https://t.co/8YCOXHjhmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951705960013349334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/8YCOXHjhmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14744,
+          "following_count": 91,
+          "like_count": 13714,
+          "listed_count": 59,
+          "media_count": 312,
+          "tweet_count": 1783
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:43:29.000Z",
+        "description": "how to survive a funeral",
+        "id": "1682431068475891714",
+        "name": "Sins_of_the_past",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870054155784193/60Tn4j2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6752,
+          "following_count": 1849,
+          "like_count": 49959,
+          "listed_count": 34,
+          "media_count": 874,
+          "tweet_count": 6772
+        },
+        "username": "CascadingPallor",
+        "verified": false
+      }
+    ]
+  }
+}

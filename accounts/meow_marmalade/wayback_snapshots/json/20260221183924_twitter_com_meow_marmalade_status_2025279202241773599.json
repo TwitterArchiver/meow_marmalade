@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2025098275754574000",
+    "created_at": "2026-02-21T18:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025279202241773599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1287068762470899713",
+          "start": 0,
+          "username": "checheren10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025279202241773599",
+    "in_reply_to_user_id": "1287068762470899713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025098275754574000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@checheren10 玛雅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36896,
+        "height": 720,
+        "media_key": "13_2025098247958921216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025098247958921216/img/oxqYu-douECdkx84.jpg",
+        "public_metrics": {
+          "view_count": 702
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025098247958921216/vid/avc1/320x320/hHfgtzQmYevGAjf_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025098247958921216/vid/avc1/540x540/jkoDkyfgqi7815xu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025098247958921216/vid/avc1/720x720/j-A8zSvF1sd4FZdw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025098247958921216/pl/uIB9eRQKae2aca9l.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2025098275754574000",
+        "created_at": "2026-02-21T18:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025279202241773599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1287068762470899713",
+              "start": 0,
+              "username": "checheren10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025279202241773599",
+        "in_reply_to_user_id": "1287068762470899713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025098275754574000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@checheren10 玛雅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025098247958921216"
+          ]
+        },
+        "author_id": "1287068762470899713",
+        "conversation_id": "2025098275754574000",
+        "created_at": "2026-02-21T06:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025098275754574000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "女喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BH9PVMDoji",
+              "end": 53,
+              "expanded_url": "https://x.com/checheren10/status/2025098275754574000/video/1",
+              "media_key": "13_2025098247958921216",
+              "start": 30,
+              "url": "https://t.co/BH9PVMDoji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025098275754574000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2367,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来是水声纯享版，奈何没忍住\n（过年打个tag玩玩\n#女喘 https://t.co/BH9PVMDoji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36079,
+          "following_count": 95,
+          "like_count": 22084,
+          "listed_count": 140,
+          "media_count": 166,
+          "tweet_count": 3674
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T16:54:48.000Z",
+        "description": "✌︎( ᐛ )✌︎\n发点不能发的/双，但是可爱第一/理性消费不用投喂/不接推广🧐",
+        "id": "1287068762470899713",
+        "name": "本居小铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681648717215174656/K9bRjrrG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9850,
+          "following_count": 310,
+          "like_count": 5422,
+          "listed_count": 30,
+          "media_count": 352,
+          "tweet_count": 3841
+        },
+        "username": "checheren10",
+        "verified": false
+      }
+    ]
+  }
+}

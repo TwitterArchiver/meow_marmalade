@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936790801658601472",
+        "3_1936790801826107393"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1936790822680494395",
+    "created_at": "2025-06-22T14:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936790822680494395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TJ91LeDbyY",
+          "end": 51,
+          "expanded_url": "https://x.com/meow_marmalade/status/1936790822680494395/photo/1",
+          "media_key": "3_1936790801658601472",
+          "start": 28,
+          "url": "https://t.co/TJ91LeDbyY"
+        },
+        {
+          "display_url": "pic.x.com/TJ91LeDbyY",
+          "end": 51,
+          "expanded_url": "https://x.com/meow_marmalade/status/1936790822680494395/photo/1",
+          "media_key": "3_1936790801826107393",
+          "start": 28,
+          "url": "https://t.co/TJ91LeDbyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936790822680494395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找理由翘班出去摸鱼了 \n不对 为什么周天是翘班呢\n赫赫 https://t.co/TJ91LeDbyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2886,
+        "media_key": "3_1936790801658601472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDc-Pka4AASLWe.jpg",
+        "width": 3849
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1936790801826107393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDc-QMW0AEENc1.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936790801658601472",
+            "3_1936790801826107393"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1936790822680494395",
+        "created_at": "2025-06-22T14:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936790822680494395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJ91LeDbyY",
+              "end": 51,
+              "expanded_url": "https://x.com/meow_marmalade/status/1936790822680494395/photo/1",
+              "media_key": "3_1936790801658601472",
+              "start": 28,
+              "url": "https://t.co/TJ91LeDbyY"
+            },
+            {
+              "display_url": "pic.x.com/TJ91LeDbyY",
+              "end": 51,
+              "expanded_url": "https://x.com/meow_marmalade/status/1936790822680494395/photo/1",
+              "media_key": "3_1936790801826107393",
+              "start": 28,
+              "url": "https://t.co/TJ91LeDbyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936790822680494395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找理由翘班出去摸鱼了 \n不对 为什么周天是翘班呢\n赫赫 https://t.co/TJ91LeDbyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9639,
+          "following_count": 95,
+          "like_count": 11810,
+          "listed_count": 32,
+          "media_count": 269,
+          "tweet_count": 1362
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1976682935597277434",
+    "created_at": "2025-10-10T16:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976682935597277434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meow_marmalade…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/meow_marmalade/status/1844191610361483535",
+          "start": 14,
+          "url": "https://t.co/MmIkW3r5Bi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976682935597277434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844191610361483535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怪自己死性不改 思念成病态 https://t.co/MmIkW3r5Bi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_1844191598881669123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZfifP0aAAMDvGB.jpg",
+        "width": 1103
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1844191598877593600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZfifPzb0AA6wm4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1976682935597277434",
+        "created_at": "2025-10-10T16:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976682935597277434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow_marmalade…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/1844191610361483535",
+              "start": 14,
+              "url": "https://t.co/MmIkW3r5Bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976682935597277434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844191610361483535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怪自己死性不改 思念成病态 https://t.co/MmIkW3r5Bi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844191598881669123",
+            "3_1844191598877593600"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1844191610361483535",
+        "created_at": "2024-10-10T01:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T02:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844191610361483535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLQKi4dbwY",
+              "end": 23,
+              "expanded_url": "https://x.com/meow_marmalade/status/1844191610361483535/photo/1",
+              "media_key": "3_1844191598881669123",
+              "start": 0,
+              "url": "https://t.co/FLQKi4dbwY"
+            },
+            {
+              "display_url": "pic.x.com/FLQKi4dbwY",
+              "end": 23,
+              "expanded_url": "https://x.com/meow_marmalade/status/1844191610361483535/photo/1",
+              "media_key": "3_1844191598877593600",
+              "start": 0,
+              "url": "https://t.co/FLQKi4dbwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844191610361483535",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2730,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FLQKi4dbwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20480,
+          "following_count": 94,
+          "like_count": 16551,
+          "listed_count": 83,
+          "media_count": 179,
+          "tweet_count": 2325
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

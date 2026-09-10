@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1997111328427966918",
+    "created_at": "2025-12-06T08:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T09:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997219278228165116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1434740364322086917",
+          "start": 0,
+          "username": "YY35227940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997219278228165116",
+    "in_reply_to_user_id": "1434740364322086917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997214298901467137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YY35227940 换点口味😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1997111328427966918",
+        "created_at": "2025-12-06T08:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T09:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997219278228165116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434740364322086917",
+              "start": 0,
+              "username": "YY35227940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997219278228165116",
+        "in_reply_to_user_id": "1434740364322086917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997214298901467137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YY35227940 换点口味😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434740364322086917",
+        "conversation_id": "1997111328427966918",
+        "created_at": "2025-12-06T07:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997214298901467137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997214298901467137",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997111328427966918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 胶衣有点多余了嗷😤😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27769,
+          "following_count": 91,
+          "like_count": 18957,
+          "listed_count": 117,
+          "media_count": 199,
+          "tweet_count": 2971
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-06T04:49:14.000Z",
+        "description": "无",
+        "id": "1434740364322086917",
+        "name": "YY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434740508211830792/JT0IYJv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 122,
+          "like_count": 471,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 309
+        },
+        "username": "YY35227940",
+        "verified": false
+      }
+    ]
+  }
+}

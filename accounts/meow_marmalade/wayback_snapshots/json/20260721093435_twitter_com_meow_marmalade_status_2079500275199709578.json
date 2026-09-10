@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2079147758557262055",
+    "created_at": "2026-07-21T09:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079500275199709578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1010137718540656641",
+          "start": 0,
+          "username": "Wuliuzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079500275199709578",
+    "in_reply_to_user_id": "1010137718540656641",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079455688074629167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuliuzzz 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-21T09:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079500275199709578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1010137718540656641",
+              "start": 0,
+              "username": "Wuliuzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079500275199709578",
+        "in_reply_to_user_id": "1010137718540656641",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079455688074629167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuliuzzz 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1010137718540656641",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-21T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079455688074629167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079455688074629167",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079147758557262055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 什么是四爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40206,
+          "following_count": 98,
+          "like_count": 27763,
+          "listed_count": 162,
+          "media_count": 198,
+          "tweet_count": 4974
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-22T12:29:34.000Z",
+        "description": "欢迎同好找我一起玩互fo🙂，常驻杭州。我不懂二次元🍔🍟。推广自辨。",
+        "id": "1010137718540656641",
+        "location": "杭州",
+        "name": "巫琉Zzz🌻",
+        "pinned_tweet_id": "2079454523798769704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994846603669336064/0OsERr7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151961,
+          "following_count": 3063,
+          "like_count": 12807,
+          "listed_count": 860,
+          "media_count": 292,
+          "tweet_count": 1655
+        },
+        "url": "",
+        "username": "Wuliuzzz",
+        "verified": true
+      }
+    ]
+  }
+}

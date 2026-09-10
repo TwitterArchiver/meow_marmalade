@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2056316999698100258",
+    "created_at": "2026-05-18T11:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056341771379216476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1473963793436737541",
+          "start": 0,
+          "username": "kokoAsk2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056341771379216476",
+    "in_reply_to_user_id": "1473963793436737541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056336014801854546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoAsk2077 你才小孩🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2056316999698100258",
+        "created_at": "2026-05-18T11:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056341771379216476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1473963793436737541",
+              "start": 0,
+              "username": "kokoAsk2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056341771379216476",
+        "in_reply_to_user_id": "1473963793436737541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056336014801854546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoAsk2077 你才小孩🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473963793436737541",
+        "conversation_id": "2056316999698100258",
+        "created_at": "2026-05-18T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056336014801854546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056336014801854546",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056316999698100258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 憂鬱小孩..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38051,
+          "following_count": 90,
+          "like_count": 26004,
+          "listed_count": 151,
+          "media_count": 207,
+          "tweet_count": 4405
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-23T10:29:01.000Z",
+        "description": "ずっど迷子、ずっど孤独、ZTMY。\n\n黛冬優子、浅倉透、斑鳩ルカ、贰元桐子幸国推し\n\n2077.10.23",
+        "id": "1473963793436737541",
+        "location": "Zion  YE7",
+        "name": "GFーココ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506565163264094208/S8aRzIFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 791,
+          "like_count": 12966,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 5451
+        },
+        "username": "kokoAsk2077",
+        "verified": false
+      }
+    ]
+  }
+}

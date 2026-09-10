@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1817507179424862287",
+    "created_at": "2024-07-28T11:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T12:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817517847415013793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682431068475891714",
+          "start": 0,
+          "username": "CascadingPallor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817517847415013793",
+    "in_reply_to_user_id": "1682431068475891714",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817517670281208016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CascadingPallor 裙子好看 我不好看 社恐极了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1817507179424862287",
+        "created_at": "2024-07-28T11:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T12:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817517847415013793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682431068475891714",
+              "start": 0,
+              "username": "CascadingPallor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817517847415013793",
+        "in_reply_to_user_id": "1682431068475891714",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817517670281208016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CascadingPallor 裙子好看 我不好看 社恐极了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682431068475891714",
+        "conversation_id": "1817507179424862287",
+        "created_at": "2024-07-28T11:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T12:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817517670281208016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817517670281208016",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817507179424862287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 穿嘛🥺🥺为什么不穿这么好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 109,
+          "like_count": 1320,
+          "listed_count": 5,
+          "tweet_count": 327
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:43:29.000Z",
+        "description": "What life is but a fevered dream\n／苦しい　君に言いたいよ。 @ToshiroNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "ToshiroNya"
+              }
+            ]
+          }
+        },
+        "id": "1682431068475891714",
+        "name": "CascadingPallor",
+        "pinned_tweet_id": "1777973200145744178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870054155784193/60Tn4j2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5142,
+          "following_count": 1166,
+          "like_count": 29595,
+          "listed_count": 30,
+          "tweet_count": 4662
+        },
+        "username": "CascadingPallor",
+        "verified": false
+      }
+    ]
+  }
+}

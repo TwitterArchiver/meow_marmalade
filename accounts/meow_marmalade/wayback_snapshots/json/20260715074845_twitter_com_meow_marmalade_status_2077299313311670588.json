@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2077084345412841664",
+    "created_at": "2026-07-15T07:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077299313311670588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346351674030497792",
+          "start": 0,
+          "username": "Futa_LemonTea"
+        },
+        {
+          "end": 23,
+          "id": "1370271730409693187",
+          "start": 15,
+          "username": "wmaly13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077299313311670588",
+    "in_reply_to_user_id": "1346351674030497792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077286520306958469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futa_LemonTea @wmaly13 😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2077084345412841664",
+        "created_at": "2026-07-15T07:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077299313311670588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346351674030497792",
+              "start": 0,
+              "username": "Futa_LemonTea"
+            },
+            {
+              "end": 23,
+              "id": "1370271730409693187",
+              "start": 15,
+              "username": "wmaly13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077299313311670588",
+        "in_reply_to_user_id": "1346351674030497792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077286520306958469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futa_LemonTea @wmaly13 😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346351674030497792",
+        "conversation_id": "2077084345412841664",
+        "created_at": "2026-07-15T06:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077286520306958469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1370271730409693187",
+              "start": 0,
+              "username": "wmaly13"
+            },
+            {
+              "end": 24,
+              "id": "1353996204422492160",
+              "start": 9,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077286520306958469",
+        "in_reply_to_user_id": "1370271730409693187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077285502513037470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmaly13 @meow_marmalade 😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39983,
+          "following_count": 97,
+          "like_count": 27633,
+          "listed_count": 162,
+          "media_count": 191,
+          "tweet_count": 4922
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-05T07:03:58.000Z",
+        "description": "一花一世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/Z1RZsL1r",
+                "end": 23,
+                "expanded_url": "https://ibb.co/Z1RZsL1r",
+                "start": 0,
+                "url": "https://t.co/sgKevNMELf"
+              }
+            ]
+          }
+        },
+        "id": "1346351674030497792",
+        "location": "不喜欢就打赏点儿叭→",
+        "name": "嵐澗樹",
+        "pinned_tweet_id": "1975886335887155686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073344369680384000/KbizaZi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6300,
+          "following_count": 683,
+          "like_count": 3639,
+          "listed_count": 29,
+          "media_count": 29,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/sgKevNMELf",
+        "username": "Futa_LemonTea",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T07:13:41.000Z",
+        "description": "死人/仅推发图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+7LpOwlpvwZ9lY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+7LpOwlpvwZ9lYWZl",
+                "start": 0,
+                "url": "https://t.co/KUimMLVm8c"
+              }
+            ]
+          }
+        },
+        "id": "1370271730409693187",
+        "location": "广州 （链接是我自己的群，可以来聊天）",
+        "name": "鹀雀",
+        "pinned_tweet_id": "2028652086905508310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051307744339337216/g4j93kl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 603,
+          "like_count": 7957,
+          "listed_count": 56,
+          "media_count": 507,
+          "tweet_count": 4947
+        },
+        "url": "https://t.co/KUimMLVm8c",
+        "username": "wmaly13",
+        "verified": false
+      }
+    ]
+  }
+}

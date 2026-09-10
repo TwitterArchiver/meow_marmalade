@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2094398413387477249",
+    "created_at": "2026-08-31T15:54:15.000Z",
+    "display_text_range": [
+      24,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094453724571975857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        },
+        {
+          "end": 23,
+          "id": "2840454194",
+          "start": 15,
+          "username": "ohatenn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094453724571975857",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094419124638404760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 @ohatenn 羞死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2094398413387477249",
+        "created_at": "2026-08-31T15:54:15.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094453724571975857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            },
+            {
+              "end": 23,
+              "id": "2840454194",
+              "start": 15,
+              "username": "ohatenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094453724571975857",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094419124638404760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 @ohatenn 羞死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775411944692051968",
+        "conversation_id": "2094398413387477249",
+        "created_at": "2026-08-31T13:36:46.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094419124638404760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 24,
+              "id": "2840454194",
+              "start": 16,
+              "username": "ohatenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094419124638404760",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094398413387477249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @ohatenn 我来克服一下猫老师"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2094453724571975857",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40920,
+          "following_count": 104,
+          "like_count": 28758,
+          "listed_count": 166,
+          "media_count": 216,
+          "tweet_count": 5230
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\nお題箱https://t.co/ToMyFG0bnC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 58,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 35,
+                "url": "https://t.co/ToMyFG0bnC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/8FnOVBMA8q"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "is_identity_verified": false,
+        "location": "欧润吉",
+        "most_recent_tweet_id": "2094419124638404760",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2085667432883245109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775411944692051968/1761495366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6699,
+          "following_count": 2121,
+          "like_count": 16172,
+          "listed_count": 24,
+          "media_count": 318,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/8FnOVBMA8q",
+        "username": "MagicalHat999",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T17:37:43.000Z",
+        "description": "难道我不是你最想嚼的大果",
+        "id": "2840454194",
+        "is_identity_verified": false,
+        "location": "疼痒天下",
+        "most_recent_tweet_id": "2094426809601515784",
+        "name": "八点的时候在做什么",
+        "pinned_tweet_id": "2055758661608497254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840454194/1697796697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982345669579833344/2pUALT90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28722,
+          "following_count": 2939,
+          "like_count": 50588,
+          "listed_count": 183,
+          "media_count": 798,
+          "tweet_count": 29030
+        },
+        "url": "",
+        "username": "ohatenn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

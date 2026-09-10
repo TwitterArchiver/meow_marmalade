@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1979963563440849029",
+    "created_at": "2025-10-19T17:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T18:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979965282979569957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979965282979569957",
+    "in_reply_to_user_id": "1353996204422492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979963563440849029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次翻日记的时候 总有一种看自画像的感觉 原来每个自己都那么不一样 哭笑不得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3798,
+        "media_key": "3_1979963549666435072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3o-W64W4AAiyoL.jpg",
+        "width": 2848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1979963563440849029",
+        "created_at": "2025-10-19T17:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T18:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979965282979569957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979965282979569957",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979963563440849029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次翻日记的时候 总有一种看自画像的感觉 原来每个自己都那么不一样 哭笑不得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979963549666435072"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1979963563440849029",
+        "created_at": "2025-10-19T17:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T18:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979963563440849029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbtpGViWat",
+              "end": 59,
+              "expanded_url": "https://x.com/meow_marmalade/status/1979963563440849029/photo/1",
+              "media_key": "3_1979963549666435072",
+              "start": 36,
+              "url": "https://t.co/jbtpGViWat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979963563440849029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“stare at self portraits til I cry” https://t.co/jbtpGViWat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21272,
+          "following_count": 94,
+          "like_count": 16949,
+          "listed_count": 87,
+          "media_count": 187,
+          "tweet_count": 2430
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

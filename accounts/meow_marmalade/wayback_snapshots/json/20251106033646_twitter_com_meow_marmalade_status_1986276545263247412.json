@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-06T03:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T04:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986276545263247412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1823985436613812224",
+          "start": 0,
+          "username": "_IMOI_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986276545263247412",
+    "in_reply_to_user_id": "1823985436613812224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986265489782518159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_IMOI_ 这么好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T03:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986276545263247412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1823985436613812224",
+              "start": 0,
+              "username": "_IMOI_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986276545263247412",
+        "in_reply_to_user_id": "1823985436613812224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986265489782518159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_IMOI_ 这么好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823985436613812224",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T02:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986265489782518159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986265489782518159",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986035435702001673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 没事，人是热的就行，我做饭不就是了呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25846,
+          "following_count": 92,
+          "like_count": 17707,
+          "listed_count": 101,
+          "media_count": 191,
+          "tweet_count": 2649
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T07:30:07.000Z",
+        "description": "废话文学，小子（",
+        "id": "1823985436613812224",
+        "location": "老人孩子一起飞",
+        "name": "IMOI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823985691535290368/4suQxkxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 357,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1080
+        },
+        "username": "_IMOI_",
+        "verified": false
+      }
+    ]
+  }
+}

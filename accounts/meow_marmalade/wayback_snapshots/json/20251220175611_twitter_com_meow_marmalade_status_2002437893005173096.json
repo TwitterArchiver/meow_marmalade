@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1999424171009544432",
+    "created_at": "2025-12-20T17:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002437893005173096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1039280490782412801",
+          "start": 0,
+          "username": "PrincetonAsimov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002437893005173096",
+    "in_reply_to_user_id": "1039280490782412801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002435344931959022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrincetonAsimov 尴尬了 这个只是像绳缚的qqny罢了 并不是真的一根绳子 所以我也不晓得多长👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1999424171009544432",
+        "created_at": "2025-12-20T17:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002437893005173096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1039280490782412801",
+              "start": 0,
+              "username": "PrincetonAsimov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002437893005173096",
+        "in_reply_to_user_id": "1039280490782412801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002435344931959022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrincetonAsimov 尴尬了 这个只是像绳缚的qqny罢了 并不是真的一根绳子 所以我也不晓得多长👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1039280490782412801",
+        "conversation_id": "1999424171009544432",
+        "created_at": "2025-12-20T17:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002435344931959022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002435344931959022",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999424171009544432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 绑成这样需要多长的绳子呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28365,
+          "following_count": 90,
+          "like_count": 19777,
+          "listed_count": 126,
+          "media_count": 163,
+          "tweet_count": 3120
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-10T22:32:32.000Z",
+        "description": "",
+        "id": "1039280490782412801",
+        "location": "San Francisco, CA",
+        "name": "Happy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700130736844718080/qR26Umod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 57,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "PrincetonAsimov",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2061399786763518435",
+    "created_at": "2026-06-01T12:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061428893668761927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061428893668761927",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061427733943755209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 dui🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2061399786763518435",
+        "created_at": "2026-06-01T12:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061428893668761927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061428893668761927",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061427733943755209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 dui🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775411944692051968",
+        "conversation_id": "2061399786763518435",
+        "created_at": "2026-06-01T12:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061427733943755209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061427733943755209",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061399786763518435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我相信老师打错字了是童真对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38102,
+          "following_count": 94,
+          "like_count": 26320,
+          "listed_count": 150,
+          "media_count": 159,
+          "tweet_count": 4435
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，中文，日本語，ENG⭕️\n主页：https://t.co/8FnOVBN7XY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 55,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 32,
+                "url": "https://t.co/8FnOVBN7XY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 0,
+                "url": "https://t.co/ToMyFG0Jda"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "location": "欧润吉",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2047376349418131948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4056,
+          "following_count": 1825,
+          "like_count": 9628,
+          "listed_count": 17,
+          "media_count": 158,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/ToMyFG0Jda",
+        "username": "MagicalHat999",
+        "verified": true
+      }
+    ]
+  }
+}

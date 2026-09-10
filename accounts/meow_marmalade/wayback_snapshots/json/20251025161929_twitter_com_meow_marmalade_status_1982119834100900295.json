@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1981663189810205004",
+    "created_at": "2025-10-25T16:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982119834100900295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1564948953845534724",
+          "start": 0,
+          "username": "Vector_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982119834100900295",
+    "in_reply_to_user_id": "1564948953845534724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982113259307340085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vector_QWQ 都算是常见的单品呢 不是一整套买来的。很久以前买的，没头绪了不好意思（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1981663189810205004",
+        "created_at": "2025-10-25T16:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982119834100900295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1564948953845534724",
+              "start": 0,
+              "username": "Vector_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982119834100900295",
+        "in_reply_to_user_id": "1564948953845534724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982113259307340085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vector_QWQ 都算是常见的单品呢 不是一整套买来的。很久以前买的，没头绪了不好意思（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564948953845534724",
+        "conversation_id": "1981663189810205004",
+        "created_at": "2025-10-25T15:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982113259307340085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982113259307340085",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981663189810205004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 请问这是那套衣服..或者说有链接吗【？】"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23931,
+          "following_count": 94,
+          "like_count": 17183,
+          "listed_count": 92,
+          "media_count": 183,
+          "tweet_count": 2498
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T12:11:30.000Z",
+        "description": "偶尔发点想发的东西，不定时发癫",
+        "id": "1564948953845534724",
+        "location": "澪家大豪斯",
+        "name": "Rä1n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925009006957101056/dNlhZWKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 211,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 95
+        },
+        "username": "Vector_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

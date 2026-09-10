@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1965084612025364941",
+    "created_at": "2025-09-08T16:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965085012535239127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875905825157640192",
+          "start": 0,
+          "username": "Nanamigaoshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965085012535239127",
+    "in_reply_to_user_id": "1875905825157640192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965084756372250826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanamigaoshou 和谁拍呢我请问了😭😭\n以前对象也没一个喜欢蕾服的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1965084612025364941",
+        "created_at": "2025-09-08T16:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965085012535239127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875905825157640192",
+              "start": 0,
+              "username": "Nanamigaoshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965085012535239127",
+        "in_reply_to_user_id": "1875905825157640192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965084756372250826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanamigaoshou 和谁拍呢我请问了😭😭\n以前对象也没一个喜欢蕾服的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875905825157640192",
+        "conversation_id": "1965084612025364941",
+        "created_at": "2025-09-08T16:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965084756372250826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965084756372250826",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965084612025364941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 拍！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18121,
+          "following_count": 90,
+          "like_count": 15305,
+          "listed_count": 71,
+          "media_count": 288,
+          "tweet_count": 2202
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:03:16.000Z",
+        "description": "",
+        "id": "1875905825157640192",
+        "name": "遗憾写成书",
+        "pinned_tweet_id": "1876819951303979167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906355152770203648/wUunliua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 396,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 369
+        },
+        "username": "Nanamigaoshou",
+        "verified": false
+      }
+    ]
+  }
+}

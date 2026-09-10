@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1981663189810205004",
+    "created_at": "2025-10-24T10:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981671226407080267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682431068475891714",
+          "start": 0,
+          "username": "CascadingPallor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981671226407080267",
+    "in_reply_to_user_id": "1682431068475891714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981666184992100505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CascadingPallor 惊人的鸦鸦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1981663189810205004",
+        "created_at": "2025-10-24T10:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981671226407080267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682431068475891714",
+              "start": 0,
+              "username": "CascadingPallor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981671226407080267",
+        "in_reply_to_user_id": "1682431068475891714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981666184992100505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CascadingPallor 惊人的鸦鸦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682431068475891714",
+        "conversation_id": "1981663189810205004",
+        "created_at": "2025-10-24T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981666184992100505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981666184992100505",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981663189810205004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 惊人的吉蜜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21742,
+          "following_count": 94,
+          "like_count": 17093,
+          "listed_count": 88,
+          "media_count": 187,
+          "tweet_count": 2467
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:43:29.000Z",
+        "description": "嘻嘻 我一定要赢",
+        "id": "1682431068475891714",
+        "name": "Sins_of_the_past",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870054155784193/60Tn4j2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6760,
+          "following_count": 1997,
+          "like_count": 52192,
+          "listed_count": 33,
+          "media_count": 921,
+          "tweet_count": 6996
+        },
+        "username": "CascadingPallor",
+        "verified": false
+      }
+    ]
+  }
+}

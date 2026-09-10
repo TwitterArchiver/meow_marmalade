@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2097309199877439718",
+    "created_at": "2026-09-08T15:49:56.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097351741574676709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097351741574676709",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097309199877439718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 就是小孩，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5665,
+        "height": 3840,
+        "media_key": "13_2097309119955050496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097309119955050496/img/68szy-TQFhEacjiZ.jpg",
+        "public_metrics": {
+          "view_count": 1004
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097309119955050496/vid/avc1/2160x3840/Cgkr7hWaa1wPKuFZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097309119955050496/vid/avc1/720x1280/nCgfV35vPvQ2rn-b.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097309119955050496/vid/avc1/1080x1920/YoCJ8Ptnkp9IvK5j.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097309119955050496/vid/avc1/320x568/7UZ2ZYZZMMFRFKLc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097309119955050496/vid/avc1/480x852/RDxutZL0KHKyAOrK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097309119955050496/pl/aluJ2_pwOoKZaQFF.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2097309199877439718",
+        "created_at": "2026-09-08T15:49:56.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097351741574676709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097351741574676709",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097309199877439718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 就是小孩，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097309119955050496"
+          ]
+        },
+        "author_id": "1775411944692051968",
+        "conversation_id": "2097309199877439718",
+        "created_at": "2026-09-08T13:00:54.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097309199877439718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXyRbiDcQD",
+              "end": 51,
+              "expanded_url": "https://x.com/MagicalHat999/status/2097309199877439718/video/1",
+              "media_key": "13_2097309119955050496",
+              "start": 28,
+              "url": "https://t.co/GXyRbiDcQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097309199877439718",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097309119955050496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2756,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "最近穿小孩衣服太多了决定返回一下舒适圈\n沉迷于经典出装 https://t.co/GXyRbiDcQD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2097351741574676709",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41172,
+          "following_count": 106,
+          "like_count": 28899,
+          "listed_count": 165,
+          "media_count": 225,
+          "tweet_count": 5298
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\nお題箱https://t.co/ToMyFG0bnC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 58,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 35,
+                "url": "https://t.co/ToMyFG0bnC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/8FnOVBMA8q"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "is_identity_verified": false,
+        "location": "欧润吉",
+        "most_recent_tweet_id": "2097325073799815254",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2085667432883245109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775411944692051968/1761495366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6779,
+          "following_count": 2131,
+          "like_count": 16474,
+          "listed_count": 27,
+          "media_count": 326,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/8FnOVBMA8q",
+        "username": "MagicalHat999",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

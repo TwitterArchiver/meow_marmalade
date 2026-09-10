@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1967063648918216885",
+    "created_at": "2025-09-14T04:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967090796760625665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633809558513778694",
+          "start": 0,
+          "username": "xuxuna333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967090796760625665",
+    "in_reply_to_user_id": "1633809558513778694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967063648918216885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxuna333 赔你 但是这双给我叭😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967063637019029505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0xp9LcbcAEVige.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1967063648918216885",
+        "created_at": "2025-09-14T04:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967090796760625665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633809558513778694",
+              "start": 0,
+              "username": "xuxuna333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967090796760625665",
+        "in_reply_to_user_id": "1633809558513778694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967063648918216885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxuna333 赔你 但是这双给我叭😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967063637019029505"
+          ]
+        },
+        "author_id": "1633809558513778694",
+        "conversation_id": "1967063648918216885",
+        "created_at": "2025-09-14T03:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967063648918216885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "黑丝"
+            },
+            {
+              "end": 18,
+              "start": 16,
+              "tag": "足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzTNZVYgPO",
+              "end": 42,
+              "expanded_url": "https://x.com/xuxuna333/status/1967063648918216885/photo/1",
+              "media_key": "3_1967063637019029505",
+              "start": 19,
+              "url": "https://t.co/lzTNZVYgPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967063648918216885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1017,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看到的人都要赔我袜子喵\n#黑丝 #足 https://t.co/lzTNZVYgPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18789,
+          "following_count": 91,
+          "like_count": 15562,
+          "listed_count": 76,
+          "media_count": 284,
+          "tweet_count": 2254
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T12:38:59.000Z",
+        "description": "学生 性别♂ 电子宠物 多人设 喜欢看番打游戏 接lol/瓦陪玩 线下绿陪 推特唯一小号搞抽象擦边@mianovo3 抖音灌注四小丸子！私信评论都会看 欢迎同好宝宝贴贴w互fo扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "mianovo3"
+              }
+            ]
+          }
+        },
+        "id": "1633809558513778694",
+        "name": "缘晓晓",
+        "pinned_tweet_id": "1920050118868472159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835919528875941888/nLrH0SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39778,
+          "following_count": 676,
+          "like_count": 9270,
+          "listed_count": 145,
+          "media_count": 423,
+          "tweet_count": 5637
+        },
+        "username": "xuxuna333",
+        "verified": false
+      }
+    ]
+  }
+}

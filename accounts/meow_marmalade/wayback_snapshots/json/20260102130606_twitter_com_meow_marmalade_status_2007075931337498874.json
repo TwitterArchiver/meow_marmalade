@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2007035559055884436",
+    "created_at": "2026-01-02T13:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007075931337498874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530398472943603712",
+          "start": 0,
+          "username": "SH62848982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007075931337498874",
+    "in_reply_to_user_id": "1530398472943603712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007042908546089406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SH62848982 maybe 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2007035559055884436",
+        "created_at": "2026-01-02T13:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007075931337498874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530398472943603712",
+              "start": 0,
+              "username": "SH62848982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007075931337498874",
+        "in_reply_to_user_id": "1530398472943603712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007042908546089406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SH62848982 maybe 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530398472943603712",
+        "conversation_id": "2007035559055884436",
+        "created_at": "2026-01-02T10:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007042908546089406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007042908546089406",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007035559055884436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 雰囲気が変わってる?\n2024：幼い\n2026：大人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29753,
+          "following_count": 95,
+          "like_count": 20404,
+          "listed_count": 130,
+          "media_count": 184,
+          "tweet_count": 3257
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T04:00:16.000Z",
+        "description": "1999年\n社畜(仕事辞めたい)\n　　仕事ないと暇。。。\nカッコイイ、可愛いが好き(コスプレ大好き)",
+        "id": "1530398472943603712",
+        "name": "SH",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 168
+        },
+        "username": "SH62848982",
+        "verified": false
+      }
+    ]
+  }
+}

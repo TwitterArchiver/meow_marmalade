@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2090379900784099750",
+    "created_at": "2026-08-20T14:10:49.000Z",
+    "display_text_range": [
+      31,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090441429038600197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        },
+        {
+          "end": 30,
+          "id": "1679464047463522304",
+          "start": 15,
+          "username": "yuyu_0829_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090441429038600197",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090389225804050556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 @yuyu_0829_1003 怎么能对猫老师说这么坏的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2090379900784099750",
+        "created_at": "2026-08-20T14:10:49.000Z",
+        "display_text_range": [
+          31,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090441429038600197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            },
+            {
+              "end": 30,
+              "id": "1679464047463522304",
+              "start": 15,
+              "username": "yuyu_0829_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090441429038600197",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090389225804050556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 @yuyu_0829_1003 怎么能对猫老师说这么坏的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775411944692051968",
+        "conversation_id": "2090379900784099750",
+        "created_at": "2026-08-20T10:43:23.000Z",
+        "display_text_range": [
+          32,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090389225804050556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 31,
+              "id": "1679464047463522304",
+              "start": 16,
+              "username": "yuyu_0829_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090389225804050556",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090379900784099750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @yuyu_0829_1003 标子……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2090441429038600197",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40557,
+          "following_count": 100,
+          "like_count": 28430,
+          "listed_count": 165,
+          "media_count": 217,
+          "tweet_count": 5155
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\nお題箱https://t.co/ToMyFG0bnC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 58,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 35,
+                "url": "https://t.co/ToMyFG0bnC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/8FnOVBMA8q"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "is_identity_verified": false,
+        "location": "欧润吉",
+        "most_recent_tweet_id": "2090440382945661109",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2085667432883245109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775411944692051968/1761495366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 2113,
+          "like_count": 15641,
+          "listed_count": 24,
+          "media_count": 302,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/8FnOVBMA8q",
+        "username": "MagicalHat999",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T12:14:13.000Z",
+        "description": "🧪🧪🧪💥💥💥",
+        "id": "1679464047463522304",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2090415225560580471",
+        "name": "🌟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679464047463522304/1730483617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076523697712869376/Ojc6vnnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 3297,
+          "like_count": 58855,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 7757
+        },
+        "url": "",
+        "username": "yuyu_0829_1003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1893670920327209180",
+    "created_at": "2025-02-24T08:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T09:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893939344483750075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839320117832036352",
+          "start": 0,
+          "username": "yaokxxxj0301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893939344483750075",
+    "in_reply_to_user_id": "1839320117832036352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893670920327209180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaokxxxj0301 老师 大可不必啊老师😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1893670920327209180",
+        "created_at": "2025-02-24T08:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893939344483750075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839320117832036352",
+              "start": 0,
+              "username": "yaokxxxj0301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893939344483750075",
+        "in_reply_to_user_id": "1839320117832036352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893670920327209180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaokxxxj0301 老师 大可不必啊老师😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839320117832036352",
+        "conversation_id": "1893670920327209180",
+        "created_at": "2025-02-23T14:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893670920327209180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893670920327209180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6498,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真想抓住香香软软小男娘的屁股把屎都吸出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 88,
+          "like_count": 5785,
+          "listed_count": 11,
+          "media_count": 174,
+          "tweet_count": 614
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T15:04:39.000Z",
+        "description": "这里是我的公共厕所",
+        "id": "1839320117832036352",
+        "location": "纯绿🚪80",
+        "name": "小溪在线（易欲中）",
+        "pinned_tweet_id": "1863486651919700104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862049793696301056/3HAXPHtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 46,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "username": "yaokxxxj0301",
+        "verified": false
+      }
+    ]
+  }
+}

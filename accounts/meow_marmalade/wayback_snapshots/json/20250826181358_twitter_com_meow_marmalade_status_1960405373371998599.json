@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1960319525355950575",
+    "created_at": "2025-08-26T18:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T19:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960405373371998599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932913788690575360",
+          "start": 0,
+          "username": "bettlegust78491"
+        },
+        {
+          "end": 28,
+          "id": "1775301487763296256",
+          "start": 17,
+          "username": "xipsj31681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960405373371998599",
+    "in_reply_to_user_id": "1932913788690575360",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960404865290768760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bettlegust78491 @xipsj31681 lmao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 122,
+        "media_key": "16_1960404857522716672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzTB1MyXgAAZFHA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzTB1MyXgAAZFHA.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1960319525355950575",
+        "created_at": "2025-08-26T18:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T19:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960405373371998599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932913788690575360",
+              "start": 0,
+              "username": "bettlegust78491"
+            },
+            {
+              "end": 28,
+              "id": "1775301487763296256",
+              "start": 17,
+              "username": "xipsj31681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960405373371998599",
+        "in_reply_to_user_id": "1932913788690575360",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960404865290768760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bettlegust78491 @xipsj31681 lmao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960404857522716672"
+          ]
+        },
+        "author_id": "1932913788690575360",
+        "conversation_id": "1960319525355950575",
+        "created_at": "2025-08-26T18:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T19:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960404865290768760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 27,
+              "id": "1775301487763296256",
+              "start": 16,
+              "username": "xipsj31681"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0KVpDX9Ri",
+              "end": 72,
+              "expanded_url": "https://x.com/bettlegust78491/status/1960404865290768760/photo/1",
+              "media_key": "16_1960404857522716672",
+              "start": 49,
+              "url": "https://t.co/i0KVpDX9Ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960404865290768760",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960382422954209475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @xipsj31681 Like sayain clothes? https://t.co/i0KVpDX9Ri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16279,
+          "following_count": 95,
+          "like_count": 14610,
+          "listed_count": 76,
+          "media_count": 341,
+          "tweet_count": 2097
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T21:32:20.000Z",
+        "description": "Rookie art account, Open and seeking for Comms, Please DM, $15-line, $25 Color, Traditional Media only for now",
+        "id": "1932913788690575360",
+        "location": "deep deep down in the basement",
+        "name": "bettlegust",
+        "pinned_tweet_id": "1933118893821747439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932917974567981056/P345_8cP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1374,
+          "like_count": 27725,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1948
+        },
+        "username": "bettlegust78491",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T23:17:23.000Z",
+        "description": "",
+        "id": "1775301487763296256",
+        "location": "Minato-ku, Tokyo",
+        "name": "フライドポテト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959276940143341568/kB3I2MDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 102,
+          "like_count": 2062,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "xipsj31681",
+        "verified": false
+      }
+    ]
+  }
+}

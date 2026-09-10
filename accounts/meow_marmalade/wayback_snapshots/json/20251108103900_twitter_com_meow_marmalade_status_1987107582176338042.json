@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987107569404682241"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1987107582176338042",
+    "created_at": "2025-11-08T10:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987107582176338042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aMxqXr0dxg",
+          "end": 32,
+          "expanded_url": "https://x.com/meow_marmalade/status/1987107582176338042/photo/1",
+          "media_key": "3_1987107569404682241",
+          "start": 9,
+          "url": "https://t.co/aMxqXr0dxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987107582176338042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脱下来它就坏了💔 https://t.co/aMxqXr0dxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3869,
+        "media_key": "3_1987107569404682241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OfzmTbIAE9uR1.jpg",
+        "width": 2902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987107569404682241"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1987107582176338042",
+        "created_at": "2025-11-08T10:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987107582176338042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMxqXr0dxg",
+              "end": 32,
+              "expanded_url": "https://x.com/meow_marmalade/status/1987107582176338042/photo/1",
+              "media_key": "3_1987107569404682241",
+              "start": 9,
+              "url": "https://t.co/aMxqXr0dxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987107582176338042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脱下来它就坏了💔 https://t.co/aMxqXr0dxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26231,
+          "following_count": 92,
+          "like_count": 17840,
+          "listed_count": 104,
+          "media_count": 193,
+          "tweet_count": 2689
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

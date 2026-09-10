@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1917162010158199149",
+    "created_at": "2025-04-29T16:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T17:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917258392340684862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1674394523433308161",
+          "start": 0,
+          "username": "AI166434061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917258392340684862",
+    "in_reply_to_user_id": "1674394523433308161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917242590220685367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AI166434061 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1917162010158199149",
+        "created_at": "2025-04-29T16:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T17:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917258392340684862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1674394523433308161",
+              "start": 0,
+              "username": "AI166434061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917258392340684862",
+        "in_reply_to_user_id": "1674394523433308161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917242590220685367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AI166434061 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674394523433308161",
+        "conversation_id": "1917162010158199149",
+        "created_at": "2025-04-29T15:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917242590220685367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917242590220685367",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917162010158199149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade C.C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "喵喵叫的蜜柑🍊",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 90,
+          "like_count": 9119,
+          "listed_count": 14,
+          "media_count": 217,
+          "tweet_count": 908
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T12:29:15.000Z",
+        "description": "",
+        "id": "1674394523433308161",
+        "location": "Hong Kong",
+        "name": "AI166434061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899437060177739777/CbkxhhV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 64,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "AI166434061",
+        "verified": false
+      }
+    ]
+  }
+}

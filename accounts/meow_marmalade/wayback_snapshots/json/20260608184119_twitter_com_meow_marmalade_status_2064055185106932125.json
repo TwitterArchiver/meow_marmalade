@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2063939738390917229",
+    "created_at": "2026-06-08T18:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064055185106932125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1321474253825462273",
+          "start": 0,
+          "username": "caorchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064055185106932125",
+    "in_reply_to_user_id": "1321474253825462273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064027752869892149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caorchi 玛雅这也太强了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2063939738390917229",
+        "created_at": "2026-06-08T18:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064055185106932125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1321474253825462273",
+              "start": 0,
+              "username": "caorchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064055185106932125",
+        "in_reply_to_user_id": "1321474253825462273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027752869892149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caorchi 玛雅这也太强了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321474253825462273",
+        "conversation_id": "2063939738390917229",
+        "created_at": "2026-06-08T16:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064027752869892149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064027752869892149",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027384836419662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 每周0休息日上四天课之后三天每天四点五十爬起来去すき家上早班换来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38549,
+          "following_count": 99,
+          "like_count": 26619,
+          "listed_count": 149,
+          "media_count": 159,
+          "tweet_count": 4541
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T15:29:56.000Z",
+        "description": "初心者",
+        "id": "1321474253825462273",
+        "name": "イツカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1321474367558193153/QAIH-1jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 760,
+          "like_count": 16777,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 142
+        },
+        "username": "caorchi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2058506840712081654",
+    "created_at": "2026-05-24T13:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058543426082333160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991524584806629376",
+          "start": 0,
+          "username": "yyy1888888"
+        },
+        {
+          "end": 26,
+          "id": "1775411944692051968",
+          "start": 12,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058543426082333160",
+    "in_reply_to_user_id": "1991524584806629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058519943919051184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyy1888888 @MagicalHat999 终于穿到了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2058506840712081654",
+        "created_at": "2026-05-24T13:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058543426082333160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991524584806629376",
+              "start": 0,
+              "username": "yyy1888888"
+            },
+            {
+              "end": 26,
+              "id": "1775411944692051968",
+              "start": 12,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058543426082333160",
+        "in_reply_to_user_id": "1991524584806629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058519943919051184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyy1888888 @MagicalHat999 终于穿到了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991524584806629376",
+        "conversation_id": "2058506840712081654",
+        "created_at": "2026-05-24T12:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058519943919051184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 30,
+              "id": "1775411944692051968",
+              "start": 16,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058519943919051184",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058506840712081654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @MagicalHat999 Quite frash ？好耶😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38008,
+          "following_count": 94,
+          "like_count": 26055,
+          "listed_count": 150,
+          "media_count": 212,
+          "tweet_count": 4441
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T15:10:55.000Z",
+        "description": "♂‌ 愿 厨艺精湛🧑🏻‍🍳",
+        "id": "1991524584806629376",
+        "location": "日本 神奈",
+        "name": "Braised🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991525585559121926/1LyQOmCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6905,
+          "following_count": 122,
+          "like_count": 1385,
+          "listed_count": 37,
+          "media_count": 60,
+          "tweet_count": 235
+        },
+        "username": "yyy1888888",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，中文，日本語，ENG⭕️\n主页：https://t.co/8FnOVBN7XY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 55,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 32,
+                "url": "https://t.co/8FnOVBN7XY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 0,
+                "url": "https://t.co/ToMyFG0Jda"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "location": "欧润吉",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2047376349418131948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 1771,
+          "like_count": 9133,
+          "listed_count": 14,
+          "media_count": 146,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/ToMyFG0Jda",
+        "username": "MagicalHat999",
+        "verified": true
+      }
+    ]
+  }
+}

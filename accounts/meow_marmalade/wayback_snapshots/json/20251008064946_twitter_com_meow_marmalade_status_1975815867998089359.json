@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1975546465335546273",
+    "created_at": "2025-10-08T06:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975815867998089359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679448451732635648",
+          "start": 0,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975815867998089359",
+    "in_reply_to_user_id": "1679448451732635648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975813879340073406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisa0v01210 石头吗 那很好了😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1975546465335546273",
+        "created_at": "2025-10-08T06:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975815867998089359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975815867998089359",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975813879340073406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 石头吗 那很好了😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679448451732635648",
+        "conversation_id": "1975546465335546273",
+        "created_at": "2025-10-08T06:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975813879340073406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975813879340073406",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975551893796684024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 吃石头吧你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20471,
+          "following_count": 93,
+          "like_count": 16457,
+          "listed_count": 83,
+          "media_count": 183,
+          "tweet_count": 2302
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "正在逃出地狱",
+        "id": "1679448451732635648",
+        "location": "Super Earth",
+        "name": "nagisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15211,
+          "following_count": 332,
+          "like_count": 6658,
+          "listed_count": 101,
+          "media_count": 164,
+          "tweet_count": 3293
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

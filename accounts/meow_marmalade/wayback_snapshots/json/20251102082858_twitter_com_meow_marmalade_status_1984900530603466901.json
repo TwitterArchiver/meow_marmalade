@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984900509518729216"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1984900530603466901",
+    "created_at": "2025-11-02T08:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984900530603466901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mcijQQe3e2",
+          "end": 29,
+          "expanded_url": "https://x.com/meow_marmalade/status/1984900530603466901/photo/1",
+          "media_key": "3_1984900509518729216",
+          "start": 6,
+          "url": "https://t.co/mcijQQe3e2"
+        },
+        {
+          "display_url": "x.com/neutralious/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/neutralious/status/1980102909460418849",
+          "start": 30,
+          "url": "https://t.co/HvsEJs5ynE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984900530603466901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980102909460418849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拙劣的模仿 https://t.co/mcijQQe3e2 https://t.co/HvsEJs5ynE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1984900509518729216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vIfzhbEAAdlM-.jpg",
+        "width": 3024
+      },
+      {
+        "alt_text": "https://pin.it/1BlpSOydh",
+        "height": 981,
+        "media_key": "3_1980102903852355584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3q9GZrW0AAXPof.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984900509518729216"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1984900530603466901",
+        "created_at": "2025-11-02T08:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984900530603466901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcijQQe3e2",
+              "end": 29,
+              "expanded_url": "https://x.com/meow_marmalade/status/1984900530603466901/photo/1",
+              "media_key": "3_1984900509518729216",
+              "start": 6,
+              "url": "https://t.co/mcijQQe3e2"
+            },
+            {
+              "display_url": "x.com/neutralious/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/neutralious/status/1980102909460418849",
+              "start": 30,
+              "url": "https://t.co/HvsEJs5ynE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984900530603466901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980102909460418849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拙劣的模仿 https://t.co/mcijQQe3e2 https://t.co/HvsEJs5ynE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980102903852355584"
+          ]
+        },
+        "author_id": "1161083165873754115",
+        "conversation_id": "1980102909460418849",
+        "created_at": "2025-10-20T02:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980102909460418849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyOLKs94O2",
+              "end": 23,
+              "expanded_url": "https://x.com/Neutralious/status/1980102909460418849/photo/1",
+              "media_key": "3_1980102903852355584",
+              "start": 0,
+              "url": "https://t.co/YyOLKs94O2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980102909460418849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49056,
+          "impression_count": 76823799,
+          "like_count": 317085,
+          "quote_count": 5087,
+          "reply_count": 580,
+          "retweet_count": 21225
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YyOLKs94O2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25649,
+          "following_count": 99,
+          "like_count": 17526,
+          "listed_count": 100,
+          "media_count": 189,
+          "tweet_count": 2591
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T01:12:53.000Z",
+        "description": "Dystopia",
+        "id": "1161083165873754115",
+        "name": "Neutralious",
+        "pinned_tweet_id": "1984083179247132708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847860130571853824/AKORHpOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43543,
+          "following_count": 971,
+          "like_count": 134221,
+          "listed_count": 314,
+          "media_count": 41271,
+          "tweet_count": 69716
+        },
+        "username": "Neutralious",
+        "verified": false
+      }
+    ]
+  }
+}

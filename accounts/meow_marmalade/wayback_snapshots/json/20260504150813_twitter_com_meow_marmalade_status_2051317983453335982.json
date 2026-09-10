@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2051245342902129039",
+    "created_at": "2026-05-04T15:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051317983453335982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1361278679767130113",
+          "start": 0,
+          "username": "ringenbon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051317983453335982",
+    "in_reply_to_user_id": "1361278679767130113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051298280232091651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringenbon 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2051245342902129039",
+        "created_at": "2026-05-04T15:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051317983453335982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1361278679767130113",
+              "start": 0,
+              "username": "ringenbon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051317983453335982",
+        "in_reply_to_user_id": "1361278679767130113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051298280232091651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringenbon 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361278679767130113",
+        "conversation_id": "2051245342902129039",
+        "created_at": "2026-05-04T13:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051298280232091651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051298280232091651",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051245342902129039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 開心！在家吃燒烤了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37514,
+          "following_count": 98,
+          "like_count": 25572,
+          "listed_count": 146,
+          "media_count": 194,
+          "tweet_count": 4260
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-15T11:38:41.000Z",
+        "description": "啊這 日本語を勉強中 英語が下手 たぶんね 世界平和 世界和平。",
+        "id": "1361278679767130113",
+        "location": "Hong Kong",
+        "name": "アオキ羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361278832959836161/ZYMSXREt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 2099,
+          "like_count": 4395,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 370
+        },
+        "username": "ringenbon",
+        "verified": false
+      }
+    ]
+  }
+}

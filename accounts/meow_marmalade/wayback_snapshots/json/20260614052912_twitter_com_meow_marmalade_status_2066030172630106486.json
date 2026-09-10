@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2065766333082702117",
+    "created_at": "2026-06-14T05:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066030172630106486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066030172630106486",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066010254002081853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxiduo Qutie Frash，挺难买的，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2065766333082702117",
+        "created_at": "2026-06-14T05:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066030172630106486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066030172630106486",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066010254002081853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxiduo Qutie Frash，挺难买的，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666329123223121922",
+        "conversation_id": "2065766333082702117",
+        "created_at": "2026-06-14T04:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066010254002081853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066010254002081853",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 617,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065766333082702117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这衣服有链接吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38734,
+          "following_count": 95,
+          "like_count": 26829,
+          "listed_count": 152,
+          "media_count": 165,
+          "tweet_count": 4611
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n暗黑人格💌@duoxichuan\n谢谢关注我的小世界！祝您天天开心~~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "duoxichuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71lrLW"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "粉丝频道:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2058098471065010388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107654,
+          "following_count": 1623,
+          "like_count": 8653,
+          "listed_count": 332,
+          "media_count": 505,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/kXKI71lrLW",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

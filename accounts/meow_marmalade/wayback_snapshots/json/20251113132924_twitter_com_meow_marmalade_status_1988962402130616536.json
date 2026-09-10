@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988900464486744274",
+    "created_at": "2025-11-13T13:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988962402130616536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720475121054515200",
+          "start": 0,
+          "username": "xiangkuakua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988962402130616536",
+    "in_reply_to_user_id": "1720475121054515200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988958332607234370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangkuakua 哈人喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1988958330182942720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ozEDebwAA8p-c.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-13T13:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988962402130616536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720475121054515200",
+              "start": 0,
+              "username": "xiangkuakua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988962402130616536",
+        "in_reply_to_user_id": "1720475121054515200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988958332607234370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangkuakua 哈人喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988958330182942720"
+          ]
+        },
+        "author_id": "1720475121054515200",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-13T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988958332607234370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFHCRVgWpe",
+              "end": 65,
+              "expanded_url": "https://x.com/xiangkuakua/status/1988958332607234370/photo/1",
+              "media_key": "3_1988958330182942720",
+              "start": 42,
+              "url": "https://t.co/MFHCRVgWpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988958332607234370",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988900464486744274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade when I see you every time https://t.co/MFHCRVgWpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26562,
+          "following_count": 95,
+          "like_count": 18060,
+          "listed_count": 105,
+          "media_count": 198,
+          "tweet_count": 2782
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T16:17:28.000Z",
+        "description": "hello.bro",
+        "id": "1720475121054515200",
+        "name": "祥跨跨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905966612894941184/C87xnWrG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 88,
+          "like_count": 6942,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 290
+        },
+        "username": "xiangkuakua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2092562629017661931",
+    "created_at": "2026-08-26T16:11:16.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092646067494097021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742062590900256768",
+          "start": 0,
+          "username": "Shounishi_Nano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092646067494097021",
+    "in_reply_to_user_id": "1742062590900256768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092562629017661931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shounishi_Nano 咔哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A girl wearing cat ears and black stockings sits in an office chair. Cosplay of Kazusa Blue Archive.",
+        "height": 2536,
+        "media_key": "3_2092562607664484352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpGmtQbUAAWN6O.jpg",
+        "width": 1902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2092562629017661931",
+        "created_at": "2026-08-26T16:11:16.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092646067494097021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742062590900256768",
+              "start": 0,
+              "username": "Shounishi_Nano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092646067494097021",
+        "in_reply_to_user_id": "1742062590900256768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092562629017661931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shounishi_Nano 咔哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092562607664484352"
+          ]
+        },
+        "author_id": "1742062590900256768",
+        "conversation_id": "2092562629017661931",
+        "created_at": "2026-08-26T10:39:43.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092562629017661931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tcm1v4yxIb",
+              "end": 42,
+              "expanded_url": "https://x.com/Shounishi_Nano/status/2092562629017661931/photo/1",
+              "media_key": "3_2092562607664484352",
+              "start": 19,
+              "url": "https://t.co/Tcm1v4yxIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092562629017661931",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "A girl wearing cat ears and black stockings sits in an office chair. Cosplay of Kazusa Blue Archive.",
+            "media_key": "3_2092562607664484352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 978,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "「どの猫ちゃんがもっと好き？先生？」 https://t.co/Tcm1v4yxIb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2092646067494097021",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40776,
+          "following_count": 103,
+          "like_count": 28606,
+          "listed_count": 166,
+          "media_count": 222,
+          "tweet_count": 5205
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-02T05:57:53.000Z",
+        "description": "叮叮，梳毛時間到",
+        "id": "1742062590900256768",
+        "is_identity_verified": false,
+        "location": "Miaoli County, Taiwan",
+        "most_recent_tweet_id": "2092577158384517403",
+        "name": "小西西西西",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742062590900256768/1733838052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898291943341424640/48nsYLxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 1285,
+          "like_count": 902,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Shounishi_Nano",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1944372008445149568",
+    "created_at": "2025-07-13T13:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944386098475475119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1198458175248195584",
+          "start": 0,
+          "username": "rkssky1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944386098475475119",
+    "in_reply_to_user_id": "1198458175248195584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944384192298602902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rkssky1 哈哈哈谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1944372008445149568",
+        "created_at": "2025-07-13T13:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944386098475475119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1198458175248195584",
+              "start": 0,
+              "username": "rkssky1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944386098475475119",
+        "in_reply_to_user_id": "1198458175248195584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944384192298602902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rkssky1 哈哈哈谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1198458175248195584",
+        "conversation_id": "1944372008445149568",
+        "created_at": "2025-07-13T13:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944384192298602902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944384192298602902",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944372008445149568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 击毙那一下很酷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12536,
+          "following_count": 99,
+          "like_count": 12764,
+          "listed_count": 51,
+          "media_count": 290,
+          "tweet_count": 1570
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-24T04:27:58.000Z",
+        "description": "二次元 练吉他 初中老师 爱打游戏的傻🐶一个",
+        "id": "1198458175248195584",
+        "location": "California, USA",
+        "name": "rkssky",
+        "pinned_tweet_id": "1942826302299382228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942802020752080896/-xxxVz58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 152
+        },
+        "username": "rkssky1",
+        "verified": false
+      }
+    ]
+  }
+}

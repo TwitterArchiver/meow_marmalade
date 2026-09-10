@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2067928261544559015",
+    "created_at": "2026-06-19T12:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067943551078633554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696044770102255617",
+          "start": 0,
+          "username": "zuiaijingke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067943551078633554",
+    "in_reply_to_user_id": "1696044770102255617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067937740906487910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaijingke 没那么严重（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2067928261544559015",
+        "created_at": "2026-06-19T12:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067943551078633554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696044770102255617",
+              "start": 0,
+              "username": "zuiaijingke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067943551078633554",
+        "in_reply_to_user_id": "1696044770102255617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067937740906487910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaijingke 没那么严重（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696044770102255617",
+        "conversation_id": "2067928261544559015",
+        "created_at": "2026-06-19T11:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067937740906487910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067937740906487910",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067928261544559015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 当一直压力我的领导突然得知了我的推特账号时（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38887,
+          "following_count": 95,
+          "like_count": 26974,
+          "listed_count": 152,
+          "media_count": 171,
+          "tweet_count": 4665
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:19:32.000Z",
+        "description": "#百合 #傲娇\n别疼了。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "百合"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "傲娇"
+              }
+            ]
+          }
+        },
+        "id": "1696044770102255617",
+        "location": "日本",
+        "name": "Closed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945477526610141185/P7ohwtW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 253,
+          "like_count": 2898,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "zuiaijingke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049808667914977280"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2049808735254483263",
+    "created_at": "2026-04-30T11:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049808735254483263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7n8QTzqQ6v",
+          "end": 27,
+          "expanded_url": "https://x.com/meow_marmalade/status/2049808735254483263/video/1",
+          "media_key": "13_2049808667914977280",
+          "start": 4,
+          "url": "https://t.co/7n8QTzqQ6v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049808735254483263",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🫶🫶🫶 https://t.co/7n8QTzqQ6v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11000,
+        "height": 1690,
+        "media_key": "13_2049808667914977280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049808667914977280/img/3sH_d6jDKh92KfoI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049808667914977280/vid/avc1/320x568/DQRRzcQJaxXeMvTt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049808667914977280/vid/avc1/480x852/Mx4X4uxeGc7ZWULn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049808667914977280/pl/pPiCZLuvNQHC3NtU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049808667914977280/vid/avc1/720x1280/l29QABijOkl43GDr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049808667914977280/vid/avc1/950x1690/15CZjJc1j7cZLDF-.mp4"
+          }
+        ],
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049808667914977280"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2049808735254483263",
+        "created_at": "2026-04-30T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049808735254483263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n8QTzqQ6v",
+              "end": 27,
+              "expanded_url": "https://x.com/meow_marmalade/status/2049808735254483263/video/1",
+              "media_key": "13_2049808667914977280",
+              "start": 4,
+              "url": "https://t.co/7n8QTzqQ6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049808735254483263",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫶🫶🫶 https://t.co/7n8QTzqQ6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37486,
+          "following_count": 97,
+          "like_count": 25366,
+          "listed_count": 146,
+          "media_count": 190,
+          "tweet_count": 4222
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1971524484944577007",
+    "created_at": "2025-09-26T14:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971588475905568861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1698257227726168064",
+          "start": 0,
+          "username": "lnyynsh160321"
+        },
+        {
+          "end": 25,
+          "id": "764385193348083712",
+          "start": 15,
+          "username": "00IRIYA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971588475905568861",
+    "in_reply_to_user_id": "1698257227726168064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971587982911230307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyynsh160321 @00IRIYA00 18+还是不了吧 心理负担大😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1971524484944577007",
+        "created_at": "2025-09-26T14:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971588475905568861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1698257227726168064",
+              "start": 0,
+              "username": "lnyynsh160321"
+            },
+            {
+              "end": 25,
+              "id": "764385193348083712",
+              "start": 15,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971588475905568861",
+        "in_reply_to_user_id": "1698257227726168064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971587982911230307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyynsh160321 @00IRIYA00 18+还是不了吧 心理负担大😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698257227726168064",
+        "conversation_id": "1971524484944577007",
+        "created_at": "2025-09-26T14:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971587982911230307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 26,
+              "id": "764385193348083712",
+              "start": 16,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971587982911230307",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971530797841817630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @00IRIYA00 看18+不是很好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19482,
+          "following_count": 93,
+          "like_count": 16032,
+          "listed_count": 77,
+          "media_count": 174,
+          "tweet_count": 2218
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T08:51:00.000Z",
+        "description": "先睡一会儿，不要紧的，但愿更好的明天",
+        "id": "1698257227726168064",
+        "location": "中国大陆福建",
+        "name": "磷叶音石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698263130319826944/TgVBhuzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 341,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2196
+        },
+        "username": "lnyynsh160321",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T08:56:46.000Z",
+        "description": "",
+        "id": "764385193348083712",
+        "location": "台灣",
+        "name": "魂魄夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870067567177691136/2IMGRKKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 134,
+          "like_count": 142005,
+          "listed_count": 9,
+          "media_count": 679,
+          "tweet_count": 51710
+        },
+        "username": "00IRIYA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041590919196241922"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2041591095726109010",
+    "created_at": "2026-04-07T18:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041591095726109010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AjpgAXhuy",
+          "end": 40,
+          "expanded_url": "https://x.com/meow_marmalade/status/2041591095726109010/video/1",
+          "media_key": "13_2041590919196241922",
+          "start": 17,
+          "url": "https://t.co/7AjpgAXhuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041591095726109010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也太爽了我怎么会没发过这个... https://t.co/7AjpgAXhuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14700,
+        "height": 1350,
+        "media_key": "13_2041590919196241922",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041590919196241922/img/4p5cj071gOjk_a7G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041590919196241922/vid/avc1/320x400/-GcdNH79ASnNjUAZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041590919196241922/vid/avc1/480x600/xiQ4wSr_onf3tN3H.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041590919196241922/vid/avc1/720x900/BLw7Zrpo9kCfq3iE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041590919196241922/pl/TWiWAS94TVAm3prQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041590919196241922"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2041591095726109010",
+        "created_at": "2026-04-07T18:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041591095726109010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AjpgAXhuy",
+              "end": 40,
+              "expanded_url": "https://x.com/meow_marmalade/status/2041591095726109010/video/1",
+              "media_key": "13_2041590919196241922",
+              "start": 17,
+              "url": "https://t.co/7AjpgAXhuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041591095726109010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也太爽了我怎么会没发过这个... https://t.co/7AjpgAXhuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "不配得感",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36258,
+          "following_count": 98,
+          "like_count": 24357,
+          "listed_count": 144,
+          "media_count": 170,
+          "tweet_count": 4028
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

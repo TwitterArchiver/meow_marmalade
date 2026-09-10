@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2041843272553840667",
+    "created_at": "2026-04-10T02:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042429622961475760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799302267301961728",
+          "start": 0,
+          "username": "DrKzero5626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042429622961475760",
+    "in_reply_to_user_id": "1799302267301961728",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042307535781167337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrKzero5626 thx🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2041843272553840667",
+        "created_at": "2026-04-10T02:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042429622961475760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799302267301961728",
+              "start": 0,
+              "username": "DrKzero5626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042429622961475760",
+        "in_reply_to_user_id": "1799302267301961728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042307535781167337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrKzero5626 thx🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799302267301961728",
+        "conversation_id": "2041843272553840667",
+        "created_at": "2026-04-09T18:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042307535781167337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042307535781167337",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041843272553840667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade The more I see you, the less I can help but think that you look like a doll. And I don't mean that in a bad way."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35983,
+          "following_count": 98,
+          "like_count": 24480,
+          "listed_count": 141,
+          "media_count": 171,
+          "tweet_count": 4051
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T04:47:59.000Z",
+        "description": "🔞",
+        "id": "1799302267301961728",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930286007540199424/BsvC58Ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1187,
+          "like_count": 2800,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "DrKzero5626",
+        "verified": false
+      }
+    ]
+  }
+}

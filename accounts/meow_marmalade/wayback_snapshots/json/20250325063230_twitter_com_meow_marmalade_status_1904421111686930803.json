@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1904387691564941359",
+    "created_at": "2025-03-25T06:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T07:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904421111686930803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1293721513397350406",
+          "start": 0,
+          "username": "Someudone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904421111686930803",
+    "in_reply_to_user_id": "1293721513397350406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904419157455851558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Someudone 真的吗😭\n一直感觉这套比较精致 之前只敢穿T恤之类的出门（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1904387691564941359",
+        "created_at": "2025-03-25T06:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904421111686930803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1293721513397350406",
+              "start": 0,
+              "username": "Someudone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904421111686930803",
+        "in_reply_to_user_id": "1293721513397350406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904419157455851558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Someudone 真的吗😭\n一直感觉这套比较精致 之前只敢穿T恤之类的出门（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293721513397350406",
+        "conversation_id": "1904387691564941359",
+        "created_at": "2025-03-25T06:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904419157455851558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904419157455851558",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904387691564941359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 很正常的打扮呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 95,
+          "like_count": 7146,
+          "listed_count": 11,
+          "media_count": 185,
+          "tweet_count": 699
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T01:30:34.000Z",
+        "description": "有事请烧纸",
+        "id": "1293721513397350406",
+        "location": "地狱",
+        "name": "你不知道的某某某",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405343678340780032/GwtNU6rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 442,
+          "like_count": 570,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1293
+        },
+        "username": "Someudone",
+        "verified": false
+      }
+    ]
+  }
+}

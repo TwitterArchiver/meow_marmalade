@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074781226356097101",
+    "created_at": "2026-07-09T05:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075089111506108838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075089111506108838",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074781226356097101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 竟然是召唤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074781219649396737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsahs_aoAEEYPX.jpg",
+        "width": 2488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074781226356097101",
+        "created_at": "2026-07-09T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075089111506108838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075089111506108838",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074781226356097101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 竟然是召唤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074781219649396737"
+          ]
+        },
+        "author_id": "1775411944692051968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10044802020",
+              "name": "Final Fantasy XIV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044802020",
+              "name": "Final Fantasy XIV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "2074781226356097101",
+        "created_at": "2026-07-08T09:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074781226356097101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "ff14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwha1OYe7e",
+              "end": 109,
+              "expanded_url": "https://x.com/MagicalHat999/status/2074781226356097101/photo/1",
+              "media_key": "3_2074781219649396737",
+              "start": 86,
+              "url": "https://t.co/fwha1OYe7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074781226356097101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8311,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "前面忘了，啊佐迪亚克，后面忘了，带我回到5.x的召日天吧\n\n大概是自己用过的老土幻化，魔改半双马尾+女仆发带+伊甸之晨咏咒上半身，下半身是女仆装下半和叛逆筒靴\n#ff14 https://t.co/fwha1OYe7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39594,
+          "following_count": 96,
+          "like_count": 27499,
+          "listed_count": 157,
+          "media_count": 185,
+          "tweet_count": 4850
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\n主页：https://t.co/8FnOVBN7XY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 58,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 35,
+                "url": "https://t.co/8FnOVBN7XY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 0,
+                "url": "https://t.co/ToMyFG0Jda"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "location": "欧润吉",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2047376349418131948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4954,
+          "following_count": 2023,
+          "like_count": 12777,
+          "listed_count": 19,
+          "media_count": 245,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/ToMyFG0Jda",
+        "username": "MagicalHat999",
+        "verified": true
+      }
+    ]
+  }
+}

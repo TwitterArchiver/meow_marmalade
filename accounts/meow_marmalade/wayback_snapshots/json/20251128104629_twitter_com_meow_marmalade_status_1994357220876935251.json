@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1994347637168857133",
+    "created_at": "2025-11-28T10:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994357220876935251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "729858901206695936",
+          "start": 0,
+          "username": "NMV_Banana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994357220876935251",
+    "in_reply_to_user_id": "729858901206695936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994350091423899865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMV_Banana 我资格呢😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1994347637168857133",
+        "created_at": "2025-11-28T10:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994357220876935251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "729858901206695936",
+              "start": 0,
+              "username": "NMV_Banana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994357220876935251",
+        "in_reply_to_user_id": "729858901206695936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994350091423899865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMV_Banana 我资格呢😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729858901206695936",
+        "conversation_id": "1994347637168857133",
+        "created_at": "2025-11-28T10:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994350091423899865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994350091423899865",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994347637168857133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 😡我资格呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27385,
+          "following_count": 95,
+          "like_count": 18579,
+          "listed_count": 114,
+          "media_count": 210,
+          "tweet_count": 2905
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-10T02:21:36.000Z",
+        "description": "DD普通人，asmr听众，Arkinghts/Nikke，交流困难，只会机翻（",
+        "id": "729858901206695936",
+        "name": "蕉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729859429311516673/M-p7vgXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 6278,
+          "like_count": 151015,
+          "listed_count": 19,
+          "media_count": 360,
+          "tweet_count": 4629
+        },
+        "username": "NMV_Banana",
+        "verified": false
+      }
+    ]
+  }
+}

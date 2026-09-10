@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1948688153973588421",
+    "created_at": "2025-07-25T18:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T19:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948814858272866805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1458741383599366144",
+          "start": 0,
+          "username": "shitdotaplayer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948814858272866805",
+    "in_reply_to_user_id": "1458741383599366144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948806256229319126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shitdotaplayer 笑死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1948688153973588421",
+        "created_at": "2025-07-25T18:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T19:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948814858272866805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1458741383599366144",
+              "start": 0,
+              "username": "shitdotaplayer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948814858272866805",
+        "in_reply_to_user_id": "1458741383599366144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948806256229319126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shitdotaplayer 笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1458741383599366144",
+        "conversation_id": "1948688153973588421",
+        "created_at": "2025-07-25T18:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T19:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948806256229319126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948806256229319126",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948688153973588421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 饮多生可乐，宾州发光嘢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13794,
+          "following_count": 91,
+          "like_count": 13336,
+          "listed_count": 55,
+          "media_count": 303,
+          "tweet_count": 1704
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T10:20:35.000Z",
+        "description": "林北来看色图的，用得着跟你讲道理？",
+        "id": "1458741383599366144",
+        "name": "小鸡小鸡小鸡",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 180,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 79
+        },
+        "username": "shitdotaplayer",
+        "verified": false
+      }
+    ]
+  }
+}

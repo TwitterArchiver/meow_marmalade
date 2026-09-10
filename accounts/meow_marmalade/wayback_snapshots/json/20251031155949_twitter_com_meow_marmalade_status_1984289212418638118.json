@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1984188856514797708",
+    "created_at": "2025-10-31T15:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984289212418638118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678250147929784320",
+          "start": 0,
+          "username": "HarlanT_Herbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984289212418638118",
+    "in_reply_to_user_id": "1678250147929784320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984288915994599810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarlanT_Herbert 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1984188856514797708",
+        "created_at": "2025-10-31T15:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984289212418638118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678250147929784320",
+              "start": 0,
+              "username": "HarlanT_Herbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289212418638118",
+        "in_reply_to_user_id": "1678250147929784320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984288915994599810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarlanT_Herbert 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678250147929784320",
+        "conversation_id": "1984188856514797708",
+        "created_at": "2025-10-31T15:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984288915994599810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "揉揉尾巴",
+              "probability": 0.2542,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984288915994599810",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984188856514797708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 揉揉尾巴🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24929,
+          "following_count": 96,
+          "like_count": 17462,
+          "listed_count": 95,
+          "media_count": 189,
+          "tweet_count": 2574
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T03:50:34.000Z",
+        "description": "",
+        "id": "1678250147929784320",
+        "name": "有坂 美咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956752808792965120/D47QhytT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1149,
+          "like_count": 3332,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 1008
+        },
+        "username": "HarlanT_Herbert",
+        "verified": false
+      }
+    ]
+  }
+}

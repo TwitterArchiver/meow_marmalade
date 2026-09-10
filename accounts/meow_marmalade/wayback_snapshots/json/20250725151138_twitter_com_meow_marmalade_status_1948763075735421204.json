@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1948750686315053367",
+    "created_at": "2025-07-25T15:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T16:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948763075735421204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1924076827125092352",
+          "start": 0,
+          "username": "Est_G_Ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948763075735421204",
+    "in_reply_to_user_id": "1924076827125092352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948762859468718224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Est_G_Ar 好好好hhhhhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1948750686315053367",
+        "created_at": "2025-07-25T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948763075735421204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1924076827125092352",
+              "start": 0,
+              "username": "Est_G_Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948763075735421204",
+        "in_reply_to_user_id": "1924076827125092352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948762859468718224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Est_G_Ar 好好好hhhhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924076827125092352",
+        "conversation_id": "1948750686315053367",
+        "created_at": "2025-07-25T15:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948762859468718224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948762859468718224",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948750686315053367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 弗洛洛早就是我预定好久的妈妈了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13597,
+          "following_count": 91,
+          "like_count": 13317,
+          "listed_count": 54,
+          "media_count": 303,
+          "tweet_count": 1697
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T12:17:31.000Z",
+        "description": "",
+        "id": "1924076827125092352",
+        "name": "藍原芽衣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941906932681281536/YrOxp1ID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "Est_G_Ar",
+        "verified": false
+      }
+    ]
+  }
+}

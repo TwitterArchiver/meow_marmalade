@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988900464486744274",
+    "created_at": "2025-11-14T12:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989315121487978911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1261398932820824072",
+          "start": 0,
+          "username": "PopularFriction"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989315121487978911",
+    "in_reply_to_user_id": "1261398932820824072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989314381243404378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopularFriction 😲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 182,
+        "media_key": "16_1989314374951895040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5t24lmWAAAjg8S.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5t24lmWAAAjg8S.mp4"
+          }
+        ],
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-14T12:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989315121487978911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1261398932820824072",
+              "start": 0,
+              "username": "PopularFriction"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989315121487978911",
+        "in_reply_to_user_id": "1261398932820824072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989314381243404378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopularFriction 😲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1989314374951895040"
+          ]
+        },
+        "author_id": "1261398932820824072",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-14T12:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989314381243404378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pKBpp9Qwk",
+              "end": 84,
+              "expanded_url": "https://x.com/PopularFriction/status/1989314381243404378/photo/1",
+              "media_key": "16_1989314374951895040",
+              "start": 61,
+              "url": "https://t.co/7pKBpp9Qwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989314381243404378",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988900464486744274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade The coolest people walk among us in disguise https://t.co/7pKBpp9Qwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27030,
+          "following_count": 97,
+          "like_count": 18107,
+          "listed_count": 106,
+          "media_count": 199,
+          "tweet_count": 2801
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T20:52:15.000Z",
+        "description": "Joshua Dixon 20  definitely not a vampire",
+        "id": "1261398932820824072",
+        "location": "Elmont, NY",
+        "name": "Joshua Dixon#001",
+        "pinned_tweet_id": "1962508965171925466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938253284357058560/Zh7KZ07P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1443,
+          "like_count": 4168,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2193
+        },
+        "username": "PopularFriction",
+        "verified": false
+      }
+    ]
+  }
+}

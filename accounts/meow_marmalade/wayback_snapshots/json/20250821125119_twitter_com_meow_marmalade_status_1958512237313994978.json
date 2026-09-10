@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1958503761631904149",
+    "created_at": "2025-08-21T12:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958512237313994978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696044770102255617",
+          "start": 0,
+          "username": "zuiaijingke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958512237313994978",
+    "in_reply_to_user_id": "1696044770102255617",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958510569444745654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaijingke 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1958503761631904149",
+        "created_at": "2025-08-21T12:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958512237313994978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696044770102255617",
+              "start": 0,
+              "username": "zuiaijingke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958512237313994978",
+        "in_reply_to_user_id": "1696044770102255617",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958510569444745654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaijingke 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696044770102255617",
+        "conversation_id": "1958503761631904149",
+        "created_at": "2025-08-21T12:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958510569444745654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958510569444745654",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958503761631904149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 单手拿枪太帅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15561,
+          "following_count": 94,
+          "like_count": 14422,
+          "listed_count": 59,
+          "media_count": 337,
+          "tweet_count": 2027
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:19:32.000Z",
+        "description": "#百合 #傲娇\n在你的幻想中不存在美好的我。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "百合"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "傲娇"
+              }
+            ]
+          }
+        },
+        "id": "1696044770102255617",
+        "location": "日本",
+        "name": "椰果奶绿!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945477526610141185/P7ohwtW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 230,
+          "like_count": 2173,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 126
+        },
+        "username": "zuiaijingke",
+        "verified": false
+      }
+    ]
+  }
+}

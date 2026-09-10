@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962482894057988096"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1962482907664281693",
+    "created_at": "2025-09-01T11:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962482907664281693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Qvrt2KUd3",
+          "end": 47,
+          "expanded_url": "https://x.com/meow_marmalade/status/1962482907664281693/photo/1",
+          "media_key": "3_1962482894057988096",
+          "start": 24,
+          "url": "https://t.co/7Qvrt2KUd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962482907664281693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "试戴弗洛洛假发\n你就当我在出私设叭\nOOC致歉 https://t.co/7Qvrt2KUd3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1962482894057988096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzwjy2IbYAAMLFi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962482894057988096"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1962482907664281693",
+        "created_at": "2025-09-01T11:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962482907664281693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Qvrt2KUd3",
+              "end": 47,
+              "expanded_url": "https://x.com/meow_marmalade/status/1962482907664281693/photo/1",
+              "media_key": "3_1962482894057988096",
+              "start": 24,
+              "url": "https://t.co/7Qvrt2KUd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962482907664281693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试戴弗洛洛假发\n你就当我在出私设叭\nOOC致歉 https://t.co/7Qvrt2KUd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16969,
+          "following_count": 95,
+          "like_count": 14910,
+          "listed_count": 67,
+          "media_count": 347,
+          "tweet_count": 2153
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

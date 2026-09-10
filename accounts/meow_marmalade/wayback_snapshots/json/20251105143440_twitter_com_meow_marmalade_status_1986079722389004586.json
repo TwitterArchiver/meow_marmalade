@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-05T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986079722389004586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1193454562474168320",
+          "start": 0,
+          "username": "MLYX12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986079722389004586",
+    "in_reply_to_user_id": "1193454562474168320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986078517805875598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MLYX12138 何意味🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-05T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986079722389004586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1193454562474168320",
+              "start": 0,
+              "username": "MLYX12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986079722389004586",
+        "in_reply_to_user_id": "1193454562474168320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986078517805875598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MLYX12138 何意味🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1193454562474168320",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-05T14:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986078517805875598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986078517805875598",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986035435702001673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 开始赚宅男哥们了嘛😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25754,
+          "following_count": 92,
+          "like_count": 17670,
+          "listed_count": 101,
+          "media_count": 191,
+          "tweet_count": 2637
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-10T09:05:43.000Z",
+        "description": "一般路过的男性",
+        "id": "1193454562474168320",
+        "name": "★China☆魅力羽轩★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864974364510486528/7_Qr6w7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 45,
+          "like_count": 4426,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 738
+        },
+        "username": "MLYX12138",
+        "verified": false
+      }
+    ]
+  }
+}

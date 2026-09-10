@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2047259361840361477",
+    "created_at": "2026-04-23T12:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047297714832965810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782742299404816384",
+          "start": 0,
+          "username": "sangshen591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047297714832965810",
+    "in_reply_to_user_id": "1782742299404816384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047287968822669700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sangshen591 收到🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2047259361840361477",
+        "created_at": "2026-04-23T12:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047297714832965810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782742299404816384",
+              "start": 0,
+              "username": "sangshen591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047297714832965810",
+        "in_reply_to_user_id": "1782742299404816384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047287968822669700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sangshen591 收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782742299404816384",
+        "conversation_id": "2047259361840361477",
+        "created_at": "2026-04-23T12:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047287968822669700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047287968822669700",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047259361840361477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 腿给我摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36433,
+          "following_count": 97,
+          "like_count": 25011,
+          "listed_count": 140,
+          "media_count": 183,
+          "tweet_count": 4157
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:04:23.000Z",
+        "description": "梦想是给大家带来快乐/欢迎可爱小男娘扩列/不约不线下",
+        "id": "1782742299404816384",
+        "name": "小小小柿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876815796300926976/G8PEkngR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1067,
+          "like_count": 6120,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1881
+        },
+        "username": "sangshen591",
+        "verified": false
+      }
+    ]
+  }
+}

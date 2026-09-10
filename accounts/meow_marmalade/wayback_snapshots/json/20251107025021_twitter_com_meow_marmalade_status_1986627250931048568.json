@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986369575244673454",
+    "created_at": "2025-11-07T02:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T03:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986627250931048568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "967957798729474048",
+          "start": 0,
+          "username": "coldwinter01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986627250931048568",
+    "in_reply_to_user_id": "967957798729474048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986627012438729107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldwinter01 光比吗😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986369575244673454",
+        "created_at": "2025-11-07T02:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986627250931048568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "967957798729474048",
+              "start": 0,
+              "username": "coldwinter01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986627250931048568",
+        "in_reply_to_user_id": "967957798729474048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986627012438729107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldwinter01 光比吗😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967957798729474048",
+        "conversation_id": "1986369575244673454",
+        "created_at": "2025-11-07T02:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986627012438729107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986627012438729107",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986369575244673454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 人和背景布太近了？然后得控制光比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26035,
+          "following_count": 92,
+          "like_count": 17778,
+          "listed_count": 101,
+          "media_count": 192,
+          "tweet_count": 2674
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T03:01:37.000Z",
+        "description": "坐标天津/男/三次元卑微社畜/摄影/约拍请私信/不卖图/男娘女生均可 /有个频道https://t.co/gDN9gLh40F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/NobelSmaragdin…",
+                "end": 63,
+                "expanded_url": "https://t.me/NobelSmaragdineTable",
+                "start": 40,
+                "url": "https://t.co/gDN9gLh40F"
+              }
+            ]
+          }
+        },
+        "id": "967957798729474048",
+        "location": "天津",
+        "name": "炼金术士诺贝尔",
+        "pinned_tweet_id": "1944407977827647625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436999155776323587/9wwu72G7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8107,
+          "following_count": 1326,
+          "like_count": 13682,
+          "listed_count": 58,
+          "media_count": 440,
+          "tweet_count": 6187
+        },
+        "username": "coldwinter01",
+        "verified": false
+      }
+    ]
+  }
+}

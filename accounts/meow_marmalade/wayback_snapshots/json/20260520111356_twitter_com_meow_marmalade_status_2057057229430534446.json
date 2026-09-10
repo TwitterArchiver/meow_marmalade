@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057057203903991808"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2057057229430534446",
+    "created_at": "2026-05-20T11:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057057229430534446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IVbN14xQyO",
+          "end": 132,
+          "expanded_url": "https://x.com/meow_marmalade/status/2057057229430534446/photo/1",
+          "media_key": "3_2057057203903991808",
+          "start": 109,
+          "url": "https://t.co/IVbN14xQyO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057057229430534446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "Alice喝下龙血快要离开仙境的时候\nHatter凑到她耳边 很轻很轻地跟她说\n“Farewell, Alice”\n看着Hatter的眼神 我一下子哽咽说不出话来\n\n你那天的眼神 跟他相似的可怕\n“Farewell” https://t.co/IVbN14xQyO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2057057203903991808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwioNFbEAAYU5u.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057057203903991808"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2057057229430534446",
+        "created_at": "2026-05-20T11:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057057229430534446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVbN14xQyO",
+              "end": 132,
+              "expanded_url": "https://x.com/meow_marmalade/status/2057057229430534446/photo/1",
+              "media_key": "3_2057057203903991808",
+              "start": 109,
+              "url": "https://t.co/IVbN14xQyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057057229430534446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "Alice喝下龙血快要离开仙境的时候\nHatter凑到她耳边 很轻很轻地跟她说\n“Farewell, Alice”\n看着Hatter的眼神 我一下子哽咽说不出话来\n\n你那天的眼神 跟他相似的可怕\n“Farewell” https://t.co/IVbN14xQyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38022,
+          "following_count": 93,
+          "like_count": 26051,
+          "listed_count": 151,
+          "media_count": 208,
+          "tweet_count": 4419
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

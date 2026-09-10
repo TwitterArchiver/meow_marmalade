@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1937008930150101370",
+    "created_at": "2025-06-23T05:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T06:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937013613904249082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550682591400824832",
+          "start": 0,
+          "username": "Dundun0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937013613904249082",
+    "in_reply_to_user_id": "1550682591400824832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937008930150101370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dundun0331 这就得穿地雷啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1937008930150101370",
+        "created_at": "2025-06-23T05:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T06:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937013613904249082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550682591400824832",
+              "start": 0,
+              "username": "Dundun0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937013613904249082",
+        "in_reply_to_user_id": "1550682591400824832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937008930150101370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dundun0331 这就得穿地雷啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550682591400824832",
+        "conversation_id": "1937008930150101370",
+        "created_at": "2025-06-23T04:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T05:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937008930150101370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937008930150101370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在辛辛苦苦搞地雷系\n买了三套有现货的地雷服+为了画地雷系妆适配的日抛和假睫毛+20+的丝袜\n如果我不穿地雷系的话，我的一些，就是比如说我的容貌我的身材，还有我社交的礼仪，还有美好的品德，美好的性格，甚至是灵魂都会被毁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9650,
+          "following_count": 95,
+          "like_count": 11830,
+          "listed_count": 32,
+          "media_count": 269,
+          "tweet_count": 1365
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T03:22:26.000Z",
+        "description": "上海｜女摄｜ISFP",
+        "id": "1550682591400824832",
+        "name": "Dun dun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924879881764208640/kbvH-NXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 26,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 79
+        },
+        "username": "Dundun0331",
+        "verified": false
+      }
+    ]
+  }
+}

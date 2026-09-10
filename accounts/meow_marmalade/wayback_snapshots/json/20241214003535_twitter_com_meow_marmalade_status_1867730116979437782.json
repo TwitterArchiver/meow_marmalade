@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1867537681821184495",
+    "created_at": "2024-12-14T00:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T01:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867730116979437782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1393130286486073345",
+          "start": 0,
+          "username": "ZEHIR_XII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867730116979437782",
+    "in_reply_to_user_id": "1393130286486073345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867723194645590150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZEHIR_XII 可爱就好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1867537681821184495",
+        "created_at": "2024-12-14T00:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T01:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867730116979437782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1393130286486073345",
+              "start": 0,
+              "username": "ZEHIR_XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867730116979437782",
+        "in_reply_to_user_id": "1393130286486073345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867723194645590150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZEHIR_XII 可爱就好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393130286486073345",
+        "conversation_id": "1867537681821184495",
+        "created_at": "2024-12-14T00:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T01:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867723194645590150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867723194645590150",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867537681821184495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好可爱……然后好高！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 119,
+          "like_count": 3488,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 519
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T09:05:27.000Z",
+        "description": "这里是网络皇帝，想看什么看什么😡蒸馍，你不服气？杀了😤",
+        "id": "1393130286486073345",
+        "location": "迦勒底温柔乡★",
+        "name": "ZEHIR【因特奈特大帝】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445955718608265219/MelQ18oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 329,
+          "like_count": 2831,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1836
+        },
+        "username": "ZEHIR_XII",
+        "verified": false
+      }
+    ]
+  }
+}

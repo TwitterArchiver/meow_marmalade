@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1963538083359662482",
+    "created_at": "2025-09-04T12:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T13:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963577157063447009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722138740905365504",
+          "start": 0,
+          "username": "ZEgegege75391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963577157063447009",
+    "in_reply_to_user_id": "1722138740905365504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963576904537014698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZEgegege75391 收到🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1963538083359662482",
+        "created_at": "2025-09-04T12:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T13:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963577157063447009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722138740905365504",
+              "start": 0,
+              "username": "ZEgegege75391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963577157063447009",
+        "in_reply_to_user_id": "1722138740905365504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963576904537014698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZEgegege75391 收到🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722138740905365504",
+        "conversation_id": "1963538083359662482",
+        "created_at": "2025-09-04T12:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T13:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963576904537014698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963576904537014698",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963538083359662482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我命令你跟我排排🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17023,
+          "following_count": 89,
+          "like_count": 15072,
+          "listed_count": 69,
+          "media_count": 349,
+          "tweet_count": 2218
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T06:27:57.000Z",
+        "description": "......",
+        "id": "1722138740905365504",
+        "location": "Depression",
+        "name": "ZHEgegege",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722178083518824448/sdxdF8tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 481,
+          "like_count": 26812,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 2863
+        },
+        "username": "ZEgegege75391",
+        "verified": false
+      }
+    ]
+  }
+}

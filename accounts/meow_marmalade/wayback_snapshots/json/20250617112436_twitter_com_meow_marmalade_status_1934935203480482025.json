@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1934902974431809687",
+    "created_at": "2025-06-17T11:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934935203480482025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662304092851687424",
+          "start": 0,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934935203480482025",
+    "in_reply_to_user_id": "1662304092851687424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934902974431809687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekkkkko422 啵啵啵啵啵爱你A老师🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1934902969109229568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gton_7SasAAZGkP.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1934902974431809687",
+        "created_at": "2025-06-17T11:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934935203480482025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934935203480482025",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934902974431809687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 啵啵啵啵啵爱你A老师🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934902969109229568"
+          ]
+        },
+        "author_id": "1662304092851687424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1934902974431809687",
+        "created_at": "2025-06-17T09:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934902974431809687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1934202099073753088/SQcqXQHc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934202099073753088/SQcqXQHc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/dK89t9U5mC"
+            },
+            {
+              "display_url": "pic.x.com/UKVv0H3KK4",
+              "end": 64,
+              "expanded_url": "https://x.com/nekkkkko422/status/1934902974431809687/photo/1",
+              "media_key": "3_1934902969109229568",
+              "start": 41,
+              "url": "https://t.co/UKVv0H3KK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934902974431809687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/dK89t9U5mC https://t.co/UKVv0H3KK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8911,
+          "following_count": 96,
+          "like_count": 11608,
+          "listed_count": 27,
+          "media_count": 263,
+          "tweet_count": 1297
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9505,
+          "following_count": 375,
+          "like_count": 2584,
+          "listed_count": 58,
+          "media_count": 216,
+          "tweet_count": 2274
+        },
+        "username": "nekkkkko422",
+        "verified": false
+      }
+    ]
+  }
+}

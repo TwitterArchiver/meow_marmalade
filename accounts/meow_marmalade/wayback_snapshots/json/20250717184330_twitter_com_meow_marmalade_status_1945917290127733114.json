@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1945846043771339169",
+    "created_at": "2025-07-17T18:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T19:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945917290127733114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1801847317164920833",
+          "start": 0,
+          "username": "Acluyb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945917290127733114",
+    "in_reply_to_user_id": "1801847317164920833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945883689675866571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acluyb_ 谢谢捏😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1945846043771339169",
+        "created_at": "2025-07-17T18:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T19:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945917290127733114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1801847317164920833",
+              "start": 0,
+              "username": "Acluyb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945917290127733114",
+        "in_reply_to_user_id": "1801847317164920833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945883689675866571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acluyb_ 谢谢捏😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801847317164920833",
+        "conversation_id": "1945846043771339169",
+        "created_at": "2025-07-17T16:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T17:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945883689675866571"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945883689675866571",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945846043771339169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12659,
+          "following_count": 88,
+          "like_count": 12956,
+          "listed_count": 51,
+          "media_count": 293,
+          "tweet_count": 1603
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T05:21:12.000Z",
+        "description": "baka bnuuy",
+        "id": "1801847317164920833",
+        "name": "Re.",
+        "pinned_tweet_id": "1935341778854633676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914890115702513664/RveNOA_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 149,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 68
+        },
+        "username": "Acluyb_",
+        "verified": false
+      }
+    ]
+  }
+}

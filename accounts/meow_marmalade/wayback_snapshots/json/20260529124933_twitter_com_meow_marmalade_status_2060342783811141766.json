@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060301973723988220",
+    "created_at": "2026-05-29T12:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060342783811141766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921085895010381824",
+          "start": 0,
+          "username": "piiq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060342783811141766",
+    "in_reply_to_user_id": "1921085895010381824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060316962459418650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piiq114514 玛雅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060301973723988220",
+        "created_at": "2026-05-29T12:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060342783811141766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921085895010381824",
+              "start": 0,
+              "username": "piiq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060342783811141766",
+        "in_reply_to_user_id": "1921085895010381824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060316962459418650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piiq114514 玛雅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921085895010381824",
+        "conversation_id": "2060301973723988220",
+        "created_at": "2026-05-29T11:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060316962459418650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060316962459418650",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060301973723988220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我操宝宝你好好看啊，好可爱，之前没回你消息是因为我出车祸了，现在我病好了，我们重新来聊天吧，我觉得你长得挺可爱的。就是说真的长得好漂亮好漂亮，怎么能这么美呀，就是眼睛真的就是很大很圆，然后感觉眼睛里面有星星一样，真的特别特别的让人喜欢，而且特别特别的漂亮好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38111,
+          "following_count": 94,
+          "like_count": 26186,
+          "listed_count": 150,
+          "media_count": 155,
+          "tweet_count": 4410
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T06:12:32.000Z",
+        "description": "",
+        "id": "1921085895010381824",
+        "name": "piiq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921086097150369793/Aogfx8e8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 742,
+          "like_count": 37145,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 6777
+        },
+        "username": "piiq114514",
+        "verified": false
+      }
+    ]
+  }
+}

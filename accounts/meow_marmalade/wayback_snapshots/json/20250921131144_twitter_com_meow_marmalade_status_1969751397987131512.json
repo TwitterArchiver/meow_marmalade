@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969751380572487680"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1969751397987131512",
+    "created_at": "2025-09-21T13:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969751397987131512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WX6Vl56FWr",
+          "end": 92,
+          "expanded_url": "https://x.com/meow_marmalade/status/1969751397987131512/photo/1",
+          "media_key": "3_1969751380572487680",
+          "start": 69,
+          "url": "https://t.co/WX6Vl56FWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969751397987131512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你别钓我了。我只是一个普普通通的大学生，一个月生活费一百多，18岁还没摸过女孩子手的穷学生。你上来一个宝宝把我脑袋都干烧了，脑子里全是你 https://t.co/WX6Vl56FWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969751380572487680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1X2ccbbwAAMXDK.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969751380572487680"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1969751397987131512",
+        "created_at": "2025-09-21T13:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969751397987131512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WX6Vl56FWr",
+              "end": 92,
+              "expanded_url": "https://x.com/meow_marmalade/status/1969751397987131512/photo/1",
+              "media_key": "3_1969751380572487680",
+              "start": 69,
+              "url": "https://t.co/WX6Vl56FWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969751397987131512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你别钓我了。我只是一个普普通通的大学生，一个月生活费一百多，18岁还没摸过女孩子手的穷学生。你上来一个宝宝把我脑袋都干烧了，脑子里全是你 https://t.co/WX6Vl56FWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19169,
+          "following_count": 91,
+          "like_count": 15859,
+          "listed_count": 77,
+          "media_count": 294,
+          "tweet_count": 2336
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

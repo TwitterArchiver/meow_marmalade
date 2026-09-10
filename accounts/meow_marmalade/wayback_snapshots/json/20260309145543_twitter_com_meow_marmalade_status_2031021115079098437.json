@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2030995227788644607",
+    "created_at": "2026-03-09T14:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031021115079098437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1996811981043781638",
+          "start": 0,
+          "username": "Kyuu_Charlie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031021115079098437",
+    "in_reply_to_user_id": "1996811981043781638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031017958429052994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyuu_Charlie 计科"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2030995227788644607",
+        "created_at": "2026-03-09T14:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031021115079098437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1996811981043781638",
+              "start": 0,
+              "username": "Kyuu_Charlie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031021115079098437",
+        "in_reply_to_user_id": "1996811981043781638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031017958429052994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyuu_Charlie 计科"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996811981043781638",
+        "conversation_id": "2030995227788644607",
+        "created_at": "2026-03-09T14:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031017958429052994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031017958429052994",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030995227788644607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 恭喜！（话说哈基蜜是学什么专业的哇）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36421,
+          "following_count": 92,
+          "like_count": 22844,
+          "listed_count": 142,
+          "media_count": 180,
+          "tweet_count": 3825
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T05:21:06.000Z",
+        "description": "被各种亚文化洗礼成智障了的高中生😋\n能接受任何奇奇怪怪的xp！\n不是🍥不线下望周知\nENTP但是社恐（\n互fo是好文明！",
+        "id": "1996811981043781638",
+        "location": "utopia",
+        "name": "九鸟鸠鸠啾#水母星云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996812229002539008/dL-YCEcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "Kyuu_Charlie",
+        "verified": false
+      }
+    ]
+  }
+}

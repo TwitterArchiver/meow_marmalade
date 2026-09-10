@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895402435444969472"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1895402441107239048",
+    "created_at": "2025-02-28T09:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T10:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895402441107239048"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 48,
+          "tag": "月に寄りそう乙女の作法"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7KNHG5uOWN",
+          "end": 84,
+          "expanded_url": "https://x.com/meow_marmalade/status/1895402441107239048/photo/1",
+          "media_key": "3_1895402435444969472",
+          "start": 61,
+          "url": "https://t.co/7KNHG5uOWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895402441107239048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所谓携手并进不就是这样吗？如果平坦的道路只有一个人的宽度，那么我会很开心地走上长满荆棘的道路。\n#月に寄りそう乙女の作法 https://t.co/7KNHG5uOWN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1895402435444969472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3SeQcbkAA6vA6.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895402435444969472"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1895402441107239048",
+        "created_at": "2025-02-28T09:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895402441107239048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 48,
+              "tag": "月に寄りそう乙女の作法"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KNHG5uOWN",
+              "end": 84,
+              "expanded_url": "https://x.com/meow_marmalade/status/1895402441107239048/photo/1",
+              "media_key": "3_1895402435444969472",
+              "start": 61,
+              "url": "https://t.co/7KNHG5uOWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895402441107239048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所谓携手并进不就是这样吗？如果平坦的道路只有一个人的宽度，那么我会很开心地走上长满荆棘的道路。\n#月に寄りそう乙女の作法 https://t.co/7KNHG5uOWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 91,
+          "like_count": 5957,
+          "listed_count": 11,
+          "media_count": 174,
+          "tweet_count": 622
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1994480530080108838",
+    "created_at": "2025-11-29T12:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994747239617712623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1835310454396387329",
+          "start": 0,
+          "username": "Skend_rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994747239617712623",
+    "in_reply_to_user_id": "1835310454396387329",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994721869141074050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skend_rin hao（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1994480530080108838",
+        "created_at": "2025-11-29T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994747239617712623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1835310454396387329",
+              "start": 0,
+              "username": "Skend_rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994747239617712623",
+        "in_reply_to_user_id": "1835310454396387329",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994721869141074050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skend_rin hao（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835310454396387329",
+        "conversation_id": "1994480530080108838",
+        "created_at": "2025-11-29T10:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994721869141074050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994721869141074050",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994480530080108838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 就是睡得太少！（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27367,
+          "following_count": 94,
+          "like_count": 18639,
+          "listed_count": 113,
+          "media_count": 210,
+          "tweet_count": 2926
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T13:31:45.000Z",
+        "description": "Elen síla lúmenn' omentielvo",
+        "id": "1835310454396387329",
+        "name": "芬国麟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955665877925294086/DINTfcGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 1168,
+          "like_count": 3209,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 714
+        },
+        "username": "Skend_rin",
+        "verified": false
+      }
+    ]
+  }
+}

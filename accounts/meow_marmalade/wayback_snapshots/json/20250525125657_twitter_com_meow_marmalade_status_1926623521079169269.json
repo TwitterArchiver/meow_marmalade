@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926623515802730496"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1926315630845624492",
+    "created_at": "2025-05-25T12:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T13:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926623521079169269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a66iThNyM9",
+          "end": 45,
+          "expanded_url": "https://x.com/meow_marmalade/status/1926623521079169269/photo/1",
+          "media_key": "3_1926623515802730496",
+          "start": 22,
+          "url": "https://t.co/a66iThNyM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926623521079169269",
+    "in_reply_to_user_id": "1353996204422492160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926315630845624492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大概是90 70 90…一般穿女装L XL https://t.co/a66iThNyM9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_1926623515802730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gry94UNWAAAbSXs.jpg",
+        "width": 1092
+      },
+      {
+        "height": 721,
+        "media_key": "3_1926315625330233344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grul2u0X0AAg1bb.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926623515802730496"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1926315630845624492",
+        "created_at": "2025-05-25T12:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T13:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926623521079169269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a66iThNyM9",
+              "end": 45,
+              "expanded_url": "https://x.com/meow_marmalade/status/1926623521079169269/photo/1",
+              "media_key": "3_1926623515802730496",
+              "start": 22,
+              "url": "https://t.co/a66iThNyM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926623521079169269",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926315630845624492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概是90 70 90…一般穿女装L XL https://t.co/a66iThNyM9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926315625330233344"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1926315630845624492",
+        "created_at": "2025-05-24T16:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T17:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926315630845624492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxTMbimV3e",
+              "end": 36,
+              "expanded_url": "https://x.com/meow_marmalade/status/1926315630845624492/photo/1",
+              "media_key": "3_1926315625330233344",
+              "start": 13,
+              "url": "https://t.co/AxTMbimV3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926315630845624492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3737,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢主包可以给主包买奶茶 https://t.co/AxTMbimV3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6971,
+          "following_count": 100,
+          "like_count": 10697,
+          "listed_count": 19,
+          "media_count": 244,
+          "tweet_count": 1099
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

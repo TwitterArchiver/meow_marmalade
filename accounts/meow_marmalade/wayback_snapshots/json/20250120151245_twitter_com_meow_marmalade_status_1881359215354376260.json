@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881359175877529600"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1881359215354376260",
+    "created_at": "2025-01-20T15:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T16:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881359215354376260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KgygsgxqeH",
+          "end": 42,
+          "expanded_url": "https://x.com/meow_marmalade/status/1881359215354376260/photo/1",
+          "media_key": "3_1881359175877529600",
+          "start": 19,
+          "url": "https://t.co/KgygsgxqeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881359215354376260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会把一首歌单曲循环到自己都觉得恶心 https://t.co/KgygsgxqeH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1881359175877529600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhvuM90aEAAshkS.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881359175877529600"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1881359215354376260",
+        "created_at": "2025-01-20T15:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T16:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881359215354376260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgygsgxqeH",
+              "end": 42,
+              "expanded_url": "https://x.com/meow_marmalade/status/1881359215354376260/photo/1",
+              "media_key": "3_1881359175877529600",
+              "start": 19,
+              "url": "https://t.co/KgygsgxqeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881359215354376260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会把一首歌单曲循环到自己都觉得恶心 https://t.co/KgygsgxqeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 108,
+          "like_count": 4202,
+          "listed_count": 9,
+          "media_count": 165,
+          "tweet_count": 585
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

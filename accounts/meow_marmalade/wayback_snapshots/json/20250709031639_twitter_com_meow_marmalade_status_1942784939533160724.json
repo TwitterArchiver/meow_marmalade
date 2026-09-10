@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1942195293761740886",
+    "created_at": "2025-07-09T03:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T04:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942784939533160724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685043984",
+          "start": 0,
+          "username": "VelvetCharm79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942784939533160724",
+    "in_reply_to_user_id": "1685043984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942782655613001910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VelvetCharm79 谢谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1942195293761740886",
+        "created_at": "2025-07-09T03:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942784939533160724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685043984",
+              "start": 0,
+              "username": "VelvetCharm79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942784939533160724",
+        "in_reply_to_user_id": "1685043984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942782655613001910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VelvetCharm79 谢谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685043984",
+        "conversation_id": "1942195293761740886",
+        "created_at": "2025-07-09T03:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942782655613001910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942782655613001910",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942195293761740886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好看！好香的腳！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11793,
+          "following_count": 100,
+          "like_count": 12533,
+          "listed_count": 48,
+          "media_count": 286,
+          "tweet_count": 1527
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-20T06:52:30.000Z",
+        "description": "丨 娚的♂️ 沒有約 純粹拍照、影片 內含大量偽娘🔞丨丨 #無聊自拍 #健身 #偽娘 #女裝 #郊狼電擊 #絲襪 丨丨 #吊帶襪 🧦 #情趣內衣 👙#男の娘 . #BDSM 🕯️丨丨Bluesky 🦋:fakeyang （偶爾更新.）沒有其他帳丨丨號不要被騙囉！也沒任何收費群組.先打預防針💉丨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "無聊自拍"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "健身"
+              },
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "偽娘"
+              },
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "女裝"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "郊狼電擊"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "絲襪"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "吊帶襪"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "情趣內衣"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "男の娘"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "BDSM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansone.co/VelvetCharm",
+                "end": 23,
+                "expanded_url": "https://fansone.co/VelvetCharm",
+                "start": 0,
+                "url": "https://t.co/ABp7EB0e4f"
+              }
+            ]
+          }
+        },
+        "id": "1685043984",
+        "location": "Taipei City, Taiwan",
+        "name": "♂️瑞雪丨ずいせつ ❄️",
+        "pinned_tweet_id": "1926573927712674022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940730531165229059/38BGwytX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 484,
+          "like_count": 929,
+          "listed_count": 10,
+          "media_count": 235,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/ABp7EB0e4f",
+        "username": "VelvetCharm79",
+        "verified": true
+      }
+    ]
+  }
+}

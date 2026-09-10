@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1963538083359662482",
+    "created_at": "2025-09-04T17:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T18:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963656534816329935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796081087065812992",
+          "start": 0,
+          "username": "AshleyGibs99166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963656534816329935",
+    "in_reply_to_user_id": "1796081087065812992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963650624819794225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshleyGibs99166 我买的我自己穿///w///"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_1963650622202535936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BJ1kdbYAAUsZ6.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1963538083359662482",
+        "created_at": "2025-09-04T17:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T18:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963656534816329935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796081087065812992",
+              "start": 0,
+              "username": "AshleyGibs99166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963656534816329935",
+        "in_reply_to_user_id": "1796081087065812992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963650624819794225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshleyGibs99166 我买的我自己穿///w///"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963650622202535936"
+          ]
+        },
+        "author_id": "1796081087065812992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963538083359662482",
+        "created_at": "2025-09-04T17:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T18:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963650624819794225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNOFTo9JV8",
+              "end": 49,
+              "expanded_url": "https://x.com/AshleyGibs99166/status/1963650624819794225/photo/1",
+              "media_key": "3_1963650622202535936",
+              "start": 26,
+              "url": "https://t.co/xNOFTo9JV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963650624819794225",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963538083359662482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade qqny是谁穿啊（ https://t.co/xNOFTo9JV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17074,
+          "following_count": 89,
+          "like_count": 15104,
+          "listed_count": 68,
+          "media_count": 349,
+          "tweet_count": 2234
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:29:56.000Z",
+        "description": "",
+        "id": "1796081087065812992",
+        "name": "寒夕哒哒哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810028258542661633/-HwyaWnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 866,
+          "like_count": 25365,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 6672
+        },
+        "username": "AshleyGibs99166",
+        "verified": false
+      }
+    ]
+  }
+}

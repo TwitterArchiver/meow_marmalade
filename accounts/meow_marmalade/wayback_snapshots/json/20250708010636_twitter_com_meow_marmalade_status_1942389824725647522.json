@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1942195293761740886",
+    "created_at": "2025-07-08T01:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T02:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942389824725647522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578722737429749760",
+          "start": 0,
+          "username": "nekochuchulin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942389824725647522",
+    "in_reply_to_user_id": "1578722737429749760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942300351262228601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekochuchulin 谢谢捏☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1942195293761740886",
+        "created_at": "2025-07-08T01:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T02:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942389824725647522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578722737429749760",
+              "start": 0,
+              "username": "nekochuchulin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942389824725647522",
+        "in_reply_to_user_id": "1578722737429749760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942300351262228601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekochuchulin 谢谢捏☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578722737429749760",
+        "conversation_id": "1942195293761740886",
+        "created_at": "2025-07-07T19:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942300351262228601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942300351262228601",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942195293761740886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这个鞋子好看诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11610,
+          "following_count": 100,
+          "like_count": 12439,
+          "listed_count": 47,
+          "media_count": 284,
+          "tweet_count": 1507
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T12:23:36.000Z",
+        "description": "给你看我老婆→@hotpotricerice\n\n159cm/59kg   超绝猛1男娘（？）\n\n只有这个号和@linchuchu_099是我自己的号嗷\n\n喜欢的可以投喂\n\n🚪50/188/648   全拿来买吃的\n\n超级炸鸡爱好者♡\n欢迎约拍寄拍私信滴滴\n\n推友唠嗑可以进企鹅群724783071\n不卖图包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "hotpotricerice"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "linchuchu_099"
+              }
+            ]
+          }
+        },
+        "id": "1578722737429749760",
+        "location": "你的床上",
+        "name": "林啾啾",
+        "pinned_tweet_id": "1925481111163216225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870042008112545792/HdB0EtqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22924,
+          "following_count": 458,
+          "like_count": 16671,
+          "listed_count": 89,
+          "media_count": 610,
+          "tweet_count": 8794
+        },
+        "username": "nekochuchulin",
+        "verified": false
+      }
+    ]
+  }
+}

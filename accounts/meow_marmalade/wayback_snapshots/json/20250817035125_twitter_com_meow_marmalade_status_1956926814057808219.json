@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1956700920038764902",
+    "created_at": "2025-08-17T03:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956926814057808219"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1748381059010465792",
+          "start": 0,
+          "username": "huangchuan45728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956926814057808219",
+    "in_reply_to_user_id": "1748381059010465792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956700920038764902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangchuan45728 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1956700914213167104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeZHUtboAAE3r2.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1956700920038764902",
+        "created_at": "2025-08-17T03:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956926814057808219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1748381059010465792",
+              "start": 0,
+              "username": "huangchuan45728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956926814057808219",
+        "in_reply_to_user_id": "1748381059010465792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956700920038764902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangchuan45728 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956700914213167104"
+          ]
+        },
+        "author_id": "1748381059010465792",
+        "conversation_id": "1956700920038764902",
+        "created_at": "2025-08-16T12:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956700920038764902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtlVOet3Xy",
+              "end": 23,
+              "expanded_url": "https://x.com/huangchuan45728/status/1956700920038764902/photo/1",
+              "media_key": "3_1956700914213167104",
+              "start": 0,
+              "url": "https://t.co/vtlVOet3Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956700920038764902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3489,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vtlVOet3Xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15420,
+          "following_count": 90,
+          "like_count": 14221,
+          "listed_count": 60,
+          "media_count": 329,
+          "tweet_count": 1947
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T16:25:11.000Z",
+        "description": "一只普普通通的小♂coser，偶尔去漫展玩，欢迎骚扰（)期待你的关注（求求了!）欢迎同好扩列，请私信，我回复很快哒。",
+        "id": "1748381059010465792",
+        "location": "叙拉古",
+        "name": "荒川まこと",
+        "pinned_tweet_id": "1855643913501188349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855346547644301312/FvNCEVpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 162,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 153
+        },
+        "username": "huangchuan45728",
+        "verified": false
+      }
+    ]
+  }
+}

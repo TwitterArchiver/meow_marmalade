@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1941844703038886251",
+    "created_at": "2025-07-06T13:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941846402273042765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1461605686987530240",
+          "start": 0,
+          "username": "xs0vU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941846402273042765",
+    "in_reply_to_user_id": "1461605686987530240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941844703038886251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs0vU 老师的眼妆太权威了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941844684403523584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLRc77aQAAQ-ad.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1941844703038886251",
+        "created_at": "2025-07-06T13:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941846402273042765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1461605686987530240",
+              "start": 0,
+              "username": "xs0vU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941846402273042765",
+        "in_reply_to_user_id": "1461605686987530240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941844703038886251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs0vU 老师的眼妆太权威了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941844684403523584"
+          ]
+        },
+        "author_id": "1461605686987530240",
+        "conversation_id": "1941844703038886251",
+        "created_at": "2025-07-06T13:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941844703038886251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymNqbOI7yD",
+              "end": 35,
+              "expanded_url": "https://x.com/xs0vU/status/1941844703038886251/photo/1",
+              "media_key": "3_1941844684403523584",
+              "start": 12,
+              "url": "https://t.co/ymNqbOI7yD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941844703038886251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "口罩果然还是舒适区😌😌 https://t.co/ymNqbOI7yD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11365,
+          "following_count": 98,
+          "like_count": 12365,
+          "listed_count": 47,
+          "media_count": 283,
+          "tweet_count": 1486
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T08:02:17.000Z",
+        "description": "176/51kg 常驻广州漫展 找到我可以和我集邮呀\n平时主玩mc/r6s/apex/gta\n日常消遣是带着自己喜欢的车走街 （三菱已去，现是本田😭有买翼豹的计划） 喜欢电子音乐 （melodic dubstep/bass）\n已经有喜欢的人了❤\n⚠️拒绝抽象人⚠️\n⚠️拒绝抽象人⚠️",
+        "id": "1461605686987530240",
+        "location": "你心里",
+        "name": "アカツキ_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843114979224109057/Kc_PUlwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10539,
+          "following_count": 486,
+          "like_count": 10841,
+          "listed_count": 47,
+          "media_count": 333,
+          "tweet_count": 1317
+        },
+        "username": "xs0vU",
+        "verified": false
+      }
+    ]
+  }
+}

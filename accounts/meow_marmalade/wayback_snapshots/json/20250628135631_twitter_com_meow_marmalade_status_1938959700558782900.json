@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1938940073724256359",
+    "created_at": "2025-06-28T13:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T14:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938959700558782900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816529255905611776",
+          "start": 0,
+          "username": "BZSOULPOWER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938959700558782900",
+    "in_reply_to_user_id": "1816529255905611776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938954453992030646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZSOULPOWER 确实（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1938940073724256359",
+        "created_at": "2025-06-28T13:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938959700558782900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816529255905611776",
+              "start": 0,
+              "username": "BZSOULPOWER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938959700558782900",
+        "in_reply_to_user_id": "1816529255905611776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938954453992030646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZSOULPOWER 确实（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816529255905611776",
+        "conversation_id": "1938940073724256359",
+        "created_at": "2025-06-28T13:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938954453992030646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938954453992030646",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938940073724256359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 没有拉菲那种灾难。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10357,
+          "following_count": 99,
+          "like_count": 12088,
+          "listed_count": 39,
+          "media_count": 276,
+          "tweet_count": 1425
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T17:41:50.000Z",
+        "description": "男的..no门槛 no线下 高中在读..（但是以后可能因为吃不起麦当当而乞讨 私信不要发午子 草泥马。",
+        "id": "1816529255905611776",
+        "location": "Singapore",
+        "name": "不知",
+        "pinned_tweet_id": "1936378138889789564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859269776130052096/EobkklMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4951,
+          "following_count": 48,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 71
+        },
+        "username": "BZSOULPOWER",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950864782749536256"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1950864794711359871",
+    "created_at": "2025-07-31T10:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T11:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950864794711359871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50SK7g8Grg",
+          "end": 30,
+          "expanded_url": "https://x.com/meow_marmalade/status/1950864794711359871/video/1",
+          "media_key": "13_1950864782749536256",
+          "start": 7,
+          "url": "https://t.co/50SK7g8Grg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950864794711359871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好容易掉（） https://t.co/50SK7g8Grg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3233,
+        "height": 960,
+        "media_key": "13_1950864782749536256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950864782749536256/img/771kduUoMJsn-drG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950864782749536256/vid/avc1/320x426/NrYW-1k__jdkm663.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950864782749536256/vid/avc1/480x640/LfHRdRtHfdmeg7CK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950864782749536256/vid/avc1/720x960/BRGxWJLm98rBBYOi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950864782749536256/pl/M0JnOvm-xX_VsSVB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950864782749536256"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1950864794711359871",
+        "created_at": "2025-07-31T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950864794711359871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50SK7g8Grg",
+              "end": 30,
+              "expanded_url": "https://x.com/meow_marmalade/status/1950864794711359871/video/1",
+              "media_key": "13_1950864782749536256",
+              "start": 7,
+              "url": "https://t.co/50SK7g8Grg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950864794711359871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好容易掉（） https://t.co/50SK7g8Grg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14356,
+          "following_count": 90,
+          "like_count": 13553,
+          "listed_count": 56,
+          "media_count": 309,
+          "tweet_count": 1750
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

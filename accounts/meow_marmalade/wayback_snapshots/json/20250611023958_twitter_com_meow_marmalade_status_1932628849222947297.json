@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1932568111783526652",
+    "created_at": "2025-06-11T02:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T03:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932628849222947297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1212753537085530112",
+          "start": 0,
+          "username": "WickedInformer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932628849222947297",
+    "in_reply_to_user_id": "1212753537085530112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932568111783526652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WickedInformer 啊啊啊啊好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932568109015330816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtHcdLobcAABOT2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932568109287944192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtHcdMpbMAAQms9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1932568111783526652",
+        "created_at": "2025-06-11T02:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T03:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932628849222947297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1212753537085530112",
+              "start": 0,
+              "username": "WickedInformer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932628849222947297",
+        "in_reply_to_user_id": "1212753537085530112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932568111783526652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WickedInformer 啊啊啊啊好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932568109015330816",
+            "3_1932568109287944192"
+          ]
+        },
+        "author_id": "1212753537085530112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932568111783526652",
+        "created_at": "2025-06-10T22:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T23:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932568111783526652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8C7CU9ylgp",
+              "end": 28,
+              "expanded_url": "https://x.com/WickedInformer/status/1932568111783526652/photo/1",
+              "media_key": "3_1932568109015330816",
+              "start": 5,
+              "url": "https://t.co/8C7CU9ylgp"
+            },
+            {
+              "display_url": "pic.x.com/8C7CU9ylgp",
+              "end": 28,
+              "expanded_url": "https://x.com/WickedInformer/status/1932568111783526652/photo/1",
+              "media_key": "3_1932568109287944192",
+              "start": 5,
+              "url": "https://t.co/8C7CU9ylgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932568111783526652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是你啦 https://t.co/8C7CU9ylgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8341,
+          "following_count": 95,
+          "like_count": 11393,
+          "listed_count": 25,
+          "media_count": 256,
+          "tweet_count": 1247
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T15:13:28.000Z",
+        "description": "20s || MDNI 🔞 || 🇨🇦 Van || S",
+        "id": "1212753537085530112",
+        "location": "Canada",
+        "name": "ЯΣVΣЯΛ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930367046661091330/OR0ywn0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 680,
+          "like_count": 25103,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1311
+        },
+        "username": "WickedInformer",
+        "verified": false
+      }
+    ]
+  }
+}

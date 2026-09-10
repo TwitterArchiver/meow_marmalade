@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2028052277182009436",
+    "created_at": "2026-03-01T12:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028079514832773398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313016269923250176",
+          "start": 0,
+          "username": "skzahkas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028079514832773398",
+    "in_reply_to_user_id": "1313016269923250176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028068423465632232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skzahkas 死了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2028052277182009436",
+        "created_at": "2026-03-01T12:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028079514832773398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313016269923250176",
+              "start": 0,
+              "username": "skzahkas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028079514832773398",
+        "in_reply_to_user_id": "1313016269923250176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028068423465632232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skzahkas 死了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313016269923250176",
+        "conversation_id": "2028052277182009436",
+        "created_at": "2026-03-01T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028068423465632232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028068423465632232",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028052277182009436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 审稿人：你的论文创新点很好，现在它是我的了，送你个minor rejection"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36151,
+          "following_count": 98,
+          "like_count": 22448,
+          "listed_count": 140,
+          "media_count": 172,
+          "tweet_count": 3748
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T07:21:10.000Z",
+        "description": "艦これ",
+        "id": "1313016269923250176",
+        "name": "zzzzzzzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009115126654435328/cc6V90bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1098,
+          "like_count": 11289,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 1886
+        },
+        "username": "skzahkas",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1877698557656076374",
+    "created_at": "2025-01-11T11:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T12:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878035546708312302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878035546708312302",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878035204758978965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl 嘿嘿☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1877698557656076374",
+        "created_at": "2025-01-11T11:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878035546708312302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878035546708312302",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878035204758978965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl 嘿嘿☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "1877698557656076374",
+        "created_at": "2025-01-11T11:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878035204758978965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878035204758978965",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877698557656076374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这件好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 107,
+          "like_count": 4091,
+          "listed_count": 9,
+          "media_count": 160,
+          "tweet_count": 569
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "大号 @lpngpkl\n臭工程师\n🚪 20usd/28cad\narchive @imaginaryphx\n自用梯子：喵叽云服务, 支持ssr, V2ray, clash等\nhttps://t.co/K6QheWjsmW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "lpngpkl"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "imaginaryphx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 109,
+                "expanded_url": "http://wwwwwl.sogood9.com/#/register?code=t3cNqmgv",
+                "start": 86,
+                "url": "https://t.co/K6QheWjsmW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+YJ1lMWwYDs0wO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+YJ1lMWwYDs0wODAx",
+                "start": 0,
+                "url": "https://t.co/JOxivvtsER"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Middlesex, NJ",
+        "name": "波音787双发停车已经修了四个半钟了",
+        "pinned_tweet_id": "1871987695737835747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10266,
+          "following_count": 5671,
+          "like_count": 138323,
+          "listed_count": 22,
+          "media_count": 5242,
+          "tweet_count": 63980
+        },
+        "url": "https://t.co/JOxivvtsER",
+        "username": "rnpgpsl",
+        "verified": false
+      }
+    ]
+  }
+}

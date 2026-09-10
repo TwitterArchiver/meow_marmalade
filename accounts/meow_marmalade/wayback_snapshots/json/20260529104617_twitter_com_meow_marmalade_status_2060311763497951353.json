@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060301973723988220",
+    "created_at": "2026-05-29T10:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060311763497951353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774477637534281728",
+          "start": 0,
+          "username": "GeimoGeimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060311763497951353",
+    "in_reply_to_user_id": "1774477637534281728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060306969211326518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeimoGeimo 谢谢宝宝🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060301973723988220",
+        "created_at": "2026-05-29T10:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060311763497951353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774477637534281728",
+              "start": 0,
+              "username": "GeimoGeimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060311763497951353",
+        "in_reply_to_user_id": "1774477637534281728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060306969211326518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeimoGeimo 谢谢宝宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774477637534281728",
+        "conversation_id": "2060301973723988220",
+        "created_at": "2026-05-29T10:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060306969211326518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060306969211326518",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060301973723988220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好好看🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38111,
+          "following_count": 94,
+          "like_count": 26183,
+          "listed_count": 150,
+          "media_count": 155,
+          "tweet_count": 4409
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/12时，学校食堂见/臭打游戏的，随缘更新照片/偶尔发点画/信箱链接https://t.co/4ENHs7LoWv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h0risans",
+                "end": 58,
+                "expanded_url": "https://ngl.link/h0risans",
+                "start": 35,
+                "url": "https://t.co/4ENHs7LoWv"
+              }
+            ]
+          }
+        },
+        "id": "1774477637534281728",
+        "location": "在东百读研",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051922816778616832/tHZsXEtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 474,
+          "like_count": 14672,
+          "listed_count": 16,
+          "media_count": 50,
+          "tweet_count": 2867
+        },
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

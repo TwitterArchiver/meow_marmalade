@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1872854540980232519",
+    "created_at": "2024-12-28T07:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T08:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872901551746105589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1861660143399903232",
+          "start": 0,
+          "username": "chiko20031001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872901551746105589",
+    "in_reply_to_user_id": "1861660143399903232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872895199250469211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiko20031001 难得周末 我不能接受qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1872854540980232519",
+        "created_at": "2024-12-28T07:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T08:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872901551746105589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1861660143399903232",
+              "start": 0,
+              "username": "chiko20031001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872901551746105589",
+        "in_reply_to_user_id": "1861660143399903232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872895199250469211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiko20031001 难得周末 我不能接受qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861660143399903232",
+        "conversation_id": "1872854540980232519",
+        "created_at": "2024-12-28T06:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T07:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872895199250469211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872895199250469211",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872854540980232519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 睡觉💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 108,
+          "like_count": 3875,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 550
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T06:35:53.000Z",
+        "description": "从零开始的异次元女装生活～",
+        "id": "1861660143399903232",
+        "location": "广东",
+        "name": "奇子想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864584795306774530/TOF1D8Lv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 8,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 45
+        },
+        "username": "chiko20031001",
+        "verified": false
+      }
+    ]
+  }
+}

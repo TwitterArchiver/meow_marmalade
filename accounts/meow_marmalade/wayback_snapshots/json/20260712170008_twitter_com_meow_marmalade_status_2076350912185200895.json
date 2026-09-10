@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2076299476562829392",
+    "created_at": "2026-07-12T17:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076350912185200895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1352318841985011713",
+          "start": 0,
+          "username": "FoolishShiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076350912185200895",
+    "in_reply_to_user_id": "1352318841985011713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076330510171955630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoolishShiro 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2076299476562829392",
+        "created_at": "2026-07-12T17:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076350912185200895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1352318841985011713",
+              "start": 0,
+              "username": "FoolishShiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076350912185200895",
+        "in_reply_to_user_id": "1352318841985011713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076330510171955630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoolishShiro 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352318841985011713",
+        "conversation_id": "2076299476562829392",
+        "created_at": "2026-07-12T15:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076330510171955630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330510171955630",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076329128777978355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 二游喜欢冷门角色的有福了  要强度没强度要剧情没剧情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39786,
+          "following_count": 97,
+          "like_count": 27579,
+          "listed_count": 160,
+          "media_count": 189,
+          "tweet_count": 4886
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T18:15:21.000Z",
+        "description": "无趣的人",
+        "id": "1352318841985011713",
+        "name": "「 」空白",
+        "pinned_tweet_id": "1972683751109824943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613430769766240256/NXIc-Gc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14415,
+          "following_count": 267,
+          "like_count": 2104,
+          "listed_count": 67,
+          "media_count": 906,
+          "tweet_count": 6490
+        },
+        "url": "",
+        "username": "FoolishShiro",
+        "verified": false
+      }
+    ]
+  }
+}

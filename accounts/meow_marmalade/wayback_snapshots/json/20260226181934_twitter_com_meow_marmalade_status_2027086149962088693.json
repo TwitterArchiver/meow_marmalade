@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2026965550602354867",
+    "created_at": "2026-02-26T18:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T19:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027086149962088693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557339258251530241",
+          "start": 0,
+          "username": "1i45i419198i0"
+        },
+        {
+          "end": 26,
+          "id": "1976995735532138496",
+          "start": 15,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027086149962088693",
+    "in_reply_to_user_id": "1557339258251530241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027078581885833568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1i45i419198i0 @JanboMikan 不是我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2026965550602354867",
+        "created_at": "2026-02-26T18:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027086149962088693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557339258251530241",
+              "start": 0,
+              "username": "1i45i419198i0"
+            },
+            {
+              "end": 26,
+              "id": "1976995735532138496",
+              "start": 15,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027086149962088693",
+        "in_reply_to_user_id": "1557339258251530241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027078581885833568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1i45i419198i0 @JanboMikan 不是我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557339258251530241",
+        "conversation_id": "2026965550602354867",
+        "created_at": "2026-02-26T17:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027078581885833568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 27,
+              "id": "1353996204422492160",
+              "start": 12,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027078581885833568",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026982133647217149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @meow_marmalade 啊，上面那个也是你的号么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36180,
+          "following_count": 97,
+          "like_count": 22357,
+          "listed_count": 140,
+          "media_count": 171,
+          "tweet_count": 3731
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T12:13:19.000Z",
+        "description": "只回复点赞，不发推。\n雷点如下，面斥不雅:\n逆民殖人/分裂主义/拳师集美/民逗犹太\n对以下成分具亲和性:\n男娘/猫派/民布/车万/抽象/VOCALOID",
+        "id": "1557339258251530241",
+        "name": "奇异生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717251296942870528/ORfvxzw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 148,
+          "like_count": 3287,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 342
+        },
+        "username": "1i45i419198i0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6976,
+          "following_count": 372,
+          "like_count": 10044,
+          "listed_count": 31,
+          "media_count": 157,
+          "tweet_count": 5293
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

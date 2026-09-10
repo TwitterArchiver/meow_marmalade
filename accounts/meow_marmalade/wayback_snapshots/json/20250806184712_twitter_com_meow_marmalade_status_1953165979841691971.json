@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1953047221177598177",
+    "created_at": "2025-08-06T18:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T19:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953165979841691971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1436596946110615553",
+          "start": 0,
+          "username": "Scxy_usagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953165979841691971",
+    "in_reply_to_user_id": "1436596946110615553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953156768026247532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scxy_usagi 谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1953047221177598177",
+        "created_at": "2025-08-06T18:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T19:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953165979841691971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1436596946110615553",
+              "start": 0,
+              "username": "Scxy_usagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953165979841691971",
+        "in_reply_to_user_id": "1436596946110615553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953156768026247532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scxy_usagi 谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436596946110615553",
+        "conversation_id": "1953047221177598177",
+        "created_at": "2025-08-06T18:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T19:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953156768026247532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953156768026247532",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953047221177598177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 每套衣服怎么都能感觉如此适配，有可爱有美，好看爱看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14991,
+          "following_count": 91,
+          "like_count": 13847,
+          "listed_count": 59,
+          "media_count": 317,
+          "tweet_count": 1820
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T07:46:41.000Z",
+        "description": "想学好日语的大学生",
+        "id": "1436596946110615553",
+        "name": "石川丶向原",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636777680422174720/ImgWbaNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 74,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 132
+        },
+        "username": "Scxy_usagi",
+        "verified": false
+      }
+    ]
+  }
+}

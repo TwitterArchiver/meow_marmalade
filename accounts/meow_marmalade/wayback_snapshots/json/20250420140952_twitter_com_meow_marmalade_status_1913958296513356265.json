@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1913939243250127182",
+    "created_at": "2025-04-20T14:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T15:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913958296513356265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802704004251787264",
+          "start": 0,
+          "username": "qi_si83596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913958296513356265",
+    "in_reply_to_user_id": "1802704004251787264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913956966269096263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si83596 太离谱了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1913939243250127182",
+        "created_at": "2025-04-20T14:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T15:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913958296513356265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802704004251787264",
+              "start": 0,
+              "username": "qi_si83596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913958296513356265",
+        "in_reply_to_user_id": "1802704004251787264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913956966269096263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si83596 太离谱了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704004251787264",
+        "conversation_id": "1913939243250127182",
+        "created_at": "2025-04-20T14:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T15:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913956966269096263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913956966269096263",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913956278516457884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 可能是舍不得，本来要给你呢，一看太贵了，就把炸鸡拿回去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "喵喵叫的蜜柑🍊",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3440,
+          "following_count": 90,
+          "like_count": 8470,
+          "listed_count": 12,
+          "media_count": 207,
+          "tweet_count": 843
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:05:10.000Z",
+        "description": "二弟的二弟",
+        "id": "1802704004251787264",
+        "name": "琪亚娜卡斯兰娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847163037490507776/-4oH2SL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 80,
+          "like_count": 1322,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 982
+        },
+        "username": "qi_si83596",
+        "verified": false
+      }
+    ]
+  }
+}

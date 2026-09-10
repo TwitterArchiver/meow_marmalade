@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2026973702290907147",
+    "created_at": "2026-02-26T12:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027001726310731830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682431068475891714",
+          "start": 0,
+          "username": "CascadingPallor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027001726310731830",
+    "in_reply_to_user_id": "1682431068475891714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026973702290907147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CascadingPallor 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2026973702290907147",
+        "created_at": "2026-02-26T12:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027001726310731830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682431068475891714",
+              "start": 0,
+              "username": "CascadingPallor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027001726310731830",
+        "in_reply_to_user_id": "1682431068475891714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026973702290907147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CascadingPallor 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682431068475891714",
+        "conversation_id": "2026973702290907147",
+        "created_at": "2026-02-26T10:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026973702290907147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow_marmalade…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/2026965550602354867",
+              "start": 18,
+              "url": "https://t.co/KTeyK3ZeMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026973702290907147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 191,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026965550602354867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我们简中推最喜欢寡妇文案的推主 https://t.co/KTeyK3ZeMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36170,
+          "following_count": 97,
+          "like_count": 22332,
+          "listed_count": 140,
+          "media_count": 171,
+          "tweet_count": 3728
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:43:29.000Z",
+        "description": "gore of being",
+        "id": "1682431068475891714",
+        "name": "CascadingPallor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870054155784193/60Tn4j2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6801,
+          "following_count": 2400,
+          "like_count": 59104,
+          "listed_count": 33,
+          "media_count": 1019,
+          "tweet_count": 7605
+        },
+        "username": "CascadingPallor",
+        "verified": false
+      }
+    ]
+  }
+}

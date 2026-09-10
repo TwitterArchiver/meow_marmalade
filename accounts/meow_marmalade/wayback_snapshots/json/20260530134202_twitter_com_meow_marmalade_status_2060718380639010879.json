@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060686204593709478",
+    "created_at": "2026-05-30T13:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060718380639010879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641646069422657536",
+          "start": 0,
+          "username": "biechaolemiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060718380639010879",
+    "in_reply_to_user_id": "1641646069422657536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060703104061120890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@biechaolemiao 谢谢宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T13:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060718380639010879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641646069422657536",
+              "start": 0,
+              "username": "biechaolemiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060718380639010879",
+        "in_reply_to_user_id": "1641646069422657536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060703104061120890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@biechaolemiao 谢谢宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641646069422657536",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T12:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060703104061120890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060703104061120890",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060686204593709478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@meow_marmalade 宝宝你好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38114,
+          "following_count": 94,
+          "like_count": 26244,
+          "listed_count": 150,
+          "media_count": 157,
+          "tweet_count": 4424
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:38:23.000Z",
+        "description": "赛博猫猫 小红点suki 私信评论都会看 不约不线下 妹妹扩列\n只玩x 没有小号 墙内都是盗图 不要被骗了哦",
+        "id": "1641646069422657536",
+        "name": "麥麥",
+        "pinned_tweet_id": "2008101171152458000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053083545925718016/1f46_rCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10882,
+          "following_count": 229,
+          "like_count": 5164,
+          "listed_count": 43,
+          "media_count": 332,
+          "tweet_count": 942
+        },
+        "username": "biechaolemiao",
+        "verified": false
+      }
+    ]
+  }
+}

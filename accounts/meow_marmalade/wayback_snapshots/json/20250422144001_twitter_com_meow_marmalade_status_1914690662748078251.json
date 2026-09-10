@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1914654899494952972",
+    "created_at": "2025-04-22T14:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T15:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914690662748078251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802704004251787264",
+          "start": 0,
+          "username": "qi_si83596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914690662748078251",
+    "in_reply_to_user_id": "1802704004251787264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914683685099765831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si83596 意志？👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1914654899494952972",
+        "created_at": "2025-04-22T14:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914690662748078251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802704004251787264",
+              "start": 0,
+              "username": "qi_si83596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914690662748078251",
+        "in_reply_to_user_id": "1802704004251787264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914683685099765831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si83596 意志？👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704004251787264",
+        "conversation_id": "1914654899494952972",
+        "created_at": "2025-04-22T14:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914683685099765831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914683685099765831",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914654899494952972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 下次换2皮吧，喜欢看黑道千金，虽然这个也不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "喵喵叫的蜜柑🍊",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3552,
+          "following_count": 90,
+          "like_count": 8614,
+          "listed_count": 12,
+          "media_count": 209,
+          "tweet_count": 858
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:05:10.000Z",
+        "description": "二弟的二弟",
+        "id": "1802704004251787264",
+        "name": "琪亚娜卡斯兰娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847163037490507776/-4oH2SL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 81,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1194
+        },
+        "username": "qi_si83596",
+        "verified": false
+      }
+    ]
+  }
+}

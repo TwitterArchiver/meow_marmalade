@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948688142053359616"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1948688153973588421",
+    "created_at": "2025-07-25T10:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T11:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948688153973588421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DdlzzlofLf",
+          "end": 39,
+          "expanded_url": "https://x.com/meow_marmalade/status/1948688153973588421/photo/1",
+          "media_key": "3_1948688142053359616",
+          "start": 16,
+          "url": "https://t.co/DdlzzlofLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948688153973588421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "BOSS正在慢慢进入二阶段👿🔱 https://t.co/DdlzzlofLf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1948688142053359616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwshimUbQAAK92d.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948688142053359616"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1948688153973588421",
+        "created_at": "2025-07-25T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948688153973588421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdlzzlofLf",
+              "end": 39,
+              "expanded_url": "https://x.com/meow_marmalade/status/1948688153973588421/photo/1",
+              "media_key": "3_1948688142053359616",
+              "start": 16,
+              "url": "https://t.co/DdlzzlofLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948688153973588421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BOSS正在慢慢进入二阶段👿🔱 https://t.co/DdlzzlofLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13506,
+          "following_count": 91,
+          "like_count": 13274,
+          "listed_count": 54,
+          "media_count": 303,
+          "tweet_count": 1681
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

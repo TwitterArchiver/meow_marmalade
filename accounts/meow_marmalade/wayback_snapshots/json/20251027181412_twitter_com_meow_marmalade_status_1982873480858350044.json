@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982873471852957696"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1982873480858350044",
+    "created_at": "2025-10-27T18:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982873480858350044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PXcBWRYSE9",
+          "end": 65,
+          "expanded_url": "https://x.com/meow_marmalade/status/1982873480858350044/photo/1",
+          "media_key": "3_1982873471852957696",
+          "start": 42,
+          "url": "https://t.co/PXcBWRYSE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982873480858350044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "寄拍给我性别焦虑整出来了\n以前的消极的可怕的想法一下就又涌回来了\n被自己恶心得想吐 https://t.co/PXcBWRYSE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_1982873471852957696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SU6rxXUAAGrDH.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982873471852957696"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982873480858350044",
+        "created_at": "2025-10-27T18:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982873480858350044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PXcBWRYSE9",
+              "end": 65,
+              "expanded_url": "https://x.com/meow_marmalade/status/1982873480858350044/photo/1",
+              "media_key": "3_1982873471852957696",
+              "start": 42,
+              "url": "https://t.co/PXcBWRYSE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982873480858350044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寄拍给我性别焦虑整出来了\n以前的消极的可怕的想法一下就又涌回来了\n被自己恶心得想吐 https://t.co/PXcBWRYSE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24726,
+          "following_count": 95,
+          "like_count": 17251,
+          "listed_count": 93,
+          "media_count": 186,
+          "tweet_count": 2523
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

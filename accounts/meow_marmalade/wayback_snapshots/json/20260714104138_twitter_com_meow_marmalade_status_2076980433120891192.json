@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2076959502797328718",
+    "created_at": "2026-07-14T10:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076980433120891192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1519619046156636160",
+          "start": 0,
+          "username": "nicosamaaahhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076980433120891192",
+    "in_reply_to_user_id": "1519619046156636160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076974270018957720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicosamaaahhhh 谢谢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2076959502797328718",
+        "created_at": "2026-07-14T10:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076980433120891192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1519619046156636160",
+              "start": 0,
+              "username": "nicosamaaahhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076980433120891192",
+        "in_reply_to_user_id": "1519619046156636160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076974270018957720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicosamaaahhhh 谢谢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519619046156636160",
+        "conversation_id": "2076959502797328718",
+        "created_at": "2026-07-14T10:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076974270018957720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076974270018957720",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076959502797328718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 也太好看了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39902,
+          "following_count": 97,
+          "like_count": 27614,
+          "listed_count": 162,
+          "media_count": 191,
+          "tweet_count": 4915
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T10:06:44.000Z",
+        "description": "碎碎念 偶尔会有照片（？） @NicoSAMAdesuu\n互关请和我扩列聊天\n其他人恰q恰v50rmb谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "NicoSAMAdesuu"
+              }
+            ]
+          }
+        },
+        "id": "1519619046156636160",
+        "name": "Nicooosama",
+        "pinned_tweet_id": "1986505641415045146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921582964967915520/ySeIS3W7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12833,
+          "following_count": 1474,
+          "like_count": 6875,
+          "listed_count": 67,
+          "media_count": 199,
+          "tweet_count": 2698
+        },
+        "url": "",
+        "username": "nicosamaaahhhh",
+        "verified": false
+      }
+    ]
+  }
+}

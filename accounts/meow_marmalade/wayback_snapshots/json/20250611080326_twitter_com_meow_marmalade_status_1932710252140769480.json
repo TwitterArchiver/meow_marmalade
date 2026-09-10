@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1932706383851630918",
+    "created_at": "2025-06-11T08:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T09:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932710252140769480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633809558513778694",
+          "start": 0,
+          "username": "xuxuna333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932710252140769480",
+    "in_reply_to_user_id": "1633809558513778694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932706383851630918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxuna333 好米qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932706375332999171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJaNVzbMAM31vy.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1932706383851630918",
+        "created_at": "2025-06-11T08:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T09:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932710252140769480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633809558513778694",
+              "start": 0,
+              "username": "xuxuna333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932710252140769480",
+        "in_reply_to_user_id": "1633809558513778694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932706383851630918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxuna333 好米qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932706375332999171"
+          ]
+        },
+        "author_id": "1633809558513778694",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "1932706383851630918",
+        "created_at": "2025-06-11T07:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T08:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932706383851630918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "jk"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "黑丝"
+            },
+            {
+              "end": 17,
+              "start": 15,
+              "tag": "足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHnpXXVj7q",
+              "end": 41,
+              "expanded_url": "https://x.com/xuxuna333/status/1932706383851630918/photo/1",
+              "media_key": "3_1932706375332999171",
+              "start": 18,
+              "url": "https://t.co/aHnpXXVj7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932706383851630918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 201,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "男娘宝宝dd\n#jk #黑丝 #足 https://t.co/aHnpXXVj7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8342,
+          "following_count": 95,
+          "like_count": 11399,
+          "listed_count": 25,
+          "media_count": 256,
+          "tweet_count": 1249
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T12:38:59.000Z",
+        "description": "学生 性别♂ 电子宠物 多人设 喜欢看番打游戏 接lol/瓦陪玩 推特唯一小号@mianovo3 抖音灌注四小丸子！私信评论都会看 欢迎同好宝宝贴贴w互fo扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "mianovo3"
+              }
+            ]
+          }
+        },
+        "id": "1633809558513778694",
+        "name": "缘晓晓",
+        "pinned_tweet_id": "1920050118868472159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835919528875941888/nLrH0SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37467,
+          "following_count": 581,
+          "like_count": 8219,
+          "listed_count": 128,
+          "media_count": 339,
+          "tweet_count": 4982
+        },
+        "username": "xuxuna333",
+        "verified": false
+      }
+    ]
+  }
+}

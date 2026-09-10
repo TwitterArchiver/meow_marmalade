@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1957412965038031018",
+    "created_at": "2025-09-07T02:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T03:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964518720912707800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808379991744565248",
+          "start": 0,
+          "username": "HikigayaAme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964518720912707800",
+    "in_reply_to_user_id": "1808379991744565248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964493973118185632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HikigayaAme 广告位招租（bushi\n瞎买的不记得了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1957412965038031018",
+        "created_at": "2025-09-07T02:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T03:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964518720912707800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808379991744565248",
+              "start": 0,
+              "username": "HikigayaAme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964518720912707800",
+        "in_reply_to_user_id": "1808379991744565248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964493973118185632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HikigayaAme 广告位招租（bushi\n瞎买的不记得了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808379991744565248",
+        "conversation_id": "1957412965038031018",
+        "created_at": "2025-09-07T01:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T02:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964493973118185632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964493973118185632",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957412965038031018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 黑丝质感好好，求推荐是哪家店的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18057,
+          "following_count": 90,
+          "like_count": 15205,
+          "listed_count": 70,
+          "media_count": 288,
+          "tweet_count": 2189
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T05:59:38.000Z",
+        "description": "",
+        "id": "1808379991744565248",
+        "name": "HikigayaAme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812498385246552064/6U-UgDfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 156,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "HikigayaAme",
+        "verified": false
+      }
+    ]
+  }
+}

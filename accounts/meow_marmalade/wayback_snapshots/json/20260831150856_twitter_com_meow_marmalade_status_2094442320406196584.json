@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2094069059717582878",
+    "created_at": "2026-08-31T15:08:56.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094442320406196584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550682591400824832",
+          "start": 0,
+          "username": "Tree_Co_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094442320406196584",
+    "in_reply_to_user_id": "1550682591400824832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094069059717582878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tree_Co_ 外耗就对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2094069059717582878",
+        "created_at": "2026-08-31T15:08:56.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094442320406196584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550682591400824832",
+              "start": 0,
+              "username": "Tree_Co_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094442320406196584",
+        "in_reply_to_user_id": "1550682591400824832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094069059717582878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tree_Co_ 外耗就对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550682591400824832",
+        "conversation_id": "2094069059717582878",
+        "created_at": "2026-08-30T14:25:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094069059717582878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tree_co_/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tree_co_/status/2094068950887985436",
+              "start": 17,
+              "url": "https://t.co/Knn8N2te6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094069059717582878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094068950887985436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "折磨谁我都不会选择折磨我自己的😅 https://t.co/Knn8N2te6F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2094442320406196584",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40913,
+          "following_count": 104,
+          "like_count": 28755,
+          "listed_count": 166,
+          "media_count": 216,
+          "tweet_count": 5229
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-23T03:22:26.000Z",
+        "description": "上海｜女摄｜ENTP",
+        "id": "1550682591400824832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094069059717582878",
+        "name": "脆椰",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924879881764208640/kbvH-NXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 36,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "Tree_Co_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

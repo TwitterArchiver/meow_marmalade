@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1841740132057285021",
+    "created_at": "2024-10-03T13:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T14:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841840202782069050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069881915216461825",
+          "start": 0,
+          "username": "Iprintemps1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841840202782069050",
+    "in_reply_to_user_id": "1069881915216461825",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841740132057285021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iprintemps1 可爱☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1841740132057285021",
+        "created_at": "2024-10-03T13:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T14:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841840202782069050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069881915216461825",
+              "start": 0,
+              "username": "Iprintemps1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841840202782069050",
+        "in_reply_to_user_id": "1069881915216461825",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841740132057285021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iprintemps1 可爱☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841740124369125378"
+          ]
+        },
+        "author_id": "1069881915216461825",
+        "conversation_id": "1841740132057285021",
+        "created_at": "2024-10-03T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841740132057285021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4c3fkdK49x",
+              "end": 30,
+              "expanded_url": "https://x.com/Iprintemps1/status/1841740132057285021/photo/1",
+              "media_key": "3_1841740124369125378",
+              "start": 7,
+              "url": "https://t.co/4c3fkdK49x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841740132057285021",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7819,
+          "like_count": 355,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "只会剪刀手了 https://t.co/4c3fkdK49x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 97,
+          "like_count": 2273,
+          "listed_count": 7,
+          "tweet_count": 403
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T09:11:40.000Z",
+        "description": "冬行性生物，赖床中💤",
+        "id": "1069881915216461825",
+        "name": "零零度白糖🧸♔",
+        "pinned_tweet_id": "1834138731688984819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758119089946652672/JLLUBMga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10831,
+          "following_count": 579,
+          "like_count": 7051,
+          "listed_count": 70,
+          "tweet_count": 1080
+        },
+        "username": "Iprintemps1",
+        "verified": false
+      }
+    ]
+  }
+}

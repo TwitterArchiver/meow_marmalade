@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1984188856514797708",
+    "created_at": "2025-10-31T15:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984284613561479627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796081087065812992",
+          "start": 0,
+          "username": "AshleyGibs99166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984284613561479627",
+    "in_reply_to_user_id": "1796081087065812992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984278501235839440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshleyGibs99166 嘿嘿🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1984278493140795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mSxr8awAAGzq1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1984188856514797708",
+        "created_at": "2025-10-31T15:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984284613561479627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796081087065812992",
+              "start": 0,
+              "username": "AshleyGibs99166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984284613561479627",
+        "in_reply_to_user_id": "1796081087065812992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984278501235839440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshleyGibs99166 嘿嘿🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984278493140795392"
+          ]
+        },
+        "author_id": "1796081087065812992",
+        "conversation_id": "1984188856514797708",
+        "created_at": "2025-10-31T15:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984278501235839440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07hqoUQkpg",
+              "end": 67,
+              "expanded_url": "https://x.com/AshleyGibs99166/status/1984278501235839440/photo/1",
+              "media_key": "3_1984278493140795392",
+              "start": 44,
+              "url": "https://t.co/07hqoUQkpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984278501235839440",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984188856514797708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 假毛好看！旁边的小兔子也好可爱！你这家伙，真了不得啊！ https://t.co/07hqoUQkpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24926,
+          "following_count": 96,
+          "like_count": 17459,
+          "listed_count": 95,
+          "media_count": 189,
+          "tweet_count": 2572
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:29:56.000Z",
+        "description": "",
+        "id": "1796081087065812992",
+        "name": "寒夕哒哒哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810028258542661633/-HwyaWnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1022,
+          "like_count": 30435,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 7943
+        },
+        "username": "AshleyGibs99166",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2069394081449758799",
+    "created_at": "2026-06-24T14:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069792392539197462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069792392539197462",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069781106636042445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref 抱起来可舒服了ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2069394081449758799",
+        "created_at": "2026-06-24T14:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069792392539197462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069792392539197462",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069781106636042445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref 抱起来可舒服了ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874735511031693312",
+        "conversation_id": "2069394081449758799",
+        "created_at": "2026-06-24T13:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069781106636042445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069781106636042445",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069394081449758799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好长的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39109,
+          "following_count": 94,
+          "like_count": 27138,
+          "listed_count": 156,
+          "media_count": 176,
+          "tweet_count": 4733
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "location": "林地",
+        "name": "𝔢𝔠𝔩𝔦𝔭𝔰𝔢",
+        "pinned_tweet_id": "2054154732298797435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35314,
+          "following_count": 81,
+          "like_count": 6604,
+          "listed_count": 120,
+          "media_count": 248,
+          "tweet_count": 1633
+        },
+        "url": "",
+        "username": "bittersweet_ref",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2076651531819229191",
+    "created_at": "2026-07-14T04:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076885479153385570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487024566975479810",
+          "start": 0,
+          "username": "crow_no996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076885479153385570",
+    "in_reply_to_user_id": "1487024566975479810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076704697961083096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crow_no996 兔兔是我的，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2076651531819229191",
+        "created_at": "2026-07-14T04:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076885479153385570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487024566975479810",
+              "start": 0,
+              "username": "crow_no996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076885479153385570",
+        "in_reply_to_user_id": "1487024566975479810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076704697961083096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crow_no996 兔兔是我的，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487024566975479810",
+        "conversation_id": "2076651531819229191",
+        "created_at": "2026-07-13T16:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076704697961083096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076704697961083096",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076651531819229191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我直接抱走阿米娅玩偶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39865,
+          "following_count": 97,
+          "like_count": 27593,
+          "listed_count": 162,
+          "media_count": 190,
+          "tweet_count": 4902
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T11:27:54.000Z",
+        "description": "聊天看梗图看插画打游戏🎮\n找乐子，好玩的任何东西请告诉我||励志成为宝可梦大师/操虫棍糕手/现充/梗图制作人||",
+        "id": "1487024566975479810",
+        "location": "交界地",
+        "name": "crow🐦‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005480229465436161/jJncwJBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 581,
+          "like_count": 13981,
+          "listed_count": 15,
+          "media_count": 1807,
+          "tweet_count": 17407
+        },
+        "url": "",
+        "username": "crow_no996",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1905822643783397860",
+    "created_at": "2025-03-29T13:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T14:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905982528353132611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905982528353132611",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905978855728525792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bocchi1chan 对的对的☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1905822643783397860",
+        "created_at": "2025-03-29T13:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905982528353132611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905982528353132611",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905978855728525792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan 对的对的☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522976249173450759",
+        "conversation_id": "1905822643783397860",
+        "created_at": "2025-03-29T13:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905978855728525792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905978855728525792",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905822643783397860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 经典rojita"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 97,
+          "like_count": 7370,
+          "listed_count": 11,
+          "media_count": 189,
+          "tweet_count": 728
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nprivate message me on instagram ✉️\nhttps://t.co/jYpgMIVDT2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 86,
+                "expanded_url": "https://www.instagram.com/bocchi1chan/",
+                "start": 63,
+                "url": "https://t.co/jYpgMIVDT2"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14420,
+          "following_count": 3243,
+          "like_count": 22743,
+          "listed_count": 19,
+          "media_count": 1552,
+          "tweet_count": 3417
+        },
+        "username": "bocchi1chan",
+        "verified": true
+      }
+    ]
+  }
+}

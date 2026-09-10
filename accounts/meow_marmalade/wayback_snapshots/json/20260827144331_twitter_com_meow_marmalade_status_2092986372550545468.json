@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2092953494202507537",
+    "created_at": "2026-08-27T14:43:31.000Z",
+    "display_text_range": [
+      27,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092986372550545468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767749178401415168",
+          "start": 0,
+          "username": "STILLING340907"
+        },
+        {
+          "end": 26,
+          "id": "986261623340810240",
+          "start": 16,
+          "username": "R9inAsh6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092986372550545468",
+    "in_reply_to_user_id": "1767749178401415168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092953494202507537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STILLING340907 @R9inAsh6n 嗑到了，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3874,
+        "media_key": "3_2092953476225806336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuqGQHbsAA4RAk.jpg",
+        "width": 2680
+      },
+      {
+        "height": 3782,
+        "media_key": "3_2092953476267655168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuqGQRaQAA0Wto.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2092953494202507537",
+        "created_at": "2026-08-27T14:43:31.000Z",
+        "display_text_range": [
+          27,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092986372550545468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767749178401415168",
+              "start": 0,
+              "username": "STILLING340907"
+            },
+            {
+              "end": 26,
+              "id": "986261623340810240",
+              "start": 16,
+              "username": "R9inAsh6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092986372550545468",
+        "in_reply_to_user_id": "1767749178401415168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092953494202507537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STILLING340907 @R9inAsh6n 嗑到了，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092953476225806336",
+            "3_2092953476267655168"
+          ]
+        },
+        "author_id": "1767749178401415168",
+        "conversation_id": "2092953494202507537",
+        "created_at": "2026-08-27T12:32:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092953494202507537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlB5d4ht73",
+              "end": 40,
+              "expanded_url": "https://x.com/STILLING340907/status/2092953494202507537/photo/1",
+              "media_key": "3_2092953476225806336",
+              "start": 17,
+              "url": "https://t.co/qlB5d4ht73"
+            },
+            {
+              "display_url": "pic.x.com/qlB5d4ht73",
+              "end": 40,
+              "expanded_url": "https://x.com/STILLING340907/status/2092953494202507537/photo/1",
+              "media_key": "3_2092953476267655168",
+              "start": 17,
+              "url": "https://t.co/qlB5d4ht73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092953494202507537",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092953476225806336"
+          },
+          {
+            "media_key": "3_2092953476267655168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 2659,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "🎀happy birthday🎀 https://t.co/qlB5d4ht73"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2092986372550545468",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40859,
+          "following_count": 103,
+          "like_count": 28624,
+          "listed_count": 166,
+          "media_count": 223,
+          "tweet_count": 5209
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T03:07:09.000Z",
+        "description": "",
+        "id": "1767749178401415168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092986005448188098",
+        "name": "海绵宝宝南梦芽",
+        "pinned_tweet_id": "2092953494202507537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767749178401415168/1711815259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800004991316594688/atWo2pGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6713,
+          "following_count": 828,
+          "like_count": 8113,
+          "listed_count": 40,
+          "media_count": 191,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "STILLING340907",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-17T15:14:29.000Z",
+        "description": "見つけてくれてありがとう🎀|無断使用転載·AI禁止❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/R9inAsh6n",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/R9inAsh6n",
+                "start": 0,
+                "url": "https://t.co/0BIRUOKGde"
+              }
+            ]
+          }
+        },
+        "id": "986261623340810240",
+        "is_identity_verified": false,
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "most_recent_tweet_id": "2092957680797364266",
+        "name": "レイン🌂",
+        "pinned_tweet_id": "2092939344185278490",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986261623340810240/1722306589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813502381843443712/SOwj-Yhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68116,
+          "following_count": 393,
+          "like_count": 27401,
+          "listed_count": 342,
+          "media_count": 226,
+          "tweet_count": 13533
+        },
+        "url": "https://t.co/0BIRUOKGde",
+        "username": "R9inAsh6n",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

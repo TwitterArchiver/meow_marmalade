@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1984642369036366230",
+    "created_at": "2025-11-02T09:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984911473710387557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495101449692659712",
+          "start": 0,
+          "username": "mo09302351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984911473710387557",
+    "in_reply_to_user_id": "1495101449692659712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984642369036366230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo09302351 太像了 像得夸张😥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984642351219044352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rdtA6bcAACt9p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984642351219040257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rdtA6bYAEM_yS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1984642369036366230",
+        "created_at": "2025-11-02T09:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984911473710387557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495101449692659712",
+              "start": 0,
+              "username": "mo09302351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984911473710387557",
+        "in_reply_to_user_id": "1495101449692659712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984642369036366230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo09302351 太像了 像得夸张😥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984642351219044352",
+            "3_1984642351219040257"
+          ]
+        },
+        "author_id": "1495101449692659712",
+        "conversation_id": "1984642369036366230",
+        "created_at": "2025-11-01T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984642369036366230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNvFohdQh5",
+              "end": 43,
+              "expanded_url": "https://x.com/mo09302351/status/1984642369036366230/photo/1",
+              "media_key": "3_1984642351219044352",
+              "start": 20,
+              "url": "https://t.co/wNvFohdQh5"
+            },
+            {
+              "display_url": "pic.x.com/wNvFohdQh5",
+              "end": 43,
+              "expanded_url": "https://x.com/mo09302351/status/1984642369036366230/photo/1",
+              "media_key": "3_1984642351219040257",
+              "start": 20,
+              "url": "https://t.co/wNvFohdQh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984642369036366230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 28439,
+          "like_count": 824,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "所以說為什麼要把包裝做得這麼一言難盡… https://t.co/wNvFohdQh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25651,
+          "following_count": 99,
+          "like_count": 17529,
+          "listed_count": 100,
+          "media_count": 189,
+          "tweet_count": 2592
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T18:22:31.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/55594279",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/55594279",
+                "start": 0,
+                "url": "https://t.co/rd3OvqDVGY"
+              }
+            ]
+          }
+        },
+        "id": "1495101449692659712",
+        "name": "黑犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832592247835222016/83dvxi4h_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6208,
+          "following_count": 57,
+          "like_count": 25,
+          "listed_count": 28,
+          "media_count": 93,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/rd3OvqDVGY",
+        "username": "mo09302351",
+        "verified": false
+      }
+    ]
+  }
+}

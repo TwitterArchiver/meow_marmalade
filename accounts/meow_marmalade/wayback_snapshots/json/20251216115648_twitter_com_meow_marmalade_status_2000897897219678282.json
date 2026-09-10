@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2000860805219410037",
+    "created_at": "2025-12-16T11:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T12:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000897897219678282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679448451732635648",
+          "start": 0,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000897897219678282",
+    "in_reply_to_user_id": "1679448451732635648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000860805219410037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisa0v01210 爵士嚎矛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000860795480236035",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8R8St-a4AMTrxx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2000860805219410037",
+        "created_at": "2025-12-16T11:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000897897219678282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000897897219678282",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000860805219410037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 爵士嚎矛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000860795480236035"
+          ]
+        },
+        "author_id": "1679448451732635648",
+        "conversation_id": "2000860805219410037",
+        "created_at": "2025-12-16T09:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000860805219410037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "依旧豪猫",
+              "probability": 0.2256,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yv447uKUAf",
+              "end": 28,
+              "expanded_url": "https://x.com/Nagisa0v01210/status/2000860805219410037/photo/1",
+              "media_key": "3_2000860795480236035",
+              "start": 5,
+              "url": "https://t.co/yv447uKUAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000860805219410037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 2923,
+          "like_count": 295,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "依旧豪猫 https://t.co/yv447uKUAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28192,
+          "following_count": 90,
+          "like_count": 19564,
+          "listed_count": 125,
+          "media_count": 215,
+          "tweet_count": 3117
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "我想我会一直战斗直到死去",
+        "id": "1679448451732635648",
+        "location": "Super Earth",
+        "name": "nagisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20259,
+          "following_count": 349,
+          "like_count": 7098,
+          "listed_count": 128,
+          "media_count": 188,
+          "tweet_count": 3533
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

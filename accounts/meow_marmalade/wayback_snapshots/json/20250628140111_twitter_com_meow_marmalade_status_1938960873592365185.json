@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1938930614788596001",
+    "created_at": "2025-06-28T14:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938960873592365185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809594992958337025",
+          "start": 0,
+          "username": "cxk_c46045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938960873592365185",
+    "in_reply_to_user_id": "1809594992958337025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938959947028627816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxk_c46045 每天都在酬勤！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1938930614788596001",
+        "created_at": "2025-06-28T14:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938960873592365185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809594992958337025",
+              "start": 0,
+              "username": "cxk_c46045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938960873592365185",
+        "in_reply_to_user_id": "1809594992958337025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938959947028627816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxk_c46045 每天都在酬勤！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809594992958337025",
+        "conversation_id": "1938930614788596001",
+        "created_at": "2025-06-28T13:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938959947028627816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938959947028627816",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938930614788596001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 今天宝宝非常敬业，亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10401,
+          "following_count": 99,
+          "like_count": 12101,
+          "listed_count": 39,
+          "media_count": 276,
+          "tweet_count": 1428
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T14:27:42.000Z",
+        "description": "",
+        "id": "1809594992958337025",
+        "name": "阿米娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920658407826059264/HD9BeqMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "cxk_c46045",
+        "verified": false
+      }
+    ]
+  }
+}

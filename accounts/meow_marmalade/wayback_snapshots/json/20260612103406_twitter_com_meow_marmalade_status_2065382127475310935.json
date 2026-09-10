@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065382057203871744",
+        "13_2065382057208057858"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2065382127475310935",
+    "created_at": "2026-06-12T10:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065382127475310935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mEgCsqRsgi",
+          "end": 31,
+          "expanded_url": "https://x.com/meow_marmalade/status/2065382127475310935/video/1",
+          "media_key": "13_2065382057203871744",
+          "start": 8,
+          "url": "https://t.co/mEgCsqRsgi"
+        },
+        {
+          "display_url": "pic.x.com/mEgCsqRsgi",
+          "end": 31,
+          "expanded_url": "https://x.com/meow_marmalade/status/2065382127475310935/video/1",
+          "media_key": "13_2065382057208057858",
+          "start": 8,
+          "url": "https://t.co/mEgCsqRsgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065382127475310935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我连夜逃离地球 https://t.co/mEgCsqRsgi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8245,
+        "height": 1030,
+        "media_key": "13_2065382057203871744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065382057203871744/img/2TEenhTg2rz5uroC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065382057203871744/vid/avc1/320x456/rkHBDAszqfmlhbNS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065382057203871744/vid/avc1/480x686/1aV5ZwedOl_h84Qr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065382057203871744/vid/avc1/720x1030/xVAytgIAux7QcHIm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065382057203871744/pl/bGupiIwMvNQcEgs7.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9975,
+        "height": 1280,
+        "media_key": "13_2065382057208057858",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065382057208057858/img/zm0Bm_w_7Op9q5QS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065382057208057858/vid/avc1/320x568/1ipIXV9Fhz8O_6FP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065382057208057858/vid/avc1/480x852/P-LO1-CJn_C9UaU2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065382057208057858/vid/avc1/720x1280/qi9cUTEKEKBw_FbV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065382057208057858/pl/J_qkiaoyD82Z1Igy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065382057203871744",
+            "13_2065382057208057858"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2065382127475310935",
+        "created_at": "2026-06-12T10:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065382127475310935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEgCsqRsgi",
+              "end": 31,
+              "expanded_url": "https://x.com/meow_marmalade/status/2065382127475310935/video/1",
+              "media_key": "13_2065382057203871744",
+              "start": 8,
+              "url": "https://t.co/mEgCsqRsgi"
+            },
+            {
+              "display_url": "pic.x.com/mEgCsqRsgi",
+              "end": 31,
+              "expanded_url": "https://x.com/meow_marmalade/status/2065382127475310935/video/1",
+              "media_key": "13_2065382057208057858",
+              "start": 8,
+              "url": "https://t.co/mEgCsqRsgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065382127475310935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我连夜逃离地球 https://t.co/mEgCsqRsgi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38691,
+          "following_count": 99,
+          "like_count": 26732,
+          "listed_count": 151,
+          "media_count": 164,
+          "tweet_count": 4579
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

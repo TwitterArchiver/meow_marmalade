@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2063011233234821553",
+    "created_at": "2026-06-06T17:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063309509880385701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817596812557193216",
+          "start": 0,
+          "username": "auto_herta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063309509880385701",
+    "in_reply_to_user_id": "1817596812557193216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063011233234821553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auto_herta 自给自足好棒 祝好🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2063011233234821553",
+        "created_at": "2026-06-06T17:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063309509880385701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817596812557193216",
+              "start": 0,
+              "username": "auto_herta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063309509880385701",
+        "in_reply_to_user_id": "1817596812557193216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063011233234821553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auto_herta 自给自足好棒 祝好🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817596812557193216",
+        "conversation_id": "2063011233234821553",
+        "created_at": "2026-06-05T21:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063011233234821553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063011233234821553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 18372,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个账号不再营业了。\n回头看，其实是自己靠他人赞美填满虚荣心与被爱感。但一路走来，逐渐意识到我的能力足够给自己安全感和满足感，不需要向外索取认可。\n女装的我是我，男装的我也是我，无论哪一面都是真实完整的我。今后女装依然是爱好，但只是私人生活。\n谢谢大家的喜欢，祝都能找到真正的自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38348,
+          "following_count": 98,
+          "like_count": 26522,
+          "listed_count": 148,
+          "media_count": 157,
+          "tweet_count": 4515
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T16:23:56.000Z",
+        "description": "已接入博识尊/男的",
+        "id": "1817596812557193216",
+        "location": "黑塔空间站",
+        "name": "黑塔自动人偶",
+        "pinned_tweet_id": "2063011233234821553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985013904930713600/sqnE3FNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17953,
+          "following_count": 426,
+          "like_count": 2501,
+          "listed_count": 61,
+          "media_count": 116,
+          "tweet_count": 1228
+        },
+        "username": "auto_herta",
+        "verified": false
+      }
+    ]
+  }
+}

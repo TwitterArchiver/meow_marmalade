@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2032112267106664861",
+    "created_at": "2026-03-13T07:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T08:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032354993068785738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801521112213557252",
+          "start": 0,
+          "username": "CAQQNNHHDMPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032354993068785738",
+    "in_reply_to_user_id": "1801521112213557252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032112267106664861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAQQNNHHDMPC 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2032112267106664861",
+        "created_at": "2026-03-13T07:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032354993068785738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801521112213557252",
+              "start": 0,
+              "username": "CAQQNNHHDMPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032354993068785738",
+        "in_reply_to_user_id": "1801521112213557252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032112267106664861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAQQNNHHDMPC 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801521112213557252",
+        "conversation_id": "2032112267106664861",
+        "created_at": "2026-03-12T15:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032112267106664861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032112267106664861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9322,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯，不出门社交真的就只有网恋一条路吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "不配得感",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36406,
+          "following_count": 93,
+          "like_count": 22995,
+          "listed_count": 140,
+          "media_count": 184,
+          "tweet_count": 3871
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T07:45:28.000Z",
+        "description": "沃尔玛购物袋",
+        "id": "1801521112213557252",
+        "name": "电子咩咩",
+        "pinned_tweet_id": "2024516917361594535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848791412801970176/9TckJR5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 146,
+          "like_count": 4110,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 310
+        },
+        "username": "CAQQNNHHDMPC",
+        "verified": false
+      }
+    ]
+  }
+}

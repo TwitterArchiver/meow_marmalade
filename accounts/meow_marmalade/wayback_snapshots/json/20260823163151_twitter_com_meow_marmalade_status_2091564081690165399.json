@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091563951268245504"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2091564081690165399",
+    "created_at": "2026-08-23T16:31:51.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091564081690165399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hq6Mz0GyL1",
+          "end": 29,
+          "expanded_url": "https://x.com/meow_marmalade/status/2091564081690165399/video/1",
+          "media_key": "13_2091563951268245504",
+          "start": 6,
+          "url": "https://t.co/Hq6Mz0GyL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091564081690165399",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091563951268245504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也太爽，， https://t.co/Hq6Mz0GyL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34713,
+        "height": 1440,
+        "media_key": "13_2091563951268245504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091563951268245504/img/Q8DvF8D45KchkPZG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091563951268245504/vid/avc1/320x426/Q1ytJLOyLRpIJD7U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091563951268245504/vid/avc1/480x640/BI--TBLtxt7cAIfm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091563951268245504/vid/avc1/720x960/rds_4I-1kJxslbSa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091563951268245504/pl/7m2piRjVMJ8CUi_v.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091563951268245504"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2091564081690165399",
+        "created_at": "2026-08-23T16:31:51.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091564081690165399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hq6Mz0GyL1",
+              "end": 29,
+              "expanded_url": "https://x.com/meow_marmalade/status/2091564081690165399/video/1",
+              "media_key": "13_2091563951268245504",
+              "start": 6,
+              "url": "https://t.co/Hq6Mz0GyL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091564081690165399",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091563951268245504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也太爽，， https://t.co/Hq6Mz0GyL1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2091564081690165399",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40659,
+          "following_count": 102,
+          "like_count": 28514,
+          "listed_count": 166,
+          "media_count": 219,
+          "tweet_count": 5173
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

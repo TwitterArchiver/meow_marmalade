@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1936027357363814522",
+    "created_at": "2025-06-21T09:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T10:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936355569583226958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720635435884724224",
+          "start": 0,
+          "username": "icueing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936355569583226958",
+    "in_reply_to_user_id": "1720635435884724224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936229632510246944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icueing 那很高情商了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1936229624847253508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7eldCbwAQ36fi.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1936027357363814522",
+        "created_at": "2025-06-21T09:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936355569583226958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720635435884724224",
+              "start": 0,
+              "username": "icueing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936355569583226958",
+        "in_reply_to_user_id": "1720635435884724224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936229632510246944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icueing 那很高情商了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936229624847253508"
+          ]
+        },
+        "author_id": "1720635435884724224",
+        "conversation_id": "1936027357363814522",
+        "created_at": "2025-06-21T01:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T02:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936229632510246944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mFbLs8hAV",
+              "end": 49,
+              "expanded_url": "https://x.com/icueing/status/1936229632510246944/photo/1",
+              "media_key": "3_1936229624847253508",
+              "start": 26,
+              "url": "https://t.co/6mFbLs8hAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936229632510246944",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936027357363814522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 推荐回复：长个儿了 https://t.co/6mFbLs8hAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9443,
+          "following_count": 98,
+          "like_count": 11765,
+          "listed_count": 30,
+          "media_count": 266,
+          "tweet_count": 1352
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T02:54:13.000Z",
+        "description": "Exoskeleton &  Electronic & Amateur print \n\\*-------------------------------*\\\n       researcher, gamer, psycho",
+        "id": "1720635435884724224",
+        "location": "Manchester",
+        "name": "Icueing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776089422293012480/BBZk2fPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 81,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 24
+        },
+        "username": "icueing",
+        "verified": false
+      }
+    ]
+  }
+}

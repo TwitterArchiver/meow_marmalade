@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1867423307748061476",
+    "created_at": "2024-12-13T04:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T05:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867434197612474873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "846662302879264768",
+          "start": 0,
+          "username": "Shishirui_san"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867434197612474873",
+    "in_reply_to_user_id": "846662302879264768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867423307748061476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shishirui_san 太乐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1867423307748061476",
+        "created_at": "2024-12-13T04:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T05:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867434197612474873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "846662302879264768",
+              "start": 0,
+              "username": "Shishirui_san"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867434197612474873",
+        "in_reply_to_user_id": "846662302879264768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867423307748061476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shishirui_san 太乐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867423198280617985",
+            "16_1867423279985664001"
+          ]
+        },
+        "author_id": "846662302879264768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867423307748061476",
+        "created_at": "2024-12-13T04:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T05:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867423307748061476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLdwUG8aDN",
+              "end": 30,
+              "expanded_url": "https://x.com/Shishirui_san/status/1867423307748061476/photo/1",
+              "media_key": "3_1867423198280617985",
+              "start": 7,
+              "url": "https://t.co/VLdwUG8aDN"
+            },
+            {
+              "display_url": "pic.x.com/VLdwUG8aDN",
+              "end": 30,
+              "expanded_url": "https://x.com/Shishirui_san/status/1867423307748061476/photo/1",
+              "media_key": "16_1867423279985664001",
+              "start": 7,
+              "url": "https://t.co/VLdwUG8aDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867423307748061476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 21226,
+          "like_count": 217,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "TGA野鸡奖 https://t.co/VLdwUG8aDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 118,
+          "like_count": 3455,
+          "listed_count": 7,
+          "media_count": 144,
+          "tweet_count": 515
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-28T09:56:38.000Z",
+        "description": "瀕死。",
+        "id": "846662302879264768",
+        "location": "しのぶの胃袋",
+        "name": "忍厨",
+        "pinned_tweet_id": "1778424209318035951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704434255710056448/7C6tUkzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12544,
+          "following_count": 817,
+          "like_count": 9145,
+          "listed_count": 114,
+          "media_count": 597,
+          "tweet_count": 3066
+        },
+        "username": "Shishirui_san",
+        "verified": false
+      }
+    ]
+  }
+}

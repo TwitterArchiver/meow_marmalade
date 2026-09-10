@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-06T03:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T04:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986276444880970234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1541578480126533632",
+          "start": 0,
+          "username": "rippisang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986276444880970234",
+    "in_reply_to_user_id": "1541578480126533632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986267758242504723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rippisang 要求没那么高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T03:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986276444880970234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1541578480126533632",
+              "start": 0,
+              "username": "rippisang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986276444880970234",
+        "in_reply_to_user_id": "1541578480126533632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986267758242504723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rippisang 要求没那么高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541578480126533632",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T03:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986267758242504723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986267758242504723",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986035435702001673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 人不是凉的就够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25846,
+          "following_count": 92,
+          "like_count": 17705,
+          "listed_count": 101,
+          "media_count": 191,
+          "tweet_count": 2648
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T00:25:37.000Z",
+        "description": "樱守歌织P，别关注我",
+        "id": "1541578480126533632",
+        "name": "醒目寄寄子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756896884571222016/Jv3xMRcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 51,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "rippisang",
+        "verified": false
+      }
+    ]
+  }
+}

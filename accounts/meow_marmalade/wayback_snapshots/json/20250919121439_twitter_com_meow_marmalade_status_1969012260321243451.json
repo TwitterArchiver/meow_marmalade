@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1969008194195177687",
+    "created_at": "2025-09-19T12:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969012260321243451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "764385193348083712",
+          "start": 0,
+          "username": "00IRIYA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969012260321243451",
+    "in_reply_to_user_id": "764385193348083712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969010671846125596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00IRIYA00 五彩斑斓的黑（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1969008194195177687",
+        "created_at": "2025-09-19T12:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969012260321243451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "764385193348083712",
+              "start": 0,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969012260321243451",
+        "in_reply_to_user_id": "764385193348083712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969010671846125596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00IRIYA00 五彩斑斓的黑（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764385193348083712",
+        "conversation_id": "1969008194195177687",
+        "created_at": "2025-09-19T12:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969010671846125596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969010671846125596",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969008194195177687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 雖然全身都是黑的.但每個黑都是不一樣.衣服的黑襯托身上的黑.身上的黑比較透看的到膚色和反光.兩著合在一起就讓你變得性感又神秘\n\nPS:你的身體曲線真的很棒.臀部{真的好棒}.腿{好性感阿}.手都非常漂亮❤️❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19015,
+          "following_count": 91,
+          "like_count": 15774,
+          "listed_count": 78,
+          "media_count": 291,
+          "tweet_count": 2310
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T08:56:46.000Z",
+        "description": "",
+        "id": "764385193348083712",
+        "location": "台灣",
+        "name": "魂魄夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870067567177691136/2IMGRKKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 120,
+          "like_count": 141649,
+          "listed_count": 9,
+          "media_count": 676,
+          "tweet_count": 51537
+        },
+        "username": "00IRIYA00",
+        "verified": false
+      }
+    ]
+  }
+}

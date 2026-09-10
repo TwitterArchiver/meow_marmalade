@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2004887152702935093",
+    "created_at": "2025-12-27T12:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004887434656710901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "956787628463960064",
+          "start": 0,
+          "username": "re_ritsuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004887434656710901",
+    "in_reply_to_user_id": "956787628463960064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004887152702935093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@re_ritsuuu 涩…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2004887125964292096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LKN_3bAAAiTWu.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2004887152702935093",
+        "created_at": "2025-12-27T12:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004887434656710901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "956787628463960064",
+              "start": 0,
+              "username": "re_ritsuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004887434656710901",
+        "in_reply_to_user_id": "956787628463960064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004887152702935093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@re_ritsuuu 涩…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004887125964292096"
+          ]
+        },
+        "author_id": "956787628463960064",
+        "conversation_id": "2004887152702935093",
+        "created_at": "2025-12-27T12:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004887152702935093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSlxjdxY4q",
+              "end": 23,
+              "expanded_url": "https://x.com/re_ritsuuu/status/2004887152702935093/photo/1",
+              "media_key": "3_2004887125964292096",
+              "start": 0,
+              "url": "https://t.co/TSlxjdxY4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004887152702935093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TSlxjdxY4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29505,
+          "following_count": 90,
+          "like_count": 20076,
+          "listed_count": 129,
+          "media_count": 177,
+          "tweet_count": 3195
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-26T07:15:21.000Z",
+        "description": "业余",
+        "id": "956787628463960064",
+        "name": "律☔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918593782125334530/HBRuRgxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116716,
+          "following_count": 989,
+          "like_count": 7287,
+          "listed_count": 318,
+          "media_count": 503,
+          "tweet_count": 2488
+        },
+        "username": "re_ritsuuu",
+        "verified": false
+      }
+    ]
+  }
+}

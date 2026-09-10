@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1961387939851857920",
+    "created_at": "2025-08-31T08:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T09:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962069752702247300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "978950221160890368",
+          "start": 0,
+          "username": "HikariOvOAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962069752702247300",
+    "in_reply_to_user_id": "978950221160890368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962069497285894257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HikariOvOAQ 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1961387939851857920",
+        "created_at": "2025-08-31T08:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T09:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962069752702247300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "978950221160890368",
+              "start": 0,
+              "username": "HikariOvOAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962069752702247300",
+        "in_reply_to_user_id": "978950221160890368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962069497285894257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HikariOvOAQ 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "978950221160890368",
+        "conversation_id": "1961387939851857920",
+        "created_at": "2025-08-31T08:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T09:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962069497285894257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962069497285894257",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961387939851857920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我是妮批比游戏原皮好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16883,
+          "following_count": 95,
+          "like_count": 14808,
+          "listed_count": 67,
+          "media_count": 344,
+          "tweet_count": 2131
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-28T11:01:35.000Z",
+        "description": "",
+        "id": "978950221160890368",
+        "name": "hikari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741067492750139392/epdvPCt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 144,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 640
+        },
+        "username": "HikariOvOAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2071178902622597452",
+    "created_at": "2026-06-28T13:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071227772840874198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524477605038100481",
+          "start": 0,
+          "username": "AliceIntoAbyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071227772840874198",
+    "in_reply_to_user_id": "1524477605038100481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071207101742154037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceIntoAbyss 我喜欢你🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2071178902622597452",
+        "created_at": "2026-06-28T13:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071227772840874198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524477605038100481",
+              "start": 0,
+              "username": "AliceIntoAbyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071227772840874198",
+        "in_reply_to_user_id": "1524477605038100481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071207101742154037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceIntoAbyss 我喜欢你🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524477605038100481",
+        "conversation_id": "2071178902622597452",
+        "created_at": "2026-06-28T12:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071207101742154037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071207101742154037",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071178902622597452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39172,
+          "following_count": 96,
+          "like_count": 27218,
+          "listed_count": 156,
+          "media_count": 175,
+          "tweet_count": 4754
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T19:52:52.000Z",
+        "description": "拜赛博菩萨，修电子功德。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42410238",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42410238",
+                "start": 0,
+                "url": "https://t.co/Qzb6ARKnae"
+              }
+            ]
+          }
+        },
+        "id": "1524477605038100481",
+        "location": "喵喵星",
+        "name": "超绝赞摆烂芙（杂食型）",
+        "pinned_tweet_id": "2071196381453447615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710486230344118272/QhdxSPXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65697,
+          "following_count": 2028,
+          "like_count": 43440,
+          "listed_count": 350,
+          "media_count": 670,
+          "tweet_count": 59441
+        },
+        "url": "https://t.co/Qzb6ARKnae",
+        "username": "AliceIntoAbyss",
+        "verified": true
+      }
+    ]
+  }
+}

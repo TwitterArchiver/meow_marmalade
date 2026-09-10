@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1944490094926369242",
+    "created_at": "2025-07-13T20:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T21:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944498393478557941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840127892325576708",
+          "start": 0,
+          "username": "Jmh_FPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944498393478557941",
+    "in_reply_to_user_id": "1840127892325576708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944497340787970417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jmh_FPS alliance赛点都没摸到😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1944490094926369242",
+        "created_at": "2025-07-13T20:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944498393478557941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840127892325576708",
+              "start": 0,
+              "username": "Jmh_FPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944498393478557941",
+        "in_reply_to_user_id": "1840127892325576708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944497340787970417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jmh_FPS alliance赛点都没摸到😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840127892325576708",
+        "conversation_id": "1944490094926369242",
+        "created_at": "2025-07-13T20:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944497340787970417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944497340787970417",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944495771417727347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 没想到真期待到了！爽！狠狠地踩头A队"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12564,
+          "following_count": 99,
+          "like_count": 12780,
+          "listed_count": 51,
+          "media_count": 290,
+          "tweet_count": 1578
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T20:34:25.000Z",
+        "description": "",
+        "id": "1840127892325576708",
+        "name": "鸡米花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883563502427930624/Fy7K01Ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 464,
+          "like_count": 1845,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "Jmh_FPS",
+        "verified": false
+      }
+    ]
+  }
+}

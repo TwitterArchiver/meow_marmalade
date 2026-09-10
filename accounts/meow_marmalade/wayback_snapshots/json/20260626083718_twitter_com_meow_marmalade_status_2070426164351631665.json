@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2070103864666431727",
+    "created_at": "2026-06-26T08:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070426164351631665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1370271730409693187",
+          "start": 0,
+          "username": "wmaly13"
+        },
+        {
+          "end": 23,
+          "id": "1775411944692051968",
+          "start": 9,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070426164351631665",
+    "in_reply_to_user_id": "1370271730409693187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070192718870159747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmaly13 @MagicalHat999 我将辞职研究雀神的话术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2070103864666431727",
+        "created_at": "2026-06-26T08:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070426164351631665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1370271730409693187",
+              "start": 0,
+              "username": "wmaly13"
+            },
+            {
+              "end": 23,
+              "id": "1775411944692051968",
+              "start": 9,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070426164351631665",
+        "in_reply_to_user_id": "1370271730409693187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070192718870159747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmaly13 @MagicalHat999 我将辞职研究雀神的话术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370271730409693187",
+        "conversation_id": "2070103864666431727",
+        "created_at": "2026-06-25T17:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070192718870159747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070192718870159747",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 330,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070103864666431727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 若是你的尺码和大众一样\n又怎显得你的美鹤立鸡群？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39115,
+          "following_count": 94,
+          "like_count": 27156,
+          "listed_count": 155,
+          "media_count": 177,
+          "tweet_count": 4741
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T07:13:41.000Z",
+        "description": "死人/仅推发图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+7LpOwlpvwZ9lY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+7LpOwlpvwZ9lYWZl",
+                "start": 0,
+                "url": "https://t.co/KUimMLVm8c"
+              }
+            ]
+          }
+        },
+        "id": "1370271730409693187",
+        "location": "广州 （链接是我自己的群，可以来聊天）",
+        "name": "鹀雀",
+        "pinned_tweet_id": "2028652086905508310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051307744339337216/g4j93kl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24905,
+          "following_count": 597,
+          "like_count": 7816,
+          "listed_count": 53,
+          "media_count": 496,
+          "tweet_count": 4881
+        },
+        "url": "https://t.co/KUimMLVm8c",
+        "username": "wmaly13",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\n主页：https://t.co/8FnOVBN7XY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 58,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 35,
+                "url": "https://t.co/8FnOVBN7XY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 0,
+                "url": "https://t.co/ToMyFG0Jda"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "location": "欧润吉",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2047376349418131948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 1967,
+          "like_count": 11512,
+          "listed_count": 18,
+          "media_count": 202,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/ToMyFG0Jda",
+        "username": "MagicalHat999",
+        "verified": true
+      }
+    ]
+  }
+}

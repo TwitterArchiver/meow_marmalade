@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2046872213589254200",
+    "created_at": "2026-04-22T09:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046886214452818308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875905825157640192",
+          "start": 0,
+          "username": "Nanamigaoshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046886214452818308",
+    "in_reply_to_user_id": "1875905825157640192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046880567908864101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanamigaoshou 嚯嚯嚯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2046872213589254200",
+        "created_at": "2026-04-22T09:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046886214452818308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875905825157640192",
+              "start": 0,
+              "username": "Nanamigaoshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046886214452818308",
+        "in_reply_to_user_id": "1875905825157640192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046880567908864101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanamigaoshou 嚯嚯嚯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875905825157640192",
+        "conversation_id": "2046872213589254200",
+        "created_at": "2026-04-22T09:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046880567908864101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046880567908864101",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046872213589254200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 黑进去改时间！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36369,
+          "following_count": 97,
+          "like_count": 24953,
+          "listed_count": 139,
+          "media_count": 182,
+          "tweet_count": 4148
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:03:16.000Z",
+        "description": "",
+        "id": "1875905825157640192",
+        "name": "嘉然小姐",
+        "pinned_tweet_id": "1876819951303979167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031431819493781507/VEbvbENl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 526,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1496
+        },
+        "username": "Nanamigaoshou",
+        "verified": false
+      }
+    ]
+  }
+}

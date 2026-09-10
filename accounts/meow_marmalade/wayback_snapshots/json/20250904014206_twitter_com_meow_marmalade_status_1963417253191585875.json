@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1963271796469481753",
+    "created_at": "2025-09-04T01:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T02:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963417253191585875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963417253191585875",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963271796469481753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 我每天在推就发这三件事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1963271788672188417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz7xSjlaAAElgYB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1963271796469481753",
+        "created_at": "2025-09-04T01:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963417253191585875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963417253191585875",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963271796469481753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 我每天在推就发这三件事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963271788672188417"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1963271796469481753",
+        "created_at": "2025-09-03T16:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963271796469481753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xm1VDwl4jY",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds0/status/1963271796469481753/photo/1",
+              "media_key": "3_1963271788672188417",
+              "start": 12,
+              "url": "https://t.co/xm1VDwl4jY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963271796469481753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 62564,
+          "like_count": 1079,
+          "quote_count": 14,
+          "reply_count": 22,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "我每天在推就发这三件事 https://t.co/xm1VDwl4jY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17015,
+          "following_count": 89,
+          "like_count": 15041,
+          "listed_count": 67,
+          "media_count": 347,
+          "tweet_count": 2196
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1954814858396119441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88630,
+          "following_count": 2834,
+          "like_count": 43264,
+          "listed_count": 112,
+          "media_count": 2721,
+          "tweet_count": 7026
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

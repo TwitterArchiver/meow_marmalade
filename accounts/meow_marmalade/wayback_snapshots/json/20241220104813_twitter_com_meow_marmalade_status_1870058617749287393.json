@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870058608731537408"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1870058617749287393",
+    "created_at": "2024-12-20T10:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T11:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870058617749287393"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "伪娘"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fpUm8V4i9h",
+          "end": 60,
+          "expanded_url": "https://x.com/meow_marmalade/status/1870058617749287393/photo/1",
+          "media_key": "3_1870058608731537408",
+          "start": 37,
+          "url": "https://t.co/fpUm8V4i9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870058617749287393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些居家的\n冬天了 有暖气也不够 在家也得穿毛衣呢\n🥱\n\n#伪娘 #男娘 https://t.co/fpUm8V4i9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1870058608731537408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfPIZYqawAA6AkH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870058608731537408"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1870058617749287393",
+        "created_at": "2024-12-20T10:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T11:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870058617749287393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "伪娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpUm8V4i9h",
+              "end": 60,
+              "expanded_url": "https://x.com/meow_marmalade/status/1870058617749287393/photo/1",
+              "media_key": "3_1870058608731537408",
+              "start": 37,
+              "url": "https://t.co/fpUm8V4i9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870058617749287393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些居家的\n冬天了 有暖气也不够 在家也得穿毛衣呢\n🥱\n\n#伪娘 #男娘 https://t.co/fpUm8V4i9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 105,
+          "like_count": 3655,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 537
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

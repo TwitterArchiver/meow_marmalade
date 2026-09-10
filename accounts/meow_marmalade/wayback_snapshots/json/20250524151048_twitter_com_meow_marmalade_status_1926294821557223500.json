@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1923721671615316424",
+    "created_at": "2025-05-24T15:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T16:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926294821557223500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1230085121232887808",
+          "start": 0,
+          "username": "Spr_unknown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926294821557223500",
+    "in_reply_to_user_id": "1230085121232887808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926294244861362516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr_unknown 对的 孩子\n我天天就住在推特上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1923721671615316424",
+        "created_at": "2025-05-24T15:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926294821557223500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1230085121232887808",
+              "start": 0,
+              "username": "Spr_unknown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926294821557223500",
+        "in_reply_to_user_id": "1230085121232887808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926294244861362516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr_unknown 对的 孩子\n我天天就住在推特上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1230085121232887808",
+        "conversation_id": "1923721671615316424",
+        "created_at": "2025-05-24T15:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926294244861362516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926294244861362516",
+        "in_reply_to_user_id": "1230085121232887808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926293882414788718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 🐮 24H高强度冲浪选手 😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6845,
+          "following_count": 100,
+          "like_count": 10670,
+          "listed_count": 19,
+          "media_count": 237,
+          "tweet_count": 1087
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-19T11:02:17.000Z",
+        "description": "嘛，暂时没什么想说的撒，以后有情况再补，就酱的说",
+        "id": "1230085121232887808",
+        "location": "Central Region, Singapore",
+        "name": "养猫的男孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230349303186477056/yhjgWatx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 2117,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 111
+        },
+        "username": "Spr_unknown",
+        "verified": false
+      }
+    ]
+  }
+}

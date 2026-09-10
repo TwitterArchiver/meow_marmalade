@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1925864022559121762",
+    "created_at": "2025-07-01T07:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T08:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939953357776433314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1863496888194093056",
+          "start": 0,
+          "username": "qing2099384148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939953357776433314",
+    "in_reply_to_user_id": "1863496888194093056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939952977537618058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing2099384148 这个也有缝的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1925864022559121762",
+        "created_at": "2025-07-01T07:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939953357776433314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1863496888194093056",
+              "start": 0,
+              "username": "qing2099384148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939953357776433314",
+        "in_reply_to_user_id": "1863496888194093056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939952977537618058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing2099384148 这个也有缝的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863496888194093056",
+        "conversation_id": "1925864022559121762",
+        "created_at": "2025-07-01T07:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939952977537618058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939952977537618058",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925864022559121762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 大佬的丝是哪里买的啊，求个链接，我找到的丝都是内侧或有三角缝线的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10761,
+          "following_count": 98,
+          "like_count": 12195,
+          "listed_count": 40,
+          "media_count": 278,
+          "tweet_count": 1441
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T08:14:28.000Z",
+        "description": "",
+        "id": "1863496888194093056",
+        "name": "青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939951318921023489/_6iSv3m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "qing2099384148",
+        "verified": false
+      }
+    ]
+  }
+}

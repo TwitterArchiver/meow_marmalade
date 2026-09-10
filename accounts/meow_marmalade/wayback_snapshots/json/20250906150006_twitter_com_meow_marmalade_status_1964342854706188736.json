@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1964341059141718222",
+    "created_at": "2025-09-06T15:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T16:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964342854706188736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1501964494955696145",
+          "start": 0,
+          "username": "AWei_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964342854706188736",
+    "in_reply_to_user_id": "1501964494955696145",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964341059141718222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AWei_miao wdsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964341055979212801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0K9yGtbUAEIp3P.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1964341059141718222",
+        "created_at": "2025-09-06T15:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964342854706188736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1501964494955696145",
+              "start": 0,
+              "username": "AWei_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964342854706188736",
+        "in_reply_to_user_id": "1501964494955696145",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964341059141718222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AWei_miao wdsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964341055979212801"
+          ]
+        },
+        "author_id": "1501964494955696145",
+        "conversation_id": "1964341059141718222",
+        "created_at": "2025-09-06T14:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964341059141718222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SC4HFb60sO",
+              "end": 60,
+              "expanded_url": "https://x.com/AWei_miao/status/1964341059141718222/photo/1",
+              "media_key": "3_1964341055979212801",
+              "start": 37,
+              "url": "https://t.co/SC4HFb60sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964341059141718222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很喜欢马油袜这个质感啊！穿出门一天了感觉真的很爽（回宿舍在床上拍的） https://t.co/SC4HFb60sO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17917,
+          "following_count": 90,
+          "like_count": 15193,
+          "listed_count": 69,
+          "media_count": 289,
+          "tweet_count": 2185
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T16:53:43.000Z",
+        "description": "",
+        "id": "1501964494955696145",
+        "location": "阿克西亚",
+        "name": "tokimi时见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821128188589961217/WgaMooeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 152,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "AWei_miao",
+        "verified": false
+      }
+    ]
+  }
+}

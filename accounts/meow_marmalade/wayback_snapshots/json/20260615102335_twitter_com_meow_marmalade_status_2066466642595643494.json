@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2066461570910298484",
+    "created_at": "2026-06-15T10:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066466642595643494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696044770102255617",
+          "start": 0,
+          "username": "zuiaijingke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066466642595643494",
+    "in_reply_to_user_id": "1696044770102255617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066466402266181665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaijingke 玛雅大街"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2066461570910298484",
+        "created_at": "2026-06-15T10:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066466642595643494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696044770102255617",
+              "start": 0,
+              "username": "zuiaijingke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066466642595643494",
+        "in_reply_to_user_id": "1696044770102255617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066466402266181665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaijingke 玛雅大街"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696044770102255617",
+        "conversation_id": "2066461570910298484",
+        "created_at": "2026-06-15T10:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066466402266181665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066466402266181665",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066461570910298484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 该死的，我给你钞票，多拍几张！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38769,
+          "following_count": 95,
+          "like_count": 26871,
+          "listed_count": 152,
+          "media_count": 167,
+          "tweet_count": 4622
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:19:32.000Z",
+        "description": "#百合 #傲娇\n别疼了。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "百合"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "傲娇"
+              }
+            ]
+          }
+        },
+        "id": "1696044770102255617",
+        "location": "日本",
+        "name": "Closed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945477526610141185/P7ohwtW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 253,
+          "like_count": 2880,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 167
+        },
+        "username": "zuiaijingke",
+        "verified": false
+      }
+    ]
+  }
+}

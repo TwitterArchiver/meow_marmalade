@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1976141068023599127",
+    "created_at": "2025-10-09T14:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T15:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976300213540368614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847778949272584192",
+          "start": 0,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976300213540368614",
+    "in_reply_to_user_id": "1847778949272584192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976141068023599127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng237248 哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_1973861157225066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2SQQ7hXcAAFsGr.jpg",
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1976141068023599127",
+        "created_at": "2025-10-09T14:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976300213540368614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976300213540368614",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976141068023599127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973861157225066496"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1976141068023599127",
+        "created_at": "2025-10-09T04:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976141068023599127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbrbFAn7Uu",
+              "end": 28,
+              "expanded_url": "https://x.com/jingsheng237248/status/1976141068023599127/photo/1",
+              "media_key": "3_1973861157225066496",
+              "start": 5,
+              "url": "https://t.co/dbrbFAn7Uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976141068023599127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14560,
+          "like_count": 330,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一張梗圖 https://t.co/dbrbFAn7Uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20461,
+          "following_count": 94,
+          "like_count": 16506,
+          "listed_count": 82,
+          "media_count": 185,
+          "tweet_count": 2320
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "#OKX 开户https://t.co/ZUWcynIsjA \n#Coinbase 开户https://t.co/uabUhfmcpV \n#Binance #币安 开户 https://t.co/2mJHQObDAT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "OKX"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "Coinbase"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "Binance"
+              },
+              {
+                "end": 81,
+                "start": 78,
+                "tag": "币安"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/72922796",
+                "end": 30,
+                "expanded_url": "http://okx.com/join/72922796",
+                "start": 7,
+                "url": "https://t.co/ZUWcynIsjA"
+              },
+              {
+                "display_url": "advanced.coinbase.com/join/U4THL45",
+                "end": 67,
+                "expanded_url": "http://advanced.coinbase.com/join/U4THL45",
+                "start": 44,
+                "url": "https://t.co/uabUhfmcpV"
+              },
+              {
+                "display_url": "binance.us/universal_JHHG…",
+                "end": 108,
+                "expanded_url": "http://www.binance.us/universal_JHHGDSKDJ/auth/registration?ref=614050518",
+                "start": 85,
+                "url": "https://t.co/2mJHQObDAT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/naofujiang",
+                "end": 23,
+                "expanded_url": "http://t.me/naofujiang",
+                "start": 0,
+                "url": "https://t.co/mQSW9mc9Eh"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "name": "脑斧酱",
+        "pinned_tweet_id": "1975346261793604048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14793,
+          "following_count": 14577,
+          "like_count": 7499,
+          "listed_count": 26,
+          "media_count": 945,
+          "tweet_count": 4287
+        },
+        "url": "https://t.co/mQSW9mc9Eh",
+        "username": "jingsheng237248",
+        "verified": false
+      }
+    ]
+  }
+}

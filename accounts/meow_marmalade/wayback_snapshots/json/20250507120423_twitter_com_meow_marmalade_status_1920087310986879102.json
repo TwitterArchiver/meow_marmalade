@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1919726033520955736",
+    "created_at": "2025-05-07T12:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920087310986879102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856301731484995584",
+          "start": 0,
+          "username": "r62222043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920087310986879102",
+    "in_reply_to_user_id": "1856301731484995584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920086213492392425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r62222043 哎呦喔 谢谢夸夸😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1919726033520955736",
+        "created_at": "2025-05-07T12:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920087310986879102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856301731484995584",
+              "start": 0,
+              "username": "r62222043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920087310986879102",
+        "in_reply_to_user_id": "1856301731484995584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920086213492392425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r62222043 哎呦喔 谢谢夸夸😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856301731484995584",
+        "conversation_id": "1919726033520955736",
+        "created_at": "2025-05-07T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920086213492392425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920086213492392425",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919726033520955736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 5块钱穿出了500块的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 95,
+          "like_count": 9698,
+          "listed_count": 16,
+          "media_count": 219,
+          "tweet_count": 955
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T11:43:31.000Z",
+        "description": "",
+        "id": "1856301731484995584",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856305944596230147/0ZemFqlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 443,
+          "like_count": 9554,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 700
+        },
+        "username": "r62222043",
+        "verified": false
+      }
+    ]
+  }
+}

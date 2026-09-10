@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2009930670215475636",
+    "created_at": "2026-01-10T20:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T21:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010083118129258742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302266299859398656",
+          "start": 0,
+          "username": "amiri17914794"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010083118129258742",
+    "in_reply_to_user_id": "1302266299859398656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 125,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009930670215475636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amiri17914794 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2009930670215475636",
+        "created_at": "2026-01-10T20:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010083118129258742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302266299859398656",
+              "start": 0,
+              "username": "amiri17914794"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010083118129258742",
+        "in_reply_to_user_id": "1302266299859398656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009930670215475636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiri17914794 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302266299859398656",
+        "conversation_id": "2009930670215475636",
+        "created_at": "2026-01-10T10:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009930670215475636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009930670215475636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要玩黑黑的环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30609,
+          "following_count": 93,
+          "like_count": 20749,
+          "listed_count": 130,
+          "media_count": 170,
+          "tweet_count": 3339
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-05T15:24:26.000Z",
+        "description": "莉。这是我的叉叉空间，充满了我的废话。main：mcr + p!atd + video games",
+        "id": "1302266299859398656",
+        "location": "地獄",
+        "name": "领导让你别上班摸鱼了你摸不摸",
+        "pinned_tweet_id": "1975582252831842787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909703679571279872/4CzEC9Zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 302,
+          "like_count": 10523,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 5952
+        },
+        "username": "amiri17914794",
+        "verified": false
+      }
+    ]
+  }
+}

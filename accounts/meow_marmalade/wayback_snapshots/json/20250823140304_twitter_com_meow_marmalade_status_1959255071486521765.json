@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1959255071486521765",
+    "created_at": "2025-08-23T14:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T15:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959255071486521765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BZrenao/status…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/BZrenao/status/1959162305549078686",
+          "start": 66,
+          "url": "https://t.co/kXT99Ahk9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959255071486521765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959162305549078686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎，羡慕你们长得好看轻轻松松就可以把照片发群里然后收获所有人的赞赏而我只能看着相册里自己修了无数遍的照片手停在发送键上最后取消发送 https://t.co/kXT99Ahk9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_1959162302974029824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBXvAYacAA2PW-.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1959255071486521765",
+        "created_at": "2025-08-23T14:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T15:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959255071486521765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BZrenao/status…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/BZrenao/status/1959162305549078686",
+              "start": 66,
+              "url": "https://t.co/kXT99Ahk9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959255071486521765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959162305549078686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎，羡慕你们长得好看轻轻松松就可以把照片发群里然后收获所有人的赞赏而我只能看着相册里自己修了无数遍的照片手停在发送键上最后取消发送 https://t.co/kXT99Ahk9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959162302974029824"
+          ]
+        },
+        "author_id": "1518562897290358785",
+        "conversation_id": "1959162305549078686",
+        "created_at": "2025-08-23T07:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T08:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959162305549078686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WjhSkodeP",
+              "end": 89,
+              "expanded_url": "https://x.com/BZrenao/status/1959162305549078686/photo/1",
+              "media_key": "3_1959162302974029824",
+              "start": 66,
+              "url": "https://t.co/4WjhSkodeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959162305549078686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，羡慕你们长得好看轻轻松松就可以把照片发群里然后收获所有人的赞赏而我只能看着相册里自己修了无数遍的照片手停在发送键上最后取消发送 https://t.co/4WjhSkodeP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15575,
+          "following_count": 95,
+          "like_count": 14518,
+          "listed_count": 59,
+          "media_count": 338,
+          "tweet_count": 2065
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T12:10:04.000Z",
+        "description": "喊我热闹就可以了/帮助兄弟们发现高质量视频图片/同好可以扩列帮转嘛谢谢喵",
+        "id": "1518562897290358785",
+        "location": "Shanghai",
+        "name": "不暴躁热闹（满血复活版）",
+        "pinned_tweet_id": "1902573678694371613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652696710823677953/KMTEYd4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 549,
+          "like_count": 1093,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 311
+        },
+        "username": "BZrenao",
+        "verified": false
+      }
+    ]
+  }
+}

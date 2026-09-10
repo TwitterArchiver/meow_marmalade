@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2009593140681081001",
+    "created_at": "2026-01-10T03:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009833900374405520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664094644630851589",
+          "start": 0,
+          "username": "yeyupopopo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009833900374405520",
+    "in_reply_to_user_id": "1664094644630851589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009593140681081001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyupopopo 喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4533,
+        "height": 720,
+        "media_key": "7_2009593120011542528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009593120011542528/pu/img/_cSpq2gp4h5jTo7O.jpg",
+        "public_metrics": {
+          "view_count": 87643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/360x270/bJQJbxbQJaYirBZa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/480x360/cSIAtcK8JkSw5lFm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/vid/avc1/960x720/qELqC-PrDG2sDueP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009593120011542528/pu/pl/4-BhBPeZzlw8WWp8.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2009593140681081001",
+        "created_at": "2026-01-10T03:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009833900374405520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664094644630851589",
+              "start": 0,
+              "username": "yeyupopopo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009833900374405520",
+        "in_reply_to_user_id": "1664094644630851589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009593140681081001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyupopopo 喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪喜欢你❤铜丝你🔪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009593120011542528"
+          ]
+        },
+        "author_id": "1664094644630851589",
+        "conversation_id": "2009593140681081001",
+        "created_at": "2026-01-09T11:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009593140681081001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjBpneShPC",
+              "end": 27,
+              "expanded_url": "https://x.com/yeyupopopo/status/2009593140681081001/video/1",
+              "media_key": "7_2009593120011542528",
+              "start": 4,
+              "url": "https://t.co/OjBpneShPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009593140681081001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1885,
+          "impression_count": 195344,
+          "like_count": 13802,
+          "quote_count": 117,
+          "reply_count": 120,
+          "retweet_count": 1168
+        },
+        "reply_settings": "everyone",
+        "text": "铜丝你 https://t.co/OjBpneShPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30226,
+          "following_count": 97,
+          "like_count": 20691,
+          "listed_count": 130,
+          "media_count": 167,
+          "tweet_count": 3320
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T02:21:13.000Z",
+        "description": "白日梦",
+        "id": "1664094644630851589",
+        "name": "葉雨popopoi",
+        "pinned_tweet_id": "1816351755552317609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664096727572574208/1vCX2-g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25785,
+          "following_count": 121,
+          "like_count": 3285,
+          "listed_count": 105,
+          "media_count": 104,
+          "tweet_count": 809
+        },
+        "username": "yeyupopopo",
+        "verified": false
+      }
+    ]
+  }
+}

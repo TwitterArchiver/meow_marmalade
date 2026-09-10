@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2079211833408520359",
+    "created_at": "2026-07-20T18:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079274592116654328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904521959070892032",
+          "start": 0,
+          "username": "ShounishiNano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079274592116654328",
+    "in_reply_to_user_id": "1904521959070892032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079211833408520359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShounishiNano 欧不😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2079211833408520359",
+        "created_at": "2026-07-20T18:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079274592116654328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904521959070892032",
+              "start": 0,
+              "username": "ShounishiNano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079274592116654328",
+        "in_reply_to_user_id": "1904521959070892032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079211833408520359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShounishiNano 欧不😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904521959070892032",
+        "conversation_id": "2079211833408520359",
+        "created_at": "2026-07-20T14:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:01:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079205006423843222",
+          "2079211833408520359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079211833408520359",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Dear followers,\nBecause my account was flagged as sensitive for no reason, I reached out to X support, but no one was willing to help, and their response time is incredibly slow. \nOn top of that, their official website is as complicated as a labyrinth and completely useless for solving users' problems.\n\nI haven't used the app for 12 days now, yet I still haven't received any feedback. Considering that getting the flag removed is almost impossible. To avoid X's content censorship, I will be deleting all of my posts. I hope you will remember that I was once here. \n\nIf the restriction is lifted, I'll come back.\n\nGoodbye."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 888,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Dear followers,\nBecause my account was flagged as sensitive for no reason, I reached out to X support, but no one was willing to help, and their response time is incredibly slow. \nOn top of that, their official website is as complicated as a labyrinth and completely useless for"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40204,
+          "following_count": 98,
+          "like_count": 27757,
+          "listed_count": 162,
+          "media_count": 198,
+          "tweet_count": 4973
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T13:13:25.000Z",
+        "description": "Cosplayer🐾Blue Archive🎮 Kazusa💜",
+        "id": "1904521959070892032",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "柠栖 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056439320966557696/fEo8zE9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21063,
+          "following_count": 1294,
+          "like_count": 10185,
+          "listed_count": 71,
+          "media_count": 27,
+          "tweet_count": 1593
+        },
+        "url": "",
+        "username": "ShounishiNano",
+        "verified": true
+      }
+    ]
+  }
+}

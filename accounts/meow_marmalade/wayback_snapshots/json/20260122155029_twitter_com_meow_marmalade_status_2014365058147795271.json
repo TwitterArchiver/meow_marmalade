@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2014153938615074945",
+    "created_at": "2026-01-22T15:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014365058147795271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939725818240147458",
+          "start": 0,
+          "username": "PurenPurin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014365058147795271",
+    "in_reply_to_user_id": "1939725818240147458",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014362195581354058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PurenPurin 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2014153938615074945",
+        "created_at": "2026-01-22T15:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014365058147795271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939725818240147458",
+              "start": 0,
+              "username": "PurenPurin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014365058147795271",
+        "in_reply_to_user_id": "1939725818240147458",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014362195581354058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PurenPurin 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939725818240147458",
+        "conversation_id": "2014153938615074945",
+        "created_at": "2026-01-22T15:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014362195581354058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014362195581354058",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014153938615074945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 叫哥们所以是男的吗，那更好了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31041,
+          "following_count": 95,
+          "like_count": 21101,
+          "listed_count": 129,
+          "media_count": 152,
+          "tweet_count": 3427
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T16:41:05.000Z",
+        "description": "幻想喜欢的插画师、动画师都回关我\nFanbox:プレーンプリン(purenpurin)",
+        "id": "1939725818240147458",
+        "name": "プレーンプリン",
+        "pinned_tweet_id": "2012092263174897859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973735377031892993/gIELV5o__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 236,
+          "like_count": 3322,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 186
+        },
+        "username": "PurenPurin",
+        "verified": false
+      }
+    ]
+  }
+}

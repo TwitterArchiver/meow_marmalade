@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2053083819444785333",
+    "created_at": "2026-05-09T23:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053251651352645813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705996511375654912",
+          "start": 0,
+          "username": "TruE_0619101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053251651352645813",
+    "in_reply_to_user_id": "1705996511375654912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053249955830362478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruE_0619101 怎么这样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2053083819444785333",
+        "created_at": "2026-05-09T23:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053251651352645813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705996511375654912",
+              "start": 0,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053251651352645813",
+        "in_reply_to_user_id": "1705996511375654912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053249955830362478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruE_0619101 怎么这样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705996511375654912",
+        "conversation_id": "2053083819444785333",
+        "created_at": "2026-05-09T23:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053249955830362478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053249955830362478",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053083819444785333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我投简历都是已读不回😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37754,
+          "following_count": 99,
+          "like_count": 25777,
+          "listed_count": 148,
+          "media_count": 200,
+          "tweet_count": 4325
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T17:24:06.000Z",
+        "description": "清水推记录生活喵｜点点关注点点赞我会开心一整天的◝(⑅•ᴗ•⑅)◜..°♡｜学计算机会变得不幸👉👈",
+        "id": "1705996511375654912",
+        "location": "上海",
+        "name": "楚奈奈TruE",
+        "pinned_tweet_id": "1881301821815394506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813193850565107714/buW6ryx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8187,
+          "following_count": 348,
+          "like_count": 455,
+          "listed_count": 34,
+          "media_count": 102,
+          "tweet_count": 642
+        },
+        "username": "TruE_0619101",
+        "verified": false
+      }
+    ]
+  }
+}

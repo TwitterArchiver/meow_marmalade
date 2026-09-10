@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1948750686315053367",
+    "created_at": "2025-07-26T16:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T17:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949142446564421821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931979173507334145",
+          "start": 0,
+          "username": "cloud8662820100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949142446564421821",
+    "in_reply_to_user_id": "1931979173507334145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949137237205221545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cloud8662820100 太疼了； ；"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2900,
+        "height": 720,
+        "media_key": "7_1949137221497552896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1949137221497552896/pu/img/_QdJv0ymBo-uI7IG.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949137221497552896/pu/vid/avc1/320x320/HD65v4B7LFdRarAx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949137221497552896/pu/vid/avc1/540x540/4wCv7lCIxKAywAAh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949137221497552896/pu/vid/avc1/720x720/VSWO_Imj-wLoDupr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1949137221497552896/pu/pl/AjcZfSO5zSl62CD8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1948750686315053367",
+        "created_at": "2025-07-26T16:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T17:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949142446564421821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931979173507334145",
+              "start": 0,
+              "username": "cloud8662820100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949142446564421821",
+        "in_reply_to_user_id": "1931979173507334145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949137237205221545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cloud8662820100 太疼了； ；"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1949137221497552896"
+          ]
+        },
+        "author_id": "1931979173507334145",
+        "conversation_id": "1948750686315053367",
+        "created_at": "2025-07-26T15:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949137237205221545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJWzW3Il1G",
+              "end": 65,
+              "expanded_url": "https://x.com/cloud8662820100/status/1949137237205221545/video/1",
+              "media_key": "7_1949137221497552896",
+              "start": 42,
+              "url": "https://t.co/TJWzW3Il1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949137237205221545",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948750686315053367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我或曾梦见，与你亲密无间\n醒来后发现，你我形同陌路 https://t.co/TJWzW3Il1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14102,
+          "following_count": 91,
+          "like_count": 13389,
+          "listed_count": 56,
+          "media_count": 304,
+          "tweet_count": 1717
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T07:38:38.000Z",
+        "description": "",
+        "id": "1931979173507334145",
+        "name": "cloud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938287986686496770/z6P9IgmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "cloud8662820100",
+        "verified": false
+      }
+    ]
+  }
+}

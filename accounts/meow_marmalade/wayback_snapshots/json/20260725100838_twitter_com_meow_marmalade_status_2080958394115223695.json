@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080958387010080769"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2080958394115223695",
+    "created_at": "2026-07-25T10:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080958394115223695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 11,
+          "tag": "wutheringwaves"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u761v32qjw",
+          "end": 50,
+          "expanded_url": "https://x.com/meow_marmalade/status/2080958394115223695/photo/1",
+          "media_key": "3_2080958387010080769",
+          "start": 27,
+          "url": "https://t.co/u761v32qjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080958394115223695",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☆~♪(*^-^)ノ\n#wutheringwaves https://t.co/u761v32qjw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2080958387010080769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEMoKobEAEmBjn.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080958387010080769"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2080958394115223695",
+        "created_at": "2026-07-25T10:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080958394115223695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 11,
+              "tag": "wutheringwaves"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u761v32qjw",
+              "end": 50,
+              "expanded_url": "https://x.com/meow_marmalade/status/2080958394115223695/photo/1",
+              "media_key": "3_2080958387010080769",
+              "start": 27,
+              "url": "https://t.co/u761v32qjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080958394115223695",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☆~♪(*^-^)ノ\n#wutheringwaves https://t.co/u761v32qjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40352,
+          "following_count": 98,
+          "like_count": 27892,
+          "listed_count": 164,
+          "media_count": 200,
+          "tweet_count": 4998
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

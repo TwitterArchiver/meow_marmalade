@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1930550820652937407",
+    "created_at": "2025-06-05T09:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T10:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930558417778725173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679448451732635648",
+          "start": 0,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930558417778725173",
+    "in_reply_to_user_id": "1679448451732635648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930550820652937407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagisa0v01210 你看你扫的😤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930550804567760897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsqxum8bIAEwD2u.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1930550820652937407",
+        "created_at": "2025-06-05T09:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930558417778725173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679448451732635648",
+              "start": 0,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930558417778725173",
+        "in_reply_to_user_id": "1679448451732635648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930550820652937407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagisa0v01210 你看你扫的😤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930550804567760897"
+          ]
+        },
+        "author_id": "1679448451732635648",
+        "conversation_id": "1930550820652937407",
+        "created_at": "2025-06-05T09:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930550820652937407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNcMxSFNJz",
+              "end": 23,
+              "expanded_url": "https://x.com/Nagisa0v01210/status/1930550820652937407/photo/1",
+              "media_key": "3_1930550804567760897",
+              "start": 0,
+              "url": "https://t.co/qNcMxSFNJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930550820652937407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 320,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qNcMxSFNJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8111,
+          "following_count": 95,
+          "like_count": 11215,
+          "listed_count": 24,
+          "media_count": 250,
+          "tweet_count": 1205
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "",
+        "id": "1679448451732635648",
+        "location": "Super Earth",
+        "name": "nagisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12684,
+          "following_count": 295,
+          "like_count": 5835,
+          "listed_count": 87,
+          "media_count": 140,
+          "tweet_count": 2928
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

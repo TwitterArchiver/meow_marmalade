@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2064310257917313426",
+    "created_at": "2026-06-09T11:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064315406425444408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429378004187328520",
+          "start": 0,
+          "username": "wasdak88177353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064315406425444408",
+    "in_reply_to_user_id": "1429378004187328520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064311188188483669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasdak88177353 哈基蜜的上等鳞…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2064310257917313426",
+        "created_at": "2026-06-09T11:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064315406425444408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429378004187328520",
+              "start": 0,
+              "username": "wasdak88177353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064315406425444408",
+        "in_reply_to_user_id": "1429378004187328520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064311188188483669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasdak88177353 哈基蜜的上等鳞…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429378004187328520",
+        "conversation_id": "2064310257917313426",
+        "created_at": "2026-06-09T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064311188188483669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064311188188483669",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064310257917313426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 鳞片？\n那想必触发部位破坏后会有很多掉落物吧（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38578,
+          "following_count": 99,
+          "like_count": 26644,
+          "listed_count": 149,
+          "media_count": 160,
+          "tweet_count": 4543
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T09:40:57.000Z",
+        "description": "wasd",
+        "id": "1429378004187328520",
+        "name": "wasdak",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 64,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 768
+        },
+        "username": "wasdak88177353",
+        "verified": false
+      }
+    ]
+  }
+}

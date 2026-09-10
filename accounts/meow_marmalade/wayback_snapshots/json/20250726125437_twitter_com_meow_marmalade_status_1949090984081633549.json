@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1949063195186147406",
+    "created_at": "2025-07-26T12:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T13:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949090984081633549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767749178401415168",
+          "start": 0,
+          "username": "STILLING340907"
+        },
+        {
+          "end": 30,
+          "id": "1679448451732635648",
+          "start": 16,
+          "username": "Nagisa0v01210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949090984081633549",
+    "in_reply_to_user_id": "1767749178401415168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949063195186147406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STILLING340907 @Nagisa0v01210 都好可爱🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3278,
+        "media_key": "3_1949063184238964736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwx2o7Va8AA67Ri.jpg",
+        "width": 2444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1949063195186147406",
+        "created_at": "2025-07-26T12:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949090984081633549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767749178401415168",
+              "start": 0,
+              "username": "STILLING340907"
+            },
+            {
+              "end": 30,
+              "id": "1679448451732635648",
+              "start": 16,
+              "username": "Nagisa0v01210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949090984081633549",
+        "in_reply_to_user_id": "1767749178401415168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949063195186147406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STILLING340907 @Nagisa0v01210 都好可爱🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949063184238964736"
+          ]
+        },
+        "author_id": "1767749178401415168",
+        "conversation_id": "1949063195186147406",
+        "created_at": "2025-07-26T11:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949063195186147406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1679448451732635648",
+              "start": 10,
+              "username": "Nagisa0v01210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf62GQRgwg",
+              "end": 48,
+              "expanded_url": "https://x.com/STILLING340907/status/1949063195186147406/photo/1",
+              "media_key": "3_1949063184238964736",
+              "start": 25,
+              "url": "https://t.co/Wf62GQRgwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949063195186147406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 378,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫的相似点是什么\n@Nagisa0v01210 https://t.co/Wf62GQRgwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14097,
+          "following_count": 91,
+          "like_count": 13375,
+          "listed_count": 56,
+          "media_count": 304,
+          "tweet_count": 1715
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T03:07:09.000Z",
+        "description": "想睡觉",
+        "id": "1767749178401415168",
+        "name": "海绵宝宝南梦芽",
+        "pinned_tweet_id": "1949063195186147406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800004991316594688/atWo2pGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 540,
+          "like_count": 5778,
+          "listed_count": 28,
+          "media_count": 110,
+          "tweet_count": 1241
+        },
+        "username": "STILLING340907",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T11:11:37.000Z",
+        "description": "我的人生充满悲剧",
+        "id": "1679448451732635648",
+        "location": "Super Earth",
+        "name": "nagisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13347,
+          "following_count": 314,
+          "like_count": 6215,
+          "listed_count": 92,
+          "media_count": 149,
+          "tweet_count": 3087
+        },
+        "username": "Nagisa0v01210",
+        "verified": false
+      }
+    ]
+  }
+}

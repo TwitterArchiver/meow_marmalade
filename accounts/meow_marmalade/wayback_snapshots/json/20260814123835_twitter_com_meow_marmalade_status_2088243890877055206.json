@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2088243867942531073"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2088229972922245521",
+    "created_at": "2026-08-14T12:38:35.000Z",
+    "display_text_range": [
+      24,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088243890877055206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967206211222491136",
+          "start": 0,
+          "username": "xun1468642"
+        },
+        {
+          "end": 23,
+          "id": "1876538273293594624",
+          "start": 12,
+          "username": "EawMm54576"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5O1PGntR1u",
+          "end": 60,
+          "expanded_url": "https://x.com/meow_marmalade/status/2088243890877055206/photo/1",
+          "media_key": "16_2088243867942531073",
+          "start": 37,
+          "url": "https://t.co/5O1PGntR1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088243890877055206",
+    "in_reply_to_user_id": "1967206211222491136",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2088243867942531073"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088241539084611886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xun1468642 @EawMm54576 欧...天哪 老师... https://t.co/5O1PGntR1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2088243867942531073",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPruu-EaMAEHfQ8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPruu-EaMAEHfQ8.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088243867942531073"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2088229972922245521",
+        "created_at": "2026-08-14T12:38:35.000Z",
+        "display_text_range": [
+          24,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088243890877055206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967206211222491136",
+              "start": 0,
+              "username": "xun1468642"
+            },
+            {
+              "end": 23,
+              "id": "1876538273293594624",
+              "start": 12,
+              "username": "EawMm54576"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5O1PGntR1u",
+              "end": 60,
+              "expanded_url": "https://x.com/meow_marmalade/status/2088243890877055206/photo/1",
+              "media_key": "16_2088243867942531073",
+              "start": 37,
+              "url": "https://t.co/5O1PGntR1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088243890877055206",
+        "in_reply_to_user_id": "1967206211222491136",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2088243867942531073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088241539084611886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xun1468642 @EawMm54576 欧...天哪 老师... https://t.co/5O1PGntR1u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967206211222491136",
+        "conversation_id": "2088229972922245521",
+        "created_at": "2026-08-14T12:29:15.000Z",
+        "display_text_range": [
+          28,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088241539084611886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 27,
+              "id": "1876538273293594624",
+              "start": 16,
+              "username": "EawMm54576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088241539084611886",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088237633009078777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @EawMm54576 我T^T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2088243890877055206",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40513,
+          "following_count": 100,
+          "like_count": 28276,
+          "listed_count": 164,
+          "media_count": 214,
+          "tweet_count": 5117
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T12:38:14.000Z",
+        "description": "",
+        "id": "1967206211222491136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088243303800250742",
+        "name": "璇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967206211222491136/1757887624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044105054765101066/5sRWzb_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 473,
+          "like_count": 5573,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2103
+        },
+        "url": "",
+        "username": "xun1468642",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T07:56:12.000Z",
+        "description": "",
+        "id": "1876538273293594624",
+        "is_identity_verified": false,
+        "location": "Maryland, USA",
+        "most_recent_tweet_id": "2088230429937823928",
+        "name": "eaw mm",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876538376616083456/Tu1OrB_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 318,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "EawMm54576",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2088660469607543194",
+    "created_at": "2026-08-16T01:42:45.000Z",
+    "display_text_range": [
+      7,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088803619902771259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2049043937088946176",
+          "start": 0,
+          "username": "a2ph2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088803619902771259",
+    "in_reply_to_user_id": "2049043937088946176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088660469607543194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2ph2 也太可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9356,
+        "height": 1280,
+        "media_key": "13_2088660392755298304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088660392755298304/img/flNZVowUw0NSf0cs.jpg",
+        "public_metrics": {
+          "view_count": 1347
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088660392755298304/vid/avc1/320x568/IrvewTtrXX0moAGK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088660392755298304/vid/avc1/480x852/-ORNOif53NV4076V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088660392755298304/vid/avc1/720x1280/vdGbaP5cp3K45_Pe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088660392755298304/pl/jwBieyzPXGDFHT-O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2088660469607543194",
+        "created_at": "2026-08-16T01:42:45.000Z",
+        "display_text_range": [
+          7,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088803619902771259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2049043937088946176",
+              "start": 0,
+              "username": "a2ph2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088803619902771259",
+        "in_reply_to_user_id": "2049043937088946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088660469607543194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2ph2 也太可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088660392755298304"
+          ]
+        },
+        "author_id": "2049043937088946176",
+        "conversation_id": "2088660469607543194",
+        "created_at": "2026-08-15T16:13:56.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088660469607543194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "夏目安安"
+            },
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "魔法少女的魔女裁决"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "魔裁"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XluqHoWzAu",
+              "end": 58,
+              "expanded_url": "https://x.com/a2ph2/status/2088660469607543194/video/1",
+              "media_key": "13_2088660392755298304",
+              "start": 35,
+              "url": "https://t.co/XluqHoWzAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088660469607543194",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088660392755298304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4275,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "吾辈不该奢求幸福\n#夏目安安 #魔法少女的魔女裁决 #魔裁 #cos https://t.co/XluqHoWzAu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2088803619902771259",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40575,
+          "following_count": 100,
+          "like_count": 28339,
+          "listed_count": 164,
+          "media_count": 212,
+          "tweet_count": 5127
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T08:34:05.000Z",
+        "description": "愿你今后的人生幸福常伴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.cn/m/ALIJqs5jesD",
+                "end": 23,
+                "expanded_url": "https://xhslink.cn/m/ALIJqs5jesD",
+                "start": 0,
+                "url": "https://t.co/HE01S43DYy"
+              }
+            ]
+          }
+        },
+        "id": "2049043937088946176",
+        "is_identity_verified": false,
+        "location": "你好👋",
+        "most_recent_tweet_id": "2088660477136253021",
+        "name": "Zmjj纸袋",
+        "pinned_tweet_id": "2076383108249878669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049043937088946176/1786297633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085455697240784896/2SH7a5Ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 8,
+          "like_count": 37,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/HE01S43DYy",
+        "username": "a2ph2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

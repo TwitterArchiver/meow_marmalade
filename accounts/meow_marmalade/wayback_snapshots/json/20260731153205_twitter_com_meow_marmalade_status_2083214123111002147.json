@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2083133894967329160",
+    "created_at": "2026-07-31T15:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083214123111002147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "891232006310318080",
+          "start": 0,
+          "username": "huyu3216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083214123111002147",
+    "in_reply_to_user_id": "891232006310318080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083213393230721249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huyu3216 😤😤😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2083133894967329160",
+        "created_at": "2026-07-31T15:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083214123111002147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "891232006310318080",
+              "start": 0,
+              "username": "huyu3216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083214123111002147",
+        "in_reply_to_user_id": "891232006310318080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083213393230721249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huyu3216 😤😤😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891232006310318080",
+        "conversation_id": "2083133894967329160",
+        "created_at": "2026-07-31T15:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083213393230721249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083213393230721249",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083133894967329160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 姐姐你的胸怎么平平的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40469,
+          "following_count": 98,
+          "like_count": 28025,
+          "listed_count": 164,
+          "media_count": 203,
+          "tweet_count": 5042
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-29T09:40:43.000Z",
+        "description": "This silence is mine ~ This this silence",
+        "id": "891232006310318080",
+        "location": "奥克兰",
+        "name": "꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱",
+        "pinned_tweet_id": "1499683509224734722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512034641431379971/NVCckj7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 289,
+          "like_count": 3385,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "huyu3216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2024165697103020213",
+    "created_at": "2026-02-18T17:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024173612505452900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682431068475891714",
+          "start": 0,
+          "username": "CascadingPallor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024173612505452900",
+    "in_reply_to_user_id": "1682431068475891714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024165697103020213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CascadingPallor 转校生，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2024165693709832192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdH-VQbUAAyngs.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2024165697103020213",
+        "created_at": "2026-02-18T17:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024173612505452900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682431068475891714",
+              "start": 0,
+              "username": "CascadingPallor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024173612505452900",
+        "in_reply_to_user_id": "1682431068475891714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024165697103020213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CascadingPallor 转校生，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024165693709832192"
+          ]
+        },
+        "author_id": "1682431068475891714",
+        "conversation_id": "2024165697103020213",
+        "created_at": "2026-02-18T16:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024165697103020213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aw8slpH6Yx",
+              "end": 60,
+              "expanded_url": "https://x.com/CascadingPallor/status/2024165697103020213/photo/1",
+              "media_key": "3_2024165693709832192",
+              "start": 37,
+              "url": "https://t.co/aw8slpH6Yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024165697103020213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧电视导购环节\n刚好有人想上贡所以求一些轻亚都可以日常穿的有皮面的鞋子 https://t.co/aw8slpH6Yx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36067,
+          "following_count": 97,
+          "like_count": 22039,
+          "listed_count": 142,
+          "media_count": 165,
+          "tweet_count": 3668
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:43:29.000Z",
+        "description": "愿你的恨意冰冷而恒久",
+        "id": "1682431068475891714",
+        "name": "CascadingPallor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870054155784193/60Tn4j2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6812,
+          "following_count": 2362,
+          "like_count": 58486,
+          "listed_count": 33,
+          "media_count": 1008,
+          "tweet_count": 7533
+        },
+        "username": "CascadingPallor",
+        "verified": false
+      }
+    ]
+  }
+}

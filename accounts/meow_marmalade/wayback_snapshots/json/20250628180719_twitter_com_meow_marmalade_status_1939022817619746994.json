@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1938552226064343087",
+    "created_at": "2025-06-28T18:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T19:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939022817619746994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1740762219678404608",
+          "start": 0,
+          "username": "wuli_ya1494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939022817619746994",
+    "in_reply_to_user_id": "1740762219678404608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 46,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939020201112244258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuli_ya1494 连身 不止是手（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1938552226064343087",
+        "created_at": "2025-06-28T18:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939022817619746994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1740762219678404608",
+              "start": 0,
+              "username": "wuli_ya1494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939022817619746994",
+        "in_reply_to_user_id": "1740762219678404608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939020201112244258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuli_ya1494 连身 不止是手（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740762219678404608",
+        "conversation_id": "1938552226064343087",
+        "created_at": "2025-06-28T17:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939020201112244258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939020201112244258",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938552226064343087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 手丝？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10495,
+          "following_count": 99,
+          "like_count": 12115,
+          "listed_count": 41,
+          "media_count": 276,
+          "tweet_count": 1431
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T15:50:42.000Z",
+        "description": "",
+        "id": "1740762219678404608",
+        "name": "name_one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740762327576952832/IvKWwUo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 89,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 111
+        },
+        "username": "wuli_ya1494",
+        "verified": false
+      }
+    ]
+  }
+}

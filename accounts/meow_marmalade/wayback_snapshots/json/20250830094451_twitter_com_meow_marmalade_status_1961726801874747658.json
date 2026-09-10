@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1961630607076934023",
+    "created_at": "2025-08-30T09:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T10:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961726801874747658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1203523096235278336",
+          "start": 0,
+          "username": "Yukikaz40772195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961726801874747658",
+    "in_reply_to_user_id": "1203523096235278336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961717813829414972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukikaz40772195 半年前就在拼车一番赏了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1961630607076934023",
+        "created_at": "2025-08-30T09:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961726801874747658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1203523096235278336",
+              "start": 0,
+              "username": "Yukikaz40772195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961726801874747658",
+        "in_reply_to_user_id": "1203523096235278336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961717813829414972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukikaz40772195 半年前就在拼车一番赏了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203523096235278336",
+        "conversation_id": "1961630607076934023",
+        "created_at": "2025-08-30T09:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961717813829414972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961717813829414972",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961630607076934023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 请问哪里可以买到呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16745,
+          "following_count": 95,
+          "like_count": 14762,
+          "listed_count": 67,
+          "media_count": 344,
+          "tweet_count": 2123
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-08T03:54:17.000Z",
+        "description": "サヤと申します。 東京勢、20⬆️ザコカメラマン、(量産ロリータ)、猫の奴隷、ドール、DBD、FF14、法律、音ゲ。政治無関心なので、討論しないように。",
+        "id": "1203523096235278336",
+        "location": "ホームレス支援センター",
+        "name": "Yukikaze",
+        "pinned_tweet_id": "1776791991000694983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930350032592744450/RaZ_Hb46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1221,
+          "like_count": 16398,
+          "listed_count": 7,
+          "media_count": 548,
+          "tweet_count": 5304
+        },
+        "username": "Yukikaz40772195",
+        "verified": true
+      }
+    ]
+  }
+}

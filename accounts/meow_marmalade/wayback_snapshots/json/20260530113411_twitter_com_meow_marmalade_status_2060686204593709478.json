@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060686183274098688"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060686204593709478",
+    "created_at": "2026-05-30T11:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060686204593709478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/74I5MlZcpk",
+          "end": 42,
+          "expanded_url": "https://x.com/meow_marmalade/status/2060686204593709478/photo/1",
+          "media_key": "3_2060686183274098688",
+          "start": 19,
+          "url": "https://t.co/74I5MlZcpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060686204593709478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我以为你喜欢我 所以我死心塌地喜欢你 https://t.co/74I5MlZcpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2060686183274098688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkHKmubsAAweSK.jpg",
+        "width": 3277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060686183274098688"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T11:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060686204593709478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/74I5MlZcpk",
+              "end": 42,
+              "expanded_url": "https://x.com/meow_marmalade/status/2060686204593709478/photo/1",
+              "media_key": "3_2060686183274098688",
+              "start": 19,
+              "url": "https://t.co/74I5MlZcpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060686204593709478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我以为你喜欢我 所以我死心塌地喜欢你 https://t.co/74I5MlZcpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38113,
+          "following_count": 94,
+          "like_count": 26229,
+          "listed_count": 150,
+          "media_count": 156,
+          "tweet_count": 4421
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

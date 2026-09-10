@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2071863054271435017",
+    "created_at": "2026-06-30T14:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071968224678445368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4825052178",
+          "start": 0,
+          "username": "haru_everydayy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071968224678445368",
+    "in_reply_to_user_id": "4825052178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071964613470716155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haru_everydayy 宝贝你截图的灯算是自带柔光了 不用再加柔光箱了。只要一个格栅确定光不会溢到背后/背景上之类的就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2071863054271435017",
+        "created_at": "2026-06-30T14:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071968224678445368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4825052178",
+              "start": 0,
+              "username": "haru_everydayy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071968224678445368",
+        "in_reply_to_user_id": "4825052178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071964613470716155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haru_everydayy 宝贝你截图的灯算是自带柔光了 不用再加柔光箱了。只要一个格栅确定光不会溢到背后/背景上之类的就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4825052178",
+        "conversation_id": "2071863054271435017",
+        "created_at": "2026-06-30T14:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071964613470716155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071964613470716155",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071887966931501094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 是COB灯加柔光箱吗老师🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39224,
+          "following_count": 96,
+          "like_count": 27269,
+          "listed_count": 157,
+          "media_count": 176,
+          "tweet_count": 4772
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-28T10:54:49.000Z",
+        "description": "一般30代男性社畜，问就114cm/514kg，是纯正牛马 \n清水推，私信已关，有正经工作，不接受任何形式的投喂/定制\n不欢迎任何类型的魔怔人，看到美少女和可爱男娘会回关",
+        "id": "4825052178",
+        "location": "沙勒",
+        "name": "Haruki Futaba",
+        "pinned_tweet_id": "1900158557342888396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875784948285894656/TvjgBFwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10082,
+          "following_count": 3537,
+          "like_count": 103,
+          "listed_count": 49,
+          "media_count": 307,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "haru_everydayy",
+        "verified": false
+      }
+    ]
+  }
+}

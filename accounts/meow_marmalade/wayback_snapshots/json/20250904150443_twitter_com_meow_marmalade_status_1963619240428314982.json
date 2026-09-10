@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1963538083359662482",
+    "created_at": "2025-09-04T15:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963619240428314982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782742299404816384",
+          "start": 0,
+          "username": "sangshen591"
+        },
+        {
+          "end": 25,
+          "id": "1662304092851687424",
+          "start": 13,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963619240428314982",
+    "in_reply_to_user_id": "1782742299404816384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963618512414675390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sangshen591 @nekkkkko422 笑死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1963538083359662482",
+        "created_at": "2025-09-04T15:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963619240428314982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782742299404816384",
+              "start": 0,
+              "username": "sangshen591"
+            },
+            {
+              "end": 25,
+              "id": "1662304092851687424",
+              "start": 13,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963619240428314982",
+        "in_reply_to_user_id": "1782742299404816384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963618512414675390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sangshen591 @nekkkkko422 笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782742299404816384",
+        "conversation_id": "1963538083359662482",
+        "created_at": "2025-09-04T15:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963618512414675390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            },
+            {
+              "end": 28,
+              "id": "1353996204422492160",
+              "start": 13,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963618512414675390",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963564679831437352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 @meow_marmalade 谁懂我看到这句笑喷出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17041,
+          "following_count": 89,
+          "like_count": 15091,
+          "listed_count": 68,
+          "media_count": 349,
+          "tweet_count": 2229
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:04:23.000Z",
+        "description": "梦想是给大家带来快乐/欢迎可爱小男娘扩列/不约不线下",
+        "id": "1782742299404816384",
+        "name": "小小小柿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876815796300926976/G8PEkngR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 821,
+          "like_count": 3524,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 858
+        },
+        "username": "sangshen591",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9464,
+          "following_count": 386,
+          "like_count": 2946,
+          "listed_count": 63,
+          "media_count": 242,
+          "tweet_count": 2594
+        },
+        "username": "nekkkkko422",
+        "verified": true
+      }
+    ]
+  }
+}

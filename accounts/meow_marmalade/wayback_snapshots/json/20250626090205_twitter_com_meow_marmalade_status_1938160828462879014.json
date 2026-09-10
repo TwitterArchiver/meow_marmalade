@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1937840286430040556",
+    "created_at": "2025-06-26T09:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T10:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938160828462879014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910775021779509250",
+          "start": 0,
+          "username": "1yubieyuan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938160828462879014",
+    "in_reply_to_user_id": "1910775021779509250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938146002118357005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yubieyuan1 就是这个感觉🚬\n谢谢喜欢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1937840286430040556",
+        "created_at": "2025-06-26T09:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T10:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938160828462879014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910775021779509250",
+              "start": 0,
+              "username": "1yubieyuan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938160828462879014",
+        "in_reply_to_user_id": "1910775021779509250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938146002118357005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yubieyuan1 就是这个感觉🚬\n谢谢喜欢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910775021779509250",
+        "conversation_id": "1937840286430040556",
+        "created_at": "2025-06-26T08:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T09:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938146002118357005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938146002118357005",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937840286430040556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好喜欢老师丧丧的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9792,
+          "following_count": 95,
+          "like_count": 11930,
+          "listed_count": 32,
+          "media_count": 273,
+          "tweet_count": 1385
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T19:20:50.000Z",
+        "description": "你好",
+        "id": "1910775021779509250",
+        "name": "江渔晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914253506099490816/gx7H2J9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "1yubieyuan1",
+        "verified": false
+      }
+    ]
+  }
+}

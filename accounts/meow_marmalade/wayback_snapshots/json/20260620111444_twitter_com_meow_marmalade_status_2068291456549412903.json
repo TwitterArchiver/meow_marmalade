@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2068283401434779806",
+    "created_at": "2026-06-20T11:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068291456549412903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "784612137842991106",
+          "start": 0,
+          "username": "Yukino42920606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068291456549412903",
+    "in_reply_to_user_id": "784612137842991106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068284837904142684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukino42920606 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2068283401434779806",
+        "created_at": "2026-06-20T11:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068291456549412903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "784612137842991106",
+              "start": 0,
+              "username": "Yukino42920606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068291456549412903",
+        "in_reply_to_user_id": "784612137842991106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068284837904142684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukino42920606 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "784612137842991106",
+        "conversation_id": "2068283401434779806",
+        "created_at": "2026-06-20T10:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068284837904142684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068284837904142684",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068283401434779806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老婆老婆老婆，美哭了🥰🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38886,
+          "following_count": 95,
+          "like_count": 27004,
+          "listed_count": 152,
+          "media_count": 173,
+          "tweet_count": 4671
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-08T04:31:26.000Z",
+        "description": "",
+        "id": "784612137842991106",
+        "name": "Tsuki_yukino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625545305520472066/KUDKRoML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 184,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Yukino42920606",
+        "verified": false
+      }
+    ]
+  }
+}

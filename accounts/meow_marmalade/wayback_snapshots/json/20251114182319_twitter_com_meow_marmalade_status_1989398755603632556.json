@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1989393222595129835",
+    "created_at": "2025-11-14T18:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T19:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989398755603632556"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "好美",
+          "probability": 0.6807,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1905127566002044928",
+          "start": 0,
+          "username": "KobatoMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989398755603632556",
+    "in_reply_to_user_id": "1905127566002044928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989393222595129835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KobatoMB 好美..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_1989393220426764290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5u-l_4bkAIn0tN.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1989393222595129835",
+        "created_at": "2025-11-14T18:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T19:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989398755603632556"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "好美",
+              "probability": 0.6807,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905127566002044928",
+              "start": 0,
+              "username": "KobatoMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989398755603632556",
+        "in_reply_to_user_id": "1905127566002044928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989393222595129835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KobatoMB 好美..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989393220426764290"
+          ]
+        },
+        "author_id": "1905127566002044928",
+        "conversation_id": "1989393222595129835",
+        "created_at": "2025-11-14T18:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T19:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989393222595129835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ynn0GCXVhK",
+              "end": 25,
+              "expanded_url": "https://x.com/KobatoMB/status/1989393222595129835/photo/1",
+              "media_key": "3_1989393220426764290",
+              "start": 2,
+              "url": "https://t.co/Ynn0GCXVhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989393222595129835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪 https://t.co/Ynn0GCXVhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27194,
+          "following_count": 98,
+          "like_count": 18113,
+          "listed_count": 108,
+          "media_count": 199,
+          "tweet_count": 2803
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T05:19:54.000Z",
+        "description": "发癫小空间",
+        "id": "1905127566002044928",
+        "location": "带把不线下 别问了 发图只为开心   🚪30",
+        "name": "棉花糖小小子",
+        "pinned_tweet_id": "1985613741191545278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905129188476243968/gsYPwiJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11767,
+          "following_count": 127,
+          "like_count": 1166,
+          "listed_count": 45,
+          "media_count": 218,
+          "tweet_count": 831
+        },
+        "username": "KobatoMB",
+        "verified": false
+      }
+    ]
+  }
+}

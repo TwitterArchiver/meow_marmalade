@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1940035329601544428",
+    "created_at": "2025-07-01T14:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T15:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940051879104585775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614515878737113090",
+          "start": 0,
+          "username": "Sakichan_desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940051879104585775",
+    "in_reply_to_user_id": "1614515878737113090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940047398451220605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakichan_desuwa 应该没到疾病的程度....吧？？唉也不想去看（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1940035329601544428",
+        "created_at": "2025-07-01T14:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940051879104585775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614515878737113090",
+              "start": 0,
+              "username": "Sakichan_desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940051879104585775",
+        "in_reply_to_user_id": "1614515878737113090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940047398451220605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakichan_desuwa 应该没到疾病的程度....吧？？唉也不想去看（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614515878737113090",
+        "conversation_id": "1940035329601544428",
+        "created_at": "2025-07-01T13:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T14:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940047398451220605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940047398451220605",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940035329601544428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 精神疾病很痛苦..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10761,
+          "following_count": 98,
+          "like_count": 12207,
+          "listed_count": 41,
+          "media_count": 279,
+          "tweet_count": 1444
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T06:53:59.000Z",
+        "description": "＊INTP/INFP丨♪Res quas amo：丨⚠️せいしんびょう",
+        "id": "1614515878737113090",
+        "location": "Utopia",
+        "name": "伪人小祥desuwa",
+        "pinned_tweet_id": "1931292817017418065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929590920930095104/rRnZuYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1647,
+          "like_count": 4324,
+          "listed_count": 10,
+          "media_count": 55,
+          "tweet_count": 1319
+        },
+        "username": "Sakichan_desuwa",
+        "verified": false
+      }
+    ]
+  }
+}

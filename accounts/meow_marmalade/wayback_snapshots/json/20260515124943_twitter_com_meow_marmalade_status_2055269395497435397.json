@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2055226284993909056",
+    "created_at": "2026-05-15T12:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055269395497435397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556556844268548097",
+          "start": 0,
+          "username": "tangbao_TAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055269395497435397",
+    "in_reply_to_user_id": "1556556844268548097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055269151745376703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangbao_TAT 给孩子留点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2055226284993909056",
+        "created_at": "2026-05-15T12:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055269395497435397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556556844268548097",
+              "start": 0,
+              "username": "tangbao_TAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055269395497435397",
+        "in_reply_to_user_id": "1556556844268548097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055269151745376703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangbao_TAT 给孩子留点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556556844268548097",
+        "conversation_id": "2055226284993909056",
+        "created_at": "2026-05-15T12:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055269151745376703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055269151745376703",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055226284993909056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老大你是了解我的，如果是我的话，袜子内裤和你都会不见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37909,
+          "following_count": 91,
+          "like_count": 25929,
+          "listed_count": 146,
+          "media_count": 203,
+          "tweet_count": 4381
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T08:24:14.000Z",
+        "description": "无法摆渡自己的摆渡人",
+        "id": "1556556844268548097",
+        "location": "卡尔斯鲁厄",
+        "name": "住在山顶的兔子",
+        "pinned_tweet_id": "1975649397255119189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906725574917378048/Ld7FDsal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 343,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 6506
+        },
+        "username": "tangbao_TAT",
+        "verified": false
+      }
+    ]
+  }
+}

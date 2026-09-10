@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060301955579441152"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060301973723988220",
+    "created_at": "2026-05-29T10:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060301973723988220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUaKlERonk",
+          "end": 50,
+          "expanded_url": "https://x.com/meow_marmalade/status/2060301973723988220/photo/1",
+          "media_key": "3_2060301955579441152",
+          "start": 27,
+          "url": "https://t.co/lUaKlERonk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060301973723988220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Amiya\nAmbience Synesthesia https://t.co/lUaKlERonk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2060301955579441152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeptnBa8AAOOsC.jpg",
+        "width": 3277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060301955579441152"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060301973723988220",
+        "created_at": "2026-05-29T10:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060301973723988220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUaKlERonk",
+              "end": 50,
+              "expanded_url": "https://x.com/meow_marmalade/status/2060301973723988220/photo/1",
+              "media_key": "3_2060301955579441152",
+              "start": 27,
+              "url": "https://t.co/lUaKlERonk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060301973723988220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Amiya\nAmbience Synesthesia https://t.co/lUaKlERonk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38111,
+          "following_count": 94,
+          "like_count": 26179,
+          "listed_count": 150,
+          "media_count": 155,
+          "tweet_count": 4406
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

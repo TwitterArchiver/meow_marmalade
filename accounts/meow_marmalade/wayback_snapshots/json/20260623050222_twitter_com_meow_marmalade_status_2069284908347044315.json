@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2069051572366315733",
+    "created_at": "2026-06-23T05:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069284908347044315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1370271730409693187",
+          "start": 0,
+          "username": "wmaly13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069284908347044315",
+    "in_reply_to_user_id": "1370271730409693187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069276033837379959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmaly13 我的天哪雀宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2069051572366315733",
+        "created_at": "2026-06-23T05:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069284908347044315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1370271730409693187",
+              "start": 0,
+              "username": "wmaly13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069284908347044315",
+        "in_reply_to_user_id": "1370271730409693187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069276033837379959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmaly13 我的天哪雀宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370271730409693187",
+        "conversation_id": "2069051572366315733",
+        "created_at": "2026-06-23T04:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069276033837379959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069276033837379959",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069212608025243655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你是我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39003,
+          "following_count": 94,
+          "like_count": 27085,
+          "listed_count": 154,
+          "media_count": 176,
+          "tweet_count": 4712
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T07:13:41.000Z",
+        "description": "死人/仅推发图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+7LpOwlpvwZ9lY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+7LpOwlpvwZ9lYWZl",
+                "start": 0,
+                "url": "https://t.co/KUimMLVm8c"
+              }
+            ]
+          }
+        },
+        "id": "1370271730409693187",
+        "location": "广州 （链接是我自己的群，可以来聊天）",
+        "name": "鹀雀",
+        "pinned_tweet_id": "2028652086905508310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051307744339337216/g4j93kl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24897,
+          "following_count": 594,
+          "like_count": 7781,
+          "listed_count": 53,
+          "media_count": 492,
+          "tweet_count": 4862
+        },
+        "url": "https://t.co/KUimMLVm8c",
+        "username": "wmaly13",
+        "verified": false
+      }
+    ]
+  }
+}

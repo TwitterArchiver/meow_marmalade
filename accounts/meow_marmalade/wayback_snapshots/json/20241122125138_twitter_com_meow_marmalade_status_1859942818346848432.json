@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859942809882832896"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1859942818346848432",
+    "created_at": "2024-11-22T12:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T13:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859942818346848432"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "伪娘"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gi0CRtIo75",
+          "end": 40,
+          "expanded_url": "https://x.com/meow_marmalade/status/1859942818346848432/photo/1",
+          "media_key": "3_1859942809882832896",
+          "start": 17,
+          "url": "https://t.co/Gi0CRtIo75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859942818346848432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大変に気分がいい\n#伪娘 #男娘 https://t.co/Gi0CRtIo75"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859942809882832896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc_YIZWbsAA2ymZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859942809882832896"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1859942818346848432",
+        "created_at": "2024-11-22T12:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T13:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859942818346848432"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "伪娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gi0CRtIo75",
+              "end": 40,
+              "expanded_url": "https://x.com/meow_marmalade/status/1859942818346848432/photo/1",
+              "media_key": "3_1859942809882832896",
+              "start": 17,
+              "url": "https://t.co/Gi0CRtIo75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859942818346848432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大変に気分がいい\n#伪娘 #男娘 https://t.co/Gi0CRtIo75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 115,
+          "like_count": 3162,
+          "listed_count": 7,
+          "tweet_count": 485
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

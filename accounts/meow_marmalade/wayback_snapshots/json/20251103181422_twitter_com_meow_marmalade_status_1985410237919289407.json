@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1985341778413985974",
+    "created_at": "2025-11-03T18:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T19:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985410237919289407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639270523824734210",
+          "start": 0,
+          "username": "Guwangzzz"
+        },
+        {
+          "end": 26,
+          "id": "1564491247460691968",
+          "start": 11,
+          "username": "TransForMySelf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985410237919289407",
+    "in_reply_to_user_id": "1639270523824734210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985409699181965612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guwangzzz @TransForMySelf 我勒个痘这么便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1985341778413985974",
+        "created_at": "2025-11-03T18:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T19:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985410237919289407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639270523824734210",
+              "start": 0,
+              "username": "Guwangzzz"
+            },
+            {
+              "end": 26,
+              "id": "1564491247460691968",
+              "start": 11,
+              "username": "TransForMySelf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985410237919289407",
+        "in_reply_to_user_id": "1639270523824734210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985409699181965612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guwangzzz @TransForMySelf 我勒个痘这么便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639270523824734210",
+        "conversation_id": "1985341778413985974",
+        "created_at": "2025-11-03T18:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T19:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985409699181965612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 31,
+              "id": "1564491247460691968",
+              "start": 16,
+              "username": "TransForMySelf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985409699181965612",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985373895617306867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @TransForMySelf 上海去三甲医院激光脱毛一次31元，上个月刚去了一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25707,
+          "following_count": 99,
+          "like_count": 17616,
+          "listed_count": 102,
+          "media_count": 189,
+          "tweet_count": 2612
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T14:18:54.000Z",
+        "description": "坐看风起云涌，静待云卷云舒",
+        "id": "1639270523824734210",
+        "location": "不知名星云",
+        "name": "凌鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639270659695026177/yh9MisEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 175,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "Guwangzzz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T05:52:45.000Z",
+        "description": "",
+        "id": "1564491247460691968",
+        "name": "trans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564491598461026304/p--hdY52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 102,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 223
+        },
+        "username": "TransForMySelf",
+        "verified": false
+      }
+    ]
+  }
+}

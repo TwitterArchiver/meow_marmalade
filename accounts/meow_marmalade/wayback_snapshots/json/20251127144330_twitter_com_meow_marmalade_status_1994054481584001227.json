@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1993983788536504418",
+    "created_at": "2025-11-27T14:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994054481584001227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556556844268548097",
+          "start": 0,
+          "username": "tangbao_TAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994054481584001227",
+    "in_reply_to_user_id": "1556556844268548097",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994054415804723695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangbao_TAT hao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1993983788536504418",
+        "created_at": "2025-11-27T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994054481584001227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556556844268548097",
+              "start": 0,
+              "username": "tangbao_TAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994054481584001227",
+        "in_reply_to_user_id": "1556556844268548097",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994054415804723695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangbao_TAT hao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556556844268548097",
+        "conversation_id": "1993983788536504418",
+        "created_at": "2025-11-27T14:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994054415804723695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994054415804723695",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994045980820558133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你来我家拿我手机玩😈😈😈😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27383,
+          "following_count": 95,
+          "like_count": 18548,
+          "listed_count": 113,
+          "media_count": 210,
+          "tweet_count": 2898
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T08:24:14.000Z",
+        "description": "无法摆渡自己的摆渡人",
+        "id": "1556556844268548097",
+        "location": "卡尔斯鲁厄",
+        "name": "住在山顶的兔子",
+        "pinned_tweet_id": "1975649397255119189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906725574917378048/Ld7FDsal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 342,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 6155
+        },
+        "username": "tangbao_TAT",
+        "verified": false
+      }
+    ]
+  }
+}

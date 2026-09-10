@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1950526486869626911",
+    "created_at": "2025-07-30T12:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950529051191611469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833490553595695104",
+          "start": 0,
+          "username": "AgN0_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950529051191611469",
+    "in_reply_to_user_id": "1833490553595695104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950528870203134385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgN0_3 细说笑话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1950526486869626911",
+        "created_at": "2025-07-30T12:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950529051191611469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833490553595695104",
+              "start": 0,
+              "username": "AgN0_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950529051191611469",
+        "in_reply_to_user_id": "1833490553595695104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950528870203134385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgN0_3 细说笑话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833490553595695104",
+        "conversation_id": "1950526486869626911",
+        "created_at": "2025-07-30T12:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950528870203134385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950528870203134385",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950526486869626911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 想起那个笑话了（目移）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14250,
+          "following_count": 90,
+          "like_count": 13524,
+          "listed_count": 56,
+          "media_count": 308,
+          "tweet_count": 1741
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T12:59:59.000Z",
+        "description": "大旱望云霓",
+        "id": "1833490553595695104",
+        "name": "秋月白",
+        "pinned_tweet_id": "1940596307225464973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950514395756511233/K-khNTaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 243,
+          "like_count": 4045,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 402
+        },
+        "username": "AgN0_3",
+        "verified": false
+      }
+    ]
+  }
+}

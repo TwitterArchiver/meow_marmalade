@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1960319525355950575",
+    "created_at": "2025-08-26T17:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960390789147533650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2580416503",
+          "start": 0,
+          "username": "gamu_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960390789147533650",
+    "in_reply_to_user_id": "2580416503",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960389411495141900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gamu_ran Sorry I can't recall where I bought it😭\nAnd yes to the last question."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1960319525355950575",
+        "created_at": "2025-08-26T17:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960390789147533650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2580416503",
+              "start": 0,
+              "username": "gamu_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960390789147533650",
+        "in_reply_to_user_id": "2580416503",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960389411495141900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gamu_ran Sorry I can't recall where I bought it😭\nAnd yes to the last question."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2580416503",
+        "conversation_id": "1960319525355950575",
+        "created_at": "2025-08-26T17:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960389411495141900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960389411495141900",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960319525355950575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade Where did you get the full-body suit you're wearing under your coat? Would you mind telling me? Also, is it true that you're a man?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16084,
+          "following_count": 95,
+          "like_count": 14603,
+          "listed_count": 68,
+          "media_count": 341,
+          "tweet_count": 2093
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-21T12:45:45.000Z",
+        "description": "とりあえず1人で行く事は無くなった",
+        "id": "2580416503",
+        "location": "千葉",
+        "name": "ガムらん@Lマギレコおじさん",
+        "pinned_tweet_id": "1934529767765921811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570049571174371331/WPZVo2u1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 6341,
+          "like_count": 277605,
+          "listed_count": 12,
+          "media_count": 4760,
+          "tweet_count": 303475
+        },
+        "username": "gamu_ran",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1966439883326607470",
+    "created_at": "2025-09-16T06:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967831721312997750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564491247460691968",
+          "start": 0,
+          "username": "TransForMySelf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967831721312997750",
+    "in_reply_to_user_id": "1564491247460691968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967831568141234339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransForMySelf 缝被P掉了😐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1966439883326607470",
+        "created_at": "2025-09-16T06:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967831721312997750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564491247460691968",
+              "start": 0,
+              "username": "TransForMySelf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967831721312997750",
+        "in_reply_to_user_id": "1564491247460691968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967831568141234339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransForMySelf 缝被P掉了😐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564491247460691968",
+        "conversation_id": "1966439883326607470",
+        "created_at": "2025-09-16T06:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967831568141234339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967831568141234339",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966439883326607470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你好我是连体控，你的那几张腋下和正面侧面都无缝的连体袜可以方便告诉我是什么款式吗，真的好像要，跪谢😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18879,
+          "following_count": 91,
+          "like_count": 15618,
+          "listed_count": 77,
+          "media_count": 286,
+          "tweet_count": 2276
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T05:52:45.000Z",
+        "description": "",
+        "id": "1564491247460691968",
+        "name": "trans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564491598461026304/p--hdY52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 94,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 214
+        },
+        "username": "TransForMySelf",
+        "verified": false
+      }
+    ]
+  }
+}

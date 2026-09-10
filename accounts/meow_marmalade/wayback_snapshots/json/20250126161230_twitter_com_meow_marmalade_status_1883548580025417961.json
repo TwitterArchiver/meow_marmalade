@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883548570227552256",
+        "3_1883548570231717888"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1883548580025417961",
+    "created_at": "2025-01-26T16:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T17:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883548580025417961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CCIjyO4yZK",
+          "end": 28,
+          "expanded_url": "https://x.com/meow_marmalade/status/1883548580025417961/photo/1",
+          "media_key": "3_1883548570227552256",
+          "start": 5,
+          "url": "https://t.co/CCIjyO4yZK"
+        },
+        {
+          "display_url": "pic.x.com/CCIjyO4yZK",
+          "end": 28,
+          "expanded_url": "https://x.com/meow_marmalade/status/1883548580025417961/photo/1",
+          "media_key": "3_1883548570231717888",
+          "start": 5,
+          "url": "https://t.co/CCIjyO4yZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883548580025417961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成奶茶了 https://t.co/CCIjyO4yZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3763,
+        "media_key": "3_1883548570227552256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiO1cfWbsAAbjtC.jpg",
+        "width": 2150
+      },
+      {
+        "height": 542,
+        "media_key": "3_1883548570231717888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiO1cfXbQAAs8eG.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883548570227552256",
+            "3_1883548570231717888"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1883548580025417961",
+        "created_at": "2025-01-26T16:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883548580025417961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCIjyO4yZK",
+              "end": 28,
+              "expanded_url": "https://x.com/meow_marmalade/status/1883548580025417961/photo/1",
+              "media_key": "3_1883548570227552256",
+              "start": 5,
+              "url": "https://t.co/CCIjyO4yZK"
+            },
+            {
+              "display_url": "pic.x.com/CCIjyO4yZK",
+              "end": 28,
+              "expanded_url": "https://x.com/meow_marmalade/status/1883548580025417961/photo/1",
+              "media_key": "3_1883548570231717888",
+              "start": 5,
+              "url": "https://t.co/CCIjyO4yZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883548580025417961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成奶茶了 https://t.co/CCIjyO4yZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 82,
+          "like_count": 4329,
+          "listed_count": 9,
+          "media_count": 167,
+          "tweet_count": 589
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

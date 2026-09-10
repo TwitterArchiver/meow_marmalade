@@ -1,0 +1,125 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1790330494569340928"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1790330503947821458",
+    "created_at": "2024-05-14T10:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T11:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790330503947821458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/0Rji5YioXw",
+          "end": 58,
+          "expanded_url": "https://twitter.com/meow_marmalade/status/1790330503947821458/photo/1",
+          "media_key": "3_1790330494569340928",
+          "start": 35,
+          "url": "https://t.co/0Rji5YioXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790330503947821458",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“性别刻板印象这种东西…好像你是最排不上号的”\n\n有点可悲\n有点可笑 https://t.co/0Rji5YioXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1790330494569340928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNiIGWda4AALStz.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790330494569340928"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1790330503947821458",
+        "created_at": "2024-05-14T10:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T11:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790330503947821458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0Rji5YioXw",
+              "end": 58,
+              "expanded_url": "https://twitter.com/meow_marmalade/status/1790330503947821458/photo/1",
+              "media_key": "3_1790330494569340928",
+              "start": 35,
+              "url": "https://t.co/0Rji5YioXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790330503947821458",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“性别刻板印象这种东西…好像你是最排不上号的”\n\n有点可悲\n有点可笑 https://t.co/0Rji5YioXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "4i男。这里是试衣间，是精神病院，更是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762731499315765248/P1O8g50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 75,
+          "like_count": 751,
+          "listed_count": 5,
+          "tweet_count": 282
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

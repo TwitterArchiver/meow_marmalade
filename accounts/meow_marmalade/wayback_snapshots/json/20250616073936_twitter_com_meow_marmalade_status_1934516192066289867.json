@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1934514357079249127",
+    "created_at": "2025-06-16T07:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934516192066289867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633809558513778694",
+          "start": 0,
+          "username": "xuxuna333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934516192066289867",
+    "in_reply_to_user_id": "1633809558513778694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934514357079249127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxuna333 不😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934514343372296192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtjGi7makAACihG.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1934514357079249127",
+        "created_at": "2025-06-16T07:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934516192066289867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633809558513778694",
+              "start": 0,
+              "username": "xuxuna333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934516192066289867",
+        "in_reply_to_user_id": "1633809558513778694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934514357079249127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxuna333 不😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934514343372296192"
+          ]
+        },
+        "author_id": "1633809558513778694",
+        "conversation_id": "1934514357079249127",
+        "created_at": "2025-06-16T07:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934514357079249127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "白丝"
+            },
+            {
+              "end": 22,
+              "start": 20,
+              "tag": "足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEre7Jckk9",
+              "end": 46,
+              "expanded_url": "https://x.com/xuxuna333/status/1934514357079249127/photo/1",
+              "media_key": "3_1934514343372296192",
+              "start": 23,
+              "url": "https://t.co/XEre7Jckk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934514357079249127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蹲下来的时候把吊带绷断了好想死\n#白丝 #足 https://t.co/XEre7Jckk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 96,
+          "like_count": 11554,
+          "listed_count": 26,
+          "media_count": 261,
+          "tweet_count": 1283
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T12:38:59.000Z",
+        "description": "学生 性别♂ 电子宠物 多人设 喜欢看番打游戏 接lol/瓦陪玩 推特唯一小号搞抽象擦边@mianovo3 抖音灌注四小丸子！私信评论都会看 欢迎同好宝宝贴贴w互fo扩列 自用vpn https://t.co/g3xefWigsH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "mianovo3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://so.sulink.life/#/register?code=lPYYb1o2",
+                "start": 92,
+                "url": "https://t.co/g3xefWigsH"
+              }
+            ]
+          }
+        },
+        "id": "1633809558513778694",
+        "name": "缘晓晓",
+        "pinned_tweet_id": "1920050118868472159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835919528875941888/nLrH0SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37850,
+          "following_count": 594,
+          "like_count": 8449,
+          "listed_count": 129,
+          "media_count": 350,
+          "tweet_count": 5098
+        },
+        "username": "xuxuna333",
+        "verified": false
+      }
+    ]
+  }
+}

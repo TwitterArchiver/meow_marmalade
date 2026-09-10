@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2065729270538961345",
+    "created_at": "2026-06-14T03:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066003094895522136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045127800324288513",
+          "start": 0,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066003094895522136",
+    "in_reply_to_user_id": "2045127800324288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065729270538961345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yacht_ono 坏了 我就吃这套🫣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2065729270538961345",
+        "created_at": "2026-06-14T03:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066003094895522136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045127800324288513",
+              "start": 0,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066003094895522136",
+        "in_reply_to_user_id": "2045127800324288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065729270538961345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yacht_ono 坏了 我就吃这套🫣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2065729270538961345",
+        "created_at": "2026-06-13T09:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065729270538961345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065729270538961345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 95656,
+          "like_count": 2035,
+          "quote_count": 22,
+          "reply_count": 178,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉你们幼师的话术直接搬床上就能用\n\n“谁是这个世界上最棒的小孩呀？”\n“不许哭哦，哭了的坏孩子会被惩罚的。”\n“今天这么乖呀，老师给你点奖励吧？”\n“想要什么奖励呀，大点声让老师听见。”“真棒！你一定可以做得更好的！”\n“你是不是好孩子？”\n“好宝宝，来老师怀里。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38728,
+          "following_count": 95,
+          "like_count": 26826,
+          "listed_count": 152,
+          "media_count": 165,
+          "tweet_count": 4609
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪40",
+        "name": "yacht",
+        "pinned_tweet_id": "2065786267997278403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 41,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 249
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

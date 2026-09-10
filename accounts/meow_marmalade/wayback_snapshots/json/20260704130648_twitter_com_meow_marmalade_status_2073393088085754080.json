@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2073327767035461732",
+    "created_at": "2026-07-04T13:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073393088085754080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1370271730409693187",
+          "start": 0,
+          "username": "wmaly13"
+        },
+        {
+          "end": 21,
+          "id": "1078692330947969029",
+          "start": 9,
+          "username": "TingYunAiAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073393088085754080",
+    "in_reply_to_user_id": "1370271730409693187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073369943203271058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmaly13 @TingYunAiAi 玛雅我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2073327767035461732",
+        "created_at": "2026-07-04T13:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073393088085754080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1370271730409693187",
+              "start": 0,
+              "username": "wmaly13"
+            },
+            {
+              "end": 21,
+              "id": "1078692330947969029",
+              "start": 9,
+              "username": "TingYunAiAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073393088085754080",
+        "in_reply_to_user_id": "1370271730409693187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073369943203271058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmaly13 @TingYunAiAi 玛雅我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370271730409693187",
+        "conversation_id": "2073327767035461732",
+        "created_at": "2026-07-04T11:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073369943203271058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1078692330947969029",
+              "start": 0,
+              "username": "TingYunAiAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073369943203271058",
+        "in_reply_to_user_id": "1078692330947969029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073327767035461732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TingYunAiAi 你猜洗手间为什么要叫洗手间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39270,
+          "following_count": 95,
+          "like_count": 27334,
+          "listed_count": 155,
+          "media_count": 180,
+          "tweet_count": 4802
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T07:13:41.000Z",
+        "description": "死人/仅推发图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+7LpOwlpvwZ9lY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+7LpOwlpvwZ9lYWZl",
+                "start": 0,
+                "url": "https://t.co/KUimMLVm8c"
+              }
+            ]
+          }
+        },
+        "id": "1370271730409693187",
+        "location": "广州 （链接是我自己的群，可以来聊天）",
+        "name": "鹀雀",
+        "pinned_tweet_id": "2028652086905508310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051307744339337216/g4j93kl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25078,
+          "following_count": 601,
+          "like_count": 7875,
+          "listed_count": 55,
+          "media_count": 498,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/KUimMLVm8c",
+        "username": "wmaly13",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-28T16:41:07.000Z",
+        "description": "你要原谅彼时此时的愚蠢。\n有对象@yakamashi777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "yakamashi777"
+              }
+            ]
+          }
+        },
+        "id": "1078692330947969029",
+        "location": "Taiwan",
+        "name": "呕吐雾",
+        "pinned_tweet_id": "2008163356356886606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015773549881888768/NTbw11fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 215,
+          "like_count": 9441,
+          "listed_count": 7,
+          "media_count": 686,
+          "tweet_count": 3593
+        },
+        "url": "",
+        "username": "TingYunAiAi",
+        "verified": false
+      }
+    ]
+  }
+}

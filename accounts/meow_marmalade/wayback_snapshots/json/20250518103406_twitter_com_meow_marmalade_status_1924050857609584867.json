@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1924007065632325913",
+    "created_at": "2025-05-18T10:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T11:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924050857609584867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069881915216461825",
+          "start": 0,
+          "username": "Iprintemps1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924050857609584867",
+    "in_reply_to_user_id": "1069881915216461825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924007065632325913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iprintemps1 已举办😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924007055905480706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNyOTiXYAIsyNx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1924007065632325913",
+        "created_at": "2025-05-18T10:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924050857609584867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069881915216461825",
+              "start": 0,
+              "username": "Iprintemps1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924050857609584867",
+        "in_reply_to_user_id": "1069881915216461825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924007065632325913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iprintemps1 已举办😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924007055905480706"
+          ]
+        },
+        "author_id": "1069881915216461825",
+        "conversation_id": "1924007065632325913",
+        "created_at": "2025-05-18T07:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924007065632325913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDXwxlfPxU",
+              "end": 31,
+              "expanded_url": "https://x.com/Iprintemps1/status/1924007065632325913/photo/1",
+              "media_key": "3_1924007055905480706",
+              "start": 8,
+              "url": "https://t.co/WDXwxlfPxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924007065632325913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1034,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复制人又来了😅 https://t.co/WDXwxlfPxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 99,
+          "like_count": 10261,
+          "listed_count": 15,
+          "media_count": 230,
+          "tweet_count": 1038
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T09:11:40.000Z",
+        "description": "冬行性生物，赖床中🛏️💤 已有对象 真实的我@Karameru00Rei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "Karameru00Rei"
+              }
+            ]
+          }
+        },
+        "id": "1069881915216461825",
+        "location": "盗我图的出门被大卡车亲亲❤️",
+        "name": "零度白糖",
+        "pinned_tweet_id": "1902938655225942505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899357343193702400/JhyYTOnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24487,
+          "following_count": 660,
+          "like_count": 10754,
+          "listed_count": 91,
+          "media_count": 163,
+          "tweet_count": 1368
+        },
+        "username": "Iprintemps1",
+        "verified": true
+      }
+    ]
+  }
+}

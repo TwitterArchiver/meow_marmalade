@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1863124578895081474"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1863124664979251567",
+    "created_at": "2024-12-01T07:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T08:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863124664979251567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o05WSuHEAK",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1863124664979251567/video/1",
+          "media_key": "13_1863124578895081474",
+          "start": 12,
+          "url": "https://t.co/o05WSuHEAK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863124664979251567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给你们看看我拍的大鸟😋 https://t.co/o05WSuHEAK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11020,
+        "height": 1920,
+        "media_key": "13_1863124578895081474",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1863124578895081474/img/q2lqcKtv9FtmZZCQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863124578895081474/vid/avc1/720x1280/KSYRgIDkwnll_N1I.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863124578895081474/vid/avc1/320x568/VKLOb7Nn2IpH2QlA.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1863124578895081474/pl/Hi9xo9HQhxG1tfIL.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863124578895081474/vid/avc1/1080x1920/1jIeESi0VgnZjla3.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1863124578895081474/vid/avc1/480x852/YMWGv3V1DBPblVpC.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1863124578895081474"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1863124664979251567",
+        "created_at": "2024-12-01T07:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863124664979251567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o05WSuHEAK",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1863124664979251567/video/1",
+              "media_key": "13_1863124578895081474",
+              "start": 12,
+              "url": "https://t.co/o05WSuHEAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863124664979251567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看看我拍的大鸟😋 https://t.co/o05WSuHEAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 117,
+          "like_count": 3293,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 500
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      }
+    ]
+  }
+}

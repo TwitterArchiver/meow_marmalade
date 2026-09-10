@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989261832801132545"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1989261842968097169",
+    "created_at": "2025-11-14T09:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989261842968097169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mDSqgu67L",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1989261842968097169/photo/1",
+          "media_key": "3_1989261832801132545",
+          "start": 12,
+          "url": "https://t.co/4mDSqgu67L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989261842968097169",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "coming down https://t.co/4mDSqgu67L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1989261832801132545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tHGO1aoAECzDF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989261832801132545"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1989261842968097169",
+        "created_at": "2025-11-14T09:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989261842968097169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mDSqgu67L",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1989261842968097169/photo/1",
+              "media_key": "3_1989261832801132545",
+              "start": 12,
+              "url": "https://t.co/4mDSqgu67L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989261842968097169",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "coming down https://t.co/4mDSqgu67L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26925,
+          "following_count": 96,
+          "like_count": 18089,
+          "listed_count": 105,
+          "media_count": 199,
+          "tweet_count": 2793
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

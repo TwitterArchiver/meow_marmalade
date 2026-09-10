@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1821069984564756764",
+    "created_at": "2024-08-07T06:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T07:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821074023134195787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2284673090",
+          "start": 0,
+          "username": "CH_CHiSakuraC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821074023134195787",
+    "in_reply_to_user_id": "2284673090",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821073344256733559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CH_CHiSakuraC 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1821069984564756764",
+        "created_at": "2024-08-07T06:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T07:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821074023134195787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2284673090",
+              "start": 0,
+              "username": "CH_CHiSakuraC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821074023134195787",
+        "in_reply_to_user_id": "2284673090",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821073344256733559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CH_CHiSakuraC 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2284673090",
+        "conversation_id": "1821069984564756764",
+        "created_at": "2024-08-07T06:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T07:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821073344256733559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821073344256733559",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821069984564756764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 教廷感好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 113,
+          "like_count": 1445,
+          "listed_count": 5,
+          "tweet_count": 339
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-10T07:02:30.000Z",
+        "description": "（CN/EN可）、日本語勉強中",
+        "id": "2284673090",
+        "name": "チサクラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/503168241821175810/eGyv-xyM_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 2986,
+          "like_count": 31204,
+          "listed_count": 24,
+          "tweet_count": 17841
+        },
+        "username": "CH_CHiSakuraC",
+        "verified": false
+      }
+    ]
+  }
+}

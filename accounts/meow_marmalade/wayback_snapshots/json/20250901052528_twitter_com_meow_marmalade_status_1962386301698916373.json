@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1962376797745709442",
+    "created_at": "2025-09-01T05:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962386301698916373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662304092851687424",
+          "start": 0,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962386301698916373",
+    "in_reply_to_user_id": "1662304092851687424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962376797745709442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekkkkko422 想买了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962376397097488384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvC76CbUAAmDFP.jpg",
+        "width": 1543
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962376385395347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvC7Oca0AAuvS9.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1962376797745709442",
+        "created_at": "2025-09-01T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962386301698916373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962386301698916373",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962376797745709442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 想买了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962376397097488384",
+            "3_1962376385395347456"
+          ]
+        },
+        "author_id": "1662304092851687424",
+        "conversation_id": "1962376797745709442",
+        "created_at": "2025-09-01T04:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T05:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962376797745709442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4Ff7lmnA6",
+              "end": 27,
+              "expanded_url": "https://x.com/nekkkkko422/status/1962376797745709442/photo/1",
+              "media_key": "3_1962376397097488384",
+              "start": 4,
+              "url": "https://t.co/R4Ff7lmnA6"
+            },
+            {
+              "display_url": "pic.x.com/R4Ff7lmnA6",
+              "end": 27,
+              "expanded_url": "https://x.com/nekkkkko422/status/1962376797745709442/photo/1",
+              "media_key": "3_1962376385395347456",
+              "start": 4,
+              "url": "https://t.co/R4Ff7lmnA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962376797745709442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩😁 https://t.co/R4Ff7lmnA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16972,
+          "following_count": 95,
+          "like_count": 14866,
+          "listed_count": 67,
+          "media_count": 345,
+          "tweet_count": 2146
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9471,
+          "following_count": 384,
+          "like_count": 2930,
+          "listed_count": 63,
+          "media_count": 240,
+          "tweet_count": 2577
+        },
+        "username": "nekkkkko422",
+        "verified": true
+      }
+    ]
+  }
+}

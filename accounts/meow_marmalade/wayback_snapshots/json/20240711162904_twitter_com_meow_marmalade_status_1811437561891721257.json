@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1811002821052940382",
+    "created_at": "2024-07-11T16:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T17:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811437561891721257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1581493004963307520",
+          "start": 0,
+          "username": "bobi_wu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811437561891721257",
+    "in_reply_to_user_id": "1581493004963307520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811428216424566825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi_wu 哪有！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1811002821052940382",
+        "created_at": "2024-07-11T16:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T17:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811437561891721257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1581493004963307520",
+              "start": 0,
+              "username": "bobi_wu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811437561891721257",
+        "in_reply_to_user_id": "1581493004963307520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811428216424566825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi_wu 哪有！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1581493004963307520",
+        "conversation_id": "1811002821052940382",
+        "created_at": "2024-07-11T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811428216424566825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811428216424566825",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811002821052940382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 勾引人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811379627048509440/TOJiTB6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 94,
+          "like_count": 1124,
+          "listed_count": 5,
+          "tweet_count": 306
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T03:51:39.000Z",
+        "description": "看看看看看看看",
+        "id": "1581493004963307520",
+        "name": "bobi_wu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711728101988892672/zoOmHrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 77,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "username": "bobi_wu",
+        "verified": false
+      }
+    ]
+  }
+}

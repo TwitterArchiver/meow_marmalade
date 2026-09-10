@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1993983788536504418",
+    "created_at": "2025-11-27T18:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994114948008693860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1095570490230333440",
+          "start": 0,
+          "username": "KAGASACHAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994114948008693860",
+    "in_reply_to_user_id": "1095570490230333440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994098588797001855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KAGASACHAN 这么邪恶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_1994098583424077824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6x2GLAaEAAPz6C.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1993983788536504418",
+        "created_at": "2025-11-27T18:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994114948008693860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1095570490230333440",
+              "start": 0,
+              "username": "KAGASACHAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994114948008693860",
+        "in_reply_to_user_id": "1095570490230333440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994098588797001855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KAGASACHAN 这么邪恶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994098583424077824"
+          ]
+        },
+        "author_id": "1095570490230333440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993983788536504418",
+        "created_at": "2025-11-27T17:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994098588797001855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aRuxKxqbZ",
+              "end": 53,
+              "expanded_url": "https://x.com/KAGASACHAN/status/1994098588797001855/photo/1",
+              "media_key": "3_1994098583424077824",
+              "start": 30,
+              "url": "https://t.co/9aRuxKxqbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994098588797001855",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993983788536504418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 我偷走了你的终末地测试资格 https://t.co/9aRuxKxqbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27402,
+          "following_count": 95,
+          "like_count": 18559,
+          "listed_count": 113,
+          "media_count": 210,
+          "tweet_count": 2901
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-13T06:28:54.000Z",
+        "description": "你好呀w这里是伞伞w\n别名为终雨澪栖\n欢迎贴贴w  喜欢可爱的猫猫w\n大一生/童话系/雨云系/喜欢云朵和光线\n不切实际的实用主义者\n失落和喜悦来来往往\n作为观察者路过你们的身边",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+WPWhiaLQrtI4N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+WPWhiaLQrtI4N2Y1",
+                "start": 0,
+                "url": "https://t.co/yiB2KgL6Pk"
+              }
+            ]
+          }
+        },
+        "id": "1095570490230333440",
+        "location": "Shiyuame Reisei",
+        "name": "TATARA",
+        "pinned_tweet_id": "1869426875384377775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719756212261228544/ZYgqoGsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 933,
+          "like_count": 19985,
+          "listed_count": 5,
+          "media_count": 1218,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/yiB2KgL6Pk",
+        "username": "KAGASACHAN",
+        "verified": false
+      }
+    ]
+  }
+}

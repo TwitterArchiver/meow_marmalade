@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1978832078415278285",
+    "created_at": "2025-10-17T12:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979159015541342296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3979405700",
+          "start": 0,
+          "username": "KarinrinSusei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979159015541342296",
+    "in_reply_to_user_id": "3979405700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978832078415278285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarinrinSusei 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978832074925920256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Y5SbAb0AACmHp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1978832078415278285",
+        "created_at": "2025-10-17T12:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979159015541342296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3979405700",
+              "start": 0,
+              "username": "KarinrinSusei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979159015541342296",
+        "in_reply_to_user_id": "3979405700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978832078415278285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarinrinSusei 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978832074925920256"
+          ]
+        },
+        "author_id": "3979405700",
+        "conversation_id": "1978832078415278285",
+        "created_at": "2025-10-16T14:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978832078415278285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cm6b08Fq5x",
+              "end": 23,
+              "expanded_url": "https://x.com/KarinrinSusei/status/1978832078415278285/photo/1",
+              "media_key": "3_1978832074925920256",
+              "start": 0,
+              "url": "https://t.co/cm6b08Fq5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978832078415278285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 27838,
+          "like_count": 1230,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cm6b08Fq5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20925,
+          "following_count": 95,
+          "like_count": 16840,
+          "listed_count": 85,
+          "media_count": 184,
+          "tweet_count": 2394
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-22T11:00:35.000Z",
+        "description": "可愛又迷人的反派角色花凜凜喲✨@Mdrchyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Mdrchyan"
+              }
+            ]
+          }
+        },
+        "id": "3979405700",
+        "location": "水星",
+        "name": "失眠魔女花凜凜.🌙",
+        "pinned_tweet_id": "1837781453834219795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579787100203126784/6NdgOFjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114957,
+          "following_count": 858,
+          "like_count": 45051,
+          "listed_count": 360,
+          "media_count": 96,
+          "tweet_count": 4334
+        },
+        "username": "KarinrinSusei",
+        "verified": false
+      }
+    ]
+  }
+}

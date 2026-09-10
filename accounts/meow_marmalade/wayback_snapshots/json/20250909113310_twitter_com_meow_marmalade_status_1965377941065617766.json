@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1965344191837585516",
+    "created_at": "2025-09-09T11:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T12:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965377941065617766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772555595209666560",
+          "start": 0,
+          "username": "Mith386016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965377941065617766",
+    "in_reply_to_user_id": "1772555595209666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965364372240486631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mith386016 对的 你老板派我在组里蹲你😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1965344191837585516",
+        "created_at": "2025-09-09T11:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965377941065617766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772555595209666560",
+              "start": 0,
+              "username": "Mith386016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965377941065617766",
+        "in_reply_to_user_id": "1772555595209666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965364372240486631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mith386016 对的 你老板派我在组里蹲你😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772555595209666560",
+        "conversation_id": "1965344191837585516",
+        "created_at": "2025-09-09T10:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965364372240486631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965364372240486631",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965344191837585516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你的意思是说，会有一名可爱温柔的反差系学姐在组里每天等我上班？🤔🤔🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18107,
+          "following_count": 90,
+          "like_count": 15341,
+          "listed_count": 71,
+          "media_count": 289,
+          "tweet_count": 2212
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T09:26:28.000Z",
+        "description": "",
+        "id": "1772555595209666560",
+        "name": "Mith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880147286464036864/DQeeckW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 74
+        },
+        "username": "Mith386016",
+        "verified": false
+      }
+    ]
+  }
+}

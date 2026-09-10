@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1944490094926369242",
+    "created_at": "2025-07-14T05:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944630651912884327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1462409277042221070",
+          "start": 0,
+          "username": "Treiger5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944630651912884327",
+    "in_reply_to_user_id": "1462409277042221070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944630353257550239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Treiger5 太晚了第二天又是工作日 别熬坏了hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1944490094926369242",
+        "created_at": "2025-07-14T05:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944630651912884327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1462409277042221070",
+              "start": 0,
+              "username": "Treiger5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944630651912884327",
+        "in_reply_to_user_id": "1462409277042221070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944630353257550239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Treiger5 太晚了第二天又是工作日 别熬坏了hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462409277042221070",
+        "conversation_id": "1944490094926369242",
+        "created_at": "2025-07-14T05:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944630353257550239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944630353257550239",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944490094926369242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 卧槽睡着了没看到 太后悔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12571,
+          "following_count": 99,
+          "like_count": 12789,
+          "listed_count": 51,
+          "media_count": 290,
+          "tweet_count": 1582
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:15:35.000Z",
+        "description": "于是我把一切丢进了电子的海洋。",
+        "id": "1462409277042221070",
+        "location": "Night city",
+        "name": "Achesx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680246001796259842/RMQZJgJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 869,
+          "like_count": 23565,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 489
+        },
+        "username": "Treiger5",
+        "verified": false
+      }
+    ]
+  }
+}

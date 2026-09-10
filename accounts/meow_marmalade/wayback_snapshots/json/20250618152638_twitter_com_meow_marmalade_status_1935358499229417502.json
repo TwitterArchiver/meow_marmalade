@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1935286302469145070",
+    "created_at": "2025-06-18T15:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T16:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935358499229417502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809594992958337025",
+          "start": 0,
+          "username": "cxk_c46045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935358499229417502",
+    "in_reply_to_user_id": "1809594992958337025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935346353380479471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxk_c46045 更新时间很随性的 堡堡别那么辛苦hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1935286302469145070",
+        "created_at": "2025-06-18T15:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935358499229417502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809594992958337025",
+              "start": 0,
+              "username": "cxk_c46045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935358499229417502",
+        "in_reply_to_user_id": "1809594992958337025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935346353380479471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxk_c46045 更新时间很随性的 堡堡别那么辛苦hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809594992958337025",
+        "conversation_id": "1935286302469145070",
+        "created_at": "2025-06-18T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935346353380479471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935346353380479471",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935342598039945275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 明天什么时候更新喵，我想蹲第一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8983,
+          "following_count": 96,
+          "like_count": 11632,
+          "listed_count": 27,
+          "media_count": 264,
+          "tweet_count": 1313
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T14:27:42.000Z",
+        "description": "",
+        "id": "1809594992958337025",
+        "name": "阿米娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920658407826059264/HD9BeqMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "cxk_c46045",
+        "verified": false
+      }
+    ]
+  }
+}

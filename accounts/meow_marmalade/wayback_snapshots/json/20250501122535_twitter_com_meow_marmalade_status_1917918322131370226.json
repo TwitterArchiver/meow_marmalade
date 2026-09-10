@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1917917299933327535",
+    "created_at": "2025-05-01T12:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T13:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917918322131370226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "721694451114991617",
+          "start": 0,
+          "username": "Jsphnhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917918322131370226",
+    "in_reply_to_user_id": "721694451114991617",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917917299933327535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jsphnhhh i miss Popeyes🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1917917299933327535",
+        "created_at": "2025-05-01T12:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917918322131370226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "721694451114991617",
+              "start": 0,
+              "username": "Jsphnhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917918322131370226",
+        "in_reply_to_user_id": "721694451114991617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917917299933327535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jsphnhhh i miss Popeyes🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "721694451114991617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026515154",
+              "name": "Popeyes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026515154",
+              "name": "Popeyes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1917917299933327535",
+        "created_at": "2025-05-01T12:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917917299933327535"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 204,
+              "normalized_text": "McDonald's",
+              "probability": 0.9409,
+              "start": 195,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917917299933327535",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I wanna have Popeyes but it's not open until 10:30...\nI wanna go down to the beach rn and watch the sunrise (might die on the way there or on the way back but it's okay 🤣)\nMaybe I should walk to McDonald's instead? (Also might die on the way)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 91,
+          "like_count": 9279,
+          "listed_count": 13,
+          "media_count": 219,
+          "tweet_count": 920
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-17T13:39:00.000Z",
+        "description": "Always tired...",
+        "id": "721694451114991617",
+        "name": "Jσsερhιηε",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500345830619844609/JjsQJJXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 4811,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 820
+        },
+        "username": "Jsphnhhh",
+        "verified": false
+      }
+    ]
+  }
+}

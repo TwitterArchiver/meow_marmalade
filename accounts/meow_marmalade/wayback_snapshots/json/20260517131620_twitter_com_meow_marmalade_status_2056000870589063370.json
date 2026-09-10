@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2055683045211111616",
+    "created_at": "2026-05-17T13:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056000870589063370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025972298625531904",
+          "start": 0,
+          "username": "mao19249"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056000870589063370",
+    "in_reply_to_user_id": "2025972298625531904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055683045211111616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mao19249 拍的时候是觉得不会分手还是觉得不是把柄..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2055683045211111616",
+        "created_at": "2026-05-17T13:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056000870589063370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025972298625531904",
+              "start": 0,
+              "username": "mao19249"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056000870589063370",
+        "in_reply_to_user_id": "2025972298625531904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055683045211111616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mao19249 拍的时候是觉得不会分手还是觉得不是把柄..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025972298625531904",
+        "conversation_id": "2055683045211111616",
+        "created_at": "2026-05-16T16:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055683045211111616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055683045211111616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 700378,
+          "like_count": 835,
+          "quote_count": 0,
+          "reply_count": 435,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们那些拍do视频的，分手了不都是把柄吗，不怕被到处乱发了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38018,
+          "following_count": 90,
+          "like_count": 25992,
+          "listed_count": 151,
+          "media_count": 206,
+          "tweet_count": 4398
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T16:33:53.000Z",
+        "description": "brat I 发着玩的 只是为了满足自己的一点点癖好\n不聊黄不线下不加任何",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nian40877",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nian40877",
+                "start": 0,
+                "url": "https://t.co/yllBh0SWCw"
+              }
+            ]
+          }
+        },
+        "id": "2025972298625531904",
+        "location": "🚪520000000000",
+        "name": "猫猫头",
+        "pinned_tweet_id": "2053894684452512121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025972536643837955/A5fuQsG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 95,
+          "like_count": 304,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/yllBh0SWCw",
+        "username": "mao19249",
+        "verified": false
+      }
+    ]
+  }
+}

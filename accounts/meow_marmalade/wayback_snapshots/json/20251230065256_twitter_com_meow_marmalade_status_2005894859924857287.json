@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2005893681036111903",
+    "created_at": "2025-12-30T06:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T07:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005894859924857287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662304092851687424",
+          "start": 0,
+          "username": "nekkkkko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005894859924857287",
+    "in_reply_to_user_id": "1662304092851687424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005893681036111903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekkkkko422 我亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005893672664252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ZdquhbQAAY4YC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2005893681036111903",
+        "created_at": "2025-12-30T06:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005894859924857287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662304092851687424",
+              "start": 0,
+              "username": "nekkkkko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005894859924857287",
+        "in_reply_to_user_id": "1662304092851687424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005893681036111903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekkkkko422 我亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005893672664252416"
+          ]
+        },
+        "author_id": "1662304092851687424",
+        "conversation_id": "2005893681036111903",
+        "created_at": "2025-12-30T06:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005893681036111903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "卡提希娅"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/grXACQPvOC",
+              "end": 55,
+              "expanded_url": "https://x.com/nekkkkko422/status/2005893681036111903/photo/1",
+              "media_key": "3_2005893672664252416",
+              "start": 32,
+              "url": "https://t.co/grXACQPvOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005893681036111903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卡提希娅试穿（这个假发，还没拆就炸毛了😭\n#鳴潮  #卡提希娅 https://t.co/grXACQPvOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29690,
+          "following_count": 94,
+          "like_count": 20218,
+          "listed_count": 130,
+          "media_count": 178,
+          "tweet_count": 3216
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:46:04.000Z",
+        "description": "大概是里账号@QAQNeko422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "QAQNeko422"
+              }
+            ]
+          }
+        },
+        "id": "1662304092851687424",
+        "location": "距你2.3km",
+        "name": "Abandon",
+        "pinned_tweet_id": "2005893681036111903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751897312266457088/xLDFmj5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16774,
+          "following_count": 395,
+          "like_count": 3475,
+          "listed_count": 83,
+          "media_count": 256,
+          "tweet_count": 3030
+        },
+        "username": "nekkkkko422",
+        "verified": true
+      }
+    ]
+  }
+}

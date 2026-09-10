@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1925394701919952992",
+    "created_at": "2025-05-22T04:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T05:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925405624000815270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554131037596557312",
+          "start": 0,
+          "username": "oco0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925405624000815270",
+    "in_reply_to_user_id": "1554131037596557312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925394701919952992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oco0128 忍耐汁（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1925394701919952992",
+        "created_at": "2025-05-22T04:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925405624000815270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554131037596557312",
+              "start": 0,
+              "username": "oco0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925405624000815270",
+        "in_reply_to_user_id": "1554131037596557312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925394701919952992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oco0128 忍耐汁（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554131037596557312",
+        "conversation_id": "1925394701919952992",
+        "created_at": "2025-05-22T03:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T04:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925394701919952992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925394701919952992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩奶子叽叽流一股一股粘粘的水是什么啊 不是尿也不是精液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 99,
+          "like_count": 10463,
+          "listed_count": 16,
+          "media_count": 234,
+          "tweet_count": 1066
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T15:45:03.000Z",
+        "description": "",
+        "id": "1554131037596557312",
+        "name": "b",
+        "pinned_tweet_id": "1631308607840190464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344003490906113/wAKbB7eP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 288,
+          "like_count": 690,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 864
+        },
+        "username": "oco0128",
+        "verified": false
+      }
+    ]
+  }
+}

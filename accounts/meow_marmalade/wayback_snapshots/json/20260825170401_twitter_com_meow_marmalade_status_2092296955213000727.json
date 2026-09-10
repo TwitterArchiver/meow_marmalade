@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2092238899766804788",
+    "created_at": "2026-08-25T17:04:01.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092296955213000727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705996511375654912",
+          "start": 0,
+          "username": "TruE_0619101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092296955213000727",
+    "in_reply_to_user_id": "1705996511375654912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092238899766804788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruE_0619101 我就知道你是萝莉...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4078,
+        "media_key": "3_2092238890044375040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkgL3JaQAAqO2_.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2092238899766804788",
+        "created_at": "2026-08-25T17:04:01.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092296955213000727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705996511375654912",
+              "start": 0,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092296955213000727",
+        "in_reply_to_user_id": "1705996511375654912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092238899766804788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruE_0619101 我就知道你是萝莉...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092238890044375040"
+          ]
+        },
+        "author_id": "1705996511375654912",
+        "conversation_id": "2092238899766804788",
+        "created_at": "2026-08-25T13:13:20.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092238899766804788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzFm2Rnhaf",
+              "end": 70,
+              "expanded_url": "https://x.com/TruE_0619101/status/2092238899766804788/photo/1",
+              "media_key": "3_2092238890044375040",
+              "start": 47,
+              "url": "https://t.co/lzFm2Rnhaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092238899766804788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092238890044375040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1100,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和各位大哥哥大姐姐们告个别，我要开学了👉👈手机要被爸爸妈妈收走了，我们寒假再见吧（bushi https://t.co/lzFm2Rnhaf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2092296955213000727",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40665,
+          "following_count": 103,
+          "like_count": 28573,
+          "listed_count": 166,
+          "media_count": 221,
+          "tweet_count": 5195
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T17:24:06.000Z",
+        "description": "清水推记录生活喵｜点点关注点点赞我会开心一整天的◝(⑅•ᴗ•⑅)◜..°♡｜软件工程在修电脑👉👈",
+        "id": "1705996511375654912",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2092238899766804788",
+        "name": "楚奈奈TruE",
+        "pinned_tweet_id": "1881301821815394506",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066758885697105921/q2iZby-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8752,
+          "following_count": 357,
+          "like_count": 474,
+          "listed_count": 31,
+          "media_count": 108,
+          "tweet_count": 687
+        },
+        "url": "",
+        "username": "TruE_0619101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

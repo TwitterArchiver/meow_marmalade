@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2072256309681176989",
+    "created_at": "2026-07-02T00:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072479623871607055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1924076827125092352",
+          "start": 0,
+          "username": "Est_G_Ar"
+        },
+        {
+          "end": 23,
+          "id": "1705996511375654912",
+          "start": 10,
+          "username": "TruE_0619101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072479623871607055",
+    "in_reply_to_user_id": "1924076827125092352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072360533014270053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Est_G_Ar @TruE_0619101 干嘛😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2072256309681176989",
+        "created_at": "2026-07-02T00:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072479623871607055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1924076827125092352",
+              "start": 0,
+              "username": "Est_G_Ar"
+            },
+            {
+              "end": 23,
+              "id": "1705996511375654912",
+              "start": 10,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072479623871607055",
+        "in_reply_to_user_id": "1924076827125092352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072360533014270053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Est_G_Ar @TruE_0619101 干嘛😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924076827125092352",
+        "conversation_id": "2072256309681176989",
+        "created_at": "2026-07-01T16:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072360533014270053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 29,
+              "id": "1705996511375654912",
+              "start": 16,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360533014270053",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072330702289531089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @TruE_0619101 别逗你蜜姐笑了()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39251,
+          "following_count": 96,
+          "like_count": 27299,
+          "listed_count": 156,
+          "media_count": 177,
+          "tweet_count": 4781
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T12:17:31.000Z",
+        "description": "",
+        "id": "1924076827125092352",
+        "name": "藍原芽衣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941906932681281536/YrOxp1ID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "Est_G_Ar",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T17:24:06.000Z",
+        "description": "清水推记录生活喵｜点点关注点点赞我会开心一整天的◝(⑅•ᴗ•⑅)◜..°♡｜学计算机会变得不幸👉👈",
+        "id": "1705996511375654912",
+        "location": "上海",
+        "name": "楚奈奈TruE",
+        "pinned_tweet_id": "1881301821815394506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066758885697105921/q2iZby-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8563,
+          "following_count": 356,
+          "like_count": 457,
+          "listed_count": 32,
+          "media_count": 104,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "TruE_0619101",
+        "verified": false
+      }
+    ]
+  }
+}

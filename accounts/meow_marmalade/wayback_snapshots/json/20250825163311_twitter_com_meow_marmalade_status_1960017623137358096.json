@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1959972937718538293",
+    "created_at": "2025-08-25T16:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T17:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960017623137358096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1434740364322086917",
+          "start": 0,
+          "username": "YY35227940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960017623137358096",
+    "in_reply_to_user_id": "1434740364322086917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960017371596202107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YY35227940 那我就不知道了🫥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1959972937718538293",
+        "created_at": "2025-08-25T16:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960017623137358096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434740364322086917",
+              "start": 0,
+              "username": "YY35227940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960017623137358096",
+        "in_reply_to_user_id": "1434740364322086917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960017371596202107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YY35227940 那我就不知道了🫥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434740364322086917",
+        "conversation_id": "1959972937718538293",
+        "created_at": "2025-08-25T16:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960017371596202107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960017371596202107",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959972937718538293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 哈基蜜柑真被限流了吗，连我这样的老观众都不被推送了吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15538,
+          "following_count": 95,
+          "like_count": 14561,
+          "listed_count": 61,
+          "media_count": 339,
+          "tweet_count": 2086
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-06T04:49:14.000Z",
+        "description": "无",
+        "id": "1434740364322086917",
+        "name": "YY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434740508211830792/JT0IYJv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 109,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 232
+        },
+        "username": "YY35227940",
+        "verified": false
+      }
+    ]
+  }
+}

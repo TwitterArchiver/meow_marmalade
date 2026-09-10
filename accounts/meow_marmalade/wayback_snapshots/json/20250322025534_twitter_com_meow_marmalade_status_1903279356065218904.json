@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1903250656611406253",
+    "created_at": "2025-03-22T02:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T03:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903279356065218904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1744548231428861952",
+          "start": 0,
+          "username": "CNSX18842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903279356065218904",
+    "in_reply_to_user_id": "1744548231428861952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903265889132351706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNSX18842 好就是好😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1903250656611406253",
+        "created_at": "2025-03-22T02:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903279356065218904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1744548231428861952",
+              "start": 0,
+              "username": "CNSX18842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903279356065218904",
+        "in_reply_to_user_id": "1744548231428861952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903265889132351706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNSX18842 好就是好😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744548231428861952",
+        "conversation_id": "1903250656611406253",
+        "created_at": "2025-03-22T02:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903265889132351706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903265889132351706",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903250656611406253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这个好😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 99,
+          "like_count": 6973,
+          "listed_count": 11,
+          "media_count": 183,
+          "tweet_count": 681
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T02:34:53.000Z",
+        "description": "要被吃掉惹～",
+        "id": "1744548231428861952",
+        "location": "我无处不在～",
+        "name": "黄油猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771558810412621824/BUAbBVri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 767,
+          "like_count": 6740,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2627
+        },
+        "username": "CNSX18842",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1972355038329909428",
+    "created_at": "2025-09-29T11:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972629110276190594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524477605038100481",
+          "start": 0,
+          "username": "AliceIntoAbyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972629110276190594",
+    "in_reply_to_user_id": "1524477605038100481",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972628588806684680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceIntoAbyss 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1972355038329909428",
+        "created_at": "2025-09-29T11:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972629110276190594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524477605038100481",
+              "start": 0,
+              "username": "AliceIntoAbyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972629110276190594",
+        "in_reply_to_user_id": "1524477605038100481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972628588806684680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceIntoAbyss 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524477605038100481",
+        "conversation_id": "1972355038329909428",
+        "created_at": "2025-09-29T11:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972628588806684680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "shibaider",
+              "probability": 0.4507,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972628588806684680",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972359785199906871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade I'm shibaider man😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20019,
+          "following_count": 93,
+          "like_count": 16156,
+          "listed_count": 81,
+          "media_count": 177,
+          "tweet_count": 2247
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T19:52:52.000Z",
+        "description": "拜赛博菩萨，修电子功德。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42410238",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42410238",
+                "start": 0,
+                "url": "https://t.co/Qzb6ARKnae"
+              }
+            ]
+          }
+        },
+        "id": "1524477605038100481",
+        "location": "喵喵星",
+        "name": "超绝赞摆烂芙（杂食型）",
+        "pinned_tweet_id": "1969005459517350104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710486230344118272/QhdxSPXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51242,
+          "following_count": 2065,
+          "like_count": 42781,
+          "listed_count": 284,
+          "media_count": 598,
+          "tweet_count": 56684
+        },
+        "url": "https://t.co/Qzb6ARKnae",
+        "username": "AliceIntoAbyss",
+        "verified": true
+      }
+    ]
+  }
+}

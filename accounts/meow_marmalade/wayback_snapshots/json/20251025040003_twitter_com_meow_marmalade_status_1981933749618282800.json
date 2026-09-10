@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1981663189810205004",
+    "created_at": "2025-10-25T04:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T05:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981933749618282800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1612599525163798528",
+          "start": 0,
+          "username": "Theworld_54188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981933749618282800",
+    "in_reply_to_user_id": "1612599525163798528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981930442061426788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theworld_54188 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1981663189810205004",
+        "created_at": "2025-10-25T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981933749618282800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1612599525163798528",
+              "start": 0,
+              "username": "Theworld_54188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981933749618282800",
+        "in_reply_to_user_id": "1612599525163798528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981930442061426788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theworld_54188 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612599525163798528",
+        "conversation_id": "1981663189810205004",
+        "created_at": "2025-10-25T03:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981930442061426788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981930442061426788",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981663189810205004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 这男的吧\n🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23007,
+          "following_count": 95,
+          "like_count": 17139,
+          "listed_count": 93,
+          "media_count": 182,
+          "tweet_count": 2478
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T23:57:59.000Z",
+        "description": "一个煞比二次元\nTokisaki Kurumi my wife!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bing.com",
+                "end": 23,
+                "expanded_url": "https://bing.com",
+                "start": 0,
+                "url": "https://t.co/ly8FP3Pst7"
+              }
+            ]
+          }
+        },
+        "id": "1612599525163798528",
+        "location": "Earth",
+        "name": "纪名首发",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612648573325422593/zTtwbpPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 125,
+          "like_count": 1845,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/ly8FP3Pst7",
+        "username": "Theworld_54188",
+        "verified": false
+      }
+    ]
+  }
+}

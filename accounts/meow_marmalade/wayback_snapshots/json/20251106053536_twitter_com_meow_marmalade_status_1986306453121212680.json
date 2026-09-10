@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-06T05:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986306453121212680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "271457076",
+          "start": 0,
+          "username": "ds6872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986306453121212680",
+    "in_reply_to_user_id": "271457076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986299208673206370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ds6872 这么恶毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T05:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986306453121212680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "271457076",
+              "start": 0,
+              "username": "ds6872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986306453121212680",
+        "in_reply_to_user_id": "271457076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986299208673206370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ds6872 这么恶毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "271457076",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986299208673206370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986299208673206370",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986035435702001673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你真是太小看别人了，爱打游戏？显卡热的？PUA你去做游戏陪玩，用你的钱来点外卖，那时候不只显卡是热的，饭也是热的，汤也是热的，只有你是凉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25881,
+          "following_count": 92,
+          "like_count": 17719,
+          "listed_count": 102,
+          "media_count": 191,
+          "tweet_count": 2654
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-24T15:02:11.000Z",
+        "description": "主业打油诗，副业工程师，尬聊我最爱，吐槽我最痴。",
+        "id": "271457076",
+        "location": "日本愛知県名古屋市千種区",
+        "name": "别叫我阿强 🎮 🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000849823784/8cf24170c84ec10d5579aad95841dc8f_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 359,
+          "like_count": 29221,
+          "listed_count": 12,
+          "media_count": 699,
+          "tweet_count": 16949
+        },
+        "username": "ds6872",
+        "verified": false
+      }
+    ]
+  }
+}

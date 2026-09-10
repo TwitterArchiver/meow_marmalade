@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1925864022559121762",
+    "created_at": "2025-05-23T13:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T14:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925913698322755593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1434740364322086917",
+          "start": 0,
+          "username": "YY35227940"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925913698322755593",
+    "in_reply_to_user_id": "1434740364322086917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925913471851336083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YY35227940 别太贪心了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_1925913456013680641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gro4FZXXIAEnq-E.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1925864022559121762",
+        "created_at": "2025-05-23T13:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925913698322755593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434740364322086917",
+              "start": 0,
+              "username": "YY35227940"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925913698322755593",
+        "in_reply_to_user_id": "1434740364322086917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925913471851336083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YY35227940 别太贪心了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925913456013680641"
+          ]
+        },
+        "author_id": "1434740364322086917",
+        "conversation_id": "1925864022559121762",
+        "created_at": "2025-05-23T13:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925913471851336083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ja1xe5lt4S",
+              "end": 50,
+              "expanded_url": "https://x.com/YY35227940/status/1925913471851336083/photo/1",
+              "media_key": "3_1925913456013680641",
+              "start": 27,
+              "url": "https://t.co/ja1xe5lt4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925913471851336083",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925864022559121762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 谢谢主包的款待，但是 https://t.co/ja1xe5lt4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5649,
+          "following_count": 100,
+          "like_count": 10626,
+          "listed_count": 17,
+          "media_count": 236,
+          "tweet_count": 1082
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-06T04:49:14.000Z",
+        "description": "无",
+        "id": "1434740364322086917",
+        "name": "YY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434740508211830792/JT0IYJv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 112,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 151
+        },
+        "username": "YY35227940",
+        "verified": false
+      }
+    ]
+  }
+}

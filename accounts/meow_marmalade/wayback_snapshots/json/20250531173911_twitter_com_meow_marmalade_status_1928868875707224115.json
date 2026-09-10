@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1928793547001532702",
+    "created_at": "2025-05-31T17:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928868875707224115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802704004251787264",
+          "start": 0,
+          "username": "qi_si83596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928868875707224115",
+    "in_reply_to_user_id": "1802704004251787264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928832346209353911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si83596 😊😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1928793547001532702",
+        "created_at": "2025-05-31T17:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928868875707224115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802704004251787264",
+              "start": 0,
+              "username": "qi_si83596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928868875707224115",
+        "in_reply_to_user_id": "1802704004251787264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928832346209353911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si83596 😊😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704004251787264",
+        "conversation_id": "1928793547001532702",
+        "created_at": "2025-05-31T15:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T16:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928832346209353911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928832346209353911",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928793547001532702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 96,
+          "like_count": 11038,
+          "listed_count": 24,
+          "media_count": 246,
+          "tweet_count": 1171
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:05:10.000Z",
+        "description": "二弟的二弟",
+        "id": "1802704004251787264",
+        "name": "琪亚娜卡斯兰娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847163037490507776/-4oH2SL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 90,
+          "like_count": 3107,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1648
+        },
+        "username": "qi_si83596",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1995075811532275846",
+    "created_at": "2025-12-01T01:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T02:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995305353190523301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605018649974095872",
+          "start": 0,
+          "username": "wy76086283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995305353190523301",
+    "in_reply_to_user_id": "1605018649974095872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995249848451559689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wy76086283 谢谢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1995075811532275846",
+        "created_at": "2025-12-01T01:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995305353190523301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605018649974095872",
+              "start": 0,
+              "username": "wy76086283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995305353190523301",
+        "in_reply_to_user_id": "1605018649974095872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995249848451559689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wy76086283 谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605018649974095872",
+        "conversation_id": "1995075811532275846",
+        "created_at": "2025-11-30T21:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T22:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995249848451559689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995249848451559689",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995075811532275846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 往那一站像人偶一样，，萌。🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27446,
+          "following_count": 90,
+          "like_count": 18703,
+          "listed_count": 113,
+          "media_count": 210,
+          "tweet_count": 2948
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T01:55:10.000Z",
+        "description": "",
+        "id": "1605018649974095872",
+        "name": "一般路过不知名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986505309230407683/-Zu29XqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 268,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "wy76086283",
+        "verified": false
+      }
+    ]
+  }
+}

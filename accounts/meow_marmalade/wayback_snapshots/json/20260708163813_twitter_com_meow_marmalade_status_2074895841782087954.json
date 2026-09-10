@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2074837622732828700",
+    "created_at": "2026-07-08T16:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074895841782087954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930661826896994304",
+          "start": 0,
+          "username": "QAQNeko422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074895841782087954",
+    "in_reply_to_user_id": "1930661826896994304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882311330644216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQNeko422 你气死我得了😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2074837622732828700",
+        "created_at": "2026-07-08T16:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074895841782087954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930661826896994304",
+              "start": 0,
+              "username": "QAQNeko422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074895841782087954",
+        "in_reply_to_user_id": "1930661826896994304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882311330644216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQNeko422 你气死我得了😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930661826896994304",
+        "conversation_id": "2074837622732828700",
+        "created_at": "2026-07-08T15:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882311330644216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882311330644216",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074837622732828700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 马斯克认证的烧鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39562,
+          "following_count": 96,
+          "like_count": 27483,
+          "listed_count": 156,
+          "media_count": 185,
+          "tweet_count": 4844
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T16:23:53.000Z",
+        "description": "@nekkkkko422 二号机，用来发图和发癫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "nekkkkko422"
+              }
+            ]
+          }
+        },
+        "id": "1930661826896994304",
+        "name": "NekoQAQ",
+        "pinned_tweet_id": "2070455044886159476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930662561277792256/evEaDI6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16910,
+          "following_count": 18,
+          "like_count": 632,
+          "listed_count": 48,
+          "media_count": 34,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "QAQNeko422",
+        "verified": false
+      }
+    ]
+  }
+}

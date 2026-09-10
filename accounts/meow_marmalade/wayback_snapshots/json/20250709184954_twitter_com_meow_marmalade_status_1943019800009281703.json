@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1942562135332250048",
+    "created_at": "2025-07-09T18:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T19:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943019800009281703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244573189855993857",
+          "start": 0,
+          "username": "CallsignStealth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943019800009281703",
+    "in_reply_to_user_id": "1244573189855993857",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943001805362794762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallsignStealth thx😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1942562135332250048",
+        "created_at": "2025-07-09T18:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T19:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943019800009281703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244573189855993857",
+              "start": 0,
+              "username": "CallsignStealth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943019800009281703",
+        "in_reply_to_user_id": "1244573189855993857",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943001805362794762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallsignStealth thx😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244573189855993857",
+        "conversation_id": "1942562135332250048",
+        "created_at": "2025-07-09T17:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943001805362794762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943001805362794762",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942562135332250048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade Damn, that’s cute 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在她心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11851,
+          "following_count": 99,
+          "like_count": 12575,
+          "listed_count": 48,
+          "media_count": 286,
+          "tweet_count": 1532
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T10:32:37.000Z",
+        "description": "better to cum in the sink than to sink in the cum",
+        "id": "1244573189855993857",
+        "name": "grandautismo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588146499103465473/ceRt8cmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 5813,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 32
+        },
+        "username": "CallsignStealth",
+        "verified": false
+      }
+    ]
+  }
+}

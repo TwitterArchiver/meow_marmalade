@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903250647686017024"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1903250656611406253",
+    "created_at": "2025-03-22T01:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T02:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903250656611406253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WsbCZsSr23",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1903250656611406253/photo/1",
+          "media_key": "3_1903250647686017024",
+          "start": 12,
+          "url": "https://t.co/WsbCZsSr23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903250656611406253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主包今天的核心出装✌️ https://t.co/WsbCZsSr23"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1903250647686017024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmm0YVXbcAAFiSt.jpg",
+        "width": 2675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903250647686017024"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1903250656611406253",
+        "created_at": "2025-03-22T01:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T02:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903250656611406253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsbCZsSr23",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1903250656611406253/photo/1",
+              "media_key": "3_1903250647686017024",
+              "start": 12,
+              "url": "https://t.co/WsbCZsSr23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903250656611406253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包今天的核心出装✌️ https://t.co/WsbCZsSr23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 99,
+          "like_count": 6966,
+          "listed_count": 11,
+          "media_count": 183,
+          "tweet_count": 678
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

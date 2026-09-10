@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2060686204593709478",
+    "created_at": "2026-05-30T19:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060801392252801401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1501964494955696145",
+          "start": 0,
+          "username": "AWei_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060801392252801401",
+    "in_reply_to_user_id": "1501964494955696145",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060767443971416104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AWei_miao 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T19:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060801392252801401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1501964494955696145",
+              "start": 0,
+              "username": "AWei_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060801392252801401",
+        "in_reply_to_user_id": "1501964494955696145",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060767443971416104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AWei_miao 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501964494955696145",
+        "conversation_id": "2060686204593709478",
+        "created_at": "2026-05-30T16:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060767443971416104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060767443971416104",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060686204593709478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@meow_marmalade 刚刚打晕过去了，现在才醒，不管了，宝宝你真的好漂亮🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38102,
+          "following_count": 94,
+          "like_count": 26252,
+          "listed_count": 150,
+          "media_count": 157,
+          "tweet_count": 4425
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T16:53:43.000Z",
+        "description": "不知道该发些什么，偶尔上传点女装吧（我是超级大摆子！）",
+        "id": "1501964494955696145",
+        "location": "相剑的大灵峰",
+        "name": "tokimi时见",
+        "pinned_tweet_id": "2002429855691100404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821128188589961217/WgaMooeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 474,
+          "like_count": 5879,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 605
+        },
+        "username": "AWei_miao",
+        "verified": false
+      }
+    ]
+  }
+}

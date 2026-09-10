@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1927224117297647912",
+    "created_at": "2025-05-27T07:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927263735636242805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279672840917139458",
+          "start": 0,
+          "username": "ManJuuJuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927263735636242805",
+    "in_reply_to_user_id": "1279672840917139458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927224117297647912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManJuuJuu 地雷妹（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927224114361606145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7gHwMXIAEKaO1.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1927224117297647912",
+        "created_at": "2025-05-27T07:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927263735636242805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1279672840917139458",
+              "start": 0,
+              "username": "ManJuuJuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927263735636242805",
+        "in_reply_to_user_id": "1279672840917139458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927224117297647912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManJuuJuu 地雷妹（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927224114361606145"
+          ]
+        },
+        "author_id": "1279672840917139458",
+        "conversation_id": "1927224117297647912",
+        "created_at": "2025-05-27T04:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T05:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927224117297647912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEBnLVaq3l",
+              "end": 39,
+              "expanded_url": "https://x.com/ManJuuJuu/status/1927224117297647912/photo/1",
+              "media_key": "3_1927224114361606145",
+              "start": 16,
+              "url": "https://t.co/BEBnLVaq3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927224117297647912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿一天胶衣会怎么样\n\n请看手臂 https://t.co/BEBnLVaq3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7214,
+          "following_count": 98,
+          "like_count": 10769,
+          "listed_count": 23,
+          "media_count": 240,
+          "tweet_count": 1112
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T07:06:03.000Z",
+        "description": "摸了 花卷@huajuan_nil 贴贴！ /重新上传禁止/Re-upload is prohibited.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "huajuan_nil"
+              }
+            ]
+          }
+        },
+        "id": "1279672840917139458",
+        "location": "？",
+        "name": "ManJuuJuu饅頭",
+        "pinned_tweet_id": "1354970425151746049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926753766792982528/6zmzNqZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19389,
+          "following_count": 737,
+          "like_count": 4115,
+          "listed_count": 95,
+          "media_count": 160,
+          "tweet_count": 2493
+        },
+        "username": "ManJuuJuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2010686262991262031",
+    "created_at": "2026-01-12T15:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010739822999314615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809999270285897728",
+          "start": 0,
+          "username": "VeryKuaiGaming"
+        },
+        {
+          "end": 32,
+          "id": "1408511315417604097",
+          "start": 16,
+          "username": "PlayApexEsports"
+        },
+        {
+          "end": 42,
+          "id": "1048018930785083392",
+          "start": 33,
+          "username": "PlayApex"
+        },
+        {
+          "end": 52,
+          "id": "1623522944688463873",
+          "start": 43,
+          "username": "XiaoL1n1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010739822999314615",
+    "in_reply_to_user_id": "1809999270285897728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010686262991262031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VeryKuaiGaming @PlayApexEsports @PlayApex @XiaoL1n1 天地三清，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2010686253071814656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dkfn0bUAArSez.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2010686262991262031",
+        "created_at": "2026-01-12T15:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010739822999314615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809999270285897728",
+              "start": 0,
+              "username": "VeryKuaiGaming"
+            },
+            {
+              "end": 32,
+              "id": "1408511315417604097",
+              "start": 16,
+              "username": "PlayApexEsports"
+            },
+            {
+              "end": 42,
+              "id": "1048018930785083392",
+              "start": 33,
+              "username": "PlayApex"
+            },
+            {
+              "end": 52,
+              "id": "1623522944688463873",
+              "start": 43,
+              "username": "XiaoL1n1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010739822999314615",
+        "in_reply_to_user_id": "1809999270285897728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010686262991262031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VeryKuaiGaming @PlayApexEsports @PlayApex @XiaoL1n1 天地三清，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010686253071814656"
+          ]
+        },
+        "author_id": "1809999270285897728",
+        "conversation_id": "2010686262991262031",
+        "created_at": "2026-01-12T12:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010686262991262031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTr1jIjIcP",
+              "end": 33,
+              "expanded_url": "https://x.com/VeryKuaiGaming/status/2010686262991262031/photo/1",
+              "media_key": "3_2010686253071814656",
+              "start": 10,
+              "url": "https://t.co/fTr1jIjIcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010686262991262031",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11898,
+          "like_count": 419,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Sapporo🫶🫶 https://t.co/fTr1jIjIcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30739,
+          "following_count": 94,
+          "like_count": 20808,
+          "listed_count": 130,
+          "media_count": 156,
+          "tweet_count": 3345
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:14:14.000Z",
+        "description": "VK GAMING official twitter account from APACS",
+        "id": "1809999270285897728",
+        "location": "Hong Kong",
+        "name": "VK Gaming",
+        "pinned_tweet_id": "1944541936347673046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828807275747876864/GPYgrzQV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 126,
+          "like_count": 67,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 40
+        },
+        "username": "VeryKuaiGaming",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T19:45:55.000Z",
+        "description": "The official account for @PlayApex Esports - #ALGS Championship January 15-18th - Sapporo, Japan 🇯🇵 🏆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "ALGS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "PlayApex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.ea.com/ChampsTickets",
+                "end": 23,
+                "expanded_url": "https://go.ea.com/ChampsTickets",
+                "start": 0,
+                "url": "https://t.co/jvxEzWY93p"
+              }
+            ]
+          }
+        },
+        "id": "1408511315417604097",
+        "name": "Apex Legends Esports",
+        "pinned_tweet_id": "1976920708807901384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981758005029838849/B8MWCXlc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237575,
+          "following_count": 951,
+          "like_count": 9317,
+          "listed_count": 598,
+          "media_count": 6967,
+          "tweet_count": 9176
+        },
+        "url": "https://t.co/jvxEzWY93p",
+        "username": "PlayApexEsports",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-05T01:15:59.000Z",
+        "description": "Feel the rush in Apex Legends: Amped\n\nESRB Rating T for Teen: Blood and Violence \nOptional in-game purchases (includes random items)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/apexlegends",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/apexlegends",
+                "start": 0,
+                "url": "https://t.co/JVejV1CsSI"
+              }
+            ]
+          }
+        },
+        "id": "1048018930785083392",
+        "location": "The Outlands",
+        "name": "Apex Legends",
+        "pinned_tweet_id": "2008207183192719755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820874610017001472/XvL4_tmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001370,
+          "following_count": 257,
+          "like_count": 12352,
+          "listed_count": 4714,
+          "media_count": 3290,
+          "tweet_count": 19015
+        },
+        "url": "https://t.co/JVejV1CsSI",
+        "username": "PlayApex",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T03:23:37.000Z",
+        "description": "Apex Legends Team Manager for @MDY_White",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "MDY_White"
+              }
+            ]
+          }
+        },
+        "id": "1623522944688463873",
+        "name": "XiaoL1n｜MDY｜VKG",
+        "pinned_tweet_id": "1655154339072327680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625011802278072320/Ta8kY4Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 237,
+          "like_count": 462,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 64
+        },
+        "username": "XiaoL1n1",
+        "verified": false
+      }
+    ]
+  }
+}

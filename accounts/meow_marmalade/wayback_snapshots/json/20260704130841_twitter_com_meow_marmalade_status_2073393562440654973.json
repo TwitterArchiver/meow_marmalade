@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2072672186981347549",
+    "created_at": "2026-07-04T13:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073393562440654973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1978694130000891904",
+          "start": 0,
+          "username": "akkoA20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073393562440654973",
+    "in_reply_to_user_id": "1978694130000891904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072672186981347549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akkoA20 这也太萌，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_2072672162302103552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOcWaHbkAA_0F-.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2072672186981347549",
+        "created_at": "2026-07-04T13:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073393562440654973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1978694130000891904",
+              "start": 0,
+              "username": "akkoA20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073393562440654973",
+        "in_reply_to_user_id": "1978694130000891904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072672186981347549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akkoA20 这也太萌，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072672162302103552"
+          ]
+        },
+        "author_id": "1978694130000891904",
+        "conversation_id": "2072672186981347549",
+        "created_at": "2026-07-02T13:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072672186981347549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMsAQqwFU5",
+              "end": 31,
+              "expanded_url": "https://x.com/akkoA20/status/2072672186981347549/photo/1",
+              "media_key": "3_2072672162302103552",
+              "start": 8,
+              "url": "https://t.co/FMsAQqwFU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072672186981347549",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "(｡･ω･｡) https://t.co/FMsAQqwFU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39270,
+          "following_count": 95,
+          "like_count": 27338,
+          "listed_count": 155,
+          "media_count": 180,
+          "tweet_count": 4803
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T05:27:09.000Z",
+        "description": "⋆ฅ^•ﻌ•^ฅ⋆",
+        "id": "1978694130000891904",
+        "location": "‎♱˚₊‧꒰ა₍^› ꘍ ‹ ^₎⟆ ‎♱˚₊‧꒰ა",
+        "name": "novembre",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072187133499166720/nXGsevbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 34,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "akkoA20",
+        "verified": false
+      }
+    ]
+  }
+}

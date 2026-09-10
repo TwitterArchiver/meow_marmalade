@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1930929822815150357",
+    "created_at": "2025-06-07T01:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T02:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931155534490812645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696044770102255617",
+          "start": 0,
+          "username": "zuiaijingke"
+        },
+        {
+          "end": 24,
+          "id": "1126756908193308672",
+          "start": 13,
+          "username": "Lingerie_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931155534490812645",
+    "in_reply_to_user_id": "1696044770102255617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931079399002304886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaijingke @Lingerie_0 唉这鞋我超爱 就是太高了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1930929822815150357",
+        "created_at": "2025-06-07T01:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T02:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931155534490812645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696044770102255617",
+              "start": 0,
+              "username": "zuiaijingke"
+            },
+            {
+              "end": 24,
+              "id": "1126756908193308672",
+              "start": 13,
+              "username": "Lingerie_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931155534490812645",
+        "in_reply_to_user_id": "1696044770102255617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931079399002304886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaijingke @Lingerie_0 唉这鞋我超爱 就是太高了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696044770102255617",
+        "conversation_id": "1930929822815150357",
+        "created_at": "2025-06-06T20:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T21:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931079399002304886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 27,
+              "id": "1126756908193308672",
+              "start": 16,
+              "username": "Lingerie_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931079399002304886",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930929822815150357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @Lingerie_0 哇塞，这个裙子太仙了，而且整体哥特的风格最杀我的是鞋子上的那个蝴蝶结，超棒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8188,
+          "following_count": 94,
+          "like_count": 11241,
+          "listed_count": 23,
+          "media_count": 252,
+          "tweet_count": 1219
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:19:32.000Z",
+        "description": "#百合 #傲娇\n在你的幻想中不存在美好的我。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "百合"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "傲娇"
+              }
+            ]
+          }
+        },
+        "id": "1696044770102255617",
+        "location": "日本",
+        "name": "椰果奶绿!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927149179991699456/UeASBj--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 193,
+          "like_count": 1555,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 93
+        },
+        "username": "zuiaijingke",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T07:52:35.000Z",
+        "description": "「绫天生丝滑」品牌官方唯一账号 ▫️始于中国的东方性感美学品牌 ▪️ 「为亲密而生，为性感正名」📮商务合作：私信/info@ling-lingerie.com ▫️官方微博：绫天生丝滑-▫️官方渠道：淘宝/天猫搜索「绫天生丝滑 」▫️Website：https://t.co/wYO0XmKZg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Ling-lingerie.com",
+                "end": 148,
+                "expanded_url": "http://Ling-lingerie.com",
+                "start": 125,
+                "url": "https://t.co/wYO0XmKZg4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltssh.tmall.com",
+                "end": 23,
+                "expanded_url": "http://ltssh.tmall.com",
+                "start": 0,
+                "url": "https://t.co/j1mPIR4Zq9"
+              }
+            ]
+          }
+        },
+        "id": "1126756908193308672",
+        "location": "上海, 中华人民共和国",
+        "name": "绫LINGERIE官方",
+        "pinned_tweet_id": "1663152841312337922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609527802977751041/aqpajkGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348669,
+          "following_count": 55,
+          "like_count": 114,
+          "listed_count": 886,
+          "media_count": 1001,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/j1mPIR4Zq9",
+        "username": "Lingerie_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957412956679143424"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1957412965038031018",
+    "created_at": "2025-08-18T12:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957412965038031018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3TqJ5JG88i",
+          "end": 33,
+          "expanded_url": "https://x.com/meow_marmalade/status/1957412965038031018/photo/1",
+          "media_key": "3_1957412956679143424",
+          "start": 10,
+          "url": "https://t.co/3TqJ5JG88i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957412965038031018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“幸运充电完毕！” https://t.co/3TqJ5JG88i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3661,
+        "media_key": "3_1957412956679143424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyogtpmbgAAGGUR.jpg",
+        "width": 2746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957412956679143424"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1957412965038031018",
+        "created_at": "2025-08-18T12:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957412965038031018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TqJ5JG88i",
+              "end": 33,
+              "expanded_url": "https://x.com/meow_marmalade/status/1957412965038031018/photo/1",
+              "media_key": "3_1957412956679143424",
+              "start": 10,
+              "url": "https://t.co/3TqJ5JG88i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957412965038031018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“幸运充电完毕！” https://t.co/3TqJ5JG88i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15443,
+          "following_count": 92,
+          "like_count": 14281,
+          "listed_count": 59,
+          "media_count": 332,
+          "tweet_count": 1962
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

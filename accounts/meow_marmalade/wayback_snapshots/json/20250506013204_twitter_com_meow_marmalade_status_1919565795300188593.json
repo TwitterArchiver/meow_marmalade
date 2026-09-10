@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1919502949946163539",
+    "created_at": "2025-05-06T01:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T02:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919565795300188593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "721694451114991617",
+          "start": 0,
+          "username": "Jsphnhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919565795300188593",
+    "in_reply_to_user_id": "721694451114991617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919502949946163539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jsphnhhh 哎呦喔 这宿舍怎么这么坏啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1786,
+        "media_key": "3_1919502948037754880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqNxwuMbAAAOuKj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1919502949946163539",
+        "created_at": "2025-05-06T01:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T02:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919565795300188593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "721694451114991617",
+              "start": 0,
+              "username": "Jsphnhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919565795300188593",
+        "in_reply_to_user_id": "721694451114991617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919502949946163539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jsphnhhh 哎呦喔 这宿舍怎么这么坏啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919502948037754880"
+          ]
+        },
+        "author_id": "721694451114991617",
+        "conversation_id": "1919502949946163539",
+        "created_at": "2025-05-05T21:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T22:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919502949946163539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISPuO2iHBd",
+              "end": 69,
+              "expanded_url": "https://x.com/Jsphnhhh/status/1919502949946163539/photo/1",
+              "media_key": "3_1919502948037754880",
+              "start": 46,
+              "url": "https://t.co/ISPuO2iHBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919502949946163539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bruh\nSaturday 竟然會停電(也不會有熱水)\n看來整天要在圖書館或是出去玩了 😭 https://t.co/ISPuO2iHBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4162,
+          "following_count": 92,
+          "like_count": 9596,
+          "listed_count": 14,
+          "media_count": 222,
+          "tweet_count": 944
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-17T13:39:00.000Z",
+        "description": "Always tired...",
+        "id": "721694451114991617",
+        "name": "J",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500345830619844609/JjsQJJXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 4918,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 839
+        },
+        "username": "Jsphnhhh",
+        "verified": false
+      }
+    ]
+  }
+}

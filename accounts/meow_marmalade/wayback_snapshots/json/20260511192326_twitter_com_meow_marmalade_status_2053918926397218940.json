@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2053672955625009562",
+    "created_at": "2026-05-11T19:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T20:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053918926397218940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614894846992580608",
+          "start": 0,
+          "username": "yueyuezhu81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053918926397218940",
+    "in_reply_to_user_id": "1614894846992580608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053672955625009562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyuezhu81 我将退学研究这段文字…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2053672955625009562",
+        "created_at": "2026-05-11T19:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053918926397218940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614894846992580608",
+              "start": 0,
+              "username": "yueyuezhu81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053918926397218940",
+        "in_reply_to_user_id": "1614894846992580608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053672955625009562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyuezhu81 我将退学研究这段文字…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614894846992580608",
+        "conversation_id": "2053672955625009562",
+        "created_at": "2026-05-11T03:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053672955625009562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053672955625009562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 127848,
+          "like_count": 969,
+          "quote_count": 5,
+          "reply_count": 166,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "四爱男才是最直的直男吧，挨草都只能接受被女人艹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37888,
+          "following_count": 99,
+          "like_count": 25863,
+          "listed_count": 148,
+          "media_count": 201,
+          "tweet_count": 4362
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-16T07:58:45.000Z",
+        "description": "一个拧巴敏感且无趣的女人",
+        "id": "1614894846992580608",
+        "location": "广东",
+        "name": "酒月",
+        "pinned_tweet_id": "2047846159864185075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897634367490732034/AsWDjsjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 24,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 389
+        },
+        "username": "yueyuezhu81",
+        "verified": false
+      }
+    ]
+  }
+}

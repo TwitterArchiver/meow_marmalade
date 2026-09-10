@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988900464486744274",
+    "created_at": "2025-11-14T01:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T02:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989143985835897247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767781838515314688",
+          "start": 0,
+          "username": "PedraoNewEra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989143985835897247",
+    "in_reply_to_user_id": "1767781838515314688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989143534147141665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PedraoNewEra that’s a man right there🫣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "16_1989143526299279360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5rbf4xWIAAlEXm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5rbf4xWIAAlEXm.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-14T01:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989143985835897247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767781838515314688",
+              "start": 0,
+              "username": "PedraoNewEra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989143985835897247",
+        "in_reply_to_user_id": "1767781838515314688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989143534147141665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PedraoNewEra that’s a man right there🫣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1989143526299279360"
+          ]
+        },
+        "author_id": "1767781838515314688",
+        "conversation_id": "1988900464486744274",
+        "created_at": "2025-11-14T01:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989143534147141665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKGqlQPRIM",
+              "end": 55,
+              "expanded_url": "https://x.com/PedraoNewEra/status/1989143534147141665/photo/1",
+              "media_key": "16_1989143526299279360",
+              "start": 32,
+              "url": "https://t.co/BKGqlQPRIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989143534147141665",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988900464486744274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade Please be a man https://t.co/BKGqlQPRIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26750,
+          "following_count": 96,
+          "like_count": 18074,
+          "listed_count": 106,
+          "media_count": 198,
+          "tweet_count": 2790
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T05:16:55.000Z",
+        "description": "Agora eu tenho uma priv, alguns mutuals vão poder ver, sla fds @PEDROBORRACHEIR | YUTAKA MAENO HEROI NACIONAL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "PEDROBORRACHEIR"
+              }
+            ]
+          }
+        },
+        "id": "1767781838515314688",
+        "location": "Anel do Orgulho",
+        "name": "Pedrão🇦🇴",
+        "pinned_tweet_id": "1983560096669122712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983416398605897728/2TViP_wk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 463,
+          "like_count": 56461,
+          "listed_count": 1,
+          "media_count": 1149,
+          "tweet_count": 20916
+        },
+        "username": "PedraoNewEra",
+        "verified": false
+      }
+    ]
+  }
+}

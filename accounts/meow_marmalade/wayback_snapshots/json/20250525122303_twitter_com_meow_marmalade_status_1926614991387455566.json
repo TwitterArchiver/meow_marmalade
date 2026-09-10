@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926614980423503873",
+        "3_1926614980373204992"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1926614991387455566",
+    "created_at": "2025-05-25T12:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T13:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926614991387455566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7OTCCxECV",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1926614991387455566/photo/1",
+          "media_key": "3_1926614980423503873",
+          "start": 12,
+          "url": "https://t.co/g7OTCCxECV"
+        },
+        {
+          "display_url": "pic.x.com/g7OTCCxECV",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1926614991387455566/photo/1",
+          "media_key": "3_1926614980373204992",
+          "start": 12,
+          "url": "https://t.co/g7OTCCxECV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926614991387455566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇怪的视角变多了/// https://t.co/g7OTCCxECV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_1926614980423503873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gry2HfcW0AEkhod.jpg",
+        "width": 1109
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926614980373204992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gry2HfQXUAAiTzB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926614980423503873",
+            "3_1926614980373204992"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1926614991387455566",
+        "created_at": "2025-05-25T12:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T13:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926614991387455566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7OTCCxECV",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1926614991387455566/photo/1",
+              "media_key": "3_1926614980423503873",
+              "start": 12,
+              "url": "https://t.co/g7OTCCxECV"
+            },
+            {
+              "display_url": "pic.x.com/g7OTCCxECV",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1926614991387455566/photo/1",
+              "media_key": "3_1926614980373204992",
+              "start": 12,
+              "url": "https://t.co/g7OTCCxECV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926614991387455566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的视角变多了/// https://t.co/g7OTCCxECV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6966,
+          "following_count": 100,
+          "like_count": 10696,
+          "listed_count": 19,
+          "media_count": 242,
+          "tweet_count": 1096
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

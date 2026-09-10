@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1925115441409855488"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1925115912535060960",
+    "created_at": "2025-05-21T09:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T10:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925115912535060960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPuxMB6V1x",
+          "end": 35,
+          "expanded_url": "https://x.com/meow_marmalade/status/1925115912535060960/video/1",
+          "media_key": "13_1925115441409855488",
+          "start": 12,
+          "url": "https://t.co/wPuxMB6V1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925115912535060960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呦喔 这下弹反真的爽 https://t.co/wPuxMB6V1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15466,
+        "height": 1080,
+        "media_key": "13_1925115441409855488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925115441409855488/img/FkhH8nfw9IuNB3IP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925115441409855488/vid/avc1/480x270/3TfR4nsP_6NPkdoz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925115441409855488/vid/avc1/640x360/mDpArjs-5iPTxmnQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925115441409855488/vid/avc1/1280x720/-uX1RQCyWL8tsaWF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925115441409855488/pl/s4BH9zEjBBrHGTqW.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925115441409855488"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1925115912535060960",
+        "created_at": "2025-05-21T09:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T10:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925115912535060960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPuxMB6V1x",
+              "end": 35,
+              "expanded_url": "https://x.com/meow_marmalade/status/1925115912535060960/video/1",
+              "media_key": "13_1925115441409855488",
+              "start": 12,
+              "url": "https://t.co/wPuxMB6V1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925115912535060960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦喔 这下弹反真的爽 https://t.co/wPuxMB6V1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5422,
+          "following_count": 99,
+          "like_count": 10420,
+          "listed_count": 16,
+          "media_count": 234,
+          "tweet_count": 1060
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

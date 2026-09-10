@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2025913274697740535",
+    "created_at": "2026-02-23T13:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025922915280306456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731785223350943744",
+          "start": 0,
+          "username": "Alan13717747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025922915280306456",
+    "in_reply_to_user_id": "1731785223350943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025922075526041748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alan13717747 变有钱 我变有钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2025913274697740535",
+        "created_at": "2026-02-23T13:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922915280306456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731785223350943744",
+              "start": 0,
+              "username": "Alan13717747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025922915280306456",
+        "in_reply_to_user_id": "1731785223350943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025922075526041748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alan13717747 变有钱 我变有钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731785223350943744",
+        "conversation_id": "2025913274697740535",
+        "created_at": "2026-02-23T13:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922075526041748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025922075526041748",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025913274697740535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 变有钱 我变有钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36081,
+          "following_count": 95,
+          "like_count": 22151,
+          "listed_count": 140,
+          "media_count": 168,
+          "tweet_count": 3684
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T21:19:17.000Z",
+        "description": "Per aspera ad astra  循此苦旅 直抵群星",
+        "id": "1731785223350943744",
+        "location": "shenzhen",
+        "name": "冒充人类",
+        "pinned_tweet_id": "1856191489539485736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734004238735515648/dgCxfdXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 1374,
+          "like_count": 24207,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 1835
+        },
+        "username": "Alan13717747",
+        "verified": false
+      }
+    ]
+  }
+}

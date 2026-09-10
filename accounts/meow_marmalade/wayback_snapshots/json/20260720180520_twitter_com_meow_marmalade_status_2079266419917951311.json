@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2079147758557262055",
+    "created_at": "2026-07-20T18:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079266419917951311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1835310454396387329",
+          "start": 0,
+          "username": "Skend_rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079266419917951311",
+    "in_reply_to_user_id": "1835310454396387329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079206636519117080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skend_rin 玛雅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-20T18:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079266419917951311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1835310454396387329",
+              "start": 0,
+              "username": "Skend_rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079266419917951311",
+        "in_reply_to_user_id": "1835310454396387329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079206636519117080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skend_rin 玛雅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835310454396387329",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-20T14:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079206636519117080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079206636519117080",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079147758557262055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老师老师有教学视频吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40203,
+          "following_count": 98,
+          "like_count": 27756,
+          "listed_count": 162,
+          "media_count": 198,
+          "tweet_count": 4972
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T13:31:45.000Z",
+        "description": "Elen síla lúmenn' omentielvo",
+        "id": "1835310454396387329",
+        "name": "芬国麟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053632805771587584/hbhursX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 1764,
+          "like_count": 7952,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "Skend_rin",
+        "verified": false
+      }
+    ]
+  }
+}

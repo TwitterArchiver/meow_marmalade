@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958115766362071040"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1958115775732191552",
+    "created_at": "2025-08-20T10:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T11:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958115775732191552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQIwbaHZ8D",
+          "end": 33,
+          "expanded_url": "https://x.com/meow_marmalade/status/1958115775732191552/photo/1",
+          "media_key": "3_1958115766362071040",
+          "start": 10,
+          "url": "https://t.co/SQIwbaHZ8D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958115775732191552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇哈————！！！ https://t.co/SQIwbaHZ8D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3278,
+        "media_key": "3_1958115766362071040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyyf6jsaYAASqKH.jpg",
+        "width": 2459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958115766362071040"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1958115775732191552",
+        "created_at": "2025-08-20T10:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958115775732191552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQIwbaHZ8D",
+              "end": 33,
+              "expanded_url": "https://x.com/meow_marmalade/status/1958115775732191552/photo/1",
+              "media_key": "3_1958115766362071040",
+              "start": 10,
+              "url": "https://t.co/SQIwbaHZ8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958115775732191552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哈————！！！ https://t.co/SQIwbaHZ8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15555,
+          "following_count": 94,
+          "like_count": 14383,
+          "listed_count": 59,
+          "media_count": 335,
+          "tweet_count": 2007
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

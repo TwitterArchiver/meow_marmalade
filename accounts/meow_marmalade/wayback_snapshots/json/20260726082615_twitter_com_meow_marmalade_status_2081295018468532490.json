@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2081268166165176552",
+    "created_at": "2026-07-26T08:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081295018468532490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081295018468532490",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081268166165176552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref 那就是要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2081267974963605504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOImMjoaMAAcQ_U.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2081268166165176552",
+        "created_at": "2026-07-26T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081295018468532490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081295018468532490",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081268166165176552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref 那就是要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081267974963605504"
+          ]
+        },
+        "author_id": "1874735511031693312",
+        "conversation_id": "2081268166165176552",
+        "created_at": "2026-07-26T06:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081268166165176552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMPAsQpfvO",
+              "end": 59,
+              "expanded_url": "https://x.com/bittersweet_ref/status/2081268166165176552/photo/1",
+              "media_key": "3_2081267974963605504",
+              "start": 36,
+              "url": "https://t.co/xMPAsQpfvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081268166165176552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1715,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "游戏都玩不动了，只想听着歌在床上漫无目的地待一会）\n要不要买个小音箱呢 https://t.co/xMPAsQpfvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40359,
+          "following_count": 98,
+          "like_count": 27907,
+          "listed_count": 164,
+          "media_count": 200,
+          "tweet_count": 5004
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "location": "林地",
+        "name": "𝔢𝔠𝔩𝔦𝔭𝔰𝔢",
+        "pinned_tweet_id": "2072857474907193719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36538,
+          "following_count": 87,
+          "like_count": 7079,
+          "listed_count": 129,
+          "media_count": 265,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "bittersweet_ref",
+        "verified": true
+      }
+    ]
+  }
+}

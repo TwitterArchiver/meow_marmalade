@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2055945944177488310",
+    "created_at": "2026-05-17T11:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055972031569789415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478718800682156037",
+          "start": 0,
+          "username": "ABC59487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055972031569789415",
+    "in_reply_to_user_id": "1478718800682156037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055946688704188620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC59487 就是高高的人字拖hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2055945944177488310",
+        "created_at": "2026-05-17T11:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055972031569789415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478718800682156037",
+              "start": 0,
+              "username": "ABC59487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055972031569789415",
+        "in_reply_to_user_id": "1478718800682156037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055946688704188620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC59487 就是高高的人字拖hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478718800682156037",
+        "conversation_id": "2055945944177488310",
+        "created_at": "2026-05-17T09:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055946688704188620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055946688704188620",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055945944177488310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 挺好奇的，這種鞋子穿起來是甚麼感覺呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38012,
+          "following_count": 90,
+          "like_count": 25987,
+          "listed_count": 151,
+          "media_count": 205,
+          "tweet_count": 4395
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-05T13:23:47.000Z",
+        "description": "杏眾一位",
+        "id": "1478718800682156037",
+        "location": "Taiwan",
+        "name": "浮游廢物 單推老大 想當薯條",
+        "pinned_tweet_id": "1575113759168700418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029782900129013760/bcJLlDoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 833,
+          "like_count": 23279,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 10019
+        },
+        "username": "ABC59487",
+        "verified": false
+      }
+    ]
+  }
+}

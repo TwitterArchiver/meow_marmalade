@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986369337591275520"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986369575244673454",
+    "created_at": "2025-11-06T09:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T10:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986369575244673454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5D29lqgL4d",
+          "end": 58,
+          "expanded_url": "https://x.com/meow_marmalade/status/1986369575244673454/photo/1",
+          "media_key": "3_1986369337591275520",
+          "start": 35,
+          "url": "https://t.co/5D29lqgL4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986369575244673454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尝试黑背景拍黑衣服\n这黑绒布就是玩不明白啊\n怎么我照出来老反光😵‍💫 https://t.co/5D29lqgL4d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1986369337591275520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EAY2fbIAAqmVl.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986369337591275520"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986369575244673454",
+        "created_at": "2025-11-06T09:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986369575244673454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5D29lqgL4d",
+              "end": 58,
+              "expanded_url": "https://x.com/meow_marmalade/status/1986369575244673454/photo/1",
+              "media_key": "3_1986369337591275520",
+              "start": 35,
+              "url": "https://t.co/5D29lqgL4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986369575244673454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试黑背景拍黑衣服\n这黑绒布就是玩不明白啊\n怎么我照出来老反光😵‍💫 https://t.co/5D29lqgL4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25945,
+          "following_count": 92,
+          "like_count": 17742,
+          "listed_count": 101,
+          "media_count": 192,
+          "tweet_count": 2664
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

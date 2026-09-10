@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1851544307435741572",
+    "created_at": "2024-10-30T14:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T15:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851625749780042151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1212753537085530112",
+          "start": 0,
+          "username": "WickedInformer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851625749780042151",
+    "in_reply_to_user_id": "1212753537085530112",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851608678325215578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WickedInformer my hair is burnt now, and it smells GOOD 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1851544307435741572",
+        "created_at": "2024-10-30T14:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851625749780042151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1212753537085530112",
+              "start": 0,
+              "username": "WickedInformer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851625749780042151",
+        "in_reply_to_user_id": "1212753537085530112",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851608678325215578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WickedInformer my hair is burnt now, and it smells GOOD 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212753537085530112",
+        "conversation_id": "1851544307435741572",
+        "created_at": "2024-10-30T12:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T13:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851608678325215578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851608678325215578",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851544307435741572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade You can do it! 💪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816877103801073664/vD3juHvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 106,
+          "like_count": 2540,
+          "listed_count": 7,
+          "tweet_count": 440
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-02T15:13:28.000Z",
+        "description": "20s || MDNI 🔞 || Van 🇨🇦 || S",
+        "id": "1212753537085530112",
+        "location": "Canada",
+        "name": "ЯΣVΣЯΛ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212756707618775045/C5NoxXCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 694,
+          "like_count": 20773,
+          "listed_count": 1,
+          "tweet_count": 1117
+        },
+        "username": "WickedInformer",
+        "verified": false
+      }
+    ]
+  }
+}

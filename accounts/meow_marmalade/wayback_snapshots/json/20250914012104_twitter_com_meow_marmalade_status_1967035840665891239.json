@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1966439883326607470",
+    "created_at": "2025-09-14T01:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T02:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967035840665891239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1628946970894274560",
+          "start": 0,
+          "username": "akxhu95288973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967035840665891239",
+    "in_reply_to_user_id": "1628946970894274560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967035168549728725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akxhu95288973 确实好👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1966439883326607470",
+        "created_at": "2025-09-14T01:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967035840665891239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1628946970894274560",
+              "start": 0,
+              "username": "akxhu95288973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967035840665891239",
+        "in_reply_to_user_id": "1628946970894274560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967035168549728725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akxhu95288973 确实好👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628946970894274560",
+        "conversation_id": "1966439883326607470",
+        "created_at": "2025-09-14T01:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967035168549728725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967035168549728725",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966439883326607470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 突然发现  还是粉色视觉看起来棒   这样一对比才发现角色设计师选色用的好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18775,
+          "following_count": 91,
+          "like_count": 15560,
+          "listed_count": 75,
+          "media_count": 284,
+          "tweet_count": 2253
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T02:36:48.000Z",
+        "description": "",
+        "id": "1628946970894274560",
+        "name": "Rafael Hickman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630197517869780993/gUrkvSnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 210,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "akxhu95288973",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1988172985459765690",
+    "created_at": "2025-11-13T06:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T07:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988849536307974574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760996307705982976",
+          "start": 0,
+          "username": "OvO_Qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988849536307974574",
+    "in_reply_to_user_id": "1760996307705982976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988846457579827499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_Qian 那我穿什么🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1988172985459765690",
+        "created_at": "2025-11-13T06:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988849536307974574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760996307705982976",
+              "start": 0,
+              "username": "OvO_Qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988849536307974574",
+        "in_reply_to_user_id": "1760996307705982976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988846457579827499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_Qian 那我穿什么🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760996307705982976",
+        "conversation_id": "1988172985459765690",
+        "created_at": "2025-11-13T05:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988846457579827499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988846457579827499",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988172985459765690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 送给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26550,
+          "following_count": 94,
+          "like_count": 18037,
+          "listed_count": 105,
+          "media_count": 197,
+          "tweet_count": 2771
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:54:22.000Z",
+        "description": "男娘♂丨同好可扩列～丨🚪198＝vx好友位（朋友圈有脸照）+涩涩福利（福利群+🐰包+定制）丨",
+        "id": "1760996307705982976",
+        "location": "随机刷新",
+        "name": "铃木 花音",
+        "pinned_tweet_id": "1807744637500850302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63285,
+          "following_count": 404,
+          "like_count": 5440,
+          "listed_count": 144,
+          "media_count": 203,
+          "tweet_count": 5340
+        },
+        "username": "OvO_Qian",
+        "verified": false
+      }
+    ]
+  }
+}

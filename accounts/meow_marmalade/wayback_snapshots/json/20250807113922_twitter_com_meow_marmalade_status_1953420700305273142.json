@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953420689790423040"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1953420700305273142",
+    "created_at": "2025-08-07T11:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T12:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953420700305273142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sL1j7nzENb",
+          "end": 41,
+          "expanded_url": "https://x.com/meow_marmalade/status/1953420700305273142/photo/1",
+          "media_key": "3_1953420689790423040",
+          "start": 18,
+          "url": "https://t.co/sL1j7nzENb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953420700305273142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候在想 自己还没死只是因为怕疼 https://t.co/sL1j7nzENb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1953420689790423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvxxIfbUAA9xT4.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953420689790423040"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1953420700305273142",
+        "created_at": "2025-08-07T11:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953420700305273142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sL1j7nzENb",
+              "end": 41,
+              "expanded_url": "https://x.com/meow_marmalade/status/1953420700305273142/photo/1",
+              "media_key": "3_1953420689790423040",
+              "start": 18,
+              "url": "https://t.co/sL1j7nzENb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953420700305273142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候在想 自己还没死只是因为怕疼 https://t.co/sL1j7nzENb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15023,
+          "following_count": 91,
+          "like_count": 13865,
+          "listed_count": 59,
+          "media_count": 318,
+          "tweet_count": 1823
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

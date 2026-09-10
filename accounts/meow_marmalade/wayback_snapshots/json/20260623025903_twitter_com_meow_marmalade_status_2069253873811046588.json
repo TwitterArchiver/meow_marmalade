@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2069051572366315733",
+    "created_at": "2026-06-23T02:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069253873811046588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864661317757628416",
+          "start": 0,
+          "username": "ChwsUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069253873811046588",
+    "in_reply_to_user_id": "1864661317757628416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069233875419791751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChwsUI 这还真是随便买的 不记得了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2069051572366315733",
+        "created_at": "2026-06-23T02:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069253873811046588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864661317757628416",
+              "start": 0,
+              "username": "ChwsUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069253873811046588",
+        "in_reply_to_user_id": "1864661317757628416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069233875419791751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChwsUI 这还真是随便买的 不记得了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864661317757628416",
+        "conversation_id": "2069051572366315733",
+        "created_at": "2026-06-23T01:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069233875419791751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069233875419791751",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069051572366315733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好美！可以问一下丝袜是哪一款吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38996,
+          "following_count": 94,
+          "like_count": 27083,
+          "listed_count": 154,
+          "media_count": 176,
+          "tweet_count": 4711
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:21:47.000Z",
+        "description": "Tentacle Enthusiast",
+        "id": "1864661317757628416",
+        "name": "ChwsKong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929750123569205251/dqKHqVlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 2233,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "ChwsUI",
+        "verified": false
+      }
+    ]
+  }
+}

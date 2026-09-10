@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2086395077942030444",
+    "created_at": "2026-08-09T13:40:19.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086447487150354931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1223056130223378432",
+          "start": 0,
+          "username": "Aldric_li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086447487150354931",
+    "in_reply_to_user_id": "1223056130223378432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086437188632510966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aldric_li 用的相机（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2086395077942030444",
+        "created_at": "2026-08-09T13:40:19.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086447487150354931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1223056130223378432",
+              "start": 0,
+              "username": "Aldric_li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086447487150354931",
+        "in_reply_to_user_id": "1223056130223378432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086437188632510966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aldric_li 用的相机（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223056130223378432",
+        "conversation_id": "2086395077942030444",
+        "created_at": "2026-08-09T12:59:24.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086437188632510966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086437188632510966",
+        "in_reply_to_user_id": "1223056130223378432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086433188805759111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 还想问一下主包用的是大镜子么，对镜看不到边框（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2086447487150354931",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40537,
+          "following_count": 99,
+          "like_count": 28199,
+          "listed_count": 164,
+          "media_count": 211,
+          "tweet_count": 5094
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T01:31:30.000Z",
+        "description": "Cisgender Heterosexual Male／杜野凛世推／自三峡七百里中，两岸连山，略无阙处.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cloudti.de",
+                "end": 23,
+                "expanded_url": "https://blog.cloudti.de",
+                "start": 0,
+                "url": "https://t.co/QK76j57AeQ"
+              }
+            ]
+          }
+        },
+        "id": "1223056130223378432",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2086444932911563163",
+        "name": "云楼汐",
+        "pinned_tweet_id": "1561383222612611073",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223056130223378432/1580650652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041413356092076032/8HseRy_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 316,
+          "like_count": 2988,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/QK76j57AeQ",
+        "username": "Aldric_li",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

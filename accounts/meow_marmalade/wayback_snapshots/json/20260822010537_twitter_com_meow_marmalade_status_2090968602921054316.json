@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2090828324742545665",
+    "created_at": "2026-08-22T01:05:37.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090968602921054316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705996511375654912",
+          "start": 0,
+          "username": "TruE_0619101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090968602921054316",
+    "in_reply_to_user_id": "1705996511375654912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090828324742545665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TruE_0619101 奈宝亲亲😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2630,
+        "media_key": "3_2090828131812995073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQdG7MbcAESlu3.jpg",
+        "width": 1972
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2090828213975142400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQdLtRaUAA7bAc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2090828324742545665",
+        "created_at": "2026-08-22T01:05:37.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090968602921054316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705996511375654912",
+              "start": 0,
+              "username": "TruE_0619101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090968602921054316",
+        "in_reply_to_user_id": "1705996511375654912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090828324742545665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruE_0619101 奈宝亲亲😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090828131812995073",
+            "3_2090828213975142400"
+          ]
+        },
+        "author_id": "1705996511375654912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090828324742545665",
+        "created_at": "2026-08-21T15:48:12.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090828324742545665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rhfh7GnqOT",
+              "end": 33,
+              "expanded_url": "https://x.com/TruE_0619101/status/2090828324742545665/photo/1",
+              "media_key": "3_2090828131812995073",
+              "start": 10,
+              "url": "https://t.co/Rhfh7GnqOT"
+            },
+            {
+              "display_url": "pic.x.com/Rhfh7GnqOT",
+              "end": 33,
+              "expanded_url": "https://x.com/TruE_0619101/status/2090828324742545665/photo/1",
+              "media_key": "3_2090828213975142400",
+              "start": 10,
+              "url": "https://t.co/Rhfh7GnqOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090828324742545665",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090828131812995073"
+          },
+          {
+            "media_key": "3_2090828213975142400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蜜柑宝子是很好的人 https://t.co/Rhfh7GnqOT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2090968602921054316",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40624,
+          "following_count": 100,
+          "like_count": 28472,
+          "listed_count": 165,
+          "media_count": 218,
+          "tweet_count": 5165
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T17:24:06.000Z",
+        "description": "清水推记录生活喵｜点点关注点点赞我会开心一整天的◝(⑅•ᴗ•⑅)◜..°♡｜软件工程在修电脑👉👈",
+        "id": "1705996511375654912",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2090828324742545665",
+        "name": "楚奈奈TruE",
+        "pinned_tweet_id": "1881301821815394506",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066758885697105921/q2iZby-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8737,
+          "following_count": 358,
+          "like_count": 470,
+          "listed_count": 31,
+          "media_count": 107,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "TruE_0619101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

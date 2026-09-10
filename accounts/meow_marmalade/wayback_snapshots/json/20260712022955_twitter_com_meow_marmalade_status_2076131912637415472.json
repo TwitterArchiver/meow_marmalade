@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2075937145005699425",
+    "created_at": "2026-07-12T02:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076131912637415472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058944506968543232",
+          "start": 0,
+          "username": "knowmi8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076131912637415472",
+    "in_reply_to_user_id": "2058944506968543232",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076111336241852511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knowmi8t dui"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2075937145005699425",
+        "created_at": "2026-07-12T02:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076131912637415472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058944506968543232",
+              "start": 0,
+              "username": "knowmi8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076131912637415472",
+        "in_reply_to_user_id": "2058944506968543232",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076111336241852511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knowmi8t dui"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944506968543232",
+        "conversation_id": "2075937145005699425",
+        "created_at": "2026-07-12T01:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076111336241852511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076111336241852511",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075937145005699425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 妈呀这是要去当男模啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39772,
+          "following_count": 96,
+          "like_count": 27567,
+          "listed_count": 159,
+          "media_count": 188,
+          "tweet_count": 4873
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T16:14:19.000Z",
+        "description": "",
+        "id": "2058944506968543232",
+        "name": "伏黑福不黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074918103344181248/2QYz2Bnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "knowmi8t",
+        "verified": false
+      }
+    ]
+  }
+}

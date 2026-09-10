@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1934217198614331392",
+    "created_at": "2025-06-15T13:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T14:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934237231247679749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696044770102255617",
+          "start": 0,
+          "username": "zuiaijingke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934237231247679749",
+    "in_reply_to_user_id": "1696044770102255617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934226710398148661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaijingke 是大文豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1934217198614331392",
+        "created_at": "2025-06-15T13:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T14:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934237231247679749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696044770102255617",
+              "start": 0,
+              "username": "zuiaijingke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934237231247679749",
+        "in_reply_to_user_id": "1696044770102255617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934226710398148661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaijingke 是大文豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696044770102255617",
+        "conversation_id": "1934217198614331392",
+        "created_at": "2025-06-15T12:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934226710398148661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934226710398148661",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934217198614331392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 是被暮色亲吻的丝绸，是冬夜月光浸透的枝丫，是光的分界线，是曲线的诗词。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8614,
+          "following_count": 96,
+          "like_count": 11515,
+          "listed_count": 26,
+          "media_count": 261,
+          "tweet_count": 1273
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:19:32.000Z",
+        "description": "#百合 #傲娇\n在你的幻想中不存在美好的我。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "百合"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "傲娇"
+              }
+            ]
+          }
+        },
+        "id": "1696044770102255617",
+        "location": "日本",
+        "name": "椰果奶绿!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931623703009480705/3IOqeJGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 206,
+          "like_count": 1688,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 100
+        },
+        "username": "zuiaijingke",
+        "verified": false
+      }
+    ]
+  }
+}

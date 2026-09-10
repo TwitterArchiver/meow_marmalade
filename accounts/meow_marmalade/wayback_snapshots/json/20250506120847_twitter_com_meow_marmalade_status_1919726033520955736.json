@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919726023484309508"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1919726033520955736",
+    "created_at": "2025-05-06T12:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T13:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919726033520955736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Y3C2Nypr2",
+          "end": 41,
+          "expanded_url": "https://x.com/meow_marmalade/status/1919726033520955736/photo/1",
+          "media_key": "3_1919726023484309508",
+          "start": 18,
+          "url": "https://t.co/5Y3C2Nypr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919726033520955736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "PDD五块钱小泳衣 给我自己穿笑了 https://t.co/5Y3C2Nypr2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3640,
+        "media_key": "3_1919726023484309508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQ8pa_bAAQqlZl.jpg",
+        "width": 2314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919726023484309508"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1919726033520955736",
+        "created_at": "2025-05-06T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919726033520955736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Y3C2Nypr2",
+              "end": 41,
+              "expanded_url": "https://x.com/meow_marmalade/status/1919726033520955736/photo/1",
+              "media_key": "3_1919726023484309508",
+              "start": 18,
+              "url": "https://t.co/5Y3C2Nypr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919726033520955736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "PDD五块钱小泳衣 给我自己穿笑了 https://t.co/5Y3C2Nypr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "3.25km",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 93,
+          "like_count": 9620,
+          "listed_count": 14,
+          "media_count": 221,
+          "tweet_count": 943
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

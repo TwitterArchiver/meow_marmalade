@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1986035435702001673",
+    "created_at": "2025-11-06T03:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T04:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986276216463327232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "821964968840949760",
+          "start": 0,
+          "username": "naozhong2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986276216463327232",
+    "in_reply_to_user_id": "821964968840949760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986273106059767846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naozhong2310 给我也找个😮‍💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T03:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986276216463327232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "821964968840949760",
+              "start": 0,
+              "username": "naozhong2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986276216463327232",
+        "in_reply_to_user_id": "821964968840949760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986273106059767846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naozhong2310 给我也找个😮‍💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "821964968840949760",
+        "conversation_id": "1986035435702001673",
+        "created_at": "2025-11-06T03:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986273106059767846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986273106059767846",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986035435702001673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 你的意思是，我找了有共同话题，不用交公粮，不需要提供情绪价值，我想吃啥就做啥的极品好女友？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。下辈子做美少女。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25846,
+          "following_count": 92,
+          "like_count": 17700,
+          "listed_count": 101,
+          "media_count": 191,
+          "tweet_count": 2647
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-19T06:18:14.000Z",
+        "description": "日本语学习中/p19教徒/政治推退散！/男/欢迎私信找我聊天！",
+        "id": "821964968840949760",
+        "location": "Setagaya-ku, Tokyo",
+        "name": "チェン💡🍋🌼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001841435421929472/-R_Ir9GD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 1208,
+          "like_count": 18614,
+          "listed_count": 9,
+          "media_count": 101,
+          "tweet_count": 18444
+        },
+        "username": "naozhong2310",
+        "verified": false
+      }
+    ]
+  }
+}

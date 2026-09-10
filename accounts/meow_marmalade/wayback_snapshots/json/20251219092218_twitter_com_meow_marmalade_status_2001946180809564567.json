@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001946164409864193"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2001946180809564567",
+    "created_at": "2025-12-19T09:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T10:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001946180809564567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gKTA5ZSXzG",
+          "end": 26,
+          "expanded_url": "https://x.com/meow_marmalade/status/2001946180809564567/photo/1",
+          "media_key": "3_2001946164409864193",
+          "start": 3,
+          "url": "https://t.co/gKTA5ZSXzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001946180809564567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "差分 https://t.co/gKTA5ZSXzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2001946164409864193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hXbgUbEAE55rS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001946164409864193"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2001946180809564567",
+        "created_at": "2025-12-19T09:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001946180809564567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKTA5ZSXzG",
+              "end": 26,
+              "expanded_url": "https://x.com/meow_marmalade/status/2001946180809564567/photo/1",
+              "media_key": "3_2001946164409864193",
+              "start": 3,
+              "url": "https://t.co/gKTA5ZSXzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001946180809564567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差分 https://t.co/gKTA5ZSXzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28179,
+          "following_count": 90,
+          "like_count": 19675,
+          "listed_count": 125,
+          "media_count": 161,
+          "tweet_count": 3090
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

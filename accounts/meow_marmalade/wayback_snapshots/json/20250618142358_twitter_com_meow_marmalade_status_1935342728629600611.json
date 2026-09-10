@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1935286302469145070",
+    "created_at": "2025-06-18T14:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T15:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935342728629600611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664094644630851589",
+          "start": 0,
+          "username": "yeyupopopo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935342728629600611",
+    "in_reply_to_user_id": "1664094644630851589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935330827338199377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyupopopo 呜呜呜呜呜谢谢老师夸夸🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1935286302469145070",
+        "created_at": "2025-06-18T14:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935342728629600611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664094644630851589",
+              "start": 0,
+              "username": "yeyupopopo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935342728629600611",
+        "in_reply_to_user_id": "1664094644630851589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935330827338199377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyupopopo 呜呜呜呜呜谢谢老师夸夸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664094644630851589",
+        "conversation_id": "1935286302469145070",
+        "created_at": "2025-06-18T13:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935330827338199377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935330827338199377",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935286302469145070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8975,
+          "following_count": 96,
+          "like_count": 11629,
+          "listed_count": 28,
+          "media_count": 264,
+          "tweet_count": 1312
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T02:21:13.000Z",
+        "description": "白日梦",
+        "id": "1664094644630851589",
+        "name": "葉雨popopoi",
+        "pinned_tweet_id": "1816351755552317609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664096727572574208/1vCX2-g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19367,
+          "following_count": 98,
+          "like_count": 1929,
+          "listed_count": 76,
+          "media_count": 71,
+          "tweet_count": 498
+        },
+        "username": "yeyupopopo",
+        "verified": false
+      }
+    ]
+  }
+}

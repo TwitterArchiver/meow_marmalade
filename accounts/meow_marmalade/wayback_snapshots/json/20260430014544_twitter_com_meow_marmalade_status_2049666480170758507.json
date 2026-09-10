@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2049442907518865761",
+    "created_at": "2026-04-30T01:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049666480170758507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236419551291568129",
+          "start": 0,
+          "username": "David__Kidoo"
+        },
+        {
+          "end": 28,
+          "id": "1846739759085113346",
+          "start": 14,
+          "username": "twilightversu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049666480170758507",
+    "in_reply_to_user_id": "1236419551291568129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049547066498744484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@David__Kidoo @twilightversu 玛雅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2049442907518865761",
+        "created_at": "2026-04-30T01:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049666480170758507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236419551291568129",
+              "start": 0,
+              "username": "David__Kidoo"
+            },
+            {
+              "end": 28,
+              "id": "1846739759085113346",
+              "start": 14,
+              "username": "twilightversu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049666480170758507",
+        "in_reply_to_user_id": "1236419551291568129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049547066498744484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@David__Kidoo @twilightversu 玛雅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236419551291568129",
+        "conversation_id": "2049442907518865761",
+        "created_at": "2026-04-29T17:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049547066498744484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            },
+            {
+              "end": 30,
+              "id": "1846739759085113346",
+              "start": 16,
+              "username": "twilightversu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049547066498744484",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049540924326477988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade @twilightversu 你：你是要来鲨死我的吧🫩\n恋人：😘🥰😍🥵\n你：😨你是要物理意义上鲨了我而不是榨死对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37492,
+          "following_count": 97,
+          "like_count": 25350,
+          "listed_count": 146,
+          "media_count": 189,
+          "tweet_count": 4217
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-07T22:32:55.000Z",
+        "description": "喜欢游戏，电影，各种有趣的玩意！希望能和大家好好相处！ fan of games , movies and all funny memes and things! Looking forward to get along well with anyone!",
+        "id": "1236419551291568129",
+        "name": "Davidkiddo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522061665629474817/VO2vhVTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 757,
+          "like_count": 62251,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 10531
+        },
+        "username": "David__Kidoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "我很倒霉还高p让让我丨画@yokofuti丨灿星者@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "yokofuti"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "location": "尾椎骨公城",
+        "name": "扯淡派情人",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976984817960206337/h3X100Yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12118,
+          "following_count": 908,
+          "like_count": 21962,
+          "listed_count": 54,
+          "media_count": 85,
+          "tweet_count": 4936
+        },
+        "username": "twilightversu",
+        "verified": false
+      }
+    ]
+  }
+}

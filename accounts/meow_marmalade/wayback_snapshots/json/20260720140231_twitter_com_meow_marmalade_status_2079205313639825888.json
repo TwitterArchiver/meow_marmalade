@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2079147758557262055",
+    "created_at": "2026-07-20T14:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079205313639825888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2284673090",
+          "start": 0,
+          "username": "CH_CHiSakuraC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079205313639825888",
+    "in_reply_to_user_id": "2284673090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079199724566098189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CH_CHiSakuraC 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-20T14:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079205313639825888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2284673090",
+              "start": 0,
+              "username": "CH_CHiSakuraC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079205313639825888",
+        "in_reply_to_user_id": "2284673090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079199724566098189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CH_CHiSakuraC 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2284673090",
+        "conversation_id": "2079147758557262055",
+        "created_at": "2026-07-20T13:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079199724566098189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079199724566098189",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079147758557262055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 四爱就是你爱我我爱你蜜雪冰城甜蜜蜜~你爱我我爱你蜜雪冰城甜蜜蜜~，唱两遍就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "local psychiatric hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40201,
+          "following_count": 98,
+          "like_count": 27774,
+          "listed_count": 162,
+          "media_count": 198,
+          "tweet_count": 4971
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-10T07:02:30.000Z",
+        "description": "（CN/EN可）、日本語勉強中",
+        "id": "2284673090",
+        "name": "チサクラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/503168241821175810/eGyv-xyM_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 3310,
+          "like_count": 38389,
+          "listed_count": 8,
+          "media_count": 169,
+          "tweet_count": 20545
+        },
+        "url": "",
+        "username": "CH_CHiSakuraC",
+        "verified": false
+      }
+    ]
+  }
+}

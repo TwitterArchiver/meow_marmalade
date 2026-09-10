@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1990423266175881306",
+    "created_at": "2025-11-18T02:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990613379862704398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895451612136738816",
+          "start": 0,
+          "username": "realmoekasenpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990613379862704398",
+    "in_reply_to_user_id": "1895451612136738816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990588959534223407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realmoekasenpai 那很有生活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1990423266175881306",
+        "created_at": "2025-11-18T02:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990613379862704398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895451612136738816",
+              "start": 0,
+              "username": "realmoekasenpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990613379862704398",
+        "in_reply_to_user_id": "1895451612136738816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990588959534223407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realmoekasenpai 那很有生活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895451612136738816",
+        "conversation_id": "1990423266175881306",
+        "created_at": "2025-11-18T01:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990588959534223407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990588959534223407",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990587848756769239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 会员制餐厅也考虑一下吧🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27490,
+          "following_count": 97,
+          "like_count": 18271,
+          "listed_count": 111,
+          "media_count": 201,
+          "tweet_count": 2832
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T12:31:09.000Z",
+        "description": "假的",
+        "id": "1895451612136738816",
+        "name": "萌娜丽香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895454674729263104/FTKQMdeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 201,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 654
+        },
+        "username": "realmoekasenpai",
+        "verified": false
+      }
+    ]
+  }
+}

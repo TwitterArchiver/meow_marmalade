@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073624137957031936",
+        "13_2073624137965383681"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2073624259067621729",
+    "created_at": "2026-07-05T04:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073624259067621729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C6Gbo25OCa",
+          "end": 34,
+          "expanded_url": "https://x.com/meow_marmalade/status/2073624259067621729/video/1",
+          "media_key": "3_2073624137957031936",
+          "start": 11,
+          "url": "https://t.co/C6Gbo25OCa"
+        },
+        {
+          "display_url": "pic.x.com/C6Gbo25OCa",
+          "end": 34,
+          "expanded_url": "https://x.com/meow_marmalade/status/2073624259067621729/video/1",
+          "media_key": "13_2073624137965383681",
+          "start": 11,
+          "url": "https://t.co/C6Gbo25OCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073624259067621729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝我等你等了大半年 https://t.co/C6Gbo25OCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073624137957031936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMb-KryawAAyren.jpg",
+        "width": 1365
+      },
+      {
+        "duration_ms": 3700,
+        "height": 1080,
+        "media_key": "13_2073624137965383681",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073624137965383681/img/ac1W0eAQ01URQ3hG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073624137965383681/vid/avc1/410x270/CZAS6WhrkVN41ZGy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073624137965383681/vid/avc1/548x360/Bn38GaFk3oFccMym.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073624137965383681/vid/avc1/1096x720/buKGdnryU4KRYGpj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073624137965383681/pl/ODXjOPleA5Ap6rMz.m3u8?tag=14"
+          }
+        ],
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073624137957031936",
+            "13_2073624137965383681"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2073624259067621729",
+        "created_at": "2026-07-05T04:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073624259067621729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6Gbo25OCa",
+              "end": 34,
+              "expanded_url": "https://x.com/meow_marmalade/status/2073624259067621729/video/1",
+              "media_key": "3_2073624137957031936",
+              "start": 11,
+              "url": "https://t.co/C6Gbo25OCa"
+            },
+            {
+              "display_url": "pic.x.com/C6Gbo25OCa",
+              "end": 34,
+              "expanded_url": "https://x.com/meow_marmalade/status/2073624259067621729/video/1",
+              "media_key": "13_2073624137965383681",
+              "start": 11,
+              "url": "https://t.co/C6Gbo25OCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073624259067621729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝我等你等了大半年 https://t.co/C6Gbo25OCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "hospital",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39270,
+          "following_count": 96,
+          "like_count": 27341,
+          "listed_count": 155,
+          "media_count": 181,
+          "tweet_count": 4804
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

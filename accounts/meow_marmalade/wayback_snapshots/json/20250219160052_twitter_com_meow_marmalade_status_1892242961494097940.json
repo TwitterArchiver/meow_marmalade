@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892242947976155136"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1892242961494097940",
+    "created_at": "2025-02-19T16:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T17:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892242961494097940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iC2X0GKzUc",
+          "end": 44,
+          "expanded_url": "https://x.com/meow_marmalade/status/1892242961494097940/photo/1",
+          "media_key": "3_1892242947976155136",
+          "start": 21,
+          "url": "https://t.co/iC2X0GKzUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892242961494097940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个dash你0.3辅瞄不就炸了嘛老弟😤 https://t.co/iC2X0GKzUc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3853,
+        "media_key": "3_1892242947976155136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKY74bbUAA7CgS.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892242947976155136"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1892242961494097940",
+        "created_at": "2025-02-19T16:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T17:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892242961494097940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iC2X0GKzUc",
+              "end": 44,
+              "expanded_url": "https://x.com/meow_marmalade/status/1892242961494097940/photo/1",
+              "media_key": "3_1892242947976155136",
+              "start": 21,
+              "url": "https://t.co/iC2X0GKzUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892242961494097940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个dash你0.3辅瞄不就炸了嘛老弟😤 https://t.co/iC2X0GKzUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "上海",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1621910201291898883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889207776901238784/PgtweTRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 87,
+          "like_count": 5586,
+          "listed_count": 11,
+          "media_count": 173,
+          "tweet_count": 605
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1938186273002557685",
+    "created_at": "2025-06-27T04:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T05:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938452213917225370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789675507698778112",
+          "start": 0,
+          "username": "159357asd157039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938452213917225370",
+    "in_reply_to_user_id": "1789675507698778112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938447072333803897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@159357asd157039 将军是何意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1938186273002557685",
+        "created_at": "2025-06-27T04:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T05:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938452213917225370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789675507698778112",
+              "start": 0,
+              "username": "159357asd157039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938452213917225370",
+        "in_reply_to_user_id": "1789675507698778112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938447072333803897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@159357asd157039 将军是何意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789675507698778112",
+        "conversation_id": "1938186273002557685",
+        "created_at": "2025-06-27T03:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938447072333803897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938447072333803897",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938186273002557685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 镜子里是将军吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "在你心里",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1926315630845624492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9827,
+          "following_count": 96,
+          "like_count": 11962,
+          "listed_count": 32,
+          "media_count": 274,
+          "tweet_count": 1393
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T15:14:33.000Z",
+        "description": "",
+        "id": "1789675507698778112",
+        "name": "自信舟批",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812730853736243200/QvmrmiwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 261,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 142
+        },
+        "username": "159357asd157039",
+        "verified": false
+      }
+    ]
+  }
+}

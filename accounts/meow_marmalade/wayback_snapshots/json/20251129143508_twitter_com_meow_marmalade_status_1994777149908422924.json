@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1994700174187491573",
+    "created_at": "2025-11-29T14:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994777149908422924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842104081638424578",
+          "start": 0,
+          "username": "jiu_zhou55601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994777149908422924",
+    "in_reply_to_user_id": "1842104081638424578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994773992985825717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_zhou55601 摸摸 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1994700174187491573",
+        "created_at": "2025-11-29T14:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994777149908422924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842104081638424578",
+              "start": 0,
+              "username": "jiu_zhou55601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994777149908422924",
+        "in_reply_to_user_id": "1842104081638424578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994773992985825717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_zhou55601 摸摸 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842104081638424578",
+        "conversation_id": "1994700174187491573",
+        "created_at": "2025-11-29T14:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994773992985825717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994773992985825717",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994700174187491573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 管理员吗，www，我没出终末地资格 ꒦ິ^꒦ິ，www，我三次都没出资格 ꒦ິ^꒦ິ，why！ ꒦ິ^꒦ິ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27370,
+          "following_count": 94,
+          "like_count": 18652,
+          "listed_count": 113,
+          "media_count": 210,
+          "tweet_count": 2931
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:27:15.000Z",
+        "description": "嘶，此人成分过于复杂，不予查看，需自行询问（纯唠嗑）",
+        "id": "1842104081638424578",
+        "location": "太阳系地球",
+        "name": "乐子人奈",
+        "pinned_tweet_id": "1895024107923902693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872150567734145024/uewOhC3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 199,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "jiu_zhou55601",
+        "verified": false
+      }
+    ]
+  }
+}

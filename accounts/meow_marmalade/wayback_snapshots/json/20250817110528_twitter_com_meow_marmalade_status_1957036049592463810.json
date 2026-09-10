@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957036042370060288"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1957036049592463810",
+    "created_at": "2025-08-17T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957036049592463810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgj0fN329d",
+          "end": 42,
+          "expanded_url": "https://x.com/meow_marmalade/status/1957036049592463810/photo/1",
+          "media_key": "3_1957036042370060288",
+          "start": 19,
+          "url": "https://t.co/rgj0fN329d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957036049592463810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“店长！这身衣服怎么样？适合我吗？” https://t.co/rgj0fN329d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957036042370060288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjJ6WYakAAenN8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957036042370060288"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1957036049592463810",
+        "created_at": "2025-08-17T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957036049592463810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgj0fN329d",
+              "end": 42,
+              "expanded_url": "https://x.com/meow_marmalade/status/1957036049592463810/photo/1",
+              "media_key": "3_1957036042370060288",
+              "start": 19,
+              "url": "https://t.co/rgj0fN329d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957036049592463810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“店长！这身衣服怎么样？适合我吗？” https://t.co/rgj0fN329d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没有R18",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15434,
+          "following_count": 91,
+          "like_count": 14241,
+          "listed_count": 60,
+          "media_count": 330,
+          "tweet_count": 1952
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

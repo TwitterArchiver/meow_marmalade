@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "1998695755196797286",
+    "created_at": "2025-12-10T10:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998703153169019242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754845862730342400",
+          "start": 0,
+          "username": "anyu211388"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998703153169019242",
+    "in_reply_to_user_id": "1754845862730342400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998697000594977083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyu211388 其实只是研究生在读（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "1998695755196797286",
+        "created_at": "2025-12-10T10:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998703153169019242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754845862730342400",
+              "start": 0,
+              "username": "anyu211388"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998703153169019242",
+        "in_reply_to_user_id": "1754845862730342400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998697000594977083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyu211388 其实只是研究生在读（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754845862730342400",
+        "conversation_id": "1998695755196797286",
+        "created_at": "2025-12-10T10:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998697000594977083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998697000594977083",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998695755196797286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 羡慕下班，现在活人微死了，哦，对了，话说工作是模特/摄影师么，看起来很专业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven’t been eating my cereal.",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28136,
+          "following_count": 91,
+          "like_count": 19172,
+          "listed_count": 122,
+          "media_count": 204,
+          "tweet_count": 3023
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:35:19.000Z",
+        "description": "无欲无求，笑口常开",
+        "id": "1754845862730342400",
+        "location": "CHINA",
+        "name": "阿 泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887809857837047808/Kd8GdTDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 104,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 174
+        },
+        "username": "anyu211388",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969334234298056704"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1969334245425389879",
+    "created_at": "2025-09-20T09:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T10:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969334245425389879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uyHnBm7GTc",
+          "end": 67,
+          "expanded_url": "https://x.com/meow_marmalade/status/1969334245425389879/photo/1",
+          "media_key": "3_1969334234298056704",
+          "start": 44,
+          "url": "https://t.co/uyHnBm7GTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969334245425389879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是说了吗？请把你剩余的人生交给我\n\n言ったでしょう？残りの人生、わたくしに下さいと https://t.co/uyHnBm7GTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969334234298056704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1R7DVdaAAA2QHh.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969334234298056704"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1969334245425389879",
+        "created_at": "2025-09-20T09:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969334245425389879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyHnBm7GTc",
+              "end": 67,
+              "expanded_url": "https://x.com/meow_marmalade/status/1969334245425389879/photo/1",
+              "media_key": "3_1969334234298056704",
+              "start": 44,
+              "url": "https://t.co/uyHnBm7GTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969334245425389879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是说了吗？请把你剩余的人生交给我\n\n言ったでしょう？残りの人生、わたくしに下さいと https://t.co/uyHnBm7GTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19020,
+          "following_count": 91,
+          "like_count": 15820,
+          "listed_count": 75,
+          "media_count": 293,
+          "tweet_count": 2324
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

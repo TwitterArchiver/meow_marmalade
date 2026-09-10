@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2042949734445584780",
+    "created_at": "2026-04-11T17:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043014585687625767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1486332820138360834",
+          "start": 0,
+          "username": "lixin90396644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043014585687625767",
+    "in_reply_to_user_id": "1486332820138360834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042949734445584780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixin90396644 ？！强强！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2042949731480145924",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoD9O7akAQnsHh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2042949731236876292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoD9OBakAQvQ9P.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2042949731870216194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoD9QYakAIH_ZK.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2042949734445584780",
+        "created_at": "2026-04-11T17:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043014585687625767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1486332820138360834",
+              "start": 0,
+              "username": "lixin90396644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043014585687625767",
+        "in_reply_to_user_id": "1486332820138360834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042949734445584780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixin90396644 ？！强强！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042949731480145924",
+            "3_2042949731236876292",
+            "3_2042949731870216194"
+          ]
+        },
+        "author_id": "1486332820138360834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042949734445584780",
+        "created_at": "2026-04-11T12:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042949734445584780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4td9bwb9t",
+              "end": 51,
+              "expanded_url": "https://x.com/lixin90396644/status/2042949734445584780/photo/1",
+              "media_key": "3_2042949731480145924",
+              "start": 28,
+              "url": "https://t.co/R4td9bwb9t"
+            },
+            {
+              "display_url": "pic.x.com/R4td9bwb9t",
+              "end": 51,
+              "expanded_url": "https://x.com/lixin90396644/status/2042949734445584780/photo/1",
+              "media_key": "3_2042949731236876292",
+              "start": 28,
+              "url": "https://t.co/R4td9bwb9t"
+            },
+            {
+              "display_url": "pic.x.com/R4td9bwb9t",
+              "end": 51,
+              "expanded_url": "https://x.com/lixin90396644/status/2042949734445584780/photo/1",
+              "media_key": "3_2042949731870216194",
+              "start": 28,
+              "url": "https://t.co/R4td9bwb9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042949734445584780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1837,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么可以又鱿鱼又打游戏很强的运气又好的(bushi) https://t.co/R4td9bwb9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35794,
+          "following_count": 98,
+          "like_count": 24573,
+          "listed_count": 141,
+          "media_count": 173,
+          "tweet_count": 4067
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T13:39:42.000Z",
+        "description": "cn:抹茶 爱好玩游戏  (后面不知道写什么)",
+        "id": "1486332820138360834",
+        "name": "抹茶抹茶抹🍵",
+        "pinned_tweet_id": "2039209064266383700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039152281262997504/roUaI5dP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 1942,
+          "like_count": 17344,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 771
+        },
+        "username": "lixin90396644",
+        "verified": false
+      }
+    ]
+  }
+}

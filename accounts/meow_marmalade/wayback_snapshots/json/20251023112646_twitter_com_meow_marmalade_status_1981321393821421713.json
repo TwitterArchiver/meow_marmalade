@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981321380852293632"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "1981321393821421713",
+    "created_at": "2025-10-23T11:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T12:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981321393821421713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QnZwGTJ7HV",
+          "end": 50,
+          "expanded_url": "https://x.com/meow_marmalade/status/1981321393821421713/photo/1",
+          "media_key": "3_1981321380852293632",
+          "start": 27,
+          "url": "https://t.co/QnZwGTJ7HV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981321393821421713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "假毛试戴\n如果真的认得出角色的话 ooc致歉🧎‍♀️ https://t.co/QnZwGTJ7HV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1981321380852293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38RTGOWYAAJ8zi.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981321380852293632"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "1981321393821421713",
+        "created_at": "2025-10-23T11:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981321393821421713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnZwGTJ7HV",
+              "end": 50,
+              "expanded_url": "https://x.com/meow_marmalade/status/1981321393821421713/photo/1",
+              "media_key": "3_1981321380852293632",
+              "start": 27,
+              "url": "https://t.co/QnZwGTJ7HV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981321393821421713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假毛试戴\n如果真的认得出角色的话 ooc致歉🧎‍♀️ https://t.co/QnZwGTJ7HV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "这里是试衣间，是精神病院，是情绪垃圾场。",
+        "id": "1353996204422492160",
+        "location": "没R18🔞不聊骚😡",
+        "name": "蜜柑",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21688,
+          "following_count": 95,
+          "like_count": 17065,
+          "listed_count": 87,
+          "media_count": 186,
+          "tweet_count": 2459
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

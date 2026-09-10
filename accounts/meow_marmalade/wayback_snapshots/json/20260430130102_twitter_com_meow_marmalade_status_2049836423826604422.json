@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2049808735254483263",
+    "created_at": "2026-04-30T13:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049836423826604422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478718800682156037",
+          "start": 0,
+          "username": "ABC59487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049836423826604422",
+    "in_reply_to_user_id": "1478718800682156037",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049828427331747984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC59487 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2049808735254483263",
+        "created_at": "2026-04-30T13:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049836423826604422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478718800682156037",
+              "start": 0,
+              "username": "ABC59487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049836423826604422",
+        "in_reply_to_user_id": "1478718800682156037",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049828427331747984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC59487 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478718800682156037",
+        "conversation_id": "2049808735254483263",
+        "created_at": "2026-04-30T12:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049828427331747984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049828427331747984",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049808735254483263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 能抱回家嗎~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "赛博伪人",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "2011739065377570853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37484,
+          "following_count": 97,
+          "like_count": 25385,
+          "listed_count": 146,
+          "media_count": 191,
+          "tweet_count": 4227
+        },
+        "username": "meow_marmalade",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-05T13:23:47.000Z",
+        "description": "杏眾一位",
+        "id": "1478718800682156037",
+        "location": "Taiwan",
+        "name": "浮游廢物 單推老大 想當薯條",
+        "pinned_tweet_id": "1575113759168700418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029782900129013760/bcJLlDoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 808,
+          "like_count": 22496,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 9743
+        },
+        "username": "ABC59487",
+        "verified": false
+      }
+    ]
+  }
+}
