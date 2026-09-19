@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2098277507980280015",
+    "created_at": "2026-09-11T08:15:00.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098324417914999062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775411944692051968",
+          "start": 0,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098324417914999062",
+    "in_reply_to_user_id": "1775411944692051968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098277507980280015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicalHat999 牡蛎摸牡蛎😖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2098277468717420544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6UPZsbkAAay-a.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2098277468679589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6UPZjaUAANqoj.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2098277468696428545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6UPZnbQAEssA2.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2098277507980280015",
+        "created_at": "2026-09-11T08:15:00.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098324417914999062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098324417914999062",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098277507980280015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 牡蛎摸牡蛎😖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098277468717420544",
+            "3_2098277468679589888",
+            "3_2098277468696428545"
+          ]
+        },
+        "author_id": "1775411944692051968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098277507980280015",
+        "created_at": "2026-09-11T05:08:36.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098277507980280015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9P6WSIqO4",
+              "end": 41,
+              "expanded_url": "https://x.com/MagicalHat999/status/2098277507980280015/photo/1",
+              "media_key": "3_2098277468717420544",
+              "start": 18,
+              "url": "https://t.co/c9P6WSIqO4"
+            },
+            {
+              "display_url": "pic.x.com/c9P6WSIqO4",
+              "end": 41,
+              "expanded_url": "https://x.com/MagicalHat999/status/2098277507980280015/photo/1",
+              "media_key": "3_2098277468679589888",
+              "start": 18,
+              "url": "https://t.co/c9P6WSIqO4"
+            },
+            {
+              "display_url": "pic.x.com/c9P6WSIqO4",
+              "end": 41,
+              "expanded_url": "https://x.com/MagicalHat999/status/2098277507980280015/photo/1",
+              "media_key": "3_2098277468696428545",
+              "start": 18,
+              "url": "https://t.co/c9P6WSIqO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098277507980280015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098277468717420544"
+          },
+          {
+            "media_key": "3_2098277468679589888"
+          },
+          {
+            "media_key": "3_2098277468696428545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 465,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉是有那么一段时间不想再吃牡蛎了 https://t.co/c9P6WSIqO4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2098324417914999062",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41230,
+          "following_count": 106,
+          "like_count": 28941,
+          "listed_count": 166,
+          "media_count": 227,
+          "tweet_count": 5311
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\nお題箱https://t.co/ToMyFG0bnC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 58,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 35,
+                "url": "https://t.co/ToMyFG0bnC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/8FnOVBMA8q"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "is_identity_verified": false,
+        "location": "欧润吉",
+        "most_recent_tweet_id": "2098312562882519410",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2085667432883245109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775411944692051968/1761495366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6984,
+          "following_count": 2130,
+          "like_count": 16591,
+          "listed_count": 29,
+          "media_count": 331,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/8FnOVBMA8q",
+        "username": "MagicalHat999",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

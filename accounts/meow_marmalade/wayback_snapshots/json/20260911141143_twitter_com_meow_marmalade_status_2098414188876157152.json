@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2098414188876157152",
+    "created_at": "2026-09-11T14:11:43.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098414188876157152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sandbinacervo/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/sandbinacervo/status/2098157811167264838",
+          "start": 34,
+          "url": "https://t.co/mfYeBp04h6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098414188876157152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098157811167264838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在十分非常相当无比特别迫切着急的需要一个哥伦比娅和我复刻这条👉👈 https://t.co/mfYeBp04h6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "16_2098157798991220738",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HR4nZtOWUAI6ofG.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HR4nZtOWUAI6ofG.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2098414188876157152",
+        "created_at": "2026-09-11T14:11:43.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098414188876157152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sandbinacervo/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/sandbinacervo/status/2098157811167264838",
+              "start": 34,
+              "url": "https://t.co/mfYeBp04h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098414188876157152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098157811167264838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在十分非常相当无比特别迫切着急的需要一个哥伦比娅和我复刻这条👉👈 https://t.co/mfYeBp04h6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098157798991220738"
+          ]
+        },
+        "author_id": "1981179562227879943",
+        "conversation_id": "2098157811167264838",
+        "created_at": "2026-09-10T21:12:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098157811167264838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8OJAJPffk",
+              "end": 23,
+              "expanded_url": "https://x.com/sandbinacervo/status/2098157811167264838/photo/1",
+              "media_key": "16_2098157798991220738",
+              "start": 0,
+              "url": "https://t.co/Q8OJAJPffk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098157811167264838",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2098157798991220738"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2998,
+          "impression_count": 169669,
+          "like_count": 18277,
+          "quote_count": 51,
+          "reply_count": 14,
+          "retweet_count": 1246
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q8OJAJPffk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2098414188876157152",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41235,
+          "following_count": 106,
+          "like_count": 28959,
+          "listed_count": 166,
+          "media_count": 228,
+          "tweet_count": 5316
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-23T02:03:40.000Z",
+        "description": "O maior (e mais flopado) acervo sobre Columbina e Sandrone, de Genshin Impact.",
+        "id": "1981179562227879943",
+        "is_identity_verified": false,
+        "location": "EiMiko é a minha segunda casa",
+        "most_recent_tweet_id": "2098403257827692697",
+        "name": "Acervo Sandbina",
+        "pinned_tweet_id": "2068112959981650334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981179562227879943/1782300660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073892932831121408/paUOw6A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 412,
+          "like_count": 14804,
+          "listed_count": 11,
+          "media_count": 705,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "sandbinacervo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

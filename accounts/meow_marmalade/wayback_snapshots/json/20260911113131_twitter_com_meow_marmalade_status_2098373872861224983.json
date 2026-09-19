@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2098356677078884687",
+    "created_at": "2026-09-11T11:31:31.000Z",
+    "display_text_range": [
+      32,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098373872861224983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895451612136738816",
+          "start": 0,
+          "username": "realmoekasenpai"
+        },
+        {
+          "end": 31,
+          "id": "1775411944692051968",
+          "start": 17,
+          "username": "MagicalHat999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098373872861224983",
+    "in_reply_to_user_id": "1895451612136738816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098370654538002589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realmoekasenpai @MagicalHat999 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2098356677078884687",
+        "created_at": "2026-09-11T11:31:31.000Z",
+        "display_text_range": [
+          32,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098373872861224983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895451612136738816",
+              "start": 0,
+              "username": "realmoekasenpai"
+            },
+            {
+              "end": 31,
+              "id": "1775411944692051968",
+              "start": 17,
+              "username": "MagicalHat999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098373872861224983",
+        "in_reply_to_user_id": "1895451612136738816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098370654538002589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realmoekasenpai @MagicalHat999 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895451612136738816",
+        "conversation_id": "2098356677078884687",
+        "created_at": "2026-09-11T11:18:44.000Z",
+        "display_text_range": [
+          31,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098370654538002589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775411944692051968",
+              "start": 0,
+              "username": "MagicalHat999"
+            },
+            {
+              "end": 30,
+              "id": "1353996204422492160",
+              "start": 15,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098370654538002589",
+        "in_reply_to_user_id": "1775411944692051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098362900251639820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicalHat999 @meow_marmalade 你扫共享单车来吧，叔叔给你报销。快点叔硬的不行了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "I haven't been eating my cereal.",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "local psychiatric hospital",
+        "most_recent_tweet_id": "2098373872861224983",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1739257499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41230,
+          "following_count": 106,
+          "like_count": 28950,
+          "listed_count": 166,
+          "media_count": 228,
+          "tweet_count": 5314
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-28T12:31:09.000Z",
+        "description": "derealization",
+        "id": "1895451612136738816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098371564064452803",
+        "name": "龙宫仙贝",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895454674729263104/FTKQMdeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 474,
+          "like_count": 2622,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1284
+        },
+        "url": "",
+        "username": "realmoekasenpai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T06:36:24.000Z",
+        "description": "问就是18岁电波系美少女。\n♂，清水，中文，日本語，ENG⭕️\nお題箱https://t.co/ToMyFG0bnC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/magicalhat",
+                "end": 58,
+                "expanded_url": "https://ngl.link/magicalhat",
+                "start": 35,
+                "url": "https://t.co/ToMyFG0bnC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/33ad48af9ebb80…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/33ad48af9ebb8058a7ddc5ba418f98aa?source=copy_link",
+                "start": 0,
+                "url": "https://t.co/8FnOVBMA8q"
+              }
+            ]
+          }
+        },
+        "id": "1775411944692051968",
+        "is_identity_verified": false,
+        "location": "欧润吉",
+        "most_recent_tweet_id": "2098362912842895672",
+        "name": "MagicalHat",
+        "pinned_tweet_id": "2085667432883245109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775411944692051968/1761495366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982481322275692544/yiv2RJyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6991,
+          "following_count": 2129,
+          "like_count": 16598,
+          "listed_count": 29,
+          "media_count": 331,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/8FnOVBMA8q",
+        "username": "MagicalHat999",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
