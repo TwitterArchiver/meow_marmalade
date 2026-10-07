@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2103078757649318349",
+    "created_at": "2026-09-24T16:31:03.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103160292448624683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827819395894374400",
+          "start": 0,
+          "username": "buling_kira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103160292448624683",
+    "in_reply_to_user_id": "1827819395894374400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103158869510021409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buling_kira 欧不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2103078757649318349",
+        "created_at": "2026-09-24T16:31:03.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103160292448624683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827819395894374400",
+              "start": 0,
+              "username": "buling_kira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103160292448624683",
+        "in_reply_to_user_id": "1827819395894374400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103158869510021409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buling_kira 欧不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827819395894374400",
+        "conversation_id": "2103078757649318349",
+        "created_at": "2026-09-24T16:25:23.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103158869510021409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103158869510021409",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103078757649318349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 大家都休息吗 我假期要加班哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2103160292448624683",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1789574150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42895,
+          "following_count": 111,
+          "like_count": 29382,
+          "listed_count": 171,
+          "media_count": 243,
+          "tweet_count": 5421
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-25T21:24:46.000Z",
+        "description": "花无十日红",
+        "id": "1827819395894374400",
+        "is_identity_verified": false,
+        "location": "133m",
+        "most_recent_tweet_id": "2103158869510021409",
+        "name": "猫三斤",
+        "pinned_tweet_id": "2102444405336773036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827819395894374400/1743961659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099233289118814208/C8bavQdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8642,
+          "following_count": 55,
+          "like_count": 5436,
+          "listed_count": 24,
+          "media_count": 85,
+          "tweet_count": 3842
+        },
+        "url": "",
+        "username": "buling_kira",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

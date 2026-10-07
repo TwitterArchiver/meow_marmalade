@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089295921452363776",
+    "conversation_id": "2102371440628785324",
+    "created_at": "2026-09-23T05:19:51.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102628994071896512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353996204422492160",
+          "start": 0,
+          "username": "meow_marmalade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102628994071896512",
+    "in_reply_to_user_id": "1353996204422492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102371440628785324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meow_marmalade 应该没人比我玩的开了吧😝😛我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2089295921452363776].",
+      "parameter": "author_id",
+      "resource_id": "2089295921452363776",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2089295921452363776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2102371417576833024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0fqlqaAAAolSO.jpg",
+        "width": 2184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089295921452363776",
+        "conversation_id": "2102371440628785324",
+        "created_at": "2026-09-23T05:19:51.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102628994071896512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102628994071896512",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102371440628785324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 应该没人比我玩的开了吧😝😛我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102371417576833024"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2102371440628785324",
+        "created_at": "2026-09-22T12:16:26.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102371440628785324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0ce8NixO8",
+              "end": 42,
+              "expanded_url": "https://x.com/meow_marmalade/status/2102371440628785324/photo/1",
+              "media_key": "3_2102371417576833024",
+              "start": 19,
+              "url": "https://t.co/f0ce8NixO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102371440628785324",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102371417576833024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 12857,
+          "like_count": 1513,
+          "quote_count": 0,
+          "reply_count": 99,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "这几天睡得好差 每天起来头都是晕晕的 https://t.co/f0ce8NixO8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2102592538293231784",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1789574150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42780,
+          "following_count": 111,
+          "like_count": 29354,
+          "listed_count": 170,
+          "media_count": 242,
+          "tweet_count": 5414
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

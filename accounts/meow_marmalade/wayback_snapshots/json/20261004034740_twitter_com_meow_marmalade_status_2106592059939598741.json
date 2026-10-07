@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106592050938580993"
+      ]
+    },
+    "author_id": "1353996204422492160",
+    "conversation_id": "2106335342605602947",
+    "created_at": "2026-10-04T03:47:40.000Z",
+    "display_text_range": [
+      16,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106592059939598741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874735511031693312",
+          "start": 0,
+          "username": "bittersweet_ref"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gpfMcpt5G3",
+          "end": 40,
+          "expanded_url": "https://x.com/meow_marmalade/status/2106592059939598741/photo/1",
+          "media_key": "3_2106592050938580993",
+          "start": 17,
+          "url": "https://t.co/gpfMcpt5G3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106592059939598741",
+    "in_reply_to_user_id": "1874735511031693312",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106592050938580993"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106394362196443373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bittersweet_ref https://t.co/gpfMcpt5G3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 102,
+        "media_key": "3_2106592050938580993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTweTyLbEAEDRsE.jpg",
+        "width": 116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106592050938580993"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2106335342605602947",
+        "created_at": "2026-10-04T03:47:40.000Z",
+        "display_text_range": [
+          16,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106592059939598741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874735511031693312",
+              "start": 0,
+              "username": "bittersweet_ref"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpfMcpt5G3",
+              "end": 40,
+              "expanded_url": "https://x.com/meow_marmalade/status/2106592059939598741/photo/1",
+              "media_key": "3_2106592050938580993",
+              "start": 17,
+              "url": "https://t.co/gpfMcpt5G3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592059939598741",
+        "in_reply_to_user_id": "1874735511031693312",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106592050938580993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106394362196443373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bittersweet_ref https://t.co/gpfMcpt5G3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874735511031693312",
+        "conversation_id": "2106335342605602947",
+        "created_at": "2026-10-03T14:42:05.000Z",
+        "display_text_range": [
+          16,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106394362196443373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106394362196443373",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106335342605602947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 好好玩😋好好看🥺好色🤤好好玩😋好好看🥺好色🤤好好玩😋好好看🥺好色🤤好好玩😋好好看🥺好色🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2106592059939598741",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1789574150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43169,
+          "following_count": 114,
+          "like_count": 29700,
+          "listed_count": 171,
+          "media_count": 252,
+          "tweet_count": 5507
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-02T08:32:38.000Z",
+        "description": "漫宿墙下，我是我的阳春白雪\n\n无头系coser，twi无小号，支持二创（三创？），森空岛和黑盒偶尔营业\n暂不扩列，别盒我，被盒出PTSD了\n本人图除推特本地外全平台禁转，禁止无授权搓ai\n谢谢你的喜欢",
+        "id": "1874735511031693312",
+        "is_identity_verified": false,
+        "location": "林地",
+        "most_recent_tweet_id": "2106578007515427280",
+        "name": "𝔢𝔠𝔩𝔦𝔭𝔰𝔢",
+        "pinned_tweet_id": "2104420811000140023",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874735511031693312/1765889775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757769684189189/Zi8v-3-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44183,
+          "following_count": 93,
+          "like_count": 9205,
+          "listed_count": 165,
+          "media_count": 226,
+          "tweet_count": 1934
+        },
+        "url": "",
+        "username": "bittersweet_ref",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

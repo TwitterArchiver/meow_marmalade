@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2106126120072720446",
+    "created_at": "2026-10-03T03:56:44.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106231952441507913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1517896369704427521",
+          "start": 0,
+          "username": "bianqinainai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106231952441507913",
+    "in_reply_to_user_id": "1517896369704427521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106163081604960376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bianqinainai 老师你也要好好休息哦..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2106126120072720446",
+        "created_at": "2026-10-03T03:56:44.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106231952441507913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517896369704427521",
+              "start": 0,
+              "username": "bianqinainai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106231952441507913",
+        "in_reply_to_user_id": "1517896369704427521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106163081604960376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bianqinainai 老师你也要好好休息哦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517896369704427521",
+        "conversation_id": "2106126120072720446",
+        "created_at": "2026-10-02T23:23:03.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106163081604960376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106163081604960376",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106126120072720446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade ☠️☠️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2106231952441507913",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1789574150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43149,
+          "following_count": 114,
+          "like_count": 29650,
+          "listed_count": 170,
+          "media_count": 249,
+          "tweet_count": 5494
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-23T16:01:22.000Z",
+        "description": "(∩´∀`∩) 男♡娘♡娼♡年 | Eng Acc @naivrel 日常@masikenmsl123 |˙˚ 𓆩 ✞ 𓆪 ˚˙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "naivrel"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "masikenmsl123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/naivrel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/naivrel",
+                "start": 0,
+                "url": "https://t.co/c8lBYAbH3y"
+              }
+            ]
+          }
+        },
+        "id": "1517896369704427521",
+        "is_identity_verified": false,
+        "location": "充电中🚪100/300",
+        "most_recent_tweet_id": "2106163081604960376",
+        "name": "奈奈充电宝",
+        "pinned_tweet_id": "2104008894733602835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1517896369704427521/1714122613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683729805039091713/U6Bua_sl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114737,
+          "following_count": 5446,
+          "like_count": 34179,
+          "listed_count": 598,
+          "media_count": 806,
+          "tweet_count": 9083
+        },
+        "url": "https://t.co/c8lBYAbH3y",
+        "username": "bianqinainai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
