@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-07T08:06:22",
+  "last_updated": "2026-10-07T08:14:56",
   "html": {
     "https://web.archive.org/web/20240525063012if_/https://twitter.com/meow_marmalade/status/1794254622187766101": {
       "status": "done",
@@ -22969,9 +22969,9 @@
       "referenced_by": [
         "20230513183150_twitter_com_meow_marmalade_status_1657453615815213056.json"
       ],
-      "last_updated": "2026-09-19T17:10:23",
+      "last_updated": "2026-10-07T08:07:21",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20230513183150/https://pbs.twimg.com/media/FwB1RwyaIAAWCLo.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/GNiIGWda4AALStz.jpg": {
       "status": "done",
@@ -23899,13 +23899,13 @@
       "last_updated": "2026-10-07T07:46:42"
     },
     "https://pbs.twimg.com/media/GkC7bgZXkAAy-Az.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250220133732_twitter_com_meow_marmalade_status_1892569278077186404.json"
       ],
-      "last_updated": "2026-10-07T07:47:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250220133732/https://pbs.twimg.com/media/GkC7bgZXkAAy-Az.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f234620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:26",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250220133732/https://pbs.twimg.com/media/GkC7bgZXkAAy-Az.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gkkuv9AbkAAJsHk.jpg": {
       "status": "done",
@@ -24147,31 +24147,31 @@
       "last_updated": "2026-09-10T14:35:07"
     },
     "https://pbs.twimg.com/media/GmyglwUaYAAzfQN.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250325082406_twitter_com_meow_marmalade_status_1904449198097088689.json"
       ],
-      "last_updated": "2026-10-07T07:47:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250325082406/https://pbs.twimg.com/media/GmyglwUaYAAzfQN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f236b40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:32",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250325082406/https://pbs.twimg.com/media/GmyglwUaYAAzfQN.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gm9-xFAbkAAy1to.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250326130828_twitter_com_meow_marmalade_status_1904883149295018120.json"
       ],
-      "last_updated": "2026-10-07T07:47:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250326130828/https://pbs.twimg.com/media/Gm9-xFAbkAAy1to.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3d3a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:36",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250326130828/https://pbs.twimg.com/media/Gm9-xFAbkAAy1to.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gm979RebYAAIkmK.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250326130846_twitter_com_meow_marmalade_status_1904883224578564355.json"
       ],
-      "last_updated": "2026-10-07T07:47:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250326130846/https://pbs.twimg.com/media/Gm979RebYAAIkmK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9ef90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250326130846/https://pbs.twimg.com/media/Gm979RebYAAIkmK.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gm-CnWlbYAMEyrm.jpg": {
       "status": "done",
@@ -24188,13 +24188,13 @@
       "last_updated": "2026-09-10T14:35:08"
     },
     "https://pbs.twimg.com/media/GnCl0Nwb0AA07-I.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250327111747_twitter_com_meow_marmalade_status_1905217684993683502.json"
       ],
-      "last_updated": "2026-10-07T07:47:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250327111747/https://pbs.twimg.com/media/GnCl0Nwb0AA07-I.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f2367b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:46",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250327111747/https://pbs.twimg.com/media/GnCl0Nwb0AA07-I.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gm-OkxdaAAA4GDf.jpg": {
       "status": "done",
@@ -24236,9 +24236,9 @@
       "referenced_by": [
         "20250331070845_twitter_com_meow_marmalade_status_1906604563542728794.json"
       ],
-      "last_updated": "2026-10-07T07:47:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250331070845/https://pbs.twimg.com/media/GnWJmWHbgAA3WQO.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3da00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250331070845/https://pbs.twimg.com/media/GnWJmWHbgAA3WQO.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da316360>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GnWg1bMakAAqfep.jpg": {
       "status": "done",
@@ -24287,9 +24287,9 @@
       "referenced_by": [
         "20250407060456_twitter_com_meow_marmalade_status_1909125218360230041.json"
       ],
-      "last_updated": "2026-10-07T07:47:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250407060456/https://pbs.twimg.com/media/Gn5_qX3aQAAfl0u.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f235ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:07:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250407060456/https://pbs.twimg.com/media/Gn5_qX3aQAAfl0u.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67d9822660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gn6uwLQaMAAJaeU.jpg": {
       "status": "done",
@@ -24338,27 +24338,27 @@
       "referenced_by": [
         "20250410074252_twitter_com_meow_marmalade_status_1910237026521395495.json"
       ],
-      "last_updated": "2026-10-07T07:47:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250410074252/https://pbs.twimg.com/media/GoJUrdHbAAAFPfa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3c800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250410074252/https://pbs.twimg.com/media/GoJUrdHbAAAFPfa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da212660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GoQ3NE-bkAAv1cH.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250411160739_twitter_com_meow_marmalade_status_1910726449092546981.json"
       ],
-      "last_updated": "2026-10-07T07:47:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250411160739/https://pbs.twimg.com/media/GoQ3NE-bkAAv1cH.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9ce90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:09",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250411160739/https://pbs.twimg.com/media/GoQ3NE-bkAAv1cH.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da314410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GoTjSC6WMAABS-5.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250412034746_twitter_com_meow_marmalade_status_1910902638448947366.json"
       ],
-      "last_updated": "2026-10-07T07:47:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250412034746/https://pbs.twimg.com/media/GoTjSC6WMAABS-5.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd51250>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250412034746/https://pbs.twimg.com/media/GoTjSC6WMAABS-5.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da213d10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GofAZUXXUAATb7D.jpg": {
       "status": "done",
@@ -24498,18 +24498,18 @@
       "referenced_by": [
         "20250428182013_twitter_com_meow_marmalade_status_1916920403576164859.json"
       ],
-      "last_updated": "2026-10-07T07:47:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250428182013/https://pbs.twimg.com/media/Gpo-dvAbEAU4LSm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd521b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250428182013/https://pbs.twimg.com/media/Gpo-dvAbEAU4LSm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da212c90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gpnh_KIbsAAIKqF.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250429025003_twitter_com_meow_marmalade_status_1917048706450575538.json"
       ],
-      "last_updated": "2026-10-07T07:47:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250429025003/https://pbs.twimg.com/media/Gpnh_KIbsAAIKqF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3c0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250429025003/https://pbs.twimg.com/media/Gpnh_KIbsAAIKqF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67d9822330>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GpsgrHNbMAAXeXb.jpg": {
       "status": "done",
@@ -24537,9 +24537,9 @@
       "referenced_by": [
         "20250502031655_twitter_com_meow_marmalade_status_1918142632850800943.json"
       ],
-      "last_updated": "2026-10-07T07:47:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250502031655/https://pbs.twimg.com/media/Gp4z91mawAMst0F.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd52ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250502031655/https://pbs.twimg.com/media/Gp4z91mawAMst0F.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da210860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gp8VPdNboAARvkK.jpg": {
       "status": "done",
@@ -24609,9 +24609,9 @@
       "referenced_by": [
         "20250506160110_twitter_com_meow_marmalade_status_1919784515188191628.json"
       ],
-      "last_updated": "2026-10-07T07:47:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250506160110/https://pbs.twimg.com/media/GqRrKXJbAAEhxqT.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3e660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250506160110/https://pbs.twimg.com/media/GqRrKXJbAAEhxqT.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da317590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GqVhhZTbwAAjlzu.jpg": {
       "status": "done",
@@ -24632,36 +24632,36 @@
       "referenced_by": [
         "20250507100036_twitter_com_meow_marmalade_status_1920056161773945270.json"
       ],
-      "last_updated": "2026-10-07T07:47:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZugbsAAf65U.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f237590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZugbsAAf65U.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67d9821a60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GqVjZuiaQAAOMGE.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250507100036_twitter_com_meow_marmalade_status_1920056161773945270.json"
       ],
-      "last_updated": "2026-10-07T07:47:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZuiaQAAOMGE.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3fb90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZuiaQAAOMGE.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da2457f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GqVjZujacAA-ek8.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250507100036_twitter_com_meow_marmalade_status_1920056161773945270.json"
       ],
-      "last_updated": "2026-10-07T07:47:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZujacAA-ek8.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd516a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZujacAA-ek8.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67d9823230>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GqVjZulbUAAduKN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250507100036_twitter_com_meow_marmalade_status_1920056161773945270.json"
       ],
-      "last_updated": "2026-10-07T07:47:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZulbUAAduKN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd856a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:08:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250507100036/https://pbs.twimg.com/media/GqVjZulbUAAduKN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da210260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GqayvqHXsAASAZB.jpg": {
       "status": "done",
@@ -24682,9 +24682,9 @@
       "referenced_by": [
         "20250509095849_twitter_com_meow_marmalade_status_1920780488991445154.json"
       ],
-      "last_updated": "2026-10-07T07:47:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250509095849/https://pbs.twimg.com/media/Gqf6CV9WMAEWLp7.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3c800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250509095849/https://pbs.twimg.com/media/Gqf6CV9WMAEWLp7.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da315280>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GqlCbiAbwAAQ6OY.jpg": {
       "status": "done",
@@ -24824,9 +24824,9 @@
       "referenced_by": [
         "20250518103406_twitter_com_meow_marmalade_status_1924050857609584867.json"
       ],
-      "last_updated": "2026-10-07T07:48:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518103406/https://pbs.twimg.com/media/GrNyOTiXYAIsyNx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f234e90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250518103406/https://pbs.twimg.com/media/GrNyOTiXYAIsyNx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da213aa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GrPBlOnWcAA4jRP.jpg": {
       "status": "done",
@@ -25020,9 +25020,9 @@
       "referenced_by": [
         "20250527072056_twitter_com_meow_marmalade_status_1927263735636242805.json"
       ],
-      "last_updated": "2026-10-07T07:48:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250527072056/https://pbs.twimg.com/media/Gr7gHwMXIAEKaO1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc13a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250527072056/https://pbs.twimg.com/media/Gr7gHwMXIAEKaO1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da39b2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gr8IYvKWIAArJ-b.jpg": {
       "status": "done",
@@ -25092,9 +25092,9 @@
       "referenced_by": [
         "20250531123232_twitter_com_meow_marmalade_status_1928791706993840305.json"
       ],
-      "last_updated": "2026-10-07T07:48:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250531123232/https://pbs.twimg.com/media/GsRcGvJbsAArxTa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9e960>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250531123232/https://pbs.twimg.com/media/GsRcGvJbsAArxTa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da315df0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GsRzf1laMActZcX.jpg": {
       "status": "done",
@@ -25108,9 +25108,9 @@
       "referenced_by": [
         "20250601110857_twitter_com_meow_marmalade_status_1929133058072117595.json"
       ],
-      "last_updated": "2026-10-07T07:48:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250601110857/https://pbs.twimg.com/media/GsWgO5WaMAA4hry.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f236750>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250601110857/https://pbs.twimg.com/media/GsWgO5WaMAA4hry.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da317fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GsWzj-MbIAAwivg.jpg": {
       "status": "done",
@@ -25272,18 +25272,18 @@
       "referenced_by": [
         "20250611140654_twitter_com_meow_marmalade_status_1932801720847052843.json"
       ],
-      "last_updated": "2026-10-07T07:48:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250611140654/https://pbs.twimg.com/media/GtKlqyNbEAA51io.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9d880>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250611140654im_/https://pbs.twimg.com/media/GtKlqyNbEAA51io.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da316540>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GtKlsEDaUAAa00T.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250611140654_twitter_com_meow_marmalade_status_1932801720847052843.json"
       ],
-      "last_updated": "2026-10-07T07:48:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250611140654/https://pbs.twimg.com/media/GtKlsEDaUAAa00T.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd85520>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250611140654im_/https://pbs.twimg.com/media/GtKlsEDaUAAa00T.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da246480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GtOXqC0bcAAyKLC.png": {
       "status": "done",
@@ -25297,36 +25297,36 @@
       "referenced_by": [
         "20250613082514_twitter_com_meow_marmalade_status_1933440512813642057.json"
       ],
-      "last_updated": "2026-10-07T07:48:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514/https://pbs.twimg.com/media/GtTzPK9bMAAbLqZ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f236a20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514im_/https://pbs.twimg.com/media/GtTzPK9bMAAbLqZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da212ff0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GtTzPJubMAAhyBf.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250613082514_twitter_com_meow_marmalade_status_1933440512813642057.json"
       ],
-      "last_updated": "2026-10-07T07:48:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514/https://pbs.twimg.com/media/GtTzPJubMAAhyBf.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd86d20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514im_/https://pbs.twimg.com/media/GtTzPJubMAAhyBf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da211bb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GtTzRmEa0AAE3cZ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250613082514_twitter_com_meow_marmalade_status_1933440512813642057.json"
       ],
-      "last_updated": "2026-10-07T07:48:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514/https://pbs.twimg.com/media/GtTzRmEa0AAE3cZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2f2354c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:09:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514im_/https://pbs.twimg.com/media/GtTzRmEa0AAE3cZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da244950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GtTzPtxbMAMlfE3.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250613082514_twitter_com_meow_marmalade_status_1933440512813642057.json"
       ],
-      "last_updated": "2026-10-07T07:48:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514/https://pbs.twimg.com/media/GtTzPtxbMAMlfE3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd86c30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613082514im_/https://pbs.twimg.com/media/GtTzPtxbMAMlfE3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da39bb30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GtUd0wCboAAzobl.jpg": {
       "status": "done",
@@ -25396,9 +25396,9 @@
       "referenced_by": [
         "20250617111946_twitter_com_meow_marmalade_status_1934933985718882334.json"
       ],
-      "last_updated": "2026-10-07T07:48:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250617111946im_/https://pbs.twimg.com/media/GtoxSNPa0AANzYF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3c5f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250617111946im_/https://pbs.twimg.com/media/GtoxSNPa0AANzYF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d98207a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gton_7SasAAZGkP.jpg": {
       "status": "done",
@@ -25833,18 +25833,18 @@
       "referenced_by": [
         "20250719174627_twitter_com_meow_marmalade_status_1946627710622842908.json"
       ],
-      "last_updated": "2026-10-07T07:48:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250719174627/https://pbs.twimg.com/media/GwPELzsW4AEn6TB.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3fc20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250719174627im_/https://pbs.twimg.com/media/GwPELzsW4AEn6TB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da245cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GwPELzqXkAAlWUB.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250719174627_twitter_com_meow_marmalade_status_1946627710622842908.json"
       ],
-      "last_updated": "2026-10-07T07:48:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250719174627if_/https://pbs.twimg.com/media/GwPELzqXkAAlWUB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3ef30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250719174627im_/https://pbs.twimg.com/media/GwPELzqXkAAlWUB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da2466f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GwRSPq8WwAAYhGD.jpg": {
       "status": "done",
@@ -26250,9 +26250,9 @@
       "referenced_by": [
         "20250815091008_twitter_com_meow_marmalade_status_1956282249088729483.json"
       ],
-      "last_updated": "2026-10-07T07:48:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250815091008/https://pbs.twimg.com/media/GyYaMHoa4AAST4V.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3f2c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250815091008im_/https://pbs.twimg.com/media/GyYaMHoa4AAST4V.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da285160>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GyYdC1aa4AE3h7Q.jpg": {
       "status": "done",
@@ -26315,18 +26315,18 @@
       "referenced_by": [
         "20250817180011_twitter_com_meow_marmalade_status_1957140413833511074.json"
       ],
-      "last_updated": "2026-10-07T07:48:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250817180011im_/https://pbs.twimg.com/media/Gyh2Z0ibgAE66Zl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9f470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250817180011im_/https://pbs.twimg.com/media/Gyh2Z0ibgAE66Zl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d98235f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GynUJPhaMAAvJbx.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250818064259_twitter_com_meow_marmalade_status_1957332381909610898.json"
       ],
-      "last_updated": "2026-10-07T07:48:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250818064259/https://pbs.twimg.com/media/GynUJPhaMAAvJbx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9d850>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250818064259im_/https://pbs.twimg.com/media/GynUJPhaMAAvJbx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da245e20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/GyogtpmbgAAGGUR.jpg": {
       "status": "done",
@@ -26657,9 +26657,9 @@
       "referenced_by": [
         "20250905124531_twitter_com_meow_marmalade_status_1963946595256287576.json"
       ],
-      "last_updated": "2026-10-07T07:49:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250905124531if_/https://pbs.twimg.com/media/G0FW8r_bYAAFX1r.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd86ff0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250905124531im_/https://pbs.twimg.com/media/G0FW8r_bYAAFX1r.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9820980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G0FWExmbYAAtQ4F.jpg": {
       "status": "done",
@@ -26799,9 +26799,9 @@
       "referenced_by": [
         "20250917134947_twitter_com_meow_marmalade_status_1968311424645828888.json"
       ],
-      "last_updated": "2026-10-07T07:49:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250917134947/https://pbs.twimg.com/media/G1BSj20aEAYQ1X7.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd87d70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250917134947im_/https://pbs.twimg.com/media/G1BSj20aEAYQ1X7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da210710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G1MHBgVaQAIDLSP.jpg": {
       "status": "done",
@@ -26900,27 +26900,27 @@
       "referenced_by": [
         "20250924121010_twitter_com_meow_marmalade_status_1970823068814876810.json"
       ],
-      "last_updated": "2026-10-07T07:49:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250924121010im_/https://pbs.twimg.com/media/G1mTGPUaoAALQ_S.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2f16ba40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250924121010im_/https://pbs.twimg.com/media/G1mTGPUaoAALQ_S.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9823440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G1nv-CYbsAAY4yd.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250925112116_twitter_com_meow_marmalade_status_1971173149363638541.json"
       ],
-      "last_updated": "2026-10-07T07:49:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250925112116/https://pbs.twimg.com/media/G1nv-CYbsAAY4yd.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd86210>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:10:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250925112116im_/https://pbs.twimg.com/media/G1nv-CYbsAAY4yd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9821970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G1nv-DFbUAAqGvs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250925112116_twitter_com_meow_marmalade_status_1971173149363638541.json"
       ],
-      "last_updated": "2026-10-07T07:49:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250925112116im_/https://pbs.twimg.com/media/G1nv-DFbUAAqGvs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3c3e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250925112116im_/https://pbs.twimg.com/media/G1nv-DFbUAAqGvs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da245d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G1sFeyBaAAMCxI6.jpg": {
       "status": "done",
@@ -26955,9 +26955,9 @@
       "referenced_by": [
         "20250926172735_twitter_com_meow_marmalade_status_1971627724122083763.json"
       ],
-      "last_updated": "2026-10-07T07:49:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250926172735/https://pbs.twimg.com/media/G1ycP8Lb0A0YNL_.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9ec60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250926172735im_/https://pbs.twimg.com/media/G1ycP8Lb0A0YNL_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da826630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G10jRG8a0AAX4z1.jpg": {
       "status": "done",
@@ -27280,9 +27280,9 @@
       "referenced_by": [
         "20251019045436_twitter_com_meow_marmalade_status_1979773152252354864.json"
       ],
-      "last_updated": "2026-10-07T07:49:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251019045436im_/https://pbs.twimg.com/media/G3mP4mxW4AA62gP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd52750>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251019045436im_/https://pbs.twimg.com/media/G3mP4mxW4AA62gP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67dab0f800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G3nmbJNWAAA_7Sg.jpg": {
       "status": "done",
@@ -27296,9 +27296,9 @@
       "referenced_by": [
         "20251019151727_twitter_com_meow_marmalade_status_1979929899394908231.json"
       ],
-      "last_updated": "2026-10-07T07:49:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251019151727/https://pbs.twimg.com/media/G3nThEcW4AA2g70.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f2377a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251019151727im_/https://pbs.twimg.com/media/G3nThEcW4AA2g70.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da399eb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G3o-W64W4AAiyoL.jpg": {
       "status": "done",
@@ -27390,27 +27390,27 @@
       "referenced_by": [
         "20251026141832_twitter_com_meow_marmalade_status_1982451785626452133.json"
       ],
-      "last_updated": "2026-10-07T07:49:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026141832im_/https://pbs.twimg.com/media/G4LhkQHXsAEvF_s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3f380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026141832im_/https://pbs.twimg.com/media/G4LhkQHXsAEvF_s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da212e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G4Mp62HWYAA5Hpt.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251026162201_twitter_com_meow_marmalade_status_1982482859291246645.json"
       ],
-      "last_updated": "2026-10-07T07:49:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026162201/https://pbs.twimg.com/media/G4Mp62HWYAA5Hpt.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd518b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026162201im_/https://pbs.twimg.com/media/G4Mp62HWYAA5Hpt.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9823710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G4Mp62EWMAAGvi9.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251026162201_twitter_com_meow_marmalade_status_1982482859291246645.json"
       ],
-      "last_updated": "2026-10-07T07:49:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026162201im_/https://pbs.twimg.com/media/G4Mp62EWMAAGvi9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc05c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251026162201im_/https://pbs.twimg.com/media/G4Mp62EWMAAGvi9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da316900>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G4Qod2rXMAA-KoI.jpg": {
       "status": "done",
@@ -27452,18 +27452,18 @@
       "referenced_by": [
         "20251030091841_twitter_com_meow_marmalade_status_1983825875859861819.json"
       ],
-      "last_updated": "2026-10-07T07:49:45",
+      "last_updated": "2026-10-07T08:11:48",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251030091841/https://pbs.twimg.com/media/G4f1VmiasAEhcVl.jpg",
-      "miss_count": 5
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G4f1Vmya8AIMBQJ.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20251030091841_twitter_com_meow_marmalade_status_1983825875859861819.json"
       ],
-      "last_updated": "2026-10-07T07:49:48",
+      "last_updated": "2026-10-07T08:11:54",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251030091841/https://pbs.twimg.com/media/G4f1Vmya8AIMBQJ.jpg",
-      "miss_count": 5
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G4f78QZa8AEZMIH.jpg": {
       "status": "done",
@@ -27501,13 +27501,13 @@
       "last_updated": "2026-09-10T14:35:24"
     },
     "https://pbs.twimg.com/media/G4m3s0maUAAyRgg.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251031180719_twitter_com_meow_marmalade_status_1984321301675377065.json"
       ],
-      "last_updated": "2026-10-07T07:49:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031180719if_/https://pbs.twimg.com/media/G4m3s0maUAAyRgg.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc1c40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:11:59",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251031180719/https://pbs.twimg.com/media/G4m3s0maUAAyRgg.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G4qMyUObQA0u9es.jpg": {
       "status": "done",
@@ -27609,13 +27609,13 @@
       "last_updated": "2026-09-10T14:35:25"
     },
     "https://pbs.twimg.com/media/G5JVm_FbUAE0DuK.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251107111629_twitter_com_meow_marmalade_status_1986754626289652094.json"
       ],
-      "last_updated": "2026-10-07T07:49:56",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251107111629/https://pbs.twimg.com/media/G5JVm_FbUAE0DuK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3d7c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:04",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251107111629/https://pbs.twimg.com/media/G5JVm_FbUAE0DuK.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G5OfzmTbIAE9uR1.jpg": {
       "status": "done",
@@ -27632,13 +27632,13 @@
       "last_updated": "2026-09-10T14:35:25"
     },
     "https://pbs.twimg.com/media/G5St28vaUAA9UF-.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251109074415_twitter_com_meow_marmalade_status_1987425989002199154.json"
       ],
-      "last_updated": "2026-10-07T07:50:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109074415im_/https://pbs.twimg.com/media/G5St28vaUAA9UF-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc1fa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251109074415/https://pbs.twimg.com/media/G5St28vaUAA9UF-.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G5TesqxaQAAImzJ.jpg": {
       "status": "done",
@@ -27746,13 +27746,13 @@
       "last_updated": "2026-09-10T14:35:26"
     },
     "https://pbs.twimg.com/media/G5xfCZibYAA0KRK.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251115064504_twitter_com_meow_marmalade_status_1989585426164724056.json"
       ],
-      "last_updated": "2026-10-07T07:50:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251115064504/https://pbs.twimg.com/media/G5xfCZibYAA0KRK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc28a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:15",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251115064504/https://pbs.twimg.com/media/G5xfCZibYAA0KRK.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G5yPTLOaAAAFQ8y.jpg": {
       "status": "done",
@@ -27850,9 +27850,9 @@
       "referenced_by": [
         "20251121135259_twitter_com_meow_marmalade_status_1991867438716342633.json"
       ],
-      "last_updated": "2026-10-07T07:50:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121135259im_/https://pbs.twimg.com/media/G6GstvFaAAAHfC5.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fd52060>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121135259/https://pbs.twimg.com/media/G6GstvFaAAAHfC5.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da39a240>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G6SdKjSaYAAikMk.jpg": {
       "status": "done",
@@ -27929,9 +27929,9 @@
       "referenced_by": [
         "20251127184329_twitter_com_meow_marmalade_status_1994114873731764517.json"
       ],
-      "last_updated": "2026-10-07T07:50:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251127184329im_/https://pbs.twimg.com/media/G6xxxA_X0AAhaVR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2f234e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251127184329/https://pbs.twimg.com/media/G6xxxA_X0AAhaVR.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da316150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G6x2GLAaEAAPz6C.jpg": {
       "status": "done",
@@ -27987,27 +27987,27 @@
       "referenced_by": [
         "20251130014619_twitter_com_meow_marmalade_status_1994946057802059987.json"
       ],
-      "last_updated": "2026-10-07T07:50:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130014619if_/https://pbs.twimg.com/media/G69t_8dbkAcgqnx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2f235070>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130014619/https://pbs.twimg.com/media/G69t_8dbkAcgqnx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da39bce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G69t_8YawAAtRJl.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251130014619_twitter_com_meow_marmalade_status_1994946057802059987.json"
       ],
-      "last_updated": "2026-10-07T07:50:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130014619im_/https://pbs.twimg.com/media/G69t_8YawAAtRJl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc3350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:34",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130014619/https://pbs.twimg.com/media/G69t_8YawAAtRJl.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da3163c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G69t_8hbkAkmPEE.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251130014619_twitter_com_meow_marmalade_status_1994946057802059987.json"
       ],
-      "last_updated": "2026-10-07T07:50:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130014619im_/https://pbs.twimg.com/media/G69t_8hbkAkmPEE.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc0ad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130014619/https://pbs.twimg.com/media/G69t_8hbkAkmPEE.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da39a780>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G6_u3flbgAAzLUY.jpg": {
       "status": "done",
@@ -28063,9 +28063,9 @@
       "referenced_by": [
         "20251201154528_twitter_com_meow_marmalade_status_1995519626680418484.json"
       ],
-      "last_updated": "2026-10-07T07:50:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201154528im_/https://pbs.twimg.com/media/G7F7y2YbsAAbur1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e2f234bf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201154528/https://pbs.twimg.com/media/G7F7y2YbsAAbur1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da247680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G7J5yhhbUAEYnxY.jpg": {
       "status": "done",
@@ -28489,22 +28489,22 @@
       "last_updated": "2026-09-10T14:35:29"
     },
     "https://pbs.twimg.com/media/G880PyBbkAAp0DD.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251224182026_twitter_com_meow_marmalade_status_2003893547209314705.json"
       ],
-      "last_updated": "2026-10-07T07:50:42",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251224182026/https://pbs.twimg.com/media/G880PyBbkAAp0DD.jpg",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224182026/https://pbs.twimg.com/media/G880PyBbkAAp0DD.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da287e60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G880PyCb0AA9S_3.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251224182026_twitter_com_meow_marmalade_status_2003893547209314705.json"
       ],
-      "last_updated": "2026-10-07T07:50:46",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251224182026/https://pbs.twimg.com/media/G880PyCb0AA9S_3.jpg",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224182026/https://pbs.twimg.com/media/G880PyCb0AA9S_3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da2849b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G9AHZgTacAAQ4tp.jpg": {
       "status": "done",
@@ -28703,13 +28703,13 @@
       "last_updated": "2026-09-10T14:35:31"
     },
     "https://pbs.twimg.com/media/G9rF5PkasAMeyjH.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260102175307_twitter_com_meow_marmalade_status_2007148162105082312.json"
       ],
-      "last_updated": "2026-10-07T07:50:48",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260102175307/https://pbs.twimg.com/media/G9rF5PkasAMeyjH.jpg",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:12:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102175307/https://pbs.twimg.com/media/G9rF5PkasAMeyjH.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da2858b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G9rqxJSaIAAO_yb.jpg": {
       "status": "done",
@@ -28719,13 +28719,13 @@
       "last_updated": "2026-10-07T07:46:50"
     },
     "https://pbs.twimg.com/media/G9t366pbUAANbps.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260103073014_twitter_com_meow_marmalade_status_2007353796360548464.json"
       ],
-      "last_updated": "2026-09-19T17:14:45",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260103073014/https://pbs.twimg.com/media/G9t366pbUAANbps.jpg",
-      "miss_count": 3
+      "last_updated": "2026-10-07T08:13:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260103073014/https://pbs.twimg.com/media/G9t366pbUAANbps.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da245340>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9usYnia0AAKFl8.jpg": {
       "status": "done",
@@ -28742,13 +28742,13 @@
       "last_updated": "2026-09-10T14:35:31"
     },
     "https://pbs.twimg.com/media/G9yj-9aaUAA1qJC.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260104042544_twitter_com_meow_marmalade_status_2007669754862154183.json"
       ],
-      "last_updated": "2026-10-07T07:50:51",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260104042544/https://pbs.twimg.com/media/G9yj-9aaUAA1qJC.jpg",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260104042544/https://pbs.twimg.com/media/G9yj-9aaUAA1qJC.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da287620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G95O-jsboAAmS6n.jpg": {
       "status": "done",
@@ -28776,9 +28776,9 @@
       "referenced_by": [
         "20260106013917_twitter_com_meow_marmalade_status_2008352641466720273.json"
       ],
-      "last_updated": "2026-10-07T07:50:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106013917/https://pbs.twimg.com/media/G98ZkGUXMAA-6NH.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f237230>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106013917/https://pbs.twimg.com/media/G98ZkGUXMAA-6NH.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da247d10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G9-ESoAa4AARSR3.jpg": {
       "status": "done",
@@ -28918,9 +28918,9 @@
       "referenced_by": [
         "20260116115207_twitter_com_meow_marmalade_status_2012130742290301333.json"
       ],
-      "last_updated": "2026-10-07T07:50:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116115207/https://pbs.twimg.com/media/G-x8eh0aoAA7qD0.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd85e50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116115207/https://pbs.twimg.com/media/G-x8eh0aoAA7qD0.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da246d80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G-yaT9CakAE279F.jpg": {
       "status": "done",
@@ -29032,9 +29032,9 @@
       "referenced_by": [
         "20260123162019_twitter_com_meow_marmalade_status_2014734955281317897.json"
       ],
-      "last_updated": "2026-10-07T07:51:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260123162019/https://pbs.twimg.com/media/G_W9JaRbAAcjGSh.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f236a20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260123162019/https://pbs.twimg.com/media/G_W9JaRbAAcjGSh.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da284590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G_XHh7zbAAMHvvf.jpg": {
       "status": "done",
@@ -29090,9 +29090,9 @@
       "referenced_by": [
         "20260125113646_twitter_com_meow_marmalade_status_2015388369455595884.json"
       ],
-      "last_updated": "2026-10-07T07:51:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260125113646/https://pbs.twimg.com/media/G_gHA_0bIAADU9x.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2f2361e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260125113646/https://pbs.twimg.com/media/G_gHA_0bIAADU9x.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da2103b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G_jmdBNbsAAIebu.jpg": {
       "status": "done",
@@ -29134,9 +29134,9 @@
       "referenced_by": [
         "20260130152910_twitter_com_meow_marmalade_status_2017258794695463374.json"
       ],
-      "last_updated": "2026-10-07T07:51:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260130152910/https://pbs.twimg.com/media/G_65Jhja8AA_hoe.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc0ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260130152910/https://pbs.twimg.com/media/G_65Jhja8AA_hoe.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da284110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G__KtMxaEAAAL8T.jpg": {
       "status": "done",
@@ -29381,9 +29381,9 @@
       "referenced_by": [
         "20260223150728_twitter_com_meow_marmalade_status_2025950645149425727.json"
       ],
-      "last_updated": "2026-10-07T07:51:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223150728/https://pbs.twimg.com/media/HB2QnOVb0AAm4kJ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3cda0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223150728/https://pbs.twimg.com/media/HB2QnOVb0AAm4kJ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da210590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HB3Gzypb0AA9YcM.jpg": {
       "status": "done",
@@ -29432,9 +29432,9 @@
       "referenced_by": [
         "20260226061106_twitter_com_meow_marmalade_status_2026902825855582490.json"
       ],
-      "last_updated": "2026-10-07T07:51:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260226061106/https://pbs.twimg.com/media/HCD-U1CaMAAo6bo.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd86c90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260226061106/https://pbs.twimg.com/media/HCD-U1CaMAAo6bo.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da2861e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HCE6a9LaAAAIRSG.jpg": {
       "status": "done",
@@ -29665,9 +29665,9 @@
       "referenced_by": [
         "20260313121018_twitter_com_meow_marmalade_status_2032429038795710700.json"
       ],
-      "last_updated": "2026-10-07T07:51:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260313121018/https://pbs.twimg.com/media/HDSUMwybQAAJ7_d.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd9e120>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260313121018/https://pbs.twimg.com/media/HDSUMwybQAAJ7_d.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da247ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HDWqVDRbgAAr-3F.jpg": {
       "status": "done",
@@ -29807,9 +29807,9 @@
       "referenced_by": [
         "20260328051014_twitter_com_meow_marmalade_status_2037759146175680572.json"
       ],
-      "last_updated": "2026-10-07T07:51:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328051014/https://pbs.twimg.com/media/HEeP3AEaIAAOdby.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e3120f740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:13:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328051014/https://pbs.twimg.com/media/HEeP3AEaIAAOdby.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67da286300>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HEg4yEAbwAABAKv.png": {
       "status": "done",
@@ -29908,9 +29908,9 @@
       "referenced_by": [
         "20260407124237_twitter_com_meow_marmalade_status_2041496867771400555.json"
       ],
-      "last_updated": "2026-10-07T07:51:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407124237/https://pbs.twimg.com/media/HFTVW5PbwAAXTDW.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e30541550>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407124237/https://pbs.twimg.com/media/HFTVW5PbwAAXTDW.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f67d98218e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HFUGkocbkAAqm9a.jpg": {
       "status": "done",
@@ -30162,18 +30162,18 @@
       "referenced_by": [
         "20260428171906_twitter_com_meow_marmalade_status_2049176592878833718.json"
       ],
-      "last_updated": "2026-10-07T07:51:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428171906/https://pbs.twimg.com/media/HG_oQyMaMAA7UEQ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd515e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428171906im_/https://pbs.twimg.com/media/HG_oQyMaMAA7UEQ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9822a50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HG_moLfaUAAI4ZL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260428171906_twitter_com_meow_marmalade_status_2049176592878833718.json"
       ],
-      "last_updated": "2026-10-07T07:51:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428171906/https://pbs.twimg.com/media/HG_moLfaUAAI4ZL.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e31c99be0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428171906im_/https://pbs.twimg.com/media/HG_moLfaUAAI4ZL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da2129f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHEVdBpbsAAYzTU.jpg": {
       "status": "done",
@@ -30300,9 +30300,9 @@
       "referenced_by": [
         "20260506161900_twitter_com_meow_marmalade_status_2052060573895106719.json"
       ],
-      "last_updated": "2026-10-07T07:51:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506161900/https://pbs.twimg.com/media/HHpezwCbMAAP9IX.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd53680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506161900im_/https://pbs.twimg.com/media/HHpezwCbMAAP9IX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9822a80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHtbiYjakAARMMD.jpg": {
       "status": "done",
@@ -30513,18 +30513,18 @@
       "referenced_by": [
         "20260522150429_twitter_com_meow_marmalade_status_2057840023626821758.json"
       ],
-      "last_updated": "2026-10-07T07:51:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522150429/https://pbs.twimg.com/media/HI7gzxAbsAAF4av.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc1970>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522150429im_/https://pbs.twimg.com/media/HI7gzxAbsAAF4av.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da39a540>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HI7g0hMa0AAKNVs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260522150429_twitter_com_meow_marmalade_status_2057840023626821758.json"
       ],
-      "last_updated": "2026-10-07T07:51:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522150429/https://pbs.twimg.com/media/HI7g0hMa0AAKNVs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd3df70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522150429im_/https://pbs.twimg.com/media/HI7g0hMa0AAKNVs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9822450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HI_tmdbaEAAo9iJ.jpg": {
       "status": "done",
@@ -30643,18 +30643,18 @@
       "referenced_by": [
         "20260531182018_twitter_com_meow_marmalade_status_2061150796243480963.json"
       ],
-      "last_updated": "2026-10-07T07:51:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531182018/https://pbs.twimg.com/media/HJqpIe3bUAAjN9l.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e30e3fe00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531182018im_/https://pbs.twimg.com/media/HJqpIe3bUAAjN9l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da287a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJqpIexaoAEedNl.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531182018_twitter_com_meow_marmalade_status_2061150796243480963.json"
       ],
-      "last_updated": "2026-10-07T07:51:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531182018/https://pbs.twimg.com/media/HJqpIexaoAEedNl.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd50710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531182018im_/https://pbs.twimg.com/media/HJqpIexaoAEedNl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67d9821970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJuQIrJaQAA7aRG.jpg": {
       "status": "done",
@@ -31172,9 +31172,9 @@
       "referenced_by": [
         "20260707052806_twitter_com_meow_marmalade_status_2074364817444647093.json"
       ],
-      "last_updated": "2026-10-07T07:51:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707052806/https://pbs.twimg.com/media/HMji-zpa8AAXssf.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fd84620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707052806im_/https://pbs.twimg.com/media/HMji-zpa8AAXssf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67da2122d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HMnX-_CbcAAHrNf.jpg": {
       "status": "done",
@@ -31188,9 +31188,9 @@
       "referenced_by": [
         "20260707115936_twitter_com_meow_marmalade_status_2074463341658165282.json"
       ],
-      "last_updated": "2026-10-07T07:51:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707115936/https://pbs.twimg.com/media/HMnkzP3bIAAOuT-.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1e2fdc12e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-10-07T08:14:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260707115936im_/https://pbs.twimg.com/media/HMnkzP3bIAAOuT-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67db5a4fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HMnYUJGaQAEiKNg.jpg": {
       "status": "done",
@@ -55492,7 +55492,7 @@
       "miss_count": 2
     },
     "20250220133732_twitter_com_meow_marmalade_status_1892569278077186404.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GkPBt7WbYAAutn7.jpg",
@@ -55504,7 +55504,7 @@
           "https://pbs.twimg.com/profile_images/1783049869521047552/hLp504M7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:07:26",
       "miss_count": 4
     },
     "20250220143131_twitter_com_meow_marmalade_status_1892582864056619476.json": {
@@ -56744,7 +56744,7 @@
       "last_updated": "2026-09-10T14:38:18"
     },
     "20250325082406_twitter_com_meow_marmalade_status_1904449198097088689.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GmyglwUaYAAzfQN.jpg"
@@ -56755,7 +56755,7 @@
           "https://pbs.twimg.com/profile_images/1821246004861267973/5muGVGes_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:07:32",
       "miss_count": 4
     },
     "20250325110401_twitter_com_meow_marmalade_status_1904489442511036494.json": {
@@ -56872,7 +56872,7 @@
       "miss_count": 4
     },
     "20250326130846_twitter_com_meow_marmalade_status_1904883224578564355.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/Gm979RebYAAIkmK.jpg"
@@ -56883,7 +56883,7 @@
           "https://pbs.twimg.com/profile_images/1821246004861267973/5muGVGes_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:07:41",
       "miss_count": 4
     },
     "20250326130935_twitter_com_meow_marmalade_status_1904883432108548167.json": {
@@ -56974,7 +56974,7 @@
       "last_updated": "2026-09-10T14:38:18"
     },
     "20250327111747_twitter_com_meow_marmalade_status_1905217684993683502.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GnCl0Nwb0AA07-I.jpg"
@@ -56985,7 +56985,7 @@
           "https://pbs.twimg.com/profile_images/1893235696607076352/_zTBU3mZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:07:46",
       "miss_count": 4
     },
     "20250328022405_twitter_com_meow_marmalade_status_1905445762290590034.json": {
@@ -83805,7 +83805,7 @@
       "last_updated": "2026-09-10T14:38:27"
     },
     "20251031180719_twitter_com_meow_marmalade_status_1984321301675377065.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G4m3s0maUAAyRgg.jpg"
@@ -83816,7 +83816,7 @@
           "https://pbs.twimg.com/profile_images/1976984817960206337/h3X100Yn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:11:59",
       "miss_count": 4
     },
     "20251031180853_twitter_com_meow_marmalade_status_1984321692634923302.json": {
@@ -85098,7 +85098,7 @@
       "miss_count": 4
     },
     "20251107111629_twitter_com_meow_marmalade_status_1986754626289652094.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G5JVm_FbUAE0DuK.jpg"
@@ -85109,7 +85109,7 @@
           "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:12:04",
       "miss_count": 4
     },
     "20251107112715_twitter_com_meow_marmalade_status_1986757333784187180.json": {
@@ -85398,7 +85398,7 @@
       "miss_count": 2
     },
     "20251109074415_twitter_com_meow_marmalade_status_1987425989002199154.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G5St28vaUAA9UF-.jpg"
@@ -85409,7 +85409,7 @@
           "https://pbs.twimg.com/profile_images/1894904052271718401/BBNgCNNm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:12:09",
       "miss_count": 4
     },
     "20251109095216_twitter_com_meow_marmalade_status_1987458206646600159.json": {
@@ -86692,7 +86692,7 @@
       "last_updated": "2026-09-10T14:38:39"
     },
     "20251115064504_twitter_com_meow_marmalade_status_1989585426164724056.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G5xfCZibYAA0KRK.jpg"
@@ -86703,7 +86703,7 @@
           "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:52:20",
+      "last_updated": "2026-10-07T08:12:15",
       "miss_count": 4
     },
     "20251115082822_twitter_com_meow_marmalade_status_1989611419478704241.json": {
@@ -92319,7 +92319,7 @@
       "last_updated": "2026-09-10T14:38:18"
     },
     "20251224182026_twitter_com_meow_marmalade_status_2003893547209314705.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G880PyBbkAAp0DD.jpg",
@@ -92331,7 +92331,7 @@
           "https://pbs.twimg.com/profile_images/2001102749052948480/gwh8KixW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T07:50:46",
+      "last_updated": "2026-10-07T08:12:50",
       "miss_count": 3
     },
     "20251224182752_twitter_com_meow_marmalade_status_2003895415020965975.json": {
@@ -93666,7 +93666,7 @@
       "miss_count": 4
     },
     "20260103073014_twitter_com_meow_marmalade_status_2007353796360548464.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G9t366pbUAANbps.jpg"
@@ -93677,7 +93677,7 @@
           "https://pbs.twimg.com/profile_images/2001102749052948480/gwh8KixW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T17:17:17",
+      "last_updated": "2026-10-07T08:13:05",
       "miss_count": 2
     },
     "20260103102011_twitter_com_meow_marmalade_status_2007396565842088366.json": {
