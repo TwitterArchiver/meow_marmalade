@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2107044110171594780",
+    "created_at": "2026-10-06T07:56:26.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107379441362227642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1026673903005888512",
+          "start": 0,
+          "username": "__SaltfisH__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107379441362227642",
+    "in_reply_to_user_id": "1026673903005888512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107273662751793561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__SaltfisH__ 不是哇.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2107044110171594780",
+        "created_at": "2026-10-06T07:56:26.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107379441362227642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1026673903005888512",
+              "start": 0,
+              "username": "__SaltfisH__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107379441362227642",
+        "in_reply_to_user_id": "1026673903005888512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107273662751793561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__SaltfisH__ 不是哇.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026673903005888512",
+        "conversation_id": "2107044110171594780",
+        "created_at": "2026-10-06T00:56:07.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107273662751793561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107273662751793561",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107044110171594780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 内搭是绳子吗（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2107379441362227642",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1789574150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43426,
+          "following_count": 112,
+          "like_count": 29765,
+          "listed_count": 172,
+          "media_count": 220,
+          "tweet_count": 5486
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-07T03:38:27.000Z",
+        "description": "摸魚; 观察者; 亿点二刺猿浓度；见习S（进修中）；徘徊者；大概会按快门，欢迎找我约拍📷；",
+        "id": "1026673903005888512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107273662751793561",
+        "name": "咸魚",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739326364443193344/kcVpZ7ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 149,
+          "like_count": 42368,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "__SaltfisH__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

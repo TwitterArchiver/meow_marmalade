@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1353996204422492160",
+    "conversation_id": "2107319897084829798",
+    "created_at": "2026-10-06T18:52:49.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T19:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107544624076349779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492329510511026178",
+          "start": 0,
+          "username": "_luminaris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107544624076349779",
+    "in_reply_to_user_id": "1492329510511026178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107319897084829798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_luminaris 美味..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2107319889354792960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT60RjkboAAm0Ak.jpg",
+        "width": 2125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353996204422492160",
+        "conversation_id": "2107319897084829798",
+        "created_at": "2026-10-06T18:52:49.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T19:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107544624076349779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492329510511026178",
+              "start": 0,
+              "username": "_luminaris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107544624076349779",
+        "in_reply_to_user_id": "1492329510511026178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107319897084829798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_luminaris 美味..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107319889354792960"
+          ]
+        },
+        "author_id": "1492329510511026178",
+        "conversation_id": "2107319897084829798",
+        "created_at": "2026-10-06T03:59:50.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107319897084829798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iuw5vDwh6q",
+              "end": 26,
+              "expanded_url": "https://x.com/_luminaris/status/2107319897084829798/photo/1",
+              "media_key": "3_2107319889354792960",
+              "start": 3,
+              "url": "https://t.co/Iuw5vDwh6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107319897084829798",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107319889354792960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 35709,
+          "like_count": 3281,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "🥒🐙 https://t.co/Iuw5vDwh6q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "谢谢你带我出来玩，给我买我喜欢的东西，给我擦眼泪，把我喂的饱饱的，情绪好好的。外面的世界好漂亮，一直陪在我身边，跟你在一起我超幸福的。你是世界上最好的人。",
+        "id": "1353996204422492160",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2107544624076349779",
+        "name": "Mikan",
+        "pinned_tweet_id": "2051116109919842311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353996204422492160/1789574150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43449,
+          "following_count": 113,
+          "like_count": 29787,
+          "listed_count": 173,
+          "media_count": 221,
+          "tweet_count": 5495
+        },
+        "url": "",
+        "username": "meow_marmalade",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-12T02:47:57.000Z",
+        "description": "",
+        "id": "1492329510511026178",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107471058626629926",
+        "name": "Luminaris",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492329510511026178/1774921541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024473921341575174/4guBtOxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 98,
+          "like_count": 43,
+          "listed_count": 14,
+          "media_count": 43,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "_luminaris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
